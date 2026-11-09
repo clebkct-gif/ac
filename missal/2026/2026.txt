@@ -1,0 +1,366 @@
+01/01@Santa Maria, Mãe de Deus, Solenidade@Branco@0#0#523#569#0#0
+02/01@Santos Basílio Magno e Gregório Nazianzeno, bispos e doutores da Igreja, Memória@Branco@0#0#523#569#0#0
+03/01@Sábado do Tempo do Natal antes da Epifania@Branco@0#0#523#569#0#0
+04/01@Epifania do Senhor, Solenidade@Branco@0#0#523#569#0#0
+05/01@2ª feira do Tempo do Natal depois da Epifania@Branco@0#0#523#569#0#0
+06/01@3ª feira do Tempo do Natal depois da Epifania@Branco@0#0#523#569#0#0
+07/01@4ª feira do Tempo do Natal depois da Epifania@Branco@0#0#523#569#0#0
+08/01@5ª feira do Tempo do Natal depois da Epifania@Branco@0#0#523#569#0#0
+09/01@6ª feira do Tempo do Natal depois da Epifania@Branco@0#0#523#569#0#0
+10/01@Sábado do Tempo do Natal depois da Epifania@Branco@0#0#523#569#0#0
+11/01@Batismo do Senhor, Festa@Branco@0#0#523#569#0#0
+12/01@2ª feira da 1ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+13/01@3ª feira da 1ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+14/01@4ª feira da 1ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+15/01@5ª feira da 1ª Semana do Tempo Comum@Branco@0#0#523#569#0#0
+16/01@6ª feira da 1ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+17/01@Santo Antão, abade, Memória@Branco@0#0#523#569#0#0
+18/01@2º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+19/01@2ª feira da 2ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+20/01@3ª feira da 2ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+21/01@Santa Inês, virgem e mártir, Memória@Vermelho@0#0#523#569#0#0
+22/01@5ª feira da 2ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+23/01@6ª feira da 2ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+24/01@São Francisco de Sales, bispo e doutor da Igreja, Memória@Branco@0#0#523#569#0#0
+25/01@3º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+26/01@Santos Timóteo e Tito, bispos, Memória@Branco@0#0#523#569#0#0
+27/01@3ª feira da 3ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+28/01@Santo Tomás de Aquino, presbítero e doutor da Igreja, Memória@Branco@0#0#523#569#0#0
+29/01@5ª feira da 3ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+30/01@6ª feira da 3ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+31/01@São João Bosco, presbítero, Memória@Branco@0#0#523#569#0#0
+01/02@4º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+02/02@Apresentação do Senhor, Festa@Branco@0#0#523#569#0#0
+03/02@3ª feira da 4ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+04/02@4ª feira da 4ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+05/02@Santa Águeda, virgem e mártir, Memória@Vermelho@0#0#523#569#0#0
+06/02@São Paulo Miki e companheiros, Mártires, Memória@Vermelho@0#0#523#569#0#0
+07/02@Sábado da 4ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+08/02@5º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+09/02@2ª feira da 5ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+10/02@Santa Escolástica, virgem, Memória@Branco@0#0#523#569#0#0
+11/02@4ª feira da 5ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+12/02@5ª feira da 5ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+13/02@6ª feira da 5ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+14/02@Santos Cirilo, monge, e Metódio, bispo@Branco@0#0#523#569#0#0
+15/02@6º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+16/02@2ª feira da 6ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+17/02@3ª feira da 6ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+18/02@Quarta-feira de Cinzas@Roxo@0#0#523#569#0#0
+19/02@5ª feira depois das Cinzas@Roxo@0#0#523#569#0#0
+20/02@6ª feira depois das Cinzas@Roxo@0#0#523#569#0#0
+21/02@Sábado depois das Cinzas@Roxo@0#0#523#569#0#0
+22/02@1º Domingo da Quaresma@Roxo@0#0#523#569#0#0
+23/02@2ª feira da 1ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+24/02@3ª feira da 1ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+25/02@4ª feira da 1ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+26/02@5ª feira da 1ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+27/02@6ª feira da 1ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+28/02@Sábado da 1ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+01/03@2º Domingo da Quaresma@Roxo@0#0#523#569#0#0
+02/03@2ª feira da 2ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+03/03@3ª feira da 2ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+04/03@4ª feira da 2ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+05/03@5ª feira da 2ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+06/03@6ª feira da 2ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+07/03@Sábado da 2ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+08/03@3º Domingo da Quaresma@Roxo@0#0#523#569#0#0
+09/03@2ª feira da 3ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+10/03@3ª feira da 3ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+11/03@4ª feira da 3ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+12/03@5ª feira da 3ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+13/03@6ª feira da 3ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+14/03@Sábado da 3ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+15/03@4º Domingo da Quaresma@Rosa@0#0#523#569#0#0
+16/03@2ª feira da 4ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+17/03@3ª feira da 4ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+18/03@4ª feira da 4ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+19/03@São José, Esposo da Bem-Aventurada Virgem Maria, Solenidade@Branco@0#0#523#569#0#0
+20/03@6ª feira da 4ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+21/03@Sábado da 4ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+22/03@5º Domingo da Quaresma@Roxo@0#0#523#569#0#0
+23/03@2ª feira da 5ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+24/03@3ª feira da 5ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+25/03@Anunciação do Senhor, Solenidade@Branco@0#0#523#569#0#0
+26/03@5ª feira da 5ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+27/03@6ª feira da 5ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+28/03@Sábado da 5ª Semana da Quaresma@Roxo@0#0#523#569#0#0
+29/03@Domingo de Ramos da Paixão do Senhor@Vermelho@0#0#523#569#0#0
+30/03@2ª feira da Semana Santa@Roxo@0#0#523#569#0#0
+31/03@3ª feira da Semana Santa@Roxo@0#0#523#569#0#0
+01/04@4ª feira da Semana Santa@Roxo@0#0#523#569#0#0
+02/04@5ª feira da Semana Santa - Missa Vespertina da Ceia do Senhor@Branco@0#0#523#569#0#0
+03/04@6ª feira da Paixão do Senhor@Vermelho@0#0#523#569#0#0
+04/04@Sábado Santo - Vigília Pascal@Branco@0#0#523#569#0#0
+05/04@Domingo da Páscoa na Ressurreição do Senhor@Branco@0#0#523#569#0#0
+06/04@2ª feira na Oitava da Páscoa@Branco@0#0#523#569#0#0
+07/04@3ª feira na Oitava da Páscoa@Branco@0#0#523#569#0#0
+08/04@4ª feira na Oitava da Páscoa@Branco@0#0#523#569#0#0
+09/04@5ª feira na Oitava da Páscoa@Branco@0#0#523#569#0#0
+10/04@6ª feira na Oitava da Páscoa@Branco@0#0#523#569#0#0
+11/04@Sábado na Oitava da Páscoa@Branco@0#0#523#569#0#0
+12/04@2º Domingo da Páscoa ou Domingo da Divina Misericórdia@Branco@0#0#523#569#0#0
+13/04@2ª feira da 2ª Semana da Páscoa@Branco@0#0#523#569#0#0
+14/04@3ª feira da 2ª Semana da Páscoa@Branco@0#0#523#569#0#0
+15/04@4ª feira da 2ª Semana da Páscoa@Branco@0#0#523#569#0#0
+16/04@5ª feira da 2ª Semana da Páscoa@Branco@0#0#523#569#0#0
+17/04@6ª feira da 2ª Semana da Páscoa@Branco@0#0#523#569#0#0
+18/04@Sábado da 2ª Semana da Páscoa@Branco@0#0#523#569#0#0
+19/04@3º Domingo da Páscoa@Branco@0#0#523#569#0#0
+20/04@2ª feira da 3ª Semana da Páscoa@Branco@0#0#523#569#0#0
+21/04@3ª feira da 3ª Semana da Páscoa@Branco@0#0#523#569#0#0
+22/04@4ª feira da 3ª Semana da Páscoa@Branco@0#0#523#569#0#0
+23/04@5ª feira da 3ª Semana da Páscoa@Branco@0#0#523#569#0#0
+24/04@6ª feira da 3ª Semana da Páscoa@Branco@0#0#523#569#0#0
+25/04@São Marcos, Evangelista, Festa@Vermelho@0#0#523#569#0#0
+26/04@4º Domingo da Páscoa@Branco@0#0#523#569#0#0
+27/04@2ª feira da 4ª Semana da Páscoa@Branco@0#0#523#569#0#0
+28/04@3ª feira da 4ª Semana da Páscoa@Branco@0#0#523#569#0#0
+29/04@Santa Catarina de Sena, virgem e doutora da Igreja, Memória@Branco@0#0#523#569#0#0
+30/04@5ª feira da 4ª Semana da Páscoa@Branco@0#0#523#569#0#0
+01/05@6ª feira da 4ª Semana da Páscoa@Branco@0#0#523#569#0#0
+02/05@Santo Atanásio, bispo e doutor da Igreja, Memória@Branco@0#0#523#569#0#0
+03/05@5º Domingo da Páscoa@Branco@0#0#523#569#0#0
+04/05@2ª feira da 5ª Semana da Páscoa@Branco@0#0#523#569#0#0
+05/05@3ª feira da 5ª Semana da Páscoa@Branco@0#0#523#569#0#0
+06/05@4ª feira da 5ª Semana da Páscoa@Branco@0#0#523#569#0#0
+07/05@5ª feira da 5ª Semana da Páscoa@Branco@0#0#523#569#0#0
+08/05@6ª feira da 5ª Semana da Páscoa@Branco@0#0#523#569#0#0
+09/05@Sábado da 5ª Semana da Páscoa@Branco@0#0#523#569#0#0
+10/05@6º Domingo da Páscoa@Branco@0#0#523#569#0#0
+11/05@2ª feira da 6ª Semana da Páscoa@Branco@0#0#523#569#0#0
+12/05@3ª feira da 6ª Semana da Páscoa@Branco@0#0#523#569#0#0
+13/05@4ª feira da 6ª Semana da Páscoa@Branco@0#0#523#569#0#0
+14/05@São Matias, Apóstolo, Festa@Vermelho@0#0#523#569#0#0
+15/05@6ª feira da 6ª Semana da Páscoa@Branco@0#0#523#569#0#0
+16/05@Sábado da 6ª Semana da Páscoa@Branco@0#0#523#569#0#0
+17/05@Ascensão do Senhor, Solenidade@Branco@0#0#523#569#0#0
+18/05@2ª feira da 7ª Semana da Páscoa@Branco@0#0#523#569#0#0
+19/05@3ª feira da 7ª Semana da Páscoa@Branco@0#0#523#569#0#0
+20/05@4ª feira da 7ª Semana da Páscoa@Branco@0#0#523#569#0#0
+21/05@5ª feira da 7ª Semana da Páscoa@Branco@0#0#523#569#0#0
+22/05@6ª feira da 7ª Semana da Páscoa@Branco@0#0#523#569#0#0
+23/05@Vigília de Pentecostes - 7ª Semana da Páscoa@Vermelho@0#0#523#569#0#0
+23/05@Sábado da 7ª Semana da Páscoa@Branco@0#0#523#569#0#0
+24/05@Domingo de Pentecostes, Solenidade@Vermelho@0#0#523#569#0#0
+25/05@Bem-aventurada Virgem Maria, Mãe da Igreja, Memória@Branco@0#0#523#569#0#0
+26/05@São Filipe Néri, presbítero, Memória@Branco@0#0#523#569#0#0
+27/05@4ª feira da 8ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+28/05@5ª feira da 8ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+29/05@6ª feira da 8ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+30/05@Sábado da 8ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+31/05@Santíssima Trindade, Solenidade@Branco@0#0#523#569#0#0
+01/06@São Justino, mártir, Memória@Vermelho@0#0#523#569#0#0
+02/06@3ª feira da 9ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+03/06@São Carlos Lwanga e companheiros mártires, Memória@Vermelho@0#0#523#569#0#0
+04/06@Santíssimo Corpo e Sangue de Cristo, Solenidade@Branco@0#0#523#569#0#0
+05/06@São Bonifácio, bispo e mártir, Memória@Vermelho@0#0#523#569#0#0
+06/06@Sábado da 9ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+07/06@10º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+08/06@2ª feira da 10ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+09/06@São José de Anchieta, presbítero, Memória@Branco@0#0#523#569#0#0
+10/06@4ª feira da 10ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+11/06@São Barnabé, Apóstolo, Memória@Vermelho@0#0#523#569#0#0
+12/06@Sagrado Coração de Jesus, Solenidade@Branco@0#0#523#569#0#0
+13/06@Imaculado Coração da Bem-aventurada Virgem Maria, Memória@Branco@0#0#523#569#0#0
+14/06@11º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+15/06@2ª feira da 11ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+16/06@3ª feira da 11ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+17/06@4ª feira da 11ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+18/06@5ª feira da 11ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+19/06@6ª feira da 11ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+20/06@Sábado da 11ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+21/06@12º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+22/06@2ª feira da 12ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+23/06@3ª feira da 12ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+24/06@Natividade de São João Batista, Solenidade@Branco@0#0#523#569#0#0
+25/06@5ª feira da 12ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+26/06@6ª feira da 12ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+27/06@Sábado da 12ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+28/06@Santos Pedro e Paulo Apóstolos, Solenidade@Vermelho@0#0#523#569#0#0
+29/06@2ª feira da 13ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+30/06@3ª feira da 13ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+​01/07@4ª feira da 13ª Semana do Tempo Comum@Verde@759#500#523#569#760#587
+02/07@5ª feira da 13ª Semana do Tempo Comum@Verde@759#500#523#569#760#587
+03/07@São Tomé, Apóstolo, Festa@Vermelho@759#500#523#569#760#587
+04/07@Sábado da 13ª Semana do Tempo Comum@Verde@759#500#523#569#760#587
+05/07@14º Domingo do Tempo Comum@Verde@759#500#523#569#760#587
+06/07@2ª feira da 14ª Semana do Tempo Comum@Verde@759#500#523#569#760#587
+07/07@3ª feira da 14ª Semana do Tempo Comum@Verde@759#500#523#569#760#587
+08/07@4ª feira da 14ª Semana do Tempo Comum@Verde@759#500#523#569#760#587
+09/07@Santa Paulina do Coração Agonizante de Jesus, virgem, Memória@Branco@759#500#523#569#760#587
+10/07@6ª feira da 14ª Semana do Tempo Comum@Verde@759#500#523#569#760#587
+11/07@São Bento, abade, Memória@Branco@759#500#523#569#760#587
+12/07@15º Domingo do Tempo Comum@Verde@750#504#523#569#936#587
+13/07@2ª feira da 15ª Semana do Tempo Comum@Verde@750#493#523#569#751#585
+14/07@3ª feira da 15ª Semana do Tempo Comum@Verde@750#493#523#569#751#585
+15/07@São Boaventura, bispo e doutor da Igreja, Memória@Branco@750#504#523#569#936#587
+16/07@Bem-aventurada Virgem Maria do Monte Carmelo, Festa@Branco@750#493#523#569#751#585
+17/07@Bem-aventurado Inácio de Azevedo, presbítero, e companheiros, mártires, Memória@Vermelho@751#502#523#569#752#587
+18/07@Sábado da 15ª Semana do Tempo Comum@Verde@751#502#523#569#752#587
+19/07@16º Domingo do Tempo Comum@Verde@397#474#523#569#397#583
+20/07@2ª feira da 16ª Semana do Tempo Comum@Verde@398#474#523#569#398#583
+21/07@3ª feira da 16ª Semana do Tempo Comum@Verde@398#474#523#569#398#583
+22/07@Santa Maria Madalena, Festa@Branco@398#474#523#569#398#583
+23/07@5ª feira da 16ª Semana do Tempo Comum@Verde@398#474#523#569#398#583
+24/07@6ª feira da 16ª Semana do Tempo Comum@Verde@398#474#523#569#398#583
+25/07@São Tiago, Apóstolo, Festa@Vermelho@754#755#523#569#756#587
+26/07@17º Domingo do Tempo Comum@Verde@398#474#523#569#398#583
+27/07@2ª feira da 17ª Semana do Tempo Comum@Verde@398#474#523#569#398#583
+28/07@3ª feira da 17ª Semana do Tempo Comum@Verde@757#498#523#569#758#584
+29/07@Santos Marta, Maria e Lázaro, Memória@Branco@399#474#523#569#399#583
+30/07@5ª feira da 17ª Semana do Tempo Comum@Verde@399#474#523#569#399#583
+31/07@Santo Inácio de Loyola, presbítero, Memória@Branco@761#504#523#569#762#587
+01/08@Santo Afonso Maria de Ligório, bispo e doutor da Igreja, Memória@Branco@0#0#523#569#0#0
+02/08@18º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+03/08@2ª feira da 18ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+04/08@São João Maria Vianney, presbítero, Memória@Branco@0#0#523#569#0#0
+05/08@4ª feira da 18ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+06/08@Transfiguração do Senhor, Festa@Branco@0#0#523#569#0#0
+07/08@6ª feira da 18ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+08/08@São Domingos, presbítero, Memória@Branco@0#0#523#569#0#0
+09/08@19º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+10/08@São Lourenço, diácono e mártir, Festa@Vermelho@0#0#523#569#0#0
+11/08@Santa Clara, virgem, Memória@Branco@0#0#523#569#0#0
+12/08@4ª feira da 19ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+13/08@Santa Dulce Lopes Pontes, virgem, Memória@Branco@0#0#523#569#0#0
+14/08@São Maximiliano Maria Kolbe, presbítero e mártir, Memória@Vermelho@0#0#523#569#0#0
+15/08@Sábado da 19ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+16/08@Assunção da Bem-aventurada Virgem Maria, Solenidade@Branco@0#0#523#569#0#0
+17/08@2ª feira da 20ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+18/08@3ª feira da 20ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+19/08@4ª feira da 20ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+20/08@São Bernardo, abade e doutor da Igreja, Memória@Branco@0#0#523#569#0#0
+21/08@São Pio X, papa, Memória@Branco@0#0#523#569#0#0
+22/08@Bem-aventurada Virgem Maria Rainha, Memória@Branco@0#0#523#569#0#0
+23/08@21º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+24/08@São Bartolomeu, Apóstolo, Festa@Vermelho@0#0#523#569#0#0
+25/08@3ª feira da 21ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+26/08@4ª feira da 21ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+27/08@Santa Mônica, Memória@Branco@0#0#523#569#0#0
+28/08@Santo Agostinho, bispo e doutor da Igreja, Memória@Branco@0#0#523#569#0#0
+29/08@Martírio de São João Batista, Memória@Vermelho@0#0#523#569#0#0
+30/08@22º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+31/08@2ª feira da 22ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+01/09@3ª feira da 22ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+02/09@4ª feira da 22ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+03/09@São Gregório Magno, papa e doutor da Igreja, Memória@Branco@0#0#523#569#0#0
+04/09@6ª feira da 22ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+05/09@Sábado da 22ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+06/09@23º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+07/09@2ª feira da 23ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+08/09@Natividade da Bem-aventurada Virgem Maria, Festa@Branco@0#0#523#569#0#0
+09/09@4ª feira da 23ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+10/09@5ª feira da 23ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+11/09@6ª feira da 23ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+12/09@Sábado da 23ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+13/09@24º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+14/09@Exaltação da Santa Cruz, Festa@Vermelho@0#0#523#569#0#0
+15/09@Bem-aventurada Virgem Maria das Dores, Memória@Branco@0#0#523#569#0#0
+16/09@Santos Cornélio, papa, e Cipriano, bispo, mártires, Memória@Vermelho@0#0#523#569#0#0
+17/09@5ª feira da 24ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+18/09@6ª feira da 24ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+19/09@Sábado da 24ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+20/09@25º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+21/09@São Mateus, Apóstolo e Evangelista, Festa@Vermelho@0#0#523#569#0#0
+22/09@3ª feira da 25ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+23/09@São Pio de Pietrelcina, presbítero, Memória@Branco@0#0#523#569#0#0
+24/09@5ª feira da 25ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+25/09@6ª feira da 25ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+26/09@Sábado da 25ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+27/09@26º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+28/09@2ª feira da 26ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+29/09@Santos Miguel, Gabriel e Rafael, Arcanjos, Festa@Branco@0#0#523#569#0#0
+30/09@São Jerônimo, presbítero e doutor da Igreja, Memória@Branco@0#0#523#569#0#0
+01/10@Santa Teresa do Menino Jesus, virgem e doutora da Igreja, Memória@Branco@0#0#523#569#0#0
+02/10@Santos Anjos da Guarda, Memória@Branco@0#0#523#569#0#0
+03/10@Santos André de Soveral e Ambrósio Francisco Ferro, presbíteros, Mateus Moreira e companheiros, mártires, Memória@Vermelho@0#0#523#569#0#0
+04/10@27º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+05/10@2ª feira da 27ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+06/10@3ª feira da 27ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+07/10@Bem-aventurada Virgem Maria do Rosário, Memória@Branco@0#0#523#569#0#0
+08/10@5ª feira da 27ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+09/10@6ª feira da 27ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+10/10@Sábado da 27ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+11/10@28º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+12/10@Bem-Aventurada Virgem Maria da Conceição Aparecida, Padroeira do Brasil, Solenidade@Branco@0#0#523#569#0#0
+13/10@3ª feira da 28ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+14/10@4ª feira da 28ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+15/10@Santa Teresa de Jesus, virgem e doutora da Igreja, Memória@Branco@0#0#523#569#0#0
+16/10@6ª feira da 28ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+17/10@Santo Inácio de Antioquia, bispo e mártir, Memória@Vermelho@0#0#523#569#0#0
+18/10@29º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+19/10@2ª feira da 29ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+20/10@3ª feira da 29ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+21/10@4ª feira da 29ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+22/10@5ª feira da 29ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+23/10@6ª feira da 29ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+24/10@Sábado da 29ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+25/10@30º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+26/10@2ª feira da 30ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+27/10@3ª feira da 30ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+28/10@Santos Simão e Judas, Apóstolos, Festa@Vermelho@0#0#523#569#0#0
+29/10@5ª feira da 30ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+30/10@6ª feira da 30ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+31/10@Sábado da 30ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+01/11@Todos os Santos, Solenidade@Branco@0#0#523#569#0#0
+02/11@Comemoração de Todos os Fiéis Defuntos@Roxo@0#0#523#569#0#0
+03/11@3ª feira da 31ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+04/11@São Carlos Borromeu, bispo, Memória@Branco@0#0#523#569#0#0
+05/11@5ª feira da 31ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+06/11@6ª feira da 31ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+07/11@Sábado da 31ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+08/11@32º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+09/11@Dedicação da Basílica do Latrão (Catedral de Roma), Festa@Branco@0#0#523#569#0#0
+10/11@São Leão Magno, papa e doutor da Igreja, Memória@Branco@0#0#523#569#0#0
+11/11@São Martinho de Tours, bispo, Memória@Branco@0#0#523#569#0#0
+12/11@São Josafá, bispo e mártir, Memória@Vermelho@0#0#523#569#0#0
+13/11@6ª feira da 32ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+14/11@Sábado da 32ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+15/11@33º Domingo do Tempo Comum@Verde@0#0#523#569#0#0
+16/11@2ª feira da 33ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+17/11@Santa Isabel da Hungria, religiosa, Memória@Branco@0#0#523#569#0#0
+18/11@4ª feira da 33ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+19/11@Santos Roque González, Afonso Rodríguez e João de Castillo, presbíteros e mártires, Memória@Vermelho@0#0#523#569#0#0
+20/11@6ª feira da 33ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+21/11@Apresentação da Bem-aventurada Virgem Maria, Memória@Branco@0#0#523#569#0#0
+22/11@Nosso Senhor Jesus Cristo, Rei do Universo, Solenidade@Branco@0#0#523#569#0#0
+23/11@2ª feira da 34ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+24/11@Santo André Dung-Lac, presbítero, e companheiros mártires, Memória@Vermelho@0#0#523#569#0#0
+25/11@4ª feira da 34ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+26/11@5ª feira da 34ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+27/11@6ª feira da 34ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+28/11@Sábado da 34ª Semana do Tempo Comum@Verde@0#0#523#569#0#0
+29/11@1º Domingo do Advento@Roxo@0#0#523#569#0#0
+30/11@Santo André, Apóstolo, Festa@Vermelho@0#0#523#569#0#0
+01/12@3ª feira da 1ª Semana do Advento@Roxo@0#0#523#569#0#0
+02/12@4ª feira da 1ª Semana do Advento@Roxo@0#0#523#569#0#0
+03/12@São Francisco Xavier, presbítero, Memória@Branco@0#0#523#569#0#0
+04/12@6ª feira da 1ª Semana do Advento@Roxo@0#0#523#569#0#0
+05/12@Sábado da 1ª Semana do Advento@Roxo@0#0#523#569#0#0
+06/12@2º Domingo do Advento@Roxo@0#0#523#569#0#0
+07/12@Santo Ambrósio, bispo e doutor da Igreja, Memória@Branco@0#0#523#569#0#0
+08/12@Imaculada Conceição da Bem-aventurada Virgem Maria, Solenidade@Branco@0#0#523#569#0#0
+09/12@4ª feira da 2ª Semana do Advento@Roxo@0#0#523#569#0#0
+10/12@5ª feira da 2ª Semana do Advento@Roxo@0#0#523#569#0#0
+11/12@6ª feira da 2ª Semana do Advento@Roxo@0#0#523#569#0#0
+12/12@Bem-aventurada Virgem Maria de Guadalupe, Padroeira principal da América, Festa@Branco@0#0#523#569#0#0
+13/12@3º Domingo do Advento@Rosa@0#0#523#569#0#0
+14/12@São João da Cruz, presbítero e doutor da Igreja, Memória@Branco@0#0#523#569#0#0
+15/12@3ª feira da 3ª Semana do Advento@Roxo@0#0#523#569#0#0
+16/12@4ª feira da 3ª Semana do Advento@Roxo@0#0#523#569#0#0
+17/12@5ª feira da 3ª Semana do Advento@Roxo@0#0#523#569#0#0
+18/12@6ª feira da 3ª Semana do Advento@Roxo@0#0#523#569#0#0
+19/12@Sábado da 3ª Semana do Advento@Roxo@0#0#523#569#0#0
+20/12@4º Domingo do Advento@Roxo@0#0#523#569#0#0
+21/12@2ª feira da 4ª Semana do Advento@Roxo@0#0#523#569#0#0
+22/12@3ª feira da 4ª Semana do Advento@Roxo@0#0#523#569#0#0
+23/12@4ª feira da 4ª Semana do Advento@Roxo@0#0#523#569#0#0
+24/12@Natal do Senhor (Missa da Noite)@Branco@0#0#523#569#0#0
+25/12@Natal de Nosso Senhor Jesus Cristo, Solenidade@Branco@0#0#523#569#0#0
+26/12@Santo Estêvão, protomártir, Festa@Vermelho@0#0#523#569#0#0
+27/12@Sagrada Família de Jesus, Maria e José, Festa@Branco@0#0#523#569#0#0
+28/12@Os Santos Inocentes, mártires, Festa@Vermelho@0#0#523#569#0#0
+29/12@5º Dia na Oitava de Natal@Branco@0#0#523#569#0#0
+30/12@6º Dia na Oitava de Natal@Branco@0#0#523#569#0#0
+31/12@7º Dia na Oitava de Natal@Branco@0#0#523#569#0#0
