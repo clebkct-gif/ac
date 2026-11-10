@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Calendário Litúrgico</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400..900&display=swap" rel="stylesheet">
+    <style>
+        @font-face { font-family: 'Noto Serif Local'; src: url('fonts/NotoSerif.woff2') format('woff2'); font-weight: 400 800; font-display: swap; }
+        :root { --neon: #ffb21a; --serif: 'Noto Serif Local', 'Noto Serif', 'Times New Roman', Times, serif; }
+        * { box-sizing: border-box; margin: 0; padding: 0; user-select: none; -webkit-user-select: none; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
+        html, body { height: 100%; }
+        body { background-color: #1a1008; display: flex; justify-content: center; align-items: center; font-family: var(--serif); font-variant-numeric: lining-nums; color: #3b230d; }
+        button { font-family: inherit; }
+        button:focus-visible { outline: 2px solid #704022; outline-offset: 2px; }
+
+        /* Container (pergaminho). Largura limitada pela altura para não distorcer demais o fundo em telas largas */
+        .calendar-container {
+            width: 100vw; max-width: min(100vw, calc(100dvh * 0.62));
+            height: 100vh; height: 100dvh;
+            background: url('fundo.jpg') center / 100% 100% no-repeat;
+            position: relative; overflow: hidden; container-type: size;
+        }
+        /* --u = 1px numa tela de 360x800; escala com o tamanho real do pergaminho */
+        .content { --u: min(0.2778cqw, 0.125cqh); position: absolute; inset: 0; display: flex; flex-direction: column; padding: 11.5cqh 3.5cqw 9cqh; }
+
+        .instruction-message { flex-shrink: 0; font-size: calc(var(--u) * 22); font-weight: 800; color: #3b230d; text-align: center; line-height: 1.15; margin-bottom: calc(var(--u) * 14); padding: 0 calc(var(--u) * 5); text-shadow: 0 1px 2px rgba(255,255,255,0.7); }
+
+        .event-banner { display: none; flex-shrink: 0; width: 100%; background: linear-gradient(180deg, #3d5016 0%, #28370d 100%); border: 2px solid #c8a353; border-radius: calc(var(--u) * 12); color: #fcefd2; padding: calc(var(--u) * 16); margin-bottom: calc(var(--u) * 14); box-shadow: inset 0 1px 2px rgba(255,255,255,0.4), 0 4px 8px rgba(0,0,0,0.4); transition: background 0.3s ease; }
+        .banner-content { display: flex; align-items: center; gap: calc(var(--u) * 14); }
+        .banner-cross { width: calc(var(--u) * 48); height: calc(var(--u) * 48); border: 2px solid currentColor; border-radius: 50%; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+        .banner-cross svg { width: calc(var(--u) * 26); height: calc(var(--u) * 26); fill: currentColor; }
+        .banner-text { display: flex; flex-direction: column; justify-content: center; min-width: 0; }
+        .banner-title { font-size: calc(var(--u) * 26); font-weight: 800; text-shadow: 0 1px 2px rgba(0,0,0,0.5); line-height: 1.15; }
+        .banner-date { display: flex; align-items: center; gap: calc(var(--u) * 6); font-size: calc(var(--u) * 15); font-weight: 700; opacity: 0.9; margin-top: calc(var(--u) * 6); letter-spacing: 0.5px; text-transform: uppercase; }
+        .banner-date svg { width: calc(var(--u) * 15); height: calc(var(--u) * 15); fill: currentColor; flex-shrink: 0; }
+
+        .btn-3d { background: linear-gradient(180deg, #f8ebd5 0%, #e8d0a7 45%, #d6b885 100%); border: 1px solid #b89661; border-radius: calc(var(--u) * 8); box-shadow: inset 0 1px 0 rgba(255,255,255,0.9), inset 0 -2px 3px rgba(110,75,30,0.35), 0 3px 4px rgba(0,0,0,0.25); color: #3b230d; font-weight: 700; display: flex; justify-content: center; align-items: center; cursor: pointer; transition: transform 0.08s ease, background 0.08s ease; text-shadow: 0 1px 0 rgba(255,255,255,0.5); position: relative; }
+        .btn-3d:active { transform: translateY(2px); box-shadow: inset 0 2px 4px rgba(70,40,10,0.5), 0 1px 2px rgba(0,0,0,0.2); background: linear-gradient(180deg, #d6b885 0%, #e8d0a7 100%); }
+
+        .header-controls { flex-shrink: 0; display: flex; gap: calc(var(--u) * 6); margin-bottom: calc(var(--u) * 12); width: 100%; }
+        .btn-header { height: calc(var(--u) * 50); font-size: calc(var(--u) * 18); letter-spacing: 0.5px; }
+        .btn-header svg { width: calc(var(--u) * 26); height: calc(var(--u) * 26); fill: #3b230d; }
+        #btn-fullscreen { width: calc(var(--u) * 50); flex-shrink: 0; }
+        .month-selector-wrapper { position: relative; flex-grow: 1; }
+        #month-display { width: 100%; }
+        #year-display { width: calc(var(--u) * 82); flex-shrink: 0; }
+        #btn-selected-day { width: calc(var(--u) * 64); flex-shrink: 0; font-size: calc(var(--u) * 28); font-weight: 800; color: #fff6dd; background: linear-gradient(180deg, #704022 0%, #4a2812 100%); border: 2px solid #c8a353; text-shadow: 0 1px 2px rgba(0,0,0,0.8); box-shadow: inset 0 1px 0 rgba(255,255,255,0.25), 0 0 0 1.5px var(--glow, var(--neon)), 0 0 12px var(--glow, var(--neon)); }
+
+        .month-dropdown { display: none; position: absolute; top: calc(var(--u) * 54); left: 0; width: 100%; max-height: calc(var(--u) * 230); overflow-y: auto; background: #f8ebd5; border: 2px solid #b89661; border-radius: calc(var(--u) * 8); box-shadow: 0 6px 12px rgba(0,0,0,0.5); z-index: 100; }
+        .month-dropdown button { display: block; width: 100%; padding: calc(var(--u) * 12); font-size: calc(var(--u) * 18); font-weight: 700; color: #3b230d; text-align: center; background: none; border: 0; border-bottom: 1px solid #d6b885; cursor: pointer; }
+        .month-dropdown button:active { background: #e8d0a7; }
+
+        .data-warning { display: none; flex-shrink: 0; font-size: calc(var(--u) * 14); font-weight: 700; color: #8b0000; text-align: center; margin-bottom: calc(var(--u) * 6); }
+
+        .calendar-section { flex: 1; min-height: 0; display: flex; flex-direction: column; }
+        .weekdays-grid { flex-shrink: 0; display: grid; grid-template-columns: repeat(7, 1fr); gap: calc(var(--u) * 4); margin-bottom: calc(var(--u) * 8); text-align: center; }
+        .weekday { font-size: calc(var(--u) * 21); font-weight: 800; color: #4a2c11; text-shadow: 0 1px 0 rgba(255,255,255,0.7); padding: calc(var(--u) * 3) 0; letter-spacing: 1px; }
+        .weekday.domingo { color: #b30000; text-shadow: 0 1px 0 rgba(255,255,255,0.8); }
+
+        .days-grid { flex: 1; min-height: 0; display: grid; grid-template-columns: repeat(7, 1fr); gap: calc(var(--u) * 8) calc(var(--u) * 5); margin-bottom: calc(var(--u) * 12); }
+        .day-btn { width: 100%; aspect-ratio: 1 / 1.05; max-height: 100%; align-self: center; font-size: calc(var(--u) * 29); font-weight: 800; color: #38210b; border-radius: calc(var(--u) * 8); border-bottom: calc(var(--u) * 5) solid transparent; }
+        .day-btn.empty { visibility: hidden; pointer-events: none; }
+        .day-btn.active, .day-btn:active { background: linear-gradient(180deg, #704022 0%, #4a2812 100%) !important; color: #fff !important; border-top-color: #311807 !important; border-left-color: #311807 !important; border-right-color: #311807 !important; text-shadow: 0 1px 2px rgba(0,0,0,0.9) !important; }
+        .day-btn.active { animation: neon-dia 1s ease-in-out infinite; z-index: 2; }
+
+        .bottom-container { flex-shrink: 0; display: flex; justify-content: center; width: 100%; }
+        .btn-hoje { width: 50%; height: calc(var(--u) * 46); font-size: calc(var(--u) * 19); letter-spacing: 3px; }
+
+        .action-buttons-container { display: none; flex-direction: column; gap: calc(var(--u) * 10); flex: 1; min-height: 0; }
+        .btn-action { flex: 1; min-height: 0; max-height: calc(var(--u) * 96); width: 100%; padding: 0 calc(var(--u) * 14); justify-content: space-between; gap: calc(var(--u) * 8); }
+        .btn-action-left { display: flex; align-items: center; gap: calc(var(--u) * 12); min-width: 0; text-align: left; }
+        .btn-action-left svg { width: calc(var(--u) * 28); height: calc(var(--u) * 28); fill: #704022; flex-shrink: 0; }
+        .btn-action-title { font-size: calc(var(--u) * 20); font-weight: 800; color: #3b230d; line-height: 1.1; }
+        .btn-action-page { display: flex; flex-direction: column; align-items: center; justify-content: center; min-width: calc(var(--u) * 88); flex-shrink: 0; }
+        .pg-label { font-size: calc(var(--u) * 15); font-weight: 700; color: #4a2c11; letter-spacing: 0.5px; }
+        .pg-num { font-size: calc(var(--u) * 34); font-weight: 800; color: #c00000; line-height: 1.05; white-space: nowrap; text-shadow: 0 1px 0 rgba(255,255,255,0.7); }
+        .pg-num.vazio { color: #8a6a45; font-weight: 700; }
+
+        /* Efeito neon pulsante enquanto a fita é falada */
+        @keyframes neon {
+            0%, 100% { box-shadow: 0 0 0 2px var(--glow, var(--neon)), 0 0 4px #fff, 0 0 10px var(--glow, var(--neon)), 0 0 20px var(--glow, var(--neon)); }
+            50% { box-shadow: 0 0 0 2px var(--glow, var(--neon)), 0 0 8px #fff, 0 0 22px var(--glow, var(--neon)), 0 0 44px var(--glow, var(--neon)), 0 0 66px var(--glow, var(--neon)); }
+        }
+        @keyframes neon-dia {
+            0%, 100% { box-shadow: 0 0 0 2px var(--glow, var(--neon)), 0 0 3px #fff, 0 0 8px var(--glow, var(--neon)), 0 0 14px var(--glow, var(--neon)); }
+            50% { box-shadow: 0 0 0 2px var(--glow, var(--neon)), 0 0 6px #fff, 0 0 16px var(--glow, var(--neon)), 0 0 28px var(--glow, var(--neon)); }
+        }
+        .btn-action.speaking { animation: neon 0.9s ease-in-out infinite; z-index: 2; }
+        @media (prefers-reduced-motion: reduce) { .day-btn.active { animation: none; box-shadow: 0 0 0 2px var(--glow, var(--neon)), 0 0 14px var(--glow, var(--neon)); } .btn-action.speaking { animation: none; border-color: var(--neon); box-shadow: 0 0 14px var(--neon), 0 0 30px var(--neon); } }
+    </style>
+</head>
+<body>
+
+    <div class="calendar-container">
+    <div class="content">
+        <!-- Mensagem Superior -->
+        <div class="instruction-message" id="instruction-message">
+            Selecione uma data no Calendário e Marque o Missal para Celebrar a Santa Missa.
+        </div>
+
+        <!-- Banner Litúrgico -->
+        <div class="event-banner" id="event-banner">
+            <div class="banner-content">
+                <div class="banner-cross">
+                    <svg viewBox="0 0 24 24">
+                        <path d="M11 2h2v7h7v2h-7v11h-2V11H4V9h7V2z"/>
+                    </svg>
+                </div>
+                <div class="banner-text">
+                    <div class="banner-title" id="banner-liturgy-title">Carregando...</div>
+                    <div class="banner-date">
+                        <svg viewBox="0 0 24 24">
+                            <path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10z"/>
+                        </svg>
+                        <span id="banner-date-text">---</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Grupo de Controles do Topo -->
+        <div class="header-controls">
+            <!-- Tela Cheia -->
+            <button class="btn-3d btn-header" id="btn-fullscreen" title="Tela Cheia" aria-label="Tela cheia">
+                <svg viewBox="0 0 24 24">
+                    <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/>
+                </svg>
+            </button>
+
+            <!-- Seletor de Mês -->
+            <div class="month-selector-wrapper">
+                <button class="btn-3d btn-header" id="month-display">JANEIRO</button>
+                <div class="month-dropdown" id="month-dropdown"></div>
+            </div>
+
+            <!-- Botão Ano -->
+            <button class="btn-3d btn-header" id="year-display" aria-label="Alterar ano">2026</button>
+
+            <!-- Botão Dia Selecionado -->
+            <button class="btn-3d btn-header" id="btn-selected-day">01</button>
+        </div>
+
+        <div class="data-warning" id="data-warning"></div>
+
+        <!-- Seção do Calendário Completo -->
+        <div class="calendar-section" id="calendar-section">
+            <div class="weekdays-grid">
+                <div class="weekday domingo">DOM</div>
+                <div class="weekday">SEG</div>
+                <div class="weekday">TER</div>
+                <div class="weekday">QUA</div>
+                <div class="weekday">QUI</div>
+                <div class="weekday">SEX</div>
+                <div class="weekday">SÁB</div>
+            </div>
+
+            <div class="days-grid" id="days-container"></div>
+
+            <div class="bottom-container">
+                <button class="btn-3d btn-hoje" id="btn-hoje">HOJE</button>
+            </div>
+        </div>
+
+        <!-- 6 Botões Litúrgicos Dinâmicos das Fitas -->
+        <div class="action-buttons-container" id="action-buttons-container">
+            <!-- Fita 1: Formulário -->
+            <button class="btn-3d btn-action">
+                <span class="btn-action-left">
+                    <svg viewBox="0 0 24 24"><path d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM9 4h2v5l-1-.75L9 9V4zm9 16H6V4h1v9l3-2.25L13 13V4h5v16z"/></svg>
+                    <span class="btn-action-title">FORMULÁRIO</span>
+                </span>
+                <span class="btn-action-page" id="fita-0">PÁG. -</span>
+            </button>
+
+            <!-- Fita 2: Prefácio -->
+            <button class="btn-3d btn-action">
+                <span class="btn-action-left">
+                    <svg viewBox="0 0 24 24"><path d="M11 2h2v7h7v2h-7v11h-2V11H4V9h7V2z"/></svg>
+                    <span class="btn-action-title">PREFÁCIO</span>
+                </span>
+                <span class="btn-action-page" id="fita-1">PÁG. -</span>
+            </button>
+
+            <!-- Fita 3: Oração Eucarística -->
+            <button class="btn-3d btn-action">
+                <span class="btn-action-left">
+                    <svg viewBox="0 0 24 24"><path d="M12 2a4 4 0 0 0-4 4c0 2.21 1.79 4 4 4s4-1.79 4-4a4 4 0 0 0-4-4zm-7 9v3c0 3.87 3.13 7 7 7s7-3.13 7-7v-3H5zm7 8c-2.76 0-5-2.24-5-5v-1h10v1c0 2.76-2.24 5-5 5zm-1 2h2v2h-2v-2z"/></svg>
+                    <span class="btn-action-title">ORAÇÃO EUCARÍSTICA</span>
+                </span>
+                <span class="btn-action-page" id="fita-2">PÁG. -</span>
+            </button>
+
+            <!-- Fita 4: Ritos da Comunhão -->
+            <button class="btn-3d btn-action">
+                <span class="btn-action-left">
+                    <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-13c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5z"/></svg>
+                    <span class="btn-action-title">RITOS DA COMUNHÃO</span>
+                </span>
+                <span class="btn-action-page" id="fita-3">PÁG. -</span>
+            </button>
+
+            <!-- Fita 5: Depois da Comunhão -->
+            <button class="btn-3d btn-action">
+                <span class="btn-action-left">
+                    <svg viewBox="0 0 24 24"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.57 3.91a2 2 0 0 0 1.66 0l8.57-3.91a1 1 0 0 0 0-1.83l-8.57-3.9zm-8.57 9.8 7.57 3.45a2 2 0 0 0 1.66 0l7.57-3.45v2.24l-8.4 3.83a2 2 0 0 1-1.66 0L3 14.22v-2.24z"/></svg>
+                    <span class="btn-action-title">DEPOIS DA COMUNHÃO</span>
+                </span>
+                <span class="btn-action-page" id="fita-4">PÁG. -</span>
+            </button>
+
+            <!-- Fita 6: Ritos Finais / Bênção Final -->
+            <button class="btn-3d btn-action">
+                <span class="btn-action-left">
+                    <svg viewBox="0 0 24 24"><path d="M12 2L1 21h22L12 2zm0 3.99L19.53 19H4.47L12 5.99zM11 16h2v2h-2zm0-6h2v4h-2z"/></svg>
+                    <span class="btn-action-title">RITOS FINAIS</span>
+                </span>
+                <span class="btn-action-page" id="fita-5">PÁG. -</span>
+            </button>
+        </div>
+    </div>
+    </div>
+
+    <script>
+        const ANOS = [2026, 2027];
+        const mapaCores = {
+            "Branco": { bg: "linear-gradient(180deg, #ffffff 0%, #e0e0e0 100%)", color: "#1a1008", border: "#cccccc", stripe: "#ffffff", neon: "#ffffff" },
+            "Verde": { bg: "linear-gradient(180deg, #3d5016 0%, #28370d 100%)", color: "#fcefd2", border: "#c8a353", stripe: "#2e9e2e", neon: "#39ff14" },
+            "Vermelho": { bg: "linear-gradient(180deg, #8b0000 0%, #5a0000 100%)", color: "#ffffff", border: "#ff6b6b", stripe: "#c62828", neon: "#ff1f1f" },
+            "Roxo": { bg: "linear-gradient(180deg, #5b2c6f 0%, #3a1a48 100%)", color: "#ffffff", border: "#bb86fc", stripe: "#7b3fa0", neon: "#b84dff" },
+            "Rosa": { bg: "linear-gradient(180deg, #d81b60 0%, #8e0038 100%)", color: "#ffffff", border: "#ff80ab", stripe: "#e91e7a", neon: "#ff4fa3" },
+            "Dourado": { bg: "linear-gradient(180deg, #b8860b 0%, #785705 100%)", color: "#ffffff", border: "#ffd700", stripe: "#d4af37", neon: "#ffd000" },
+            "Preto": { bg: "linear-gradient(180deg, #212121 0%, #000000 100%)", color: "#ffffff", border: "#757575", stripe: "#212121", neon: "#1a1a1a" }
+        };
+        const monthNames = ["JANEIRO","FEVEREIRO","MARÇO","ABRIL","MAIO","JUNHO","JULHO","AGOSTO","SETEMBRO","OUTUBRO","NOVEMBRO","DEZEMBRO"];
+        const dayOfWeekNames = ["DOMINGO","SEGUNDA-FEIRA","TERÇA-FEIRA","QUARTA-FEIRA","QUINTA-FEIRA","SEXTA-FEIRA","SÁBADO"];
+
+        const dadosPorAno = {};
+        const falhas = new Set();
+
+        // Data inicial: hoje, ou o ano suportado mais próximo
+        function dataInicial() {
+            const h = new Date();
+            let y = h.getFullYear(), m = h.getMonth(), d = h.getDate();
+            if (!ANOS.includes(y)) { y = y < ANOS[0] ? ANOS[0] : ANOS[ANOS.length - 1]; m = 0; d = 1; }
+            return { y, m, d };
+        }
+        const ini = dataInicial();
+        let viewYear = ini.y, viewMonth = ini.m, activeDay = ini.d;
+        const diasNoMes = (y, m) => new Date(y, m + 1, 0).getDate();
+
+        const $ = id => document.getElementById(id);
+        const monthDisplay = $('month-display'), monthDropdown = $('month-dropdown'), yearDisplay = $('year-display');
+        const daysContainer = $('days-container'), hojeBtn = $('btn-hoje'), btnSelectedDay = $('btn-selected-day');
+        const btnFullscreen = $('btn-fullscreen'), calendarSection = $('calendar-section'), instructionMessage = $('instruction-message');
+        const eventBanner = $('event-banner'), actionButtonsContainer = $('action-buttons-container');
+        const bannerLiturgyTitle = $('banner-liturgy-title'), bannerDateText = $('banner-date-text'), dataWarning = $('data-warning');
+
+        async function carregarAno(ano) {
+            const mapa = {};
+            try {
+                const resp = await fetch(`${ano}/${ano}.txt`);
+                if (!resp.ok) throw new Error(resp.status);
+                (await resp.text()).split(/\r?\n/).forEach(linha => {
+                    const [data, liturgia, cor, fita] = linha.split('@');
+                    if (data && data.trim()) {
+                        mapa[data.trim()] = {
+                            liturgia: (liturgia || "").trim(),
+                            cor: (cor || "Branco").trim(),
+                            fita: fita ? fita.split('#').map(s => s.trim()) : []
+                        };
+                    }
+                });
+            } catch (e) {
+                falhas.add(ano);
+                console.warn(`Erro ao ler ${ano}/${ano}.txt`, e);
+            }
+            dadosPorAno[ano] = mapa;
+        }
+
+        const missalVisivel = () => actionButtonsContainer.style.display === 'flex';
+
+        function setView(y, m) {
+            viewYear = y; viewMonth = m;
+            activeDay = Math.min(activeDay, diasNoMes(y, m));
+            renderCalendar();
+            if (missalVisivel()) atualizarDetalhesMissal();
+        }
+
+        // Dropdown de meses
+        function fecharDropdown() { monthDropdown.style.display = 'none'; monthDisplay.setAttribute('aria-expanded', 'false'); }
+        monthNames.forEach((name, index) => {
+            const item = document.createElement('button');
+            item.type = 'button';
+            item.textContent = name;
+            item.addEventListener('click', e => { e.stopPropagation(); fecharDropdown(); setView(viewYear, index); });
+            monthDropdown.appendChild(item);
+        });
+        monthDisplay.setAttribute('aria-haspopup', 'true');
+        monthDisplay.addEventListener('click', () => {
+            const abrir = monthDropdown.style.display !== 'block';
+            monthDropdown.style.display = abrir ? 'block' : 'none';
+            monthDisplay.setAttribute('aria-expanded', String(abrir));
+        });
+        document.addEventListener('click', e => { if (!e.target.closest('.month-selector-wrapper')) fecharDropdown(); });
+        document.addEventListener('keydown', e => { if (e.key === 'Escape') fecharDropdown(); });
+
+        yearDisplay.addEventListener('click', () => {
+            setView(ANOS[(ANOS.indexOf(viewYear) + 1) % ANOS.length], viewMonth);
+        });
+
+        // Tela cheia (escondido quando o navegador/iframe não permite)
+        if (!document.fullscreenEnabled) btnFullscreen.style.display = 'none';
+        btnFullscreen.addEventListener('click', () => {
+            if (!document.fullscreenElement) document.documentElement.requestFullscreen().catch(() => {});
+            else if (document.exitFullscreen) document.exitFullscreen();
+        });
+
+        function toggleViewMode(showMissal) {
+            pararFala();
+            if (showMissal) {
+                calendarSection.style.display = 'none';
+                instructionMessage.style.display = 'none';
+                dataWarning.style.display = 'none';
+                eventBanner.style.display = 'block';
+                actionButtonsContainer.style.display = 'flex';
+                atualizarDetalhesMissal();
+            } else {
+                calendarSection.style.display = 'flex';
+                instructionMessage.style.display = 'block';
+                eventBanner.style.display = 'none';
+                actionButtonsContainer.style.display = 'none';
+                renderCalendar();
+            }
+        }
+        btnSelectedDay.addEventListener('click', () => toggleViewMode(!missalVisivel()));
+
+        function atualizarDetalhesMissal() {
+            pararFala();
+            const chave = `${String(activeDay).padStart(2, '0')}/${String(viewMonth + 1).padStart(2, '0')}`;
+            const info = (dadosPorAno[viewYear] || {})[chave] || { liturgia: "Sem celebração cadastrada", cor: "Branco", fita: [] };
+            bannerLiturgyTitle.textContent = info.liturgia || "Sem celebração cadastrada";
+            const dia = new Date(viewYear, viewMonth, activeDay);
+            bannerDateText.textContent = `${dayOfWeekNames[dia.getDay()]}, ${activeDay} de ${monthNames[viewMonth]} de ${viewYear}`;
+            const estilo = mapaCores[info.cor] || mapaCores["Branco"];
+            eventBanner.style.background = estilo.bg;
+            eventBanner.style.color = estilo.color;
+            eventBanner.style.borderColor = estilo.border;
+            for (let i = 0; i < 6; i++) {
+                const el = $(`fita-${i}`);
+                if (!el) continue;
+                const pag = (info.fita && info.fita[i]) ? info.fita[i] : "";
+                el.innerHTML = pag
+                    ? `<span class="pg-label">PÁG.</span><span class="pg-num">${pag}</span>`
+                    : `<span class="pg-label">PÁG.</span><span class="pg-num vazio">-</span>`;
+            }
+        }
+
+        // Fitas: vibrar, brilho neon pulsante e leitura em voz alta
+        let btnFalando = null, timerFala = null;
+        function pararFala() {
+            clearTimeout(timerFala);
+            if ('speechSynthesis' in window) speechSynthesis.cancel();
+            if (btnFalando) { btnFalando.classList.remove('speaking'); btnFalando = null; }
+        }
+        function acionarFita(btn) {
+            if (btnFalando === btn) { pararFala(); return; }
+            pararFala();
+            if (navigator.vibrate) navigator.vibrate([60, 40, 60]);
+            const titulo = btn.querySelector('.btn-action-title').textContent.trim().toLowerCase();
+            const pag = btn.querySelector('.pg-num').textContent.trim();
+            const texto = (pag && pag !== '-') ? `${titulo}. Página ${pag}.` : `${titulo}.`;
+            btn.classList.add('speaking');
+            btnFalando = btn;
+            if (!('speechSynthesis' in window)) { timerFala = setTimeout(pararFala, 2500); return; }
+            const u = new SpeechSynthesisUtterance(texto);
+            u.lang = 'pt-BR'; u.rate = 0.95;
+            const voz = speechSynthesis.getVoices().find(v => v.lang && v.lang.replace('_', '-').toLowerCase() === 'pt-br');
+            if (voz) u.voice = voz;
+            const fim = () => { if (btnFalando === btn) pararFala(); };
+            u.onend = fim; u.onerror = fim;
+            timerFala = setTimeout(fim, 4000 + texto.length * 180);
+            setTimeout(() => { if (btnFalando === btn) speechSynthesis.speak(u); }, 60);
+        }
+        actionButtonsContainer.addEventListener('click', e => {
+            const b = e.target.closest('.btn-action');
+            if (b) acionarFita(b);
+        });
+        document.addEventListener('visibilitychange', () => { if (document.hidden) pararFala(); });
+
+        function glowHeader() {
+            const info = (dadosPorAno[viewYear] || {})[`${String(activeDay).padStart(2, '0')}/${String(viewMonth + 1).padStart(2, '0')}`];
+            btnSelectedDay.style.setProperty('--glow', (mapaCores[info && info.cor] || mapaCores["Branco"]).neon);
+        }
+
+        function renderCalendar() {
+            monthDisplay.textContent = monthNames[viewMonth];
+            yearDisplay.textContent = viewYear;
+            btnSelectedDay.textContent = String(activeDay).padStart(2, '0');
+            const dados = dadosPorAno[viewYear] || {};
+            dataWarning.textContent = `Não foi possível carregar ${viewYear}/${viewYear}.txt`;
+            dataWarning.style.display = (falhas.has(viewYear) && !missalVisivel()) ? 'block' : 'none';
+
+            const primeiro = new Date(viewYear, viewMonth, 1).getDay();
+            const total = diasNoMes(viewYear, viewMonth);
+            daysContainer.style.gridTemplateRows = `repeat(${Math.ceil((primeiro + total) / 7)}, minmax(0, 1fr))`;
+
+            const frag = document.createDocumentFragment();
+            for (let i = 0; i < primeiro; i++) {
+                const vazio = document.createElement('div');
+                vazio.className = 'day-btn empty';
+                frag.appendChild(vazio);
+            }
+            for (let dia = 1; dia <= total; dia++) {
+                const b = document.createElement('button');
+                b.type = 'button';
+                b.className = 'btn-3d day-btn' + (dia === activeDay ? ' active' : '');
+                b.dataset.day = dia;
+                b.textContent = dia;
+                b.setAttribute('aria-label', `${dia} de ${monthNames[viewMonth].toLowerCase()}`);
+                const info = dados[`${String(dia).padStart(2, '0')}/${String(viewMonth + 1).padStart(2, '0')}`];
+                const est = info && mapaCores[info.cor];
+                if (est) b.style.borderBottomColor = est.stripe || est.border;
+                b.style.setProperty('--glow', (est || mapaCores["Branco"]).neon);
+                frag.appendChild(b);
+            }
+            daysContainer.replaceChildren(frag);
+            glowHeader();
+        }
+
+        daysContainer.addEventListener('click', e => {
+            const b = e.target.closest('button[data-day]');
+            if (!b) return;
+            daysContainer.querySelectorAll('.active').forEach(x => x.classList.remove('active'));
+            b.classList.add('active');
+            activeDay = Number(b.dataset.day);
+            btnSelectedDay.textContent = String(activeDay).padStart(2, '0');
+            glowHeader();
+            toggleViewMode(true);
+        });
+
+        hojeBtn.addEventListener('click', () => {
+            const h = dataInicial();
+            activeDay = h.d;
+            setView(h.y, h.m);
+        });
+
+        renderCalendar();
+        Promise.all(ANOS.map(carregarAno)).then(() => {
+            renderCalendar();
+            if (missalVisivel()) atualizarDetalhesMissal();
+        });
+    </script>
+</body>
+</html>
