@@ -1,0 +1,45 @@
+{
+  "data": "29/07/2026",
+  "liturgia": "Santos Marta, Maria e Lázaro, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, vosso Filho chamou Lázaro do sepulcro à vida e quis hospedar-se na casa de Marta; concedei-nos que, servindo fielmente a Cristo em nossos irmãos, mereçamos com Maria ser nutridos pela meditação da Palavra. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, ao proclamar-vos admirável nos Santos Marta, Maria e Lázaro, nós vos pedimos humildemente: assim como vos agradou a sua generosa hospitalidade, também vos agrade o serviço do nosso culto. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, a comunhão do Corpo e Sangue do vosso Filho nos afaste de todas as coisas que passam para que, a exemplo dos Santos Marta, Maria e Lázaro, cresçamos no sincero amor por vós aqui na terra e nos alegremos eternamente no céu, contemplando a vossa face. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Jo 4, 7-16",
+        "titulo": "Leitura da Primeira Carta de São João",
+        "texto": "7Caríssimos, amemo-nos uns aos outros, porque o amor vem de Deus e todo aquele que ama nasceu de Deus e conhece Deus. 8Quem não ama, não chegou a conhecer Deus, pois Deus é amor. 9Foi assim que o amor de Deus se manifestou entre nós: Deus enviou o seu Filho único ao mundo, para que tenhamos vida por meio dele. 10Nisto consiste o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como vítima de reparação pelos nossos pecados. 11Caríssimos, se Deus nos amou assim, nós também devemos amar-nos uns aos outros. 12Ninguém jamais viu a Deus. Se nos amamos uns aos outros, Deus permanece conosco e seu amor é plenamente realizado entre nós. 13A prova de que permanecemos com ele, e ele conosco, é que ele nos deu o seu Espírito. 14E nós vimos, e damos testemunho, que o Pai enviou o seu Filho como Salvador do mundo. 15Todo aquele que proclama que Jesus é o Filho de Deus, Deus permanece com ele, e ele com Deus. 16E nós conhecemos o amor que Deus tem para conosco, e acreditamos nele. Deus é amor: quem permanece no amor, permanece com Deus, e Deus permanece com ele."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 33",
+        "refrao": "Bendirei o Senhor Deus em todo o tempo!\nOu: Provai e vede quão suave é o Senhor!",
+        "texto": "— Bendirei o Senhor Deus em todo o tempo, seu louvor estará sempre em minha boca. Minha alma se gloria no Senhor; que ouçam os humildes e se alegrem!\n— Comigo engrandecei ao Senhor Deus, exaltemos todos juntos o seu nome! Todas as vezes que o busquei, ele me ouviu, e de todos os temores me livrou.\n— Contemplai a sua face e alegrai-vos, e vosso rosto não se cubra de vergonha! Este infeliz gritou a Deus, e foi ouvido, e o Senhor o libertou de toda angústia.\n— O anjo do Senhor vem acampar ao redor dos que o temem, e os salva. Provai e vede quão suave é o Senhor! Feliz o homem que tem nele o seu refúgio!\n— Respeitai o Senhor Deus, seus santos todos, porque nada faltará aos que o temem. Os ricos empobrecem, passam fome, mas aos que buscam o Senhor não falta nada"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 11, 19-27",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, 19muitos judeus tinham vindo à casa de Marta e Maria para as consolar por causa do irmão. 20Quando Marta soube que Jesus tinha chegado, foi ao encontro dele. Maria ficou sentada em casa.21Então Marta disse a Jesus: “Senhor, se tivesses estado aqui, meu irmão não teria morrido. 22Mas mesmo assim, eu sei que o que pedires a Deus, ele to concederá”. 23Respondeu-lhe Jesus: “Teu irmão ressuscitará”. 24Disse Marta: “Eu sei que ele ressuscitará na ressurreição, no último dia”.25Então Jesus disse: “Eu sou a ressurreição e a vida. Quem crê em mim, mesmo que morra, viverá. 26E todo aquele que vive e crê em mim, não morrerá jamais. Crês isto?” 27Respondeu ela: “Sim, Senhor, eu creio firmemente que tu és o Messias, o Filho de Deus, que devia vir ao mundo”."
+      },
+      {
+        "referencia": "Lc 10, 38-42",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 38Jesus entrou num povoado, e certa mulher, de nome Marta, recebeu-o em sua casa. 39Sua irmã, chamada Maria, sentou-se aos pés do Senhor, e escutava a sua palavra. 40Marta, porém, estava ocupada com muitos afazeres. Ela aproximou-se e disse: “Senhor, não te importas que minha irmã me deixe sozinha, com todo o serviço? Manda que ela me venha ajudar!” 41O Senhor, porém, lhe respondeu: “Marta, Marta! Tu te preocupas e andas agitada por muitas coisas. 42Porém, uma só coisa é necessária. Maria escolheu a melhor parte e esta não lhe será tirada”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Jesus entrou num povoado e uma mulher chamada Marta o acolheu em sua casa. (Cf. Lc 10, 38)",
+    "comunhao": "Marta disse a Jesus: Tu és o Cristo, Filho do Deus vivo, que vieste a este mundo. (Cf. Jo 11, 27)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "08/01/2026",
+  "liturgia": "5ª feira do Tempo do Natal depois da Epifania",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que por vosso Filho fizestes surgir para todas as nações, a luz da vossa eternidade, concedei ao vosso povo conhecer a fulgurante glória do seu Redentor e, por ele, chegar à eterna claridade. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, as nossas oferendas, nesta admirável troca de dons, para que, oferecendo-vos o que nos destes, mereçamos acolher-vos em nós. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, ó Deus todo-poderoso, que a nossa vida seja sempre sustentada pela força dos vossos santos mistérios. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Jo 4, 19–5, 4",
+        "titulo": "Leitura da Primeira Carta de São João",
+        "texto": "Caríssimos, 19quanto a nós, amamos a Deus porque ele nos amou primeiro. 20Se alguém disser: “Amo a Deus”, mas entretanto odeia o seu irmão, é um mentiroso; pois quem não ama o seu irmão, a quem vê, não poderá amar a Deus, a quem não vê. 21E este é o mandamento que dele recebemos: aquele que ama a Deus, ame também o seu irmão. 5, 1Todo o que crê que Jesus é o Cristo nasceu de Deus, e quem ama aquele que gerou alguém, amará também aquele que dele nasceu. 2Podemos saber que amamos os filhos de Deus, quando amamos a Deus e guardamos os seus mandamentos. 3Pois isto é amar a Deus: observar os seus mandamentos. E os seus mandamentos não são pesados, 4pois todo o que nasceu de Deus vence o mundo. E esta é a vitória que venceu o mundo: a nossa fé."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 71(72)",
+        "refrao": "As nações de toda a terra hão de adorar-vos, ó Senhor!",
+        "texto": "— Dai ao Rei vossos poderes, Senhor Deus, vossa justiça ao descendente da realeza! Com justiça ele governe o vosso povo, com equidade ele julgue os vossos pobres. \n— Há de livrá-los da violência e opressão, pois vale muito o sangue deles a seus olhos! Hão de rezar também por ele sem cessar, bendizê-lo e honrá-lo cada dia. \n— Seja bendito o seu nome para sempre! E que dure como o sol sua memória! Todos os povos serão nele abençoados, todas as gentes cantarão o seu louvor!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 4, 14-22a",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 14Jesus voltou para a Galileia, com a força do Espírito, e sua fama espalhou-se por toda a redondeza. 15Ele ensinava nas suas sinagogas e todos o elogiavam. 16E veio à cidade de Nazaré, onde se tinha criado. Conforme seu costume, entrou na sinagoga no sábado, e levantou-se para fazer a leitura.\n17Deram-lhe o livro do profeta Isaías. Abrindo o livro, Jesus achou a passagem em que está escrito: 18“O Espírito do Senhor está sobre mim, porque ele me consagrou com a unção para anunciar a Boa Nova aos pobres; enviou-me para proclamar a libertação aos cativos e aos cegos a recuperação da vista; para libertar os oprimidos 19e para proclamar um ano da graça do Senhor”.\n20Depois fechou o livro, entregou-o ao ajudante, e sentou-se. Todos os que estavam na sinagoga tinham os olhos fixos nele. 21Então começou a dizer-lhes: “Hoje se cumpriu esta passagem da Escritura que acabastes de ouvir”.\n22aTodos davam testemunho a seu respeito, admirados com as palavras cheias de encanto que saíam da sua boca."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "No princípio e antes dos séculos o Verbo era Deus, e dignou-se nascer como Salvador do mundo. (Cf. Jo 1, 1)",
+    "comunhao": "Pois Deus amou tanto o mundo, que deu o seu Filho Unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna. (Cf. Jo 3, 16)"
+  }
+}

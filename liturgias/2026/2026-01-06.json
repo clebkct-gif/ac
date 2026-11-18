@@ -1,0 +1,40 @@
+{
+  "data": "06/01/2026",
+  "liturgia": "3ª feira do Tempo do Natal depois da Epifania",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, cujo Filho Unigênito se manifestou na realidade da nossa carne, concedei-nos que, reconhecendo-o exteriormente semelhante a nós, sejamos interiormente renovados por Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei benigno, Senhor, nós vos pedimos, as oferendas do vosso povo, para que alcancemos pelos celestes sacramentos o que professamos filialmente pela fé. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, que vindes ao nosso encontro pela participação neste sacramento, realizai em nossos corações os efeitos de sua força, para que, ao recebermos o vosso dom, sejamos a ele configurados. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Jo 4, 7-10",
+        "titulo": "Leitura da Primeira Carta de São João",
+        "texto": "7Caríssimos, amemo-nos uns aos outros, porque o amor vem de Deus e todo aquele que ama nasceu de Deus e conhece Deus. 8Quem não ama, não chegou a conhecer Deus, pois Deus é amor. 9Foi assim que o amor de Deus se manifestou entre nós: Deus enviou o seu Filho único ao mundo, para que tenhamos vida por meio dele. 10Nisto consiste o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como vítima de reparação pelos nossos pecados."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 71(72)",
+        "refrao": "Os reis de toda a terra hão de adorar-vos, ó Senhor!",
+        "texto": "— Dai ao Rei vossos poderes, Senhor Deus, vossa justiça ao descendente da realeza! Com justiça ele governe o vosso povo, com equidade ele julgue os vossos pobres. \n— Das montanhas venha a paz a todo o povo, e desça das colinas a justiça! Este Rei defenderá os que são pobres, os filhos dos humildes salvará. \n— Nos seus dias a justiça florirá e grande paz, até que a lua perca o brilho! De mar a mar estenderá o seu domínio, e desde o rio até os confins de toda a terra!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 6, 34-44",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Marcos",
+        "texto": "Naquele tempo, 34Jesus viu uma numerosa multidão e teve compaixão, porque eram como ovelhas sem pastor. Começou, pois, a ensinar-lhes muitas coisas. 35Quando estava ficando tarde, os discípulos chegaram perto de Jesus e disseram: “Este lugar é deserto e já é tarde. 36Despede o povo, para que possa ir aos campos e povoados vizinhos comprar alguma coisa para comer”. 37Mas, Jesus respondeu: “Dai-lhes vós mesmos de comer”. Os discípulos perguntaram: “Queres que gastemos duzentos denários para comprar pão e dar-lhes de comer?” 38Jesus perguntou: “Quantos pães tendes? Ide ver”. Eles foram e responderam: “Cinco pães e dois peixes”. 39Então Jesus mandou que todos se sentassem na grama verde, formando grupos. 40E todos se sentaram, formando grupos de cem e de cinquenta pessoas. 41Depois Jesus pegou os cinco pães e os dois peixes, ergueu os olhos para o céu, pronunciou a bênção, partiu os pães e ia dando aos discípulos, para que os distribuíssem. Dividiu entre todos também os dois peixes. 42Todos comeram, ficaram satisfeitos, 43e recolheram doze cestos cheios de pedaços de pão e também dos peixes. 44O número dos que comeram os pães era de cinco mil homens."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Bendito aquele que vem em nome do Senhor: Deus é Senhor, ele nos iluminou. (Sl 117, 26s)",
+    "comunhao": "Pelo imenso amor com que nos amou, Deus mandou-nos o seu Filho em carne semelhante à do pecado e por causa do pecado. (Ef 2, 4; Rm 8, 3)"
+  }
+}

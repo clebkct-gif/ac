@@ -1,0 +1,40 @@
+{
+  "data": "09/04/2026",
+  "liturgia": "5ª feira na Oitava da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que reunistes povos tão diversos na proclamação do vosso nome, concedei aos renascidos na fonte do Batismo ser concordes na fé e justos nas ações. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai benigno, Senhor, as oferendas que, agradecidos, vos apresentamos pelos que renasceram no Batismo; que elas apressem o vosso auxílio celeste. Por Cristo, nosso Senhor.",
+    "comunhao": "Escutai, Senhor, as nossas preces, a fim de que, por este sacramento, intercâmbio da nossa redenção, recebamos o auxílio para a vida presente e o dom da eterna alegria. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 3, 11-26",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Naqueles dias, 11como o paralítico não deixava mais Pedro e João, todo o povo, assombrado, foi correndo para junto deles, no chamado “Pórtico de Salomão”. 12Ao ver isso, Pedro dirigiu-se ao povo: “Israelitas, por que vos espantais com o que aconteceu? Por que ficais olhando para nós, como se tivéssemos feito este homem andar com nosso próprio poder ou piedade? 13O Deus de Abraão, de Isaac, de Jacó, o Deus de nossos antepassados glorificou o seu servo Jesus. Vós o entregastes e o rejeitastes diante de Pilatos, que estava decidido a soltá-lo. 14Vós rejeitastes o Santo e o Justo, e pedistes a libertação para um assassino. 15Vós matastes o autor da vida, mas Deus o ressuscitou dos mortos, e disso nós somos testemunhas. 16Graças à fé no nome de Jesus, este Nome acaba de fortalecer este homem que vedes e reconheceis. A fé que vem por meio de Jesus lhe deu perfeita saúde na presença de todos vós. 17E agora, meus irmãos, eu sei que vós agistes por ignorância, assim como vossos chefes. 18Deus, porém, cumpriu desse modo o que havia anunciado pela boca de todos os profetas: que o seu Cristo haveria de sofrer. 19Arrependei-vos, portanto, e convertei-vos, para que vossos pecados sejam perdoados. 20Assim podereis alcançar o tempo do repouso que vem do Senhor. E ele enviará Jesus, o Cristo, que vos foi destinado. 21No entanto, é necessário que o céu o receba, até que se cumpra o tempo da restauração de todas as coisas, conforme disse Deus, nos tempos passados, pela boca de seus santos profetas. 22Com efeito, Moisés afirmou: ‘O Senhor Deus fará surgir, entre vossos irmãos, um profeta como eu. Escutai tudo o que ele vos disser. 23Quem não der ouvidos a esse profeta, será eliminado do meio do povo’. 24E todos os profetas que falaram, desde Samuel e seus sucessores, também eles anunciaram estes dias. 25Vós sois filhos dos profetas e da aliança, que Deus fez com vossos pais, quando disse a Abraão: ‘Através da tua descendência serão abençoadas todas as famílias da terra’. 26Após ter ressuscitado o seu servo, Deus o enviou em primeiro lugar a vós, para vos abençoar, na medida em que cada um se converta de suas maldades”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 8",
+        "refrao": "Ó Senhor, nosso Deus, como é grande vosso nome por todo o universo!",
+        "texto": "— Ó Senhor, nosso Deus, como é grande vosso nome por todo o universo! Perguntamos: “Senhor que é o homem, para dele assim vos lembrardes e o tratardes com tanto carinho?”\n— Pouco abaixo de Deus o fizestes, coroando-o de glória e esplendor; vós lhe destes poder sobre tudo, vossas obras aos pés lhe pusestes:\n— as ovelhas, os bois, os rebanhos, todo o gado e as feras da mata; passarinhos e peixes dos mares, todo ser que se move nas águas."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 24, 35-48",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 35os discípulos contaram o que tinha acontecido no caminho, e como tinham reconhecido Jesus ao partir o pão. 36Ainda estavam falando, quando o próprio Jesus apareceu no meio deles e lhes disse: “A paz esteja convosco!”\n37Eles ficaram assustados e cheios de medo, pensando que estavam vendo um fantasma. 38Mas Jesus disse: “Por que estais preocupados, e por que tendes dúvidas no coração? 39Vede minhas mãos e meus pés: sou eu mesmo! Tocai em mim e vede! Um fantasma não tem carne, nem ossos, como estais vendo que eu tenho”.\n40E dizendo isso, Jesus mostrou-lhes as mãos e os pés. 41Mas eles ainda não podiam acreditar, porque estavam muito alegres e surpresos. Então Jesus disse: “Tendes aqui alguma coisa para comer?” 42Deram-lhe um pedaço de peixe assado. 43Ele o tomou e comeu diante deles. 44Depois disse-lhes: “São estas as coisas que vos falei quando ainda estava convosco: era preciso que se cumprisse tudo o que está escrito sobre mim na Lei de Moisés, nos Profetas e nos Salmos”.\n45Então Jesus abriu a inteligência dos discípulos para entenderem as Escrituras, 46e lhes disse: “Assim está escrito: o Cristo sofrerá e ressuscitará dos mortos ao terceiro dia 47e no seu nome serão anunciados a conversão e o perdão dos pecados a todas as nações, começando por Jerusalém. 48Vós sereis testemunhas de tudo isso”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Celebraram, Senhor, teu santo Nome, louvando em coro tua mão vitoriosa. Pois a Sabedoria abriu a boca dos mudos e tornou eloquentes as línguas das crianças, aleluia. (Cf. Sb 10, 20-21)",
+    "comunhao": "Povo adquirido por Deus, anunciai os grandes feitos daquele que vos chamou das trevas à sua luz maravilhosa, aleluia. (Cf. 1Pd 2, 9)"
+  }
+}

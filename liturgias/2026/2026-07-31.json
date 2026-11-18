@@ -1,0 +1,40 @@
+{
+  "data": "31/07/2026",
+  "liturgia": "Santo Inácio de Loyola, presbítero, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que suscitastes em vossa Igreja Santo Inácio de Loyola para propagar a maior glória do vosso nome, concedei-nos que, auxiliados por sua intercessão e imitando seus exemplos, mereçamos, por nosso combate na terra, ser coroados com ele no céu. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor nosso Deus, sejam do vosso agrado as oferendas que trazemos na comemoração de santo Inácio de Loyola, e concedei que os sagrados mistérios, instituídos como fonte de toda santidade, nos santifiquem verdadeiramente. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, que este sacrifício de louvor, que vos oferecemos em ação de graças, na comemoração de Santo Inácio de Loyola, nos conduza à bem-aventurança eterna, para louvarmos sem fim a vossa imensa glória. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 26, 1-9",
+        "titulo": "Leitura do Livro do Profeta Jeremias",
+        "texto": "1No início do reinado de Joaquim, filho de Josias, rei de Judá, foi comunicada da parte do Senhor esta palavra, que dizia: 2“Assim fala o Senhor: Põe-te de pé no átrio da casa do Senhor e fala a todos os que vêm das cidades de Judá, para adorar o Senhor no templo, todas as palavras que eu te mandei dizer. Não retires uma só palavra; 3talvez eles as ouçam e voltem do mau caminho, e eu me arrependa da decisão de castigá-los por suas más obras. 4A eles então dirás: Isto diz o Senhor: Se não vos dispuserdes a viver segundo a lei que vos dei, 5a escutar as palavras dos meus servos, os profetas, que eu vos tenho enviado com solicitude e para vossa orientação, e que vós não tendes escutado, 6farei desta casa uma segunda Silo e farei desta uma cidade amaldiçoada por todos os povos da terra”. 7Os sacerdotes e profetas, e todo o povo presente ouviram Jeremias dizer estas palavras na casa do Senhor. 8Quando Jeremias acabou de dizer tudo e que o Senhor lhe ordenara falasse a todo o povo, prenderam-no os sacerdotes, os profetas e o povo, dizendo: “Este homem tem que morrer! 9Por que dizes, em nome do Senhor, a profecia: ‘Esta casa será como Silo, e esta cidade será devastada e vazia de habitantes?’” Todo o povo juntou-se contra Jeremias na casa do Senhor."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 68(69)",
+        "refrao": "Respondei-me, ó Senhor, pelo vosso imenso amor.",
+        "texto": "– Mais numerosos que os cabelos da cabeça são aqueles que me odeiam sem motivo; meus inimigos são mais fortes do que eu; contra mim eles se voltam com mentiras! Por acaso poderei restituir alguma coisa que de outros não roubei?\n– Por vossa causa é que sofri tantos insultos e o meu rosto se cobriu de confusão; eu me tornei como um estranho a meus irmãos, como estrangeiro para os filhos de minha mãe. Pois meu zelo e meu amor por vossa casa me devoram como fogo abrasador; e os insultos de infiéis que vos ultrajam recaíram todos eles sobre mim!\n– Por isso elevo para vós minha oração neste tempo favorável, Senhor Deus! Respondei-me pelo vosso imenso amor, pela vossa salvação que nunca falha!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 13,54-58",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 54dirigindo-se para a sua terra, Jesus ensinava na sinagoga, de modo que ficavam admirados. E diziam: “De onde lhe vem essa sabedoria e esses milagres? 55Não é ele o filho do carpinteiro? Sua mãe não se chama Maria e seus irmãos não são Tiago, José, Simão e Judas? 56E suas irmãs não moram conosco? Então, de onde lhe vem tudo isso?” 57E ficaram escandalizados por causa dele. Jesus, porém, disse: “Um profeta só não é estimado em sua própria pátria e em sua família!” 58E Jesus não fez ali muitos milagres, porque eles não tinham fé."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, e toda língua proclame: Jesus Cristo é o Senhor, para a glória de Deus Pai. (Fl 2, 10-11)",
+    "comunhao": "Disse o Senhor: vim trazer fogo à terra; como gostaria que já estivesse aceso! (Cf. Lc 12, 49)"
+  }
+}

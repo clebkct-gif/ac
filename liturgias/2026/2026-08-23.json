@@ -1,0 +1,45 @@
+{
+  "data": "23/08/2026",
+  "liturgia": "21º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, que unis os corações dos vossos fiéis num único desejo, concedei ao vosso povo amar o que ordenais e esperar o que prometeis, para que na instabilidade deste mundo nossos corações estejam ancorados lá onde se encontram as verdadeiras alegrias. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, pelo único sacrifício do vosso Filho adquiristes para vós um povo de adoção filial; concedei-nos benigno, na vossa Igreja, os dons da unidade e da paz. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, nós vos pedimos, realizai plenamente em nós a obra redentora da vossa misericórdia. Em vossa bondade, levai-nos a tão alta perfeição que, reconfortados por vossa graça, em tudo possamos agradar-vos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 22,19-23",
+        "titulo": "Leitura do Livro do profeta Isaías",
+        "texto": "Assim diz o Senhor a Sobna, o administrador do palácio: 19“Eu vou te destituir do posto que ocupas e demitir-te do teu cargo. 20Acontecerá que nesse dia chamarei meu servo Eliacim, filho de Helcias, 21e o vestirei com a tua túnica e colocarei nele a tua faixa, porei em suas mãos a tua autoridade; ele será um pai para os habitantes de Jerusalém e para a casa de Judá. 22Eu o farei levar aos ombros a chave da casa de Davi; ele abrirá, e ninguém poderá fechar; ele fechará, e ninguém poderá abrir. 23Hei de fixá-lo como estaca em lugar seguro, e aí ele terá o trono de glória na casa de seu pai”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 137(138)",
+        "refrao": "Ó Senhor, vossa bondade é para sempre! Completai em mim a obra começada!",
+        "texto": "– Ó Senhor, de coração eu vos dou graças, porque ouvistes as palavras dos meus lábios! Perante os vossos anjos vou cantar-vos e ante o vosso templo vou prostrar-me.\n– Eu agradeço vosso amor, vossa verdade, porque fizestes muito mais que prometestes; naquele dia em que gritei, vós me escutastes e aumentastes o vigor da minha alma.\n– Altíssimo é o Senhor, mas olha os pobres e de longe reconhece os orgulhosos. Ó Senhor, vossa bondade é para sempre! Eu vos peço: não deixeis inacabada, esta obra que fizeram vossas mãos!"
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Rm 11,33-36",
+        "titulo": "Leitura da carta de São Paulo aos Romanos",
+        "texto": "33Ó profundidade da riqueza, da sabedoria e da ciência de Deus! Como são inescrutáveis os seus juízos e impenetráveis os seus caminhos! 34De fato, quem conheceu o pensamento do Senhor? Ou quem foi seu conselheiro? 35Ou quem se antecipou em dar-lhe alguma coisa, de maneira a ter direito a uma retribuição? 36Na verdade, tudo é dele, por ele e para ele. A ele a glória para sempre. Amém!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 16,13-20",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 13Jesus foi à região de Cesareia de Filipe e aí perguntou a seus discípulos: “Quem dizem os homens ser o Filho do Homem?” 14Eles responderam: “Alguns dizem que é João Batista; outros, que é Elias; outros, ainda, que é Jeremias ou algum dos profetas”. 15Então Jesus lhes perguntou: “E vós, quem dizeis que eu sou?” 16Simão Pedro respondeu: “Tu és o Messias, o Filho do Deus vivo”. 17Respondendo, Jesus lhe disse: “Feliz és tu, Simão, filho de Jonas, porque não foi um ser humano que te revelou isso, mas o meu Pai que está no céu. 18Por isso eu te digo que tu és Pedro, e sobre esta pedra construirei a minha Igreja, e o poder do inferno nunca poderá vencê-la. 19Eu te darei as chaves do Reino dos Céus: tudo o que tu ligares na terra será ligado nos céus; tudo o que tu desligares na terra será desligado nos céus”. 20Jesus, então, ordenou aos discípulos que não dissessem a ninguém que ele era o Messias."
+      }
+    ]
+  },
+  "antifonas": {
+    "entrada": "Inclinai, Senhor, vosso ouvido para mim e escutai-me. Salvai, vosso servo que confia em vós, meu Deus. Tende compaixão de mim, Senhor, pois clamei por vós o dia inteiro. (Cf. Sl 85, 1-3)",
+    "comunhao": "Com vossos frutos, Senhor, saciais a terra inteira. Da terra fazeis brotar o pão e o vinho que alegra o coração humano. (Cf. Sl 103, 13-15)"
+  }
+}

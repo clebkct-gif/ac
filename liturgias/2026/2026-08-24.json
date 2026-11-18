@@ -1,0 +1,40 @@
+{
+  "data": "24/08/2026",
+  "liturgia": "São Bartolomeu, Apóstolo, Festa",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Senhor, fortalecei em nós aquela fé com a qual o apóstolo São Bartolomeu se entregou de coração sincero ao vosso Filho; concedei por suas preces que a vossa Igreja se torne sacramento de salvação para todos os povos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, na festa do apóstolo São Bartolomeu, em cuja honra vos oferecemos este sacrifício de louvor, concedei que, por sua intercessão, recebamos os auxílios da vossa graça. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, na celebração da festa do apóstolo São Bartolomeu, recebemos o penhor da salvação eterna; fazei que este sacramento nos fortaleça na vida presente e nos conduza à glória futura. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ap 21, 9b-14",
+        "titulo": "Leitura do Apocalipse de São João",
+        "texto": "9bUm anjo falou comigo e disse: “Vem! Vou mostrar-te a noiva, a esposa do Cordeiro”. 10Então me levou em espírito a uma montanha grande e alta. Mostrou-me a cidade Santa, Jerusalém, descendo do céu, de junto de Deus, 11brilhando com a glória de Deus. Seu brilho era como o de uma pedra preciosíssima, como o brilho de jaspe cristalino. 12Estava cercada por uma muralha maciça e alta, com doze portas. Sobre as portas estavam doze anjos, e nas portas estavam escritos os nomes das doze tribos de Israel. 13Havia três portas do lado do oriente, três portas do lado norte, três portas do lado sul e três portas do lado do ocidente. 14A muralha da cidade tinha doze alicerces, e sobre eles estavam escritos os nomes dos doze apóstolos do Cordeiro."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 144",
+        "refrao": "Ó Senhor, vossos amigos anunciem vosso Reino glorioso!",
+        "texto": "— Que vossas obras, ó Senhor, vos glorifiquem, e os vossos Santos com louvores vos bendigam! Narrem a glória e o esplendor do vosso reino e saibam proclamar vosso poder!\n— Para espalhar vossos prodígios entre os homens, e o fulgor de vosso reino esplendoroso. O vosso reino é um reino para sempre, vosso poder, de geração em geração!\n— É justo o Senhor em seus caminhos, é Santo em toda obra que ele faz. Ele está perto da pessoa que o invoca, de todo aquele que o invoca lealmente"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 1, 45-51",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "45Filipe encontrou-se com Natanael e lhe disse: “Encontramos aquele de quem Moisés escreveu na Lei, e também os profetas: Jesus de Nazaré, o filho de José”.46Natanael disse: “De Nazaré pode sair coisa boa?” Filipe respondeu: “Vem ver!” 47Jesus viu Natanael que vinha para ele e comentou: “Aí vem um israelita de verdade, um homem sem falsidade”. 48Natanael perguntou: “De onde me conheces?” Jesus respondeu: “Antes que Filipe te chamasse, enquanto estavas debaixo da figueira, eu te vi”. 49Natanael respondeu: “Rabi, tu és o Filho de Deus, tu és o Rei de Israel”.50Jesus disse: “Tu crês porque te disse: Eu te vi debaixo da figueira? Coisas maiores que esta verás!” 51E Jesus continuou: “Em verdade, em verdade, eu vos digo: Vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Proclamai todos os dias a salvação de Deus, anunciai entre as nações a glória do Senhor. (Cf. Sl 95, 2-3)",
+    "comunhao": "Como o meu Pai me confiou o reino, eu também vos confio. Havereis de comer e beber à minha mesa no meu reino, diz o Senhor. (Cf. Lc 22, 29-30)"
+  }
+}

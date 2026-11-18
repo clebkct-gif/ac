@@ -1,0 +1,40 @@
+{
+  "data": "11/09/2026",
+  "liturgia": "6ª feira da 23ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, olhai com bondade os que redimistes e adotastes como filhos e filhas, e concedei aos que creem no Cristo a verdadeira liberdade e a herança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, fonte da verdadeira piedade e da paz, concedei que vos honremos dignamente nesta celebração e, pela fiel participação nos sagrados mistérios, sejam reforçados os laços que nos unem. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, que alimentais e fortaleceis vossos fiéis com o pão da Palavra e da Eucaristia, concedei-nos desfrutar de tal modo destes dons do vosso amado Filho, que mereçamos para sempre viver em comunhão com ele. Que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Cor 9,16-19.22-27",
+        "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+        "texto": "Irmãos, 16pregar o Evangelho não é, para mim, motivo de glória. É antes uma necessidade para mim, uma imposição. Ai de mim se eu não pregar o Evangelho! 17Se eu exercesse minha função de pregador por iniciativa própria, eu teria direito a salário. Mas, como a iniciativa não é minha, trata-se de um encargo que me foi confiado. 18Em que consiste então o meu salário? Em pregar o Evangelho, oferecendo-o de graça e sem usar os direitos que o Evangelho me dá. 19Assim, livre em relação a todos, eu me tornei escravo de todos, a fim de ganhar o maior número possível. 22Com todos, eu me fiz tudo, para certamente salvar alguns. 23Por causa do Evangelho eu faço tudo, para ter parte nele. 24Acaso não sabeis que os que correm no estádio correm todos juntos, mas um só ganha o prêmio? Correi de tal maneira, que conquisteis o prêmio. 25Todo atleta se sujeita a uma disciplina rigorosa em relação a tudo, e eles procedem assim para receberem uma coroa corruptível. Quanto a nós, a coroa que buscamos é incorruptível! 26Por isso eu corro, mas não à toa. Eu luto, mas não como quem dá murros no ar. 27Trato duramente o meu corpo e o subjugo, para não acontecer que, depois de ter proclamado a Boa-nova aos outros, eu mesmo seja reprovado."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 83(84)",
+        "refrao": "Quão amável, ó Senhor, é vossa casa!",
+        "texto": "– Minha alma desfalece de saudades e anseia pelos átrios do Senhor! Meu coração e minha carne rejubilam e exultam de alegria no Deus vivo!\n– Mesmo o pardal encontra abrigo em vossa casa, e a andorinha ali prepara o seu ninho, para nele seus filhotes colocar: vossos altares, ó Senhor Deus do universo! Vossos altares, ó meu Rei e meu Senhor!\n– Felizes os que habitam vossa casa; para sempre haverão de vos louvar! Felizes os que em vós têm sua força e se decidem a partir quais peregrinos!\n– O Senhor Deus é como um sol, é um escudo, e largamente distribui a graça e a glória. O Senhor nunca recusa bem algum àqueles que caminham na justiça."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 6,39-42",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 39Jesus contou uma parábola aos discípulos: “Pode um cego guiar outro cego? Não cairão os dois num buraco? 40Um discípulo não é maior do que o mestre; todo discípulo bem formado será como o mestre. 41Por que vês tu o cisco no olho do teu irmão e não percebes a trave que há no teu próprio olho? 42Como podes dizer a teu irmão: ‘Irmão, deixa-me tirar o cisco do teu olho’, quando tu não vês a trave no teu próprio olho? Hipócrita! Tira primeiro a trave do teu olho e então poderás enxergar bem para tirar o cisco do olho do teu irmão”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vós sois justo, na verdade, ó Senhor, e os vossos julgamentos são corretos. Conforme o vosso amor, Senhor, tratai-me. (Cf. Sl 118, 137. 124)",
+    "comunhao": "Assim como a corça suspira pelas águas correntes, suspira igualmente minh'alma por vós, ó meu Deus! Minha alma tem sede de Deus e deseja o Deus vivo. (Cf. Sl 41, 2-3)"
+  }
+}

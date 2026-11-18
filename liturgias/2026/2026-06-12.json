@@ -1,0 +1,46 @@
+{
+  "data": "12/06/2026",
+  "liturgia": "Sagrado Coração de Jesus, Solenidade",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus todo-poderoso, alegrando-nos com a solenidade do Coração do vosso amado Filho, recordamos os grandes benefícios do seu amor para conosco. Concedei que mereçamos receber desta fonte divina uma torrente de graças. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.\n\nOu:\n\nÓ Deus, no Coração do vosso Filho ferido por nossos pecados vos dignais em vossa misericórdia abrir-nos infinitos tesouros de amor. Concedei, nós vos pedimos, que, prestando-lhe nossa fervorosa homenagem de piedade, cumpramos também o dever de uma digna reparação. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, nós vos pedimos, olhai para o inefável amor do Coração do vosso amado Filho, a fim de que nossa oferenda vos seja agradável e sirva de reparação pelos nossos pecados. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, o sacramento da caridade nos inflame de santo amor; e assim, sempre atraídos ao vosso Filho, aprendamos a reconhecê-lo em nossos irmãos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Dt 7,6-11",
+        "titulo": "Leitura do Livro do Deuteronômio",
+        "texto": "Moisés falou ao povo, dizendo: 6“Tu és um povo consagrado ao Senhor teu Deus. O Senhor teu Deus te escolheu dentre todos os povos da terra para seres o seu povo preferido. 7O Senhor se afeiçoou a vós e vos escolheu, não por serdes mais numerosos que os outros povos – na verdade, sois o menor de todos -, 8mas, sim, porque o Senhor vos amou e quis cumprir o juramento que fez a vossos pais. Foi por isso que o Senhor vos fez sair com mão poderosa e vos resgatou da casa da escravidão, das mãos do faraó, rei do Egito. 9Saberás, pois, que o Senhor teu Deus é o único Deus, um Deus fiel, que guarda a aliança e a misericórdia até mil gerações para aqueles que o amam e observam seus mandamentos; 10mas castiga diretamente aquele que o odeia, fazendo-o perecer; e não o deixa esperar, mas dá-lhe imediatamente o castigo merecido. 11Guarda, pois, os mandamentos, as leis e os decretos que hoje te prescrevo, pondo-os em prática!”"
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "1Jo 4,7-16",
+        "titulo": "Leitura da Primeira Carta de São João",
+        "texto": "7Caríssimos, amemo-nos uns aos outros, porque o amor vem de Deus e todo aquele que ama nasceu de Deus e conhece Deus. 8Quem não ama não chegou a conhecer Deus, pois Deus é amor. 9Foi assim que o amor de Deus se manifestou entre nós: Deus enviou o seu Filho único ao mundo, para que tenhamos vida por meio dele. 10Nisto consiste o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como vítima de reparação pelos nossos pecados. 11Caríssimos, se Deus nos amou assim, nós também devemos amar-nos uns aos outros. 12Ninguém jamais viu a Deus. Se nos amamos uns aos outros, Deus permanece conosco e seu amor é plenamente realizado entre nós. 13A prova de que permanecemos com ele, e ele conosco, é que ele nos deu o seu Espírito. 14E nós vimos, e damos testemunho, que o Pai enviou o seu Filho como Salvador do mundo. 15Todo aquele que proclama que Jesus é o Filho de Deus, Deus permanece com ele e ele com Deus. 16E nós conhecemos o amor que Deus tem para conosco e acreditamos nele. Deus é amor: quem permanece no amor permanece com Deus, e Deus permanece com ele."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 102(103)",
+        "refrao": "O amor do Senhor Deus por quem o teme é de sempre e perdura para sempre.",
+        "texto": "– Bendize, ó minha alma, ao Senhor, e todo o meu ser, seu santo nome! Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores!\n– Pois ele te perdoa toda culpa e cura toda a tua enfermidade; da sepultura ele salva a tua vida e te cerca de carinho e compaixão.\n– O Senhor realiza obras de justiça e garante o direito aos oprimidos; revelou os seus caminhos a Moisés e, aos filhos de Israel, seus grandes feitos.\n– O Senhor é indulgente, é favorável, é paciente, é bondoso e compassivo. Não nos trata como exigem nossas faltas nem nos pune em proporção às nossas culpas."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 11,25-30",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "25Naquele tempo, Jesus pôs-se a dizer: “Eu te louvo, ó Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e entendidos e as revelaste aos pequeninos. 26Sim, Pai, porque assim foi do teu agrado. 27Tudo me foi entregue por meu Pai, e ninguém conhece o Filho, senão o Pai, e ninguém conhece o Pai, senão o Filho e aquele a quem o Filho o quiser revelar. 28Vinde a mim todos vós que estais cansados e fatigados sob o peso dos vossos fardos, e eu vos darei descanso. 29Tomai sobre vós o meu jugo e aprendei de mim, porque sou manso e humilde de coração, e vós encontrareis descanso. 30Pois o meu jugo é suave e o meu fardo é leve”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Os desígnios do Coração do Senhor perduram  de geração em geração, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria. (Cf. Sl 32,11.19)",
+    "comunhao": "Um soldado abriu-lhe o lado com uma lança, e logo saiu  sangue e água. (Cf. Jo 19,34)"
+  }
+}

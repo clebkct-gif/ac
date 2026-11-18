@@ -1,0 +1,40 @@
+{
+  "data": "24/01/2026",
+  "liturgia": "São Francisco de Sales, bispo e doutor da Igreja, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, quisestes que na caridade apostólica o bispo São Francisco de Sales se fizesse tudo para todos; concedei-nos benigno que, a seu exemplo, manifestemos sempre a mansidão do vosso amor no serviço aos irmãos. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, por este sacrifício salutar que vos oferecemos, acendei em nós aquele fogo do Espírito Santo, que abrasava de modo admirável o coração manso e humilde de São Francisco de Sales. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus todo-poderoso, concedei-nos, pelo sacramento que recebemos, que, imitando na terra a bondade e a mansidão de São Francisco de Sales, alcancemos também a glória no céu. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Sm 1,1-4.11-12.19.23-27",
+        "titulo": "Início do Segundo Livro de Samuel",
+        "texto": "Em seu luto, Davi tem a solidariedade da sua tropa; de sua parte, Jesus sofre a incompreensão até mesmo de seus parentes, que “saíram para agarrá-lo, porque diziam que estava fora de si”. Nada, porém, impedirá o Senhor de cumprir fielmente sua missão.\nInício do segundo livro de Samuel – Naqueles dias, 1Davi regressou da derrota que infligiu aos amalecitas e esteve dois dias em Siceleg. 2No terceiro dia, apareceu um homem, que vinha do acampamento de Saul, com as vestes rasgadas e a cabeça coberta de pó. Ao chegar perto de Davi, prostrou-se por terra e fez-lhe uma profunda reverência. 3Davi perguntou-lhe: “Donde vens?” Ele respondeu: “Salvei-me do acampamento de Israel”. 4“Que aconteceu?”, perguntou-lhe Davi. “Conta-me tudo!” Ele respondeu: “As tropas fugiram da batalha, e muitos do povo caíram mortos. Até Saul e o seu filho Jônatas pereceram!” 11Então Davi tomou suas próprias vestes e rasgou-as, e todos os que estavam com ele fizeram o mesmo. 12Lamentaram-se, choraram e jejuaram até a tarde por Saul e por seu filho Jônatas e por causa do povo do Senhor e da casa de Israel, porque haviam tombado pela espada. 19E Davi disse: “Tua glória, ó Israel, jaz ferida de morte sobre os teus montes. Como tombaram os fortes! 23Saul e Jônatas, amados e belos, nem vida nem morte os puderam separar, mais velozes que as águias, mais fortes que os leões. 24Filhas de Israel, chorai sobre Saul. Ele vos vestia de púrpura suntuosa e ornava de ouro os vossos vestidos. 25Como tombaram os fortes em plena batalha! Jônatas foi morto sobre as tuas alturas. 26Choro por ti, meu irmão Jônatas. Tu me eras tão querido; tua amizade me era mais cara que o amor das mulheres. 27Como tombaram os fortes, como pereceram as armas de guerra!”"
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 79(80)",
+        "refrao": "Resplandecei a vossa face, e nós seremos salvos!",
+        "texto": "– Ó pastor de Israel, prestai ouvidos. Vós, que a José apascentais qual um rebanho! Vós, que sobre os querubins vos assentais, aparecei cheio de glória e esplendor ante Efraim e Benjamim e Manassés! Despertai vosso poder, ó nosso Deus, e vinde logo nos trazer a salvação!\n– Até quando, ó Senhor, vos irritais, apesar da oração do vosso povo? Vós nos destes a comer o pão das lágrimas, e a beber destes um pranto copioso. Para os vizinhos somos causa de contenda, de zombaria para os nossos inimigos."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 3,20-21",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 20Jesus voltou para casa com os discípulos. E de novo se reuniu tanta gente, que eles nem sequer podiam comer. 21Quando souberam disso, os parentes de Jesus saíram para agarrá-lo, porque diziam que estava fora de si."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "No meio da Igreja o Senhor abriu os seus lábios, encheu-o com o espírito de sabedoria e inteligência e o revestiu com um manto de glória. (Cf. Eclo 15, 5)",
+    "comunhao": "Servo fiel e prudente, a quem o Senhor confiou a sua família para dar-lhe alimento no tempo oportuno. (Cf. Lc 12, 42)"
+  }
+}

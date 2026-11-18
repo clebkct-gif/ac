@@ -1,0 +1,40 @@
+{
+  "data": "22/01/2026",
+  "liturgia": "5ª feira da 2ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, que governais o céu e a terra, escutai clemente as súplicas do vosso povo e dai ao nosso tempo a vossa paz. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei-nos, Senhor, a graça de participar dignamente destes mistérios, pois todas as vezes que celebramos o memorial do sacrifício do vosso Filho, realiza-se em nós a obra da redenção. Por Cristo, nosso Senhor.",
+    "comunhao": "Infundi em nós, Senhor, o Espírito do vosso amor, e fazei que vivam sempre unidos os que saciastes com o único pão do céu. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Sm 18,6-9; 19,1-7",
+        "titulo": "Leitura do primeiro livro de Samuel",
+        "texto": "Naqueles dias, 6quando Davi voltou, depois de ter matado o filisteu, as mulheres de todas as cidades de Israel saíram ao encontro do rei Saul, dançando e cantando alegremente ao som de tamborins e címbalos. 7E, enquanto dançavam, diziam em coro: “Saul matou mil, mas Davi matou dez mil”. 8Saul ficou muito encolerizado com isso e não gostou nada da canção, dizendo: “A Davi deram dez mil e a mim somente mil. Que lhe falta ainda, senão a realeza?” 9E, a partir daquele dia, não olhou mais para Davi com bons olhos. 19,1Saul falou a Jônatas, seu filho, e a todos os seus servos sobre sua intenção de matar Davi. Mas Jônatas, filho de Saul, amava profundamente Davi 2e preveniu-o a respeito disso, dizendo: “Saul, meu pai, procura matar-te; portanto, toma cuidado amanhã de manhã e fica oculto em um esconderijo. 3Eu mesmo sairei em companhia de meu pai, no campo, onde estiveres, e lhe falarei de ti, para ver o que ele diz, e depois te avisarei de tudo o que eu souber”. 4Então Jônatas falou bem de Davi a Saul, seu pai, e acrescentou: “Não faças mal algum ao teu servo Davi, porque ele nunca te ofendeu. Ao contrário, o que ele tem feito foi muito proveitoso para ti. 5Arriscou a sua vida, matando o filisteu, e o Senhor deu uma grande vitória a todo o Israel. Tu mesmo foste testemunha e te alegraste. Por que, então, pecarias, derramando sangue inocente e mandando matar Davi sem motivo?” 6Saul, ouvindo isso e aplacado com as razões de Jônatas, jurou: “Pela vida do Senhor, ele não será morto!” 7Então Jônatas chamou Davi e contou-lhe tudo isso. Levou-o em seguida a Saul, para que ele retomasse o seu lugar, como antes."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 55(56)",
+        "refrao": "É no Senhor que eu confio e nada temo.",
+        "texto": "– Tende pena e compaixão de mim, ó Deus, + pois há tantos que me calcam sob os pés e agressores me oprimem todo dia! Meus inimigos de contínuo me espezinham, são numerosos os que lutam contra mim!\n– Do meu exílio registrastes cada passo, + em vosso odre recolhestes cada lágrima e anotastes tudo isso em vosso livro. Meus inimigos haverão de recuar + em qualquer dia em que eu vos invocar; tenho certeza: o Senhor está comigo!\n– Confio em Deus e louvarei sua promessa. + É no Senhor que eu confio e nada temo: que poderia contra mim um ser mortal? Devo cumprir, ó Deus, os votos que vos fiz e vos oferto um sacrifício de louvor."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 3,7-12",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 7Jesus se retirou para a beira do mar junto com seus discípulos. Muita gente da Galileia o seguia. 8E também muita gente da Judeia, de Jerusalém, da Idumeia, do outro lado do Jordão, dos territórios de Tiro e Sidônia foi até Jesus, porque tinham ouvido falar de tudo o que ele fazia. 9Então Jesus pediu aos discípulos que lhe providenciassem uma barca, por causa da multidão, para que não o comprimisse. 10Com efeito, Jesus tinha curado muitas pessoas, e todos os que sofriam de algum mal jogavam-se sobre ele para tocá-lo. 11Vendo Jesus, os espíritos maus caíam a seus pés, gritando: “Tu és o Filho de Deus!” 12Mas Jesus ordenava severamente para não dizerem quem ele era."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Toda a terra vos adore com respeito e proclame o louvor do vosso nome, ó Altíssimo. (cf. Sl 65,4)",
+    "comunhao": "Preparastes à minha frente uma mesa, o meu cálice transborda! (cf. Sl 22,5)"
+  }
+}

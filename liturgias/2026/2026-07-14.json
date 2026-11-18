@@ -1,0 +1,40 @@
+{
+  "data": "14/07/2026",
+  "liturgia": "3ª feira da 15ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, que mostrais a luz da vossa verdade aos que erram, para retornarem ao bom caminho, dai aos que professam a fé, rejeitar o que não convém ao cristão e abraçar tudo o que é digno deste nome. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Olhai, Senhor, os dons da Igreja em oração e concedei que os fiéis que os recebem possam crescer em santidade. Por Cristo, nosso Senhor.",
+    "comunhao": "Alimentados pelos vossos dons, nós vos pedimos, Senhor, que cresçam em nós os frutos da nossa salvação cada vez que celebramos este mistério. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 7,1-9",
+        "titulo": "Leitura do Livro do profeta Isaías",
+        "texto": "1No tempo de Acaz, filho de Joatão, filho de Ozias, rei de Judá, aconteceu que Rason, rei da Síria, e Faceia, filho de Romelias, rei de Israel, puseram-se em marcha para atacar Jerusalém, mas não conseguiram conquistá-la. 2Foi dada a notícia à casa de Davi: “Os homens da Síria estão acampados em Efraim”. Tremeu o coração do rei e de todo o povo, como as árvores da floresta diante do vento. 3Então disse o Senhor a Isaías: “Vai ao encontro de Acaz com teu filho Sear-Iasub (isto é, ‘um resto voltará’) até a ponta do canal, na piscina superior, na direção da estrada do campo dos Pisadores; 4e dirás ao rei: ‘Procura estar calmo; não temas nem estremeça o teu coração por causa desses dois pedaços de tição fumegantes, diante da ira furiosa de Rason e da Síria, e do filho de Romelias, 5por terem a Síria, Efraim e o filho de Romelias conjurado contra ti, dizendo: 6Vamos atacar Judá, enchê-lo de medo e conquistá-lo para nós, e nomear novo rei, o filho de Tabeel. 7Isto diz o Senhor Deus: Este plano fracassará, nada disso se realizará! 8Que seja Damasco a capital da Síria e Rason o chefe de Damasco; dentro de sessenta e cinco anos deixará Efraim de ser povo; 9que seja a Samaria capital de Efraim e o filho de Romelias chefe de Efraim. De resto, se não confiardes, não podereis manter-vos firmes’”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 47(48)",
+        "refrao": "O Senhor estabelece sua cidade para sempre.",
+        "texto": "– Grande é o Senhor e muito digno de louvores na cidade onde ele mora; seu monte santo, esta colina encantadora é a alegria do universo.\n– Monte Sião, no extremo norte situado, és a mansão do grande rei! Deus revelou-se, em suas fortes cidadelas, um refúgio poderoso.\n– Pois eis que os reis da terra se aliaram e todos juntos avançaram; mal a viram, de pavor estremeceram, debandaram perturbados.\n– Como as dores da mulher sofrendo parto, uma angústia os invadiu; semelhante ao vento leste impetuoso, que despedaça as naus de Társis."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 11,20-24",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 20Jesus começou a censurar as cidades onde fora realizada a maior parte de seus milagres, porque não se tinham convertido. 21“Ai de ti, Corazim! Ai de ti, Betsaida! Porque, se os milagres que se realizaram no meio de vós tivessem sido feitos em Tiro e Sidônia, há muito tempo elas teriam feito penitência, vestindo-se de cilício e cobrindo-se de cinza. 22Pois bem! Eu vos digo, no dia do julgamento, Tiro e Sidônia serão tratadas com menos dureza do que vós. 23E tu, Cafarnaum! Acaso serás erguida até o céu? Não! Serás jogada no inferno! Porque, se os milagres que foram realizados no meio de ti tivessem sido feitos em Sodoma, ela existiria até hoje! 24Eu, porém, vos digo, no dia do juízo, Sodoma será tratada com menos dureza do que vós!”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Contemplarei, justificado, a vossa face; e ficarei saciado quando se manifestar vossa glória. (Cf. Sl 16, 15)",
+    "comunhao": "O pássaro encontra abrigo e a andorinha um ninho para pôr os seus filhotes: os vossos altares, Senhor do universo, meu rei e meu Deus!Felizes os que habitam em vossa casa: sem cessar vos louvarão. (Cf. Sl 83, 4-5)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "14/02/2026",
+  "liturgia": "Santos Cirilo, monge, e Metódio, bispo",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, pelos Santos irmãos Cirilo e Metódio, concedestes a luz da verdade aos povos eslavos; dai-nos acolher em nossos corações as palavras da vossa doutrina, e fazei de nós um povo unido na verdadeira fé e no fiel testemunho do Evangelho. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, os dons que vos apresentamos na comemoração dos Santos Cirilo e Metódio; concedei que se tornem sinais de uma nova humanidade, reconciliada convosco na caridade e no amor. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, Pai de todas as nações, que nos fizestes herdeiros do eterno banquete e participantes de um único pão e um só Espírito, condedei-nos benigno, na comemoração dos Santos Cirilo e Metódio, que a multidão de vossos filhos, perseverando na mesma fé, edifique um único reino de justiça e de paz. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Rs 12,26-32; 13,33-34",
+        "titulo": "Leitura do primeiro livro dos Reis",
+        "texto": "Naqueles dias, 26Jeroboão refletiu consigo mesmo: “Como estão as coisas, o reino vai voltar à casa de Davi. 27Se este povo continuar a subir ao templo do Senhor em Jerusalém para oferecer sacrifícios, seu coração se voltará para o seu soberano, Roboão, rei de Judá; eles me matarão e se voltarão para Roboão, rei de Judá”. 28Depois de ter refletido bem, o rei fez dois bezerros de ouro e disse ao povo: “Não subais mais a Jerusalém! Eis aqui, Israel, os deuses que te tiraram da terra do Egito”. 29Colocou um bezerro em Betel e outro em Dã. 30Isto foi ocasião de pecado, pois o povo ia em procissão até Dã para adorar um dos bezerros. 31Jeroboão construiu também templos sobre lugares altos e designou como sacerdotes homens tirados do povo, que não eram filhos de Levi. 32E instituiu uma festa no dia quinze do oitavo mês, à semelhança da que era celebrada em Judá. E subiu ao altar. Fez a mesma coisa em Betel, para sacrificar aos bezerros que havia feito. E estabeleceu em Betel sacerdotes nos santuários que tinha construído nos lugares altos. 13,33Depois disso, Jeroboão não abandonou o seu mau caminho, mas continuou a tomar homens do meio do povo e a constituí-los sacerdotes dos santuários dos lugares altos. Todo aquele que queria era consagrado e se tornava sacerdote dos lugares altos. 34Esse modo de proceder fez cair em pecado a casa de Jeroboão e provocou a sua ruína e o seu extermínio da face da terra."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 105(106)",
+        "refrao": "Lembrai-vos, ó Senhor, de mim, lembrai-vos, segundo o amor que demonstrais ao vosso povo.",
+        "texto": "– Pecamos como outrora nossos pais, praticamos a maldade e fomos ímpios; no Egito nossos pais não se importaram com os vossos admiráveis grandes feitos.\n– Construíram um bezerro no Horeb e adoraram uma estátua de metal; eles trocaram o seu Deus, que é sua glória, pela imagem de um boi que come feno.\n– Esqueceram-se do Deus que os salvara, que fizera maravilhas no Egito; no país de Cam fez tantas obras admiráveis, no mar Vermelho, tantas coisas assombrosas."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 8,1-10",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "1Naqueles dias, havia de novo uma grande multidão e não tinha o que comer. Jesus chamou os discípulos e disse: 2“Tenho compaixão dessa multidão, porque já faz três dias que está comigo e não tem nada para comer. 3Se eu os mandar para casa sem comer, vão desmaiar pelo caminho, porque muitos deles vieram de longe”. 4Os discípulos disseram: “Como poderia alguém saciá-los de pão aqui no deserto?” 5Jesus perguntou-lhes: “Quantos pães tendes?” Eles responderam: “Sete”. 6Jesus mandou que a multidão se sentasse no chão. Depois, pegou os sete pães e deu graças, partiu-os e ia dando aos seus discípulos, para que os distribuíssem. E eles os distribuíam ao povo. 7Tinham também alguns peixinhos. Depois de pronunciar a bênção sobre eles, mandou que os distribuíssem também. 8Comeram e ficaram satisfeitos, e recolheram sete cestos com os pedaços que sobraram. 9Eram quatro mil, mais ou menos. E Jesus os despediu. 10Subindo logo na barca com seus discípulos, Jesus foi para a região de Dalmanuta."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Estes são homens santos, que se tornaram amigos de Deus, gloriosos arautos da verdade divina.",
+    "comunhao": "Os discípulos partiram para pregar o Evangelho. O Senhor os ajudava e confirmava a sua palavra pelos sinais que a acompanhavam. (Cf. Mc 16,20)"
+  }
+}

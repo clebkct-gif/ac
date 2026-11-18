@@ -1,0 +1,40 @@
+{
+  "data": "03/01/2026",
+  "liturgia": "Sábado do Tempo do Natal antes da Epifania",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, pela vinda do vosso Filho Unigênito, vos manifestastes em nova luz. Assim como merecemos que ele participasse da nossa humanidade, nascendo da Virgem, possamos também participar de sua vida no reino. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, fonte da verdadeira devoção e da paz, concedei que vos honremos dignamente com esta oferenda e, pela fiel participação nos sagrados mistérios, sejam reforçados os laços que nos unem. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, que o vosso povo, sustentado com tantas graças, possa receber hoje e sempre os dons do vosso amor para que, confortado pelos bens transitórios, busque com mais confiança os bens eternos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Jo 2,29-3,6",
+        "titulo": "Leitura da Primeira Carta de são João",
+        "texto": "Caríssimos, 29já que sabeis que ele é justo, sabei também que todo aquele que pratica a justiça nasceu dele. 3,1Vede que grande presente de amor o Pai nos deu: de sermos chamados filhos de Deus! E nós o somos! Se o mundo não nos conhece, é porque não conheceu o Pai. 2Caríssimos, desde já somos filhos de Deus, mas nem sequer se manifestou o que seremos! Sabemos que, quando Jesus se manifestar, seremos semelhantes a ele, porque o veremos tal como ele é. 3Todo o que espera nele purifica-se a si mesmo, como também ele é puro. 4Todo o que comete pecado comete também a iniquidade, porque o pecado é a iniquidade. 5Vós sabeis que ele se manifestou para tirar os pecados e que nele não há pecado. 6Todo aquele que peca mostra que não o viu nem o conheceu."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 97(98)",
+        "refrao": "Os confins do universo contemplaram a salvação do nosso Deus.",
+        "texto": "– Cantai ao Senhor Deus um canto novo, porque ele fez prodígios! Sua mão e o seu braço forte e santo alcançaram-lhe a vitória.\n– Os confins do universo contemplaram a salvação do nosso Deus. Aclamai o Senhor Deus, ó terra inteira, alegrai-vos e exultai!\n– Cantai salmos ao Senhor ao som da harpa e da cítara suave! Aclamai, com os clarins e as trombetas, ao Senhor, o nosso rei!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 1,29-34",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João",
+        "texto": "29No dia seguinte, João viu Jesus aproximar-se dele e disse: “Eis o Cordeiro de Deus, que tira o pecado do mundo. 30Dele é que eu disse: Depois de mim vem um homem que passou à minha frente, porque existia antes de mim. 31Também eu não o conhecia, mas, se eu vim batizar com água, foi para que ele fosse manifestado a Israel”. 32E João deu testemunho, dizendo: “Eu vi o Espírito descer como uma pomba do céu e permanecer sobre ele. 33Também eu não o conhecia, mas aquele que me enviou batizar com água me disse: ‘Aquele sobre quem vires o Espírito descer e permanecer, esse é quem batiza com o Espírito Santo’. 34Eu vi e dou testemunho: este é o Filho de Deus!”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Deus enviou o seu Filho, nascido de uma mulher, para que todos recebêssemos a filiação adotiva. (Gl 4, 4-5)",
+    "comunhao": "Da sua plenitude todos nós recebemos graça por graça. (Cf. Jo 1, 16)"
+  }
+}

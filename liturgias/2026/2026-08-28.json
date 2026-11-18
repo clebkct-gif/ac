@@ -1,0 +1,40 @@
+{
+  "data": "28/08/2026",
+  "liturgia": "Santo Agostinho, bispo e doutor da Igreja, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Senhor, nós vos pedimos, renovai em vossa Igreja o espírito com o qual dotastes o bispo Santo Agostinho; repletos do mesmo espírito, só de vós tenhamos sede, fonte da verdadeira sabedoria, só a vós busquemos, autor do amor eterno. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, celebrando o memorial da nossa salvação, imploramos humildemente a vossa misericórdia; que este sacramento do vosso amor seja para nós sinal de unidade e vínculo de caridade. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, a participação na mesa celeste nos santifique a fim de que, membros do seu Corpo, sejamos transformados naquele que recebemos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Cor 1,17-25",
+        "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+        "texto": "Irmãos, 17de fato, Cristo não me enviou para batizar, mas para pregar a boa-nova da salvação sem me valer dos recursos da oratória, para não privar a cruz de Cristo da sua força própria. 18A pregação a respeito da cruz é uma insensatez para os que se perdem, mas, para os que se salvam, para nós, ela é poder de Deus. 19Com efeito, está escrito: “Destruirei a sabedoria dos sábios e frustrarei a perspicácia dos inteligentes”. 20Onde está o sábio? Onde o mestre da lei? Onde o questionador deste mundo? Acaso Deus não mostrou a insensatez da sabedoria do mundo? 21De fato, na manifestação da sabedoria de Deus, o mundo não chegou a conhecer Deus por meio da sabedoria; por isso, Deus houve por bem salvar os que creem por meio da insensatez da pregação. 22Os judeus pedem sinais milagrosos, os gregos procuram sabedoria; 23nós, porém, pregamos Cristo crucificado, escândalo para os judeus e insensatez para os pagãos. 24Mas, para os que são chamados, tanto judeus como gregos, esse Cristo é poder de Deus e sabedoria de Deus. 25Pois o que é dito insensatez de Deus é mais sábio do que os homens, e o que é dito fraqueza de Deus é mais forte do que os homens."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 32(33)",
+        "refrao": "Transborda em toda a terra a bondade do Senhor!",
+        "texto": "– Ó justos, alegrai-vos no Senhor! Aos retos fica bem glorificá-lo. Dai graças ao Senhor ao som da harpa, na lira de dez cordas celebrai-o!\n– Pois reta é a palavra do Senhor, e tudo o que ele faz merece fé. Deus ama o direito e a justiça, transborda em toda a terra a sua graça.\n– O Senhor desfaz os planos das nações e os projetos que os povos se propõem. Mas os desígnios do Senhor são para sempre, e os pensamentos que ele traz no coração, de geração em geração, vão perdurar."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 25,1-13",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos esta parábola: 1“O reino dos céus é como a história das dez jovens que pegaram suas lâmpadas de óleo e saíram ao encontro do noivo. 2Cinco delas eram imprevidentes, e as outras cinco eram previdentes. 3As imprevidentes pegaram as suas lâmpadas, mas não levaram óleo consigo. 4As previdentes, porém, levaram vasilhas com óleo junto com as lâmpadas. 5O noivo estava demorando e todas elas acabaram cochilando e dormindo. 6No meio da noite, ouviu-se um grito: ‘O noivo está chegando. Ide ao seu encontro!’ 7Então as dez jovens se levantaram e prepararam as lâmpadas.\n8As imprevidentes disseram às previdentes: ‘Dai-nos um pouco de óleo, porque nossas lâmpadas estão se apagando’. 9As previdentes responderam: ‘De modo nenhum, porque o óleo pode ser insuficiente para nós e para vós. É melhor irdes comprar aos vendedores’. 10Enquanto elas foram comprar óleo, o noivo chegou, e as que estavam preparadas entraram com ele para a festa de casamento. E a porta se fechou. 11Por fim, chegaram também as outras jovens e disseram: ‘Senhor! Senhor! Abre-nos a porta!’ 12Ele, porém, respondeu: ‘Em verdade eu vos digo, não vos conheço!’ 13Portanto, ficai vigiando, pois não sabeis qual será o dia nem a hora”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "No meio da Igreja o Senhor abriu os seus lábios, encheu-o com o espírito de sabedoria e inteligência e o revestiu com um manto de glória. (Cf. Eclo 15, 5)",
+    "comunhao": "Um só é o vosso Guia, Cristo; e todos vós sois irmãos, diz o Senhor. (Cf. Mt 23, 10. 8)"
+  }
+}

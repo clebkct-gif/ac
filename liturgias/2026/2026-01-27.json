@@ -1,0 +1,40 @@
+{
+  "data": "27/01/2026",
+  "liturgia": "3ª feira da 3ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, dirigi nossas ações segundo a vossa vontade, para que, em nome do vosso dileto Filho, mereçamos frutificar em boas obras. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei com bondade, Senhor, as nossas oferendas para que sejam santificadas e nos tragam a salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Concedei-nos, Deus todo-poderoso, que, tendo recebido a graça de uma nova vida, sempre nos gloriemos dos vossos dons. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Sm 6, 12b-15. 17-19",
+        "titulo": "Leitura do Segundo Livro de Samuel",
+        "texto": "Naqueles dias, 12bDavi pôs-se a caminho e transportou festivamente a arca de Deus da casa de Obed-Edom para a cidade de Davi. 13A cada seis passos que davam, os que transportavam a arca do Senhor sacrificavam um boi e um carneiro.,14Davi, cingido apenas com um efod de linho, dançava com todas as suas forças diante do Senhor. 15Davi e toda a casa de Israel conduziram a arca do Senhor, soltando gritos de júbilo e tocando trombetas. 17Introduziram a arca do Senhor e depuseram-na em seu lugar, no centro da tenda que Davi tinha armado para ela. Em seguida, ele ofereceu holocaustos e sacrifícios pacíficos na presença do Senhor. 18Assim que terminou de oferecer os holocaustos e os sacrifícios pacíficos, Davi abençoou o povo em nome do Senhor todo-poderoso. 19E distribuiu a toda a multidão de Israel, a cada um dos homens e das mulheres, um pão de forno, um bolo de tâmaras e uma torta de uvas. Depois todo o povo foi para casa."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 23",
+        "refrao": "Dizei-nos: “Quem é este Rei da glória?” “É o Senhor, o valoroso, o grandioso!”",
+        "texto": "— “Ó portas, levantai vossos frontões! Elevai-vos bem mais alto, antigas portas, a fim de que o Rei da glória possa entrar!” \n— Dizei-nos: “Quem é este Rei da glória?” “É o Senhor, o valoroso, o onipotente, o Senhor, o poderoso nas batalhas!” \n— “Ó portas, levantai vossos frontões! Elevai-vos bem mais alto, antigas portas, a fim de que o Rei da glória possa entrar! \n— Dizei-nos: “Quem é este Rei da glória?” “O Rei da glória é o Senhor onipotente, o Rei da glória é o Senhor Deus do universo"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 3, 31-35",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Marcos",
+        "texto": "Naquele tempo, 31chegaram a mãe de Jesus e seus irmãos. Eles ficaram do lado de fora e mandaram chamá-lo. 32Havia uma multidão sentada ao redor dele. Então lhe disseram: “Tua mãe e teus irmãos estão lá fora à tua procura”. 33Ele respondeu: “Quem é minha mãe, e quem são meus irmãos?” 34E olhando para os que estavam sentados ao seu redor, disse: “Aqui estão minha mãe e meus irmãos. 35Quem faz a vontade de Deus, esse é meu irmão, minha irmã e minha mãe”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Cantai ao Senhor um cântico novo, cantai ao Senhor, terra inteira. Glória e esplendor, em sua presença, santidade e beleza no seu santuário. (Cf. Sl 95,1.6)",
+    "comunhao": "Aproximai-vos do Senhor e sereis iluminados e vosso rosto não se cubra de vergonha. Eu sou a luz do mundo, diz o Senhor. Quem me segue, não andará nas trevas, mas terá a luz da vida. (Cf. Sl 33,6 Ou: Jo 8,12)"
+  }
+}

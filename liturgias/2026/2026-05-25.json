@@ -1,0 +1,40 @@
+{
+  "data": "25/05/2026",
+  "liturgia": "Bem-aventurada Virgem Maria, Mãe da Igreja, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, Pai das misericórdias, vosso Filho Unigênito, pregado na cruz, nos deu sua Mãe, a Bem-aventurada Virgem Maria, como nossa Mãe. Concedei que a vossa Igreja, cada dia mais fecunda em seu amor materno, exulte com a santidade dos seus filhos e filhas e atraia todos os povos para o seu convívio numa só família. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, as nossas oferendas e transformai-as em sacramento de salvação, pelo qual sejamos inflamados com o mesmo amor da Virgem Maria, Mãe da Igreja, e mereçamos ser associados com ela mais estreitamente à obra da redenção. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, tendo recebido o penhor da redenção e da vida, nós vos pedimos que a vossa Igreja, com o auxílio materno da Virgem Maria, leve a todas as nações o anúncio do Evangelho e encha toda a terra com a efusão do Espírito Santo. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Gn 3, 9-15. 20",
+        "titulo": "Leitura do Livro do Gênesis",
+        "texto": "Depois que Adão comeu do fruto da árvore, 9o Senhor Deus o chamou, dizendo: “Onde estás?” 10E ele respondeu: “Ouvi tua voz no jardim, e fiquei com medo porque estava nu; e me escondi”. 11Disse-lhe o Senhor Deus: “E quem te disse que estavas nu? Então comeste da árvore, de cujo fruto te proibi comer?” 12Adão disse: “A mulher que tu me deste por companheira, foi ela que me deu do fruto da árvore, e eu comi”.,13Disse o Senhor Deus à mulher: “Por que fizeste isso?” E a mulher respondeu: “A serpente enganou-me e eu comi”. 14Então o Senhor Deus disse à serpente: “Porque fizeste isso, serás maldita entre todos os animais domésticos e todos os animais selvagens! Rastejarás sobre o ventre e comerás pó todos os dias da tua vida! 15Porei inimizade entre ti e a mulher, entre a tua descendência e a dela. Esta te ferirá a cabeça e tu lhe ferirás o calcanhar”. 20E Adão chamou à sua mulher “Eva”, porque ela é a mãe de todos os viventes."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 86",
+        "refrao": "Dizem coisas gloriosas da Cidade do Senhor.",
+        "texto": "— O Senhor ama a cidade que fundou no Monte santo; ama as portas de Sião mais que as casas de Jacó. \n— Dizem coisas gloriosas da Cidade do Senhor. De Sião, porém, se diz: “Nasceu nela todo homem; Deus é sua segurança”. \n— Deus anota no seu livro, onde inscreve os povos todos: “Foi ali que estes nasceram”. Por isso todos juntos a cantar se alegrarão; e, dançando, exclamarão: “Estão em ti as nossas fontes!”"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 19, 25-34",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, 25perto da cruz de Jesus, estavam de pé a sua mãe, a irmã da sua mãe, Maria de Cléofas, e Maria Madalena.26Jesus, ao ver sua mãe e, ao lado dela, o discípulo que ele amava, disse à mãe: “Mulher, este é o teu filho”. 27Depois disse ao discípulo: “Esta é a tua mãe”. Daquela hora em diante, o discípulo a acolheu consigo.28Depois disso, Jesus, sabendo que tudo estava consumado, e para que a Escritura se cumprisse até o fim, disse: “Tenho sede”.29Havia ali uma jarra cheia de vinagre. Amarraram numa vara uma esponja embebida de vinagre e levaram-na à boca de Jesus. 30Ele tomou o vinagre e disse: “Tudo está consumado”. E, inclinando a cabeça, entregou o espírito. 31Era o dia da preparação para a Páscoa. Os judeus queriam evitar que os corpos ficassem na cruz durante o sábado, porque aquele sábado era dia de festa solene. Então pediram a Pilatos que mandasse quebrar as pernas aos crucificados e os tirasse da cruz.32Os soldados foram e quebraram as pernas de um e depois do outro que foram crucificados com Jesus.33Ao se aproximarem de Jesus, e vendo que já estava morto, não lhe quebraram as pernas; 34mas um soldado abriu-lhe o lado com uma lança, e logo saiu sangue e água."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Os discípulos perseveraram unânimes em oração com Maria, a Mãe de Jesus. (Cf. At 1,14)",
+    "comunhao": "Houve um casamento em Caná da Galileia. A mãe de Jesus estava presente. Este foi o início dos sinais de Jesus. Manifestou a sua glória, e seus discípulos creram nele. Pendente da cruz, disse Jesus ao discípulo que ele amava: Eis a tua mãe! (Cf. Jo 2,1.11 ou Jo 19,26-27)"
+  }
+}

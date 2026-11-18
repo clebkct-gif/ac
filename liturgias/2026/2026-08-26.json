@@ -1,0 +1,40 @@
+{
+  "data": "26/08/2026",
+  "liturgia": "4ª feira da 21ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, que unis os corações dos vossos fiéis num único desejo, concedei ao vosso povo amar o que ordenais e esperar o que prometeis, para que na instabilidade deste mundo nossos corações estejam ancorados lá onde se encontram as verdadeiras alegrias. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, pelo único sacrifício do vosso Filho adquiristes para vós um povo de adoção filial; concedei-nos benigno, na vossa Igreja, os dons da unidade e da paz. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, nós vos pedimos, realizai plenamente em nós a obra redentora da vossa misericórdia. Em vossa bondade, levai-nos a tão alta perfeição que, reconfortados por vossa graça, em tudo possamos agradar-vos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Ts 3,6-10.16-18",
+        "titulo": "Leitura da Segunda Carta de São Paulo aos Tessalonicenses",
+        "texto": "6Nós vos ordenamos, irmãos, em nome de nosso Senhor Jesus Cristo, que vos afasteis de todo irmão que se comporta de maneira desordenada e contrária à tradição que de nós receberam. 7Bem sabeis como deveis seguir o nosso exemplo, pois não temos vivido entre vós na ociosidade. 8De ninguém recebemos de graça o pão que comemos. Pelo contrário, trabalhamos com esforço e cansaço, de dia e de noite, para não sermos pesados a ninguém. 9Não que não tivéssemos o direito de fazê-lo, mas queríamos apresentar-nos como exemplo a ser imitado. 10Com efeito, quando estávamos entre vós, demos esta regra: “Quem não quer trabalhar também não deve comer”. 16Que o Senhor da paz, ele próprio, vos dê a paz, sempre e em toda a parte. O Senhor esteja com todos vós. 17Esta saudação é de meu próprio punho, de Paulo. Assim é que assino todas as minhas cartas; é a minha letra. 18A graça de nosso Senhor Jesus Cristo esteja com todos vós."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 127(128)",
+        "refrao": "Felizes todos os que respeitam o Senhor!",
+        "texto": "– Feliz és tu se temes o Senhor e trilhas seus caminhos! Do trabalho de tuas mãos hás de viver, serás feliz, tudo irá bem!\n– Será assim abençoado todo homem que teme o Senhor. O Senhor te abençoe de Sião, cada dia de tua vida."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 23,27-32",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus: 27“Ai de vós, mestres da Lei e fariseus hipócritas! Vós sois como sepulcros caiados: por fora parecem belos, mas por dentro estão cheios de ossos de mortos e de toda podridão! 28Assim também vós: por fora, pareceis justos diante dos outros, mas por dentro estais cheios de hipocrisia e injustiça. 29Ai de vós, mestres da Lei e fariseus hipócritas! Vós construís sepulcros para os profetas e enfeitais os túmulos dos justos, 30e dizeis: ‘Se tivéssemos vivido no tempo de nossos pais, não teríamos sido cúmplices da morte dos profetas’. 31Com isso, confessais que sois filhos daqueles que mataram os profetas. 32Completai, pois, a medida de vossos pais!”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Inclinai, Senhor, vosso ouvido para mim e escutai-me. Salvai, vosso servo que confia em vós, meu Deus. Tende compaixão de mim, Senhor, pois clamei por vós o dia inteiro. (Cf. Sl 85, 1-3)",
+    "comunhao": "Com vossos frutos, Senhor, saciais a terra inteira. Da terra fazeis brotar o pão e o vinho que alegra o coração humano. (Cf. Sl 103, 13-15)"
+  }
+}

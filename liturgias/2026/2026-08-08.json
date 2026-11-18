@@ -1,0 +1,40 @@
+{
+  "data": "08/08/2026",
+  "liturgia": "São Domingos, presbítero, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Senhor, pelos méritos e ensinamentos de São Domingos, vinde em socorro da vossa Igreja, e o grande pregador da vossa verdade seja nosso fiel intercessor. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, pela intercessão de São Domingos, atendei com bondade as preces que vos apresentamos e, pela força poderosa deste sacrifício, confirmai com a proteção da vossa graça aqueles que lutam em defesa da fé. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, a vossa Igreja receba com grande devoção o vigor do sacramento celeste que nos alimentou na comemoração de São Domingos, e seja auxiliada pela intercessão daquele que a fez florescer pela sua pregação. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Hab 1,12-2,4",
+        "titulo": "Leitura da Profecia de Habacuc",
+        "texto": "12Acaso não existes desde o princípio, Senhor, meu Deus, meu santo, que não haverás de morrer? Senhor, puseste essa gente como instrumento de tua justiça; criaste-a, ó meu rochedo, para exercer punição. 13Teus olhos são puros para não veres o mal; não podes aceitar a visão da iniquidade. Por que, então, olhando para os malvados e vendo-os devorar o justo, ficas calado? 14Tratas os homens como os peixes do mar, como os répteis, que não têm dono. 15O pescador pega tudo com o anzol, puxa os peixes com a rede varredoura e recolhe-os na outra rede; com isso, alegra-se e faz a festa. 16Faz imolação por causa da sua malha, oferece incenso por causa da sua rede, porque com elas cresceu a captura de peixes e sua comida aumentou. 17Será por isso que ele sempre desembainhará a espada, para matar os povos sem dó nem piedade? 2,1Vou ocupar meu posto de guarda e estarei de atalaia, atento ao que me será dito e ao que será respondido à minha denúncia. 2Respondeu-me o Senhor, dizendo: “Escreve esta visão, estende seus dizeres sobre tábuas, para que possa ser lida com facilidade. 3A visão refere-se a um prazo definido,mas tende para um desfecho e não falhará; se demorar, espera, pois ela virá com certeza e não tardará. 4Quem não é correto vai morrer, mas o justo viverá por sua fé”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 9A(9)",
+        "refrao": "Vós nunca abandonais quem vos procura, ó Senhor.",
+        "texto": "– Deus sentou-se para sempre no seu trono, preparou o tribunal do julgamento; julgará o mundo inteiro com justiça, e as nações há de julgar com equidade.\n– O Senhor é o refúgio do oprimido, seu abrigo nos momentos de aflição. Quem conhece o vosso nome em vós espera, porque nunca abandonais quem vos procura.\n– Cantai hinos ao Senhor Deus de Sião, celebrai seus grandes feitos entre os povos! Pois não esquece o clamor dos infelizes, deles se lembra e pede conta do seu sangue."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 17,14-20",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "14Naquele tempo, chegando Jesus e seus discípulos junto da multidão, um homem aproximou-se de Jesus, ajoelhou-se e disse: 15“Senhor, tem piedade do meu filho. Ele é epilético e sofre ataques tão fortes, que muitas vezes cai no fogo ou na água. 16Levei-o aos teus discípulos, mas eles não conseguiram curá-lo!” 17Jesus respondeu: “Ó gente sem fé e perversa! Até quando deverei ficar convosco? Até quando vos suportarei? Trazei aqui o menino”. 18Então Jesus o ameaçou e o demônio saiu dele. Na mesma hora, o menino ficou curado. 19Então, os discípulos aproximaram-se de Jesus e lhe perguntaram em particular: “Por que nós não conseguimos expulsar o demônio?” 20Jesus respondeu: “Porque a vossa fé é demasiado pequena. Em verdade vos digo, se vós tiverdes fé do tamanho de uma semente de mostarda, direis a esta montanha: ‘Vai daqui para lá’, e ela irá. E nada vos será impossível”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "No meio da Igreja o Senhor abriu os seus lábios, encheu-o com o espírito de sabedoria e inteligência e o revestiu com um manto de glória. (Cf. Eclo 15.5)",
+    "comunhao": "Eis o servo fiel e prudente, a quem o Senhor confiou a sua família para dar-lhes alimento no tempo oportuno. (Cf. Lc 12, 42)"
+  }
+}

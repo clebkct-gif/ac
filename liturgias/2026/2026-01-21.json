@@ -1,0 +1,40 @@
+{
+  "data": "21/01/2026",
+  "liturgia": "Santa Inês, virgem e mártir, Memória",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Deus eterno e onipotente, que escolheis o que é fraco no mundo para confundir o que é forte, concedei benigno a nós, que celebramos o martírio de Santa Inês, a graça de imitar sua constância na fé. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, os dons que vos apresentamos na celebração de Santa Inês sejam do vosso agrado, como vos foi precioso o combate do vosso martírio. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, que coroastes Santa Inês entre os santos pela dupla vitória da virgindade e do martírio, concedei-nos, pela força deste sacramento, superar com firmeza todo mal e alcançar a glória celeste. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Sm 17,32-33.37.40-51",
+        "titulo": "Leitura do primeiro livro de Samuel",
+        "texto": "Naqueles dias, 32Davi foi conduzido a Saul e lhe disse: “Ninguém desanime por causa desse filisteu! Eu, teu servo, lutarei contra ele”. 33Mas Saul ponderou: “Não poderás enfrentar esse filisteu, pois tu és só ainda um jovem e ele é um homem de guerra desde a sua mocidade”. 37Davi respondeu: “O Senhor me livrou das garras do leão e das garras do urso. Ele me salvará também das mãos desse filisteu”. Então Saul disse a Davi: “Vai, e que o Senhor esteja contigo”. 40Em seguida, tomou o seu cajado, escolheu no regato cinco pedras bem lisas e colocou-as no seu alforje de pastor, que lhe servia de bolsa para guardar pedras. Depois, com a sua funda na mão, avançou contra o filisteu. 41Este, que se vinha aproximando mais e mais, precedido do seu escudeiro, 42quando pôde ver bem Davi, desprezou-o, porque era muito jovem, ruivo e de bela aparência. 43E lhe disse: “Sou por acaso um cão, para vires a mim com um cajado?” E o filisteu amaldiçoou Davi em nome de seus deuses. 44E acrescentou: “Vem, e eu darei a tua carne às aves do céu e aos animais da terra!” 45Davi respondeu: “Tu vens a mim com espada, lança e escudo; eu, porém, vou a ti em nome do Senhor todo-poderoso, o Deus dos exércitos de Israel que tu insultaste! 46Hoje mesmo o Senhor te entregará em minhas mãos, e te abaterei e te cortarei a cabeça, e darei o teu cadáver e os cadáveres do exército dos filisteus às aves do céu e aos animais da terra, para que toda a terra saiba que há um Deus em Israel. 47E toda esta multidão de homens conhecerá que não é pela espada nem pela lança que o Senhor concede a vitória; porque o Senhor é o árbitro da guerra, e ele vos entregará em nossas mãos”. 48Logo que o filisteu avançou e marchou em direção a Davi, este saiu das linhas de formação e correu ao encontro do filisteu. 49Davi meteu, então, a mão no alforje, apanhou uma pedra e arremessou-a com a funda, atingindo o filisteu na fronte com tanta força, que a pedra se encravou na sua testa e o gigante tombou com o rosto em terra. 50E assim Davi venceu o filisteu, ferindo-o de morte com uma funda e uma pedra. E, como não tinha espada na mão, 51correu para o filisteu, chegou junto dele, arrancou-lhe a espada da bainha e acabou de matá-lo, cortando-lhe a cabeça. Vendo morto o seu guerreiro mais valente, os filisteus fugiram."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 143(144)",
+        "refrao": "Bendito seja o Senhor, meu rochedo!",
+        "texto": "– Bendito seja o Senhor, meu rochedo, + que adestrou minhas mãos para a luta e os meus dedos treinou para a guerra!\n– Ele é meu amor, meu refúgio, libertador, fortaleza e abrigo; é meu escudo: é nele que espero, ele submete as nações a meus pés.\n– Um canto novo, meu Deus, vou cantar-vos, nas dez cordas da harpa louvar-vos, a vós que dais a vitória aos reis e salvais vosso servo Davi."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 3,1-6",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 1Jesus entrou de novo na sinagoga. Havia ali um homem com a mão seca. 2Alguns o observavam para ver se haveria de curar em dia de sábado, para poderem acusá-lo. 3Jesus disse ao homem da mão seca: “Levanta-te e fica aqui no meio!” 4E perguntou-lhes: “É permitido no sábado fazer o bem ou fazer o mal? Salvar uma vida ou deixá-la morrer?” Mas eles nada disseram. 5Jesus, então, olhou ao seu redor, cheio de ira e tristeza, porque eram duros de coração; e disse ao homem: “Estende a mão”. Ele a estendeu e a mão ficou curada. 6Ao saírem, os fariseus com os partidários de Herodes imediatamente tramaram, contra Jesus, a maneira como haveriam de matá-lo."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "A virgem forte, oferta de pureza, oblação de castidade, agora segue o Cordeiro por nós crucificado",
+    "comunhao": "O Cordeiro, que está no meio do trono, os conduzirá às fontes da água da vida. (Ap 7,17)"
+  }
+}

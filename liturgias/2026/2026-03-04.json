@@ -1,0 +1,40 @@
+{
+  "data": "04/03/2026",
+  "liturgia": "4ª feira da 2ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Conservai, Senhor, vossa família na prática das boas obras; e assim como nos confortais agora com vossos auxílios, conduzi-nos aos bens eternos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Considerai, Senhor, com bondade, as oferendas que vos apresentamos e concedei-nos que, pela troca desses dons entre o céu e a terra, sejamos libertados dos nossos pecados. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor nosso Deus, concedei que a Eucaristia que nos destes como penhor da imortalidade nos conduza à vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 18, 18-20",
+        "titulo": "Leitura do Livro do Profeta Jeremias",
+        "texto": "Naqueles dias, 18disseram eles: “Vinde para conspirarmos juntos contra Jeremias; um sacerdote não deixará morrer a lei; nem um sábio, o conselho; nem um profeta, a palavra. Vinde para o atacarmos com a língua, e não vamos prestar atenção a todas as suas palavras”. 19Atende-me, Senhor, ouve o que dizem meus adversários. 20Acaso pode-se retribuir o bem com o mal? Pois eles cavaram uma cova para mim. Lembra-te de que fui à tua presença, para interceder por eles e tentar afastar deles a tua ira."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 30",
+        "refrao": "Salvai-me pela vossa compaixão, ó Senhor Deus!",
+        "texto": "— Retirai-me desta rede traiçoeira, porque sois o meu refúgio protetor! Em vossas mãos, Senhor, entrego o meu espírito, porque vós me salvareis, ó Deus fiel! \n— Ao redor, todas as coisas me apavoram; ouço muitos cochichando contra mim; todos juntos se reúnem, conspirando e pensando como vão tirar-me a vida. \n— A vós, porém, ó meu Senhor, eu me confio, e afirmo que só vós sois o meu Deus! Eu entrego em vossas mãos o meu destino; libertai-me do inimigo e do opressor!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 20, 17-28",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 17enquanto Jesus subia para Jerusalém, ele tomou os doze discípulos à parte e, durante a caminhada, disse-lhes: 18“Eis que estamos subindo para Jerusalém, e o Filho do Homem será entregue aos sumos sacerdotes e aos mestres da Lei. Eles o condenarão à morte, 19e o entregarão aos pagãos para zombarem dele, para flagelá-lo e crucificá-lo. Mas no terceiro dia ressuscitará”.\n20A mãe dos filhos de Zebedeu aproximou-se de Jesus com seus filhos e ajoelhou-se com a intenção de fazer um pedido. 21Jesus perguntou: “O que tu queres?” Ela respondeu: “Manda que estes meus dois filhos se sentem, no teu Reino, um à tua direita e outro à tua esquerda”. 22Jesus, então, respondeu-lhes: “Não sabeis o que estais pedindo. Por acaso podeis beber o cálice que eu vou beber?” Eles responderam: “Podemos”. 23Então Jesus lhes disse: “De fato, vós bebereis do meu cálice, mas não depende de mim conceder o lugar à minha direita ou à minha esquerda. Meu Pai é quem dará esses lugares àqueles para os quais ele os preparou”.\n24Quando os outros dez discípulos ouviram isso, ficaram irritados contra os dois irmãos. 25Jesus, porém, chamou-os, e disse: “Vós sabeis que os chefes das nações têm poder sobre elas e os grandes as oprimem. 26Entre vós não deverá ser assim. Quem quiser tornar-se grande, torne-se vosso servidor; 27quem quiser ser o primeiro, seja vosso servo. 28Pois, o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida como resgate em favor de muitos”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Não me abandoneis, Senhor, meu Deus, nem fiqueis longe de mim! Vinde em meu auxílio, ó Senhor, força da minha salvação! (Cf. Sl 37, 22-23)",
+    "comunhao": "O Filho do homem não veio para ser servido, mas para servir e dar a sua vida como resgate em favor de muitos. (Cf. Mt 20, 28)"
+  }
+}

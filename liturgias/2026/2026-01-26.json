@@ -1,0 +1,40 @@
+{
+  "data": "26/01/2026",
+  "liturgia": "Santos Timóteo e Tito, bispos, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que ornastes os Santos Timóteo e Tito com as virtudes dos Apóstolos, concedei-nos, por sua intercessão, viver neste mundo com justiça e piedade, para merecermos chegar à pátria celeste. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, nós vos pedimos, acolhei os dons do vosso povo que trazemos na comemoração de São Timóteo e São Tito; e fazei que vos agrademos na sinceridade de nosso coração. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor nosso Deus, os sacramentos que recebemos alimentem em nós a mesma fé transmitida pela pregação apostólica e que os Santos Timóteo e Tito guardaram com solicitude. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Tm 1, 1-8",
+        "titulo": "Início da Segunda Carta de São Paulo a Timóteo",
+        "texto": "1Paulo, Apóstolo de Jesus Cristo pelo desígnio de Deus referente à promessa de vida que temos em Cristo Jesus, 2a Timóteo, meu querido filho: Graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor! 3Dou graças a Deus — a quem sirvo com a consciência pura, como aprendi dos meus antepassados — quando me lembro de ti, dia e noite, nas minhas orações. 4Lembrando-me das tuas lágrimas, sinto grande desejo de rever-te, e assim ficar cheio de alegria. 5Recordo-me da fé sincera que tens, aquela mesma fé que antes tiveram tua avó Loide e tua mãe Eunice. Sem dúvida, assim é também a tua. 6Por este motivo, exorto-te a reavivar a chama do dom de Deus que recebeste pela imposição das minhas mãos. 7Pois Deus não nos deu um espírito de timidez mas de fortaleza, de amor e sobriedade. 8Não te envergonhes do testemunho de Nosso Senhor nem de mim, seu prisioneiro, mas sofre comigo pelo Evangelho, fortificado pelo poder de Deus."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 95",
+        "refrao": "Anunciai entre as nações os grandes feitos do Senhor!",
+        "texto": "— Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! Cantai e bendizei seu santo nome! \n— Dia após dia anunciai sua salvação, manifestai a sua glória entre as nações, e entre os povos do universo seus prodígios! \n— Ó família das nações, dai ao Senhor, nações, dai ao Senhor poder e glória, dai-lhe a glória que é devida ao seu nome! \n— Publicai entre as nações: “Reina o Senhor!” Ele firmou o universo inabalável, e os povos ele julga com justiça"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 10, 1-9",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 1o Senhor escolheu outros setenta e dois discípulos e os enviou dois a dois, na sua frente, a toda cidade e lugar aonde ele próprio devia ir. 2E dizia-lhes: “A messe é grande, mas os trabalhadores são poucos. Por isso, pedi ao dono da messe que mande trabalhadores para a colheita. 3Eis que vos envio como cordeiros para o meio de lobos. 4Não leveis bolsa, nem sacola, nem sandálias, e não cumprimenteis ninguém pelo caminho! 5Em qualquer casa em que entrardes, dizei primeiro: ‘A paz esteja nesta casa!’ 6Se ali morar um amigo da paz, a vossa paz repousará sobre ele; se não, ela voltará para vós. 7Permanecei naquela mesma casa, comei e bebei do que tiverem, porque o trabalhador merece o seu salário. Não passeis de casa em casa. 8Quando entrardes numa cidade e fordes bem recebidos, comei do que vos servirem, 9curai os doentes que nela houver e dizei ao povo: ‘O Reino de Deus está próximo de vós’”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Manifestai a sua glória entre as nações e entre os povos do universo seus prodígios! Pois Deus é grande e muito digno de louvor. (Cf Sl 95.3-4)",
+    "comunhao": "Ide pelo mundo inteiro e anunciai o Evangelho! Eis que estarei convosco todos os dias, diz o Senhor. (Cf. Mc 16,15; Mt 28, 20)"
+  }
+}

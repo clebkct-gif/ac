@@ -1,0 +1,46 @@
+{
+  "data": "22/02/2026",
+  "liturgia": "1º Domingo da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Deus todo-poderoso, através dos exercícios anuais do sacramento da Quaresma, concedei-nos progredir no conhecimento do mistério de Cristo e corresponder-lhe por uma vida santa. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Nós vos pedimos, Senhor, fazei que o nosso coração corresponda a estas oferendas com as quais iniciamos nossa caminhada para a Páscoa. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, que nos alimentastes com este pão que nutre a fé, incentiva a esperança e fortalece a caridade, dai-nos desejar o Cristo, pão vivo e verdadeiro, e viver de toda palavra que sai de vossa boca. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Gn 2,7-9; 3,1-7",
+        "titulo": "Leitura do Livro do Gênesis",
+        "texto": "7O Senhor Deus formou o homem do pó da terra, soprou-lhe nas narinas o sopro da vida e o homem tornou-se um ser vivente. 8Depois, o Senhor Deus plantou um jardim em Éden, ao oriente, e ali pôs o homem que havia formado. 9E o Senhor Deus fez brotar da terra toda sorte de árvores de aspecto atraente e de fruto saboroso ao paladar, a árvore da vida no meio do jardim e a árvore do conhecimento do bem e do mal. 3,1A serpente era o mais astuto de todos os animais dos campos que o Senhor Deus tinha feito. Ela disse à mulher: “É verdade que Deus vos disse: ‘Não comereis de nenhuma das árvores do jardim’?” 2E a mulher respondeu à serpente: “Do fruto das árvores do jardim nós podemos comer. 3Mas do fruto da árvore que está no meio do jardim, Deus nos disse: ‘Não comais dele nem sequer o toqueis, do contrário morrereis'”. 4A serpente disse à mulher: “Não, vós não morrereis. 5Mas Deus sabe que, no dia em que dele comerdes, vossos olhos se abrirão e vós sereis como Deus, conhecendo o bem e o mal”. 6A mulher viu que seria bom comer da árvore, pois era atraente para os olhos e desejável para se alcançar conhecimento. E colheu um fruto, comeu e deu também ao marido, que estava com ela, e ele comeu. 7Então, os olhos dos dois se abriram; e, vendo que estavam nus, teceram tangas para si com folhas de figueira."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Rm 5,12-19",
+        "titulo": "Leitura da carta de São Paulo aos Romanos",
+        "texto": "Irmãos, 12consideremos o seguinte: o pecado entrou no mundo por um só homem. Através do pecado, entrou a morte. E a morte passou para todos os homens, porque todos pecaram. 13Na realidade, antes de ser dada a Lei, já havia pecado no mundo. Mas o pecado não pode ser imputado quando não há lei. 14No entanto, a morte reinou, desde Adão até Moisés, mesmo sobre os que não pecaram como Adão – o qual era a figura provisória daquele que devia vir. 15Mas isso não quer dizer que o dom da graça de Deus seja comparável à falta de Adão! A transgressão de um só levou a multidão humana à morte, mas foi de modo bem superior que a graça de Deus, ou seja, o dom gratuito concedido através de um só homem, Jesus Cristo, se derramou em abundância sobre todos. 16Também, o dom é muito mais eficaz do que o pecado de um só. Pois a partir de um só pecado o julgamento resultou em condenação, mas o dom da graça frutifica em justificação a partir de inúmeras faltas. [17Por um só homem, pela falta de um só homem, a morte começou a reinar. Muito mais reinarão na vida, pela mediação de um só, Jesus Cristo, os que recebem o dom gratuito e superabundante da justiça. 18Como a falta de um só acarretou condenação para todos os homens, assim o ato de justiça de um só trouxe, para todos os homens, a justificação que dá a vida. 19Com efeito, como, pela desobediência de um só homem, a humanidade toda foi estabelecida numa situação de pecado, assim também, pela obediência de um só, toda a humanidade passará para uma situação de justiça."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 50(51)",
+        "refrao": "Piedade, ó Senhor, tende piedade, pois pecamos contra vós.",
+        "texto": "– Tende piedade, ó meu Deus, misericórdia! Na imensidão de vosso amor, purificai-me! Lavai-me todo inteiro do pecado e apagai completamente a minha culpa!\n– Eu reconheço toda a minha iniquidade, o meu pecado está sempre à minha frente. Foi contra vós, só contra vós, que eu pequei, e pratiquei o que é mau aos vossos olhos!\n– Criai em mim um coração que seja puro, dai-me de novo um espírito decidido. Ó Senhor, não me afasteis de vossa face nem retireis de mim o vosso Santo Espírito!\n– Dai-me de novo a alegria de ser salvo e confirmai-me com espírito generoso! Abri meus lábios, ó Senhor, para cantar, e minha boca anunciará vosso louvor!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 4,1-11",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 1o Espírito conduziu Jesus ao deserto, para ser tentado pelo diabo. 2Jesus jejuou durante quarenta dias e quarenta noites e, depois disso, teve fome. 3Então, o tentador aproximou-se e disse a Jesus: “Se és Filho de Deus, manda que estas pedras se transformem em pães!” 4Mas Jesus respondeu: “Está escrito: ‘Não só de pão vive o homem, mas de toda palavra que sai da boca de Deus'”. 5Então o diabo levou Jesus à cidade santa, colocou-o sobre a parte mais alta do templo 6e lhe disse: “Se és Filho de Deus, lança-te daqui abaixo! Porque está escrito: ‘Deus dará ordens aos seus anjos a teu respeito, e eles te levarão nas mãos, para que não tropeces em alguma pedra'”. 7Jesus lhe respondeu: “Também está escrito: ‘Não tentarás o Senhor teu Deus!'” 8Novamente, o diabo levou Jesus para um monte muito alto. Mostrou-lhe todos os reinos do mundo e sua glória 9e lhe disse: “Eu te darei tudo isso se te ajoelhares diante de mim, para me adorar”. 10Jesus lhe disse: “Vai-te embora, satanás, porque está escrito: ‘Adorarás ao Senhor teu Deus e somente a ele prestarás culto'”. 11Então o diabo o deixou. E os anjos se aproximaram e serviram a Jesus."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Ele me invocará e eu o ouvirei; hei de livrá-lo e glorificá-lo, vou saciá-lo com longos dias. (Cf. Sl 90,15-16)",
+    "comunhao": "Não só de pão vive o homem, mas de toda palavra que sai da boca de Deus. (Cf. Mt 4,4)"
+  }
+}

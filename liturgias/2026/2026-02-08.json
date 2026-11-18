@@ -1,0 +1,46 @@
+{
+  "data": "08/02/2026",
+  "liturgia": "5º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Velai, Senhor, nós vos pedimos, com incansável amor sobre vossa família; e porque só em vós coloca a sua esperança, defendei-a sempre com vossa proteção. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor nosso Deus, que criastes o pão e o vinho para alimentar nossa fraqueza, concedei, nós vos pedimos, que se tornem para nós sacramento de vida eterna. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, quisestes que participássemos do mesmo pão e do mesmo cálice; fazei-nos viver de tal modo unidos em Cristo, que possamos com alegria produzir fruto para a salvação do mundo. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 58,7-10",
+        "titulo": "Leitura do Livro do profeta Isaías",
+        "texto": "Assim diz o Senhor: 7Reparte o pão com o faminto, acolhe em casa os pobres e peregrinos. Quando encontrares um nu, cobre-o e não desprezes a tua carne. 8Então, brilhará tua luz como a aurora e tua saúde há de recuperar-se mais depressa; à frente caminhará tua justiça e a glória do Senhor te seguirá. 9Então invocarás o Senhor e ele te atenderá, pedirás socorro e ele dirá: “Eis-me aqui”. Se destruíres teus instrumentos de opressão e deixares os hábitos autoritários e a linguagem maldosa; 10se acolheres de coração aberto o indigente e prestares todo o socorro ao necessitado, nascerá nas trevas a tua luz e tua vida obscura será como o meio-dia."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "1Cor 2,1-5",
+        "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+        "texto": "1Irmãos, quando fui à vossa cidade anunciar-vos o mistério de Deus, não recorri a uma linguagem elevada ou ao prestígio da sabedoria humana. 2Pois, entre vós, não julguei saber coisa alguma, a não ser Jesus Cristo, e este crucificado. 3Aliás, eu estive junto de vós com fraqueza e receio, e muito tremor. 4Também a minha palavra e a minha pregação não tinham nada dos discursos persuasivos da sabedoria, mas eram uma demonstração do poder do Espírito, 5para que a vossa fé se baseasse no poder de Deus, e não na sabedoria dos homens."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 111(112)",
+        "refrao": "Uma luz brilha nas trevas para o justo, permanece para sempre o bem que fez.",
+        "texto": "– Ele é correto, generoso e compassivo, como luz brilha nas trevas para os justos. Feliz o homem caridoso e prestativo, que resolve seus negócios com justiça.\n– Porque jamais vacilará o homem reto, sua lembrança permanece eternamente! Ele não teme receber notícias más: confiando em Deus, seu coração está seguro.\n– Seu coração está tranquilo e nada teme. Ele reparte com os pobres os seus bens, permanece para sempre o bem que fez e crescerão a sua glória e seu poder."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 5,13-16",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus a seus discípulos: 13“Vós sois o sal da terra. Ora, se o sal se tornar insosso, com que salgaremos? Ele não servirá para mais nada, senão para ser jogado fora e ser pisado pelos homens. 14Vós sois a luz do mundo. Não pode ficar escondida uma cidade construída sobre um monte. 15Ninguém acende uma lâmpada e a coloca debaixo de uma vasilha, mas sim num candeeiro, onde brilha para todos os que estão na casa. 16Assim também brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras e louvem o vosso Pai que está nos céus”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vinde, adoremos e prostremo-nos por terra, e ajoelhemo-nos ante o Deus que nos criou! Porque ele é o nosso Deus, nosso Pastor. (Cf. Sl 94,6-7 )",
+    "comunhao": "Agradeçam ao Senhor por seu amor e por suas maravilhas entre os homens! Deu de beber aos que sofriam tanta sede e os famintos saciou com muitos bens. (Cf. Sl 106.8-9)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "30/06/2026",
+  "liturgia": "3ª feira da 13ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, pela graça da adoção nos tornastes filhos da luz; concedei que não sejamos envolvidos pelas trevas do erro, mas permaneçamos sempre no esplendor da verdade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, que nos assegurais os frutos dos vossos mistérios, fazei que nosso serviço corresponda à santidade dos vossos dons Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, o Corpo e o Sangue de Jesus Cristo, que oferecemos em sacrifício e recebemos em comunhão, nos transmitam uma vida nova, para que, unidos a vós pela caridade que não passa, possamos produzir frutos que permaneçam. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Am 3, 1-8; 4, 11-12",
+        "titulo": "Leitura da Profecia de Amós",
+        "texto": "3 1Ouvi, filhos de Israel, a palavra que disse o Senhor para vós e para todas as tribos que eu retirei do Egito: 2“Dentre todas as nações da terra, somente a vós reconheci; por isso usarei o castigo por todas as vossas iniquidades. 3Se duas pessoas caminham juntas, não é porque estão de acordo? 4Se o leão ruge na selva, não é porque encontrou a presa? Se no covil rosna o filhote do leão, não é porque agarrou sua parte?,5Acaso, sem armadilha, se prende uma ave no chão? Acaso dispara a armadilha, antes de capturar a presa? 6Se ressoa na cidade o toque da trombeta, não fica a população apavorada? Se acontece uma desgraça na cidade, não foi o Senhor que fez? 7Pois nada fará o Senhor Deus, que não revele o plano a seus servos, os profetas. 8Ruge o leão, quem não terá medo? Falou o Senhor Deus, quem não será seu profeta?”,4, 11“Eu arrasei-vos, como arrasei Sodoma e Gomorra, e ficastes como um tição, retirado da fogueira; e, contudo, não voltastes para mim”, diz o Senhor. 12“Por isso, assim te tratarei, Israel; e, porque sabes como te vou tratar, prepara-te, Israel, para ajustar contas com o teu Deus."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 5,5-6.7.8",
+        "refrao": "Na vossa justiça, guiai-me, Senhor!",
+        "texto": "– Não sois um Deus a quem agrade a iniquidade, não pode o mau morar convosco; nem os ímpios poderão permanecer perante os vossos olhos.\n– Detestais o que pratica a iniquidade e destruís o mentiroso. Ó Senhor, abominais o sanguinário, o perverso e enganador.\n– Eu, porém, por vossa graça generosa, posso entrar em vossa casa. E, voltado reverente ao vosso templo, com respeito vos adoro."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 8,23-27",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 23Jesus entrou na barca e seus discípulos o acompanharam. 24E eis que houve uma grande tempestade no mar, de modo que a barca estava sendo coberta pelas ondas. Jesus, porém, dormia. 25Os discípulos aproximaram-se e o acordaram, dizendo: “Senhor, salva-nos, pois estamos perecendo!” 26Jesus respondeu: “Por que tendes tanto medo, homens fracos na fé?” Então, levantando-se, ameaçou os ventos e o mar, e fez-se uma grande calmaria. 27Os homens ficaram admirados e diziam: “Quem é este homem, que até os ventos e o mar lhe obedecem?”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Povos todos do universo, batei palmas, gritai a  Deus aclamações de alegria. (Cf. Sl 46,2)",
+    "comunhao": "Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores! (Cf. Sl 102,1)"
+  }
+}

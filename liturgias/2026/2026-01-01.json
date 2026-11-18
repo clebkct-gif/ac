@@ -1,0 +1,46 @@
+{
+  "data": "01/01/2026",
+  "liturgia": "Santa Maria, Mãe de Deus, Solenidade",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que pela virgindade fecunda de Maria destes à humanidade o dom da salvação eterna, dai-nos contar sempre com a intercessão daquela que nos trouxe o autor da vida, Jesus Cristo. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos do séculos.",
+    "oferendas": "Ó Deus, sois o início e o fim de tudo o que é bom, concedei que, na solenidade da Santa Mãe de Deus, possamos gloriar-nos com as primícias da vossa graça, e alegrar-nos com a sua plenitude. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, cheios de júbilo, recebemos os sacramentos celestes; concedei que eles nos sejam úteis para a vida eterna, a nós que nos gloriamos em proclamar a Virgem Maria Mãe de Deus e Mãe da Igreja. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Nm 6, 22-27",
+        "titulo": "Leitura do Livro dos Números",
+        "texto": "O Senhor falou a Moisés, dizendo: 23“Fala a Aarão e a seus filhos: Ao abençoar os filhos de Israel, dizei-lhes: 24‘O Senhor te abençoe e te guarde! 25O Senhor faça brilhar sobre ti a sua face, e se compadeça de ti! 26O Senhor volte para ti o seu rosto e te dê a paz!’ 27Assim invocarão o meu nome sobre os filhos de Israel, e eu os abençoarei”."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Gl 4, 4-7",
+        "titulo": "Leitura da Carta de São Paulo aos Gálatas",
+        "texto": "Irmãos: 4Quando se completou o tempo previsto, Deus enviou o seu Filho, nascido de uma mulher, nascido sujeito à Lei, 5a fim de resgatar os que eram sujeitos à Lei e para que todos recebêssemos a filiação adotiva. 6E porque sois filhos, Deus enviou aos nossos corações o Espírito do seu Filho, que clama: Abá — ó Pai! 7Assim, já não és escravo, mas filho; e, se és filho, és também herdeiro: tudo isso por graça de Deus."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 66",
+        "refrao": "Que Deus nos dê a sua graça e sua bênção.",
+        "texto": "— Que Deus nos dê a sua graça e sua bênção, e sua face resplandeça sobre nós! Que na terra se conheça o seu caminho e a sua salvação por entre os povos. \n— Exulte de alegria a terra inteira, pois julgais o universo com justiça; os povos governais com retidão, e guiais, em toda a terra, as nações. \n— Que as nações vos glorifiquem, ó Senhor, que todas as nações vos glorifiquem! Que o Senhor e nosso Deus nos abençoe, e o respeitem os confins de toda a terra"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 2, 16-21",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 16os pastores foram às pressas a Belém e encontraram Maria e José, e o recém-nascido deitado na manjedoura.17Tendo-o visto, contaram o que lhes fora dito sobre o menino. 18E todos os que ouviram os pastores ficaram maravilhados com aquilo que contavam.19Quanto a Maria, guardava todos esses fatos e meditava sobre eles em seu coração.20Os pastores voltaram, glorificando e louvando a Deus por tudo que tinham visto e ouvido, conforme lhes tinha sido dito. 21Quando se completaram os oito dias para a circuncisão do menino, deram-lhe o nome de Jesus, como fora chamado pelo anjo antes de ser concebido."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Hoje a luz brilhará sobre nós, porque nasceu para nós o Senhor; ele será chamado Admirável, Deus, Príncipe da paz, Pai do mundo novo, o seu reino não terá fim. (Cf. Is 9, 2. 6; Lc 1, 33)",
+    "comunhao": "Jesus Cristo é o mesmo ontem e hoje e por toda a eternidade. (Hb 13, 8)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "06/02/2026",
+  "liturgia": "São Paulo Miki e companheiros, Mártires, Memória",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, força de todos os santos, que, pelo martírio da cruz, chamastes à verdadeira vida São Paulo Miki e seus companheiros, concedei-nos, por sua intercessão, perseverar até a morte firmes na fé que professamos. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Pai santo, aceitai as oferendas que vos apresentamos na comemoração dos santos mártires e a nós, vossos servos e servas, concedei a graça de permanecer firmes na confissão do vosso nome. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, manifestastes de modo admirável o mistério da cruz em vossos mártires, concedei-nos benigno que, fortalecidos por este sacrifício, permaneçamos fielmente unidos a Cristo e trabalhemos na Igreja para a salvação de todos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Eclo 47,2-13",
+        "titulo": "Leitura do Livro do Eclesiástico",
+        "texto": "2Como a gordura, que se separa do sacrifício pacífico, assim também sobressai Davi entre os israelitas. 3Brincou com leões como se fossem cabritos e com ursos como se fossem cordeiros. 4Não foi ele que, ainda jovem, matou o gigante e retirou do seu povo a desonra? 5Ao levantar a mão com a pedra na funda, ele abateu o orgulho de Golias. 6Pois invocou o Senhor, o Altíssimo, e este deu força ao seu braço direito e ele acabou com um poderoso guerreiro e reergueu o poder do seu povo. 7Assim foi que o glorificaram por dez mil e o louvaram pelas bênçãos do Senhor, oferecendo-lhe uma coroa de glória. 8Pois esmagou os inimigos por toda parte e aniquilou os filisteus, seus adversários, abatendo até hoje o seu poder. 9Em todas as suas obras dava graças ao Santo Altíssimo com palavras de louvor: 10de todo o coração louvava o Senhor, mostrando que amava a Deus, seu criador. 11Diante do altar colocou cantores, que deviam acompanhar suavemente as melodias. 12Deu grande esplendor às festas e ordenou com perfeição as solenidades até o fim do ano: fez com que louvassem o santo nome do Senhor, enchendo o santuário de harmonia desde a aurora. 13O Senhor lhe perdoou os seus pecados e exaltou para sempre o seu poder; concedeu-lhe a aliança real e um trono glorioso em Israel."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 17(18)",
+        "refrao": "Louvado seja Deus, meu salvador!",
+        "texto": "– São perfeitos os caminhos do Senhor, sua palavra é provada pelo fogo; nosso Deus é um escudo poderoso para aqueles que a ele se confiam.\n– Viva o Senhor! Bendito seja o meu rochedo! E louvado seja Deus, meu salvador! Por isso, entre as nações, vos louvarei, cantarei salmos, ó Senhor, ao vosso nome.\n– Concedeis ao vosso rei grandes vitórias e mostrais misericórdia ao vosso ungido, a Davi e à sua casa para sempre."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 6,14-29",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 14 o rei Herodes ouviu falar de Jesus, cujo nome se tinha tornado muito conhecido. Alguns diziam: “João Batista ressuscitou dos mortos. Por isso os poderes agem nesse homem”. 15Outros diziam: “É Elias”. Outros ainda diziam: “É um profeta como um dos profetas”. 16Ouvindo isso, Herodes disse: “Ele é João Batista. Eu mandei cortar a cabeça dele, mas ele ressuscitou!” 17Herodes tinha mandado prender João e colocá-lo acorrentado na prisão. Fez isso por causa de Herodíades, mulher do seu irmão Filipe, com quem se tinha casado. 18João dizia a Herodes: “Não te é permitido ficar com a mulher do teu irmão”. 19Por isso Herodíades o odiava e queria matá-lo, mas não podia. 20Com efeito, Herodes tinha medo de João, pois sabia que ele era justo e santo, e por isso o protegia. Gostava de ouvi-lo, embora ficasse embaraçado quando o escutava. 21Finalmente, chegou o dia oportuno. Era o aniversário de Herodes, e ele fez um grande banquete para os grandes da corte, os oficiais e os cidadãos importantes da Galileia. 22A filha de Herodíades entrou e dançou, agradando a Herodes e seus convidados. Então o rei disse à moça: “Pede-me o que quiseres e eu to darei”. 23E lhe jurou, dizendo: “Eu te darei qualquer coisa que me pedires, ainda que seja a metade do meu reino”. 24Ela saiu e perguntou à mãe: “O que vou pedir?” A mãe respondeu: “A cabeça de João Batista”. 25E, voltando depressa para junto do rei, pediu: “Quero que me dês agora, num prato, a cabeça de João Batista”. 26O rei ficou muito triste, mas não pôde recusar. Ele tinha feito o juramento diante dos convidados. 27Imediatamente, o rei mandou que um soldado fosse buscar a cabeça de João. O soldado saiu, degolou-o na prisão, 28trouxe a cabeça num prato e a deu à moça. Ela a entregou à sua mãe. 29Ao saberem disso, os discípulos de João foram lá, levaram o cadáver e o sepultaram."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Alegram-se nos céus os santos que seguiram os passos de Cristo. Por seu amor derramaram o próprio sangue; por isso, com ele exultam eternamente.",
+    "comunhao": "Vós ficastes comigo em minhas provações. Por isso vos confio o reino. Vós havereis de comer e beber à minha mesa no meu reino, diz o Senhor. (Cf. Lc 22, 28-30)"
+  }
+}

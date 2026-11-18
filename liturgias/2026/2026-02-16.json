@@ -1,0 +1,40 @@
+{
+  "data": "16/02/2026",
+  "liturgia": "2ª feira da 6ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, que prometestes permanecer nos corações retos e sinceros, concedei-nos por vossa graça viver de tal maneira que possais habitar em nós. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Este sacrifício, Senhor, nos purifique e renove e seja causa de recompensa eterna para os que fazem a vossa vontade. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, que nos fizestes provar as alegrias do céu, dai-nos desejar sempre o alimento que nos traz a verdadeira vida. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Tg 1,1-11",
+        "titulo": "Início da carta de são Tiago",
+        "texto": "1Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos que vivem na dispersão: saudações. 2Meus irmãos, quando deveis passar por diversas provações, considerai isso motivo de grande alegria, 3por saberdes que a comprovação da fé produz em vós a perseverança. 4Mas é preciso que a perseverança gere uma obra de perfeição, para que vos torneis perfeitos e íntegros, sem falta ou deficiência alguma. 5Se a alguém de vós falta sabedoria, peça-a a Deus, que a concede generosamente a todos, sem impor condições; e ela lhe será dada. 6Mas peça com fé, sem duvidar, porque aquele que duvida é semelhante a uma onda do mar, impelida e agitada pelo vento. 7Não pense tal pessoa que receberá alguma coisa do Senhor: 8o homem de duas almas é inconstante em todos os seus caminhos. 9O irmão humilde pode ufanar-se de sua exaltação, 10mas o rico deve gloriar-se de sua humilhação. Pois há de passar como a flor da erva. 11Com efeito, basta que surja o sol com o seu calor, logo seca a erva, cai a sua flor e desaparece a beleza do seu aspecto. Assim também acabará por murchar o rico no meio de seus negócios."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 118(119)",
+        "refrao": "Venha a mim o vosso amor e viverei.",
+        "texto": "– Antes de ser por vós provado, eu me perdera; mas agora sigo firme em vossa lei!\n– Porque sois bom e realizais somente o bem, ensinai-me a fazer vossa vontade!\n– Para mim foi muito bom ser humilhado, porque assim eu aprendi vossa vontade!\n– A lei de vossa boca, para mim, vale mais do que milhões em ouro e prata.\n– Sei que os vossos julgamentos são corretos e com justiça me provastes, ó Senhor!\n– Vosso amor seja um consolo para mim, conforme a vosso servo prometestes."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 8,11-13",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 11os fariseus vieram e começaram a discutir com Jesus. E, para pô-lo à prova, pediam-lhe um sinal do céu. 12Mas Jesus deu um suspiro profundo e disse: “Por que esta gente pede um sinal? Em verdade vos digo, a esta gente não será dado nenhum sinal”. 13E, deixando-os, Jesus entrou de novo na barca e se dirigiu para a outra margem."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Sede para mim um Deus protetor e um lugar de refúgio, para me salvar. Porque sois minha força e meu refúgio e, por causa do vosso nome, me guiais e sustentais. (Cf. Sl 30,3-4)",
+    "comunhao": "Eles comeram e beberam à vontade. O Senhor satisfizera os seus desejos. Pois Deus amou tanto o mundo que deu o seu Filho Unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna. (Cf. Sl 77,29-30 Ou: Jo 3,16)"
+  }
+}

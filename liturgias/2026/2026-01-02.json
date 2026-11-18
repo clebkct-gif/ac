@@ -1,0 +1,40 @@
+{
+  "data": "02/01/2026",
+  "liturgia": "Santos Basílio Magno e Gregório Nazianzeno, bispos e doutores da Igreja, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que vos dignastes iluminar vossa Igreja com o exemplo e a doutrina dos santos bispos Basílio e Gregório, concedei, nós vos pedimos, que aprendamos humildemente vossa verdade e a pratiquemos com fidelidade e amor. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, nós vos pedimos, aceitai esta oblação do vosso povo e fazei frutificar para nossa eterna salvação o sacrifício que, na memória dos Santos Basílio e Gregório, oferecemos para a vossa glória. Por Cristo, nosso Senhor.",
+    "comunhao": "Deus todo-poderoso, a mesa celestial revigore e aumente as forças do alto para podermos guardar íntegro o dom da fé e progredir no caminho da salvação que estes santos nos mostraram. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Jo 2, 22-28",
+        "titulo": "Leitura da Primeira Carta de São João",
+        "texto": "Caríssimos: 22quem é mentiroso, senão aquele que nega que Jesus é o Cristo? O Anticristo é aquele que nega o Pai e o Filho. 23Todo aquele que nega o Filho também não possui o Pai. Quem confessa o Filho possui também o Pai. 24Permaneça dentro de vós aquilo que ouvistes desde o princípio. Se o que ouvistes desde o princípio permanecer em vós, permanecereis com o Filho e com o Pai. 25E esta é a promessa que ele nos fez: a vida eterna. 26Escrevo isto a respeito dos que procuram desencaminhar-vos. 27Quanto a vós mesmos, a unção que recebestes da parte de Jesus permanece convosco, e não tendes necessidade de que alguém vos ensine. A sua unção vos ensina tudo, e ela é verdadeira e não mentirosa. Por isso, conforme a unção de Jesus vos ensinou, permanecei nele.,28Então, agora, filhinhos, permanecei nele. Assim poderemos ter plena confiança, quando ele se manifestar, e não seremos vergonhosamente afastados dele, quando da sua vinda."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 97",
+        "refrao": "Os confins do universo contemplaram a salvação do nosso Deus.",
+        "texto": "— Cantai ao Senhor Deus um canto novo, porque ele fez prodígios! Sua mão e o seu braço forte e santo alcançaram-lhe a vitória. \n— O Senhor fez conhecer a salvação, e às nações, sua justiça; recordou o seu amor sempre fiel pela casa de Israel. \n— Os confins do universo contemplaram a salvação do nosso Deus. Aclamai o Senhor Deus, ó terra inteira, alegrai-vos e exultai"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 1, 19-28",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Este foi o testemunho de João, quando os judeus enviaram de Jerusalém sacerdotes e levitas para perguntar: “Quem és tu?” 20João confessou e não negou. Confessou: “Eu não sou o Messias”. 21Eles perguntaram: “Quem és, então? És tu Elias?” João respondeu: “Não sou”. Eles perguntaram: “És o Profeta?” Ele respondeu: “Não”. 22Perguntaram então: “Quem és, afinal? Temos de levar uma resposta para aqueles que nos enviaram. O que dizes de ti mesmo?” 23João declarou: “Eu sou a voz que grita no deserto: ‘Aplainai o caminho do Senhor’ — conforme disse o profeta Isaías”. 24Ora, os que tinham sido enviados pertenciam aos fariseus 25e perguntaram: “Por que então andas batizando, se não és o Messias, nem Elias, nem o Profeta?” 26João respondeu: “Eu batizo com água; mas no meio de vós está aquele que vós não conheceis, 27e que vem depois de mim. Eu não mereço desamarrar a correia de suas sandálias”. 28Isso aconteceu em Betânia além do Jordão, onde João estava batizando."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Proclamem os povos a sabedoria dos santos e a Igreja celebre os seus louvores; seus nomes viverão pelos séculos dos séculos. (Cf. Eclo 44, 15. 14)",
+    "comunhao": "Nós anunciamos Cristo crucificado, poder e sabedoria de Deus. (Cf. 1Cor 1, 23-24)"
+  }
+}

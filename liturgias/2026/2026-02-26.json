@@ -1,0 +1,40 @@
+{
+  "data": "26/02/2026",
+  "liturgia": "5ª feira da 1ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Dai-nos, ó Deus, pensar sempre o que é reto e realizá-lo com solicitude. E como só podemos existir em vós, fazei-nos viver segundo a vossa vontade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Sede propício, Senhor, às orações dos que vos suplicam e, acolhendo as preces e oblações do vosso povo, convertei a vós os nossos corações. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor nosso Deus, que os sacrossantos mistérios, instituídos para a nossa salvação, nos sirvam de remédio, hoje e sempre. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Est 4,17",
+        "titulo": "Leitura do Livro de Ester",
+        "texto": "Naqueles dias, 17na rainha Ester, temendo o perigo de morte que se aproximava, buscou refúgio no Senhor. 17pProstrou-se por terra desde a manhã até o anoitecer, juntamente com suas servas, e disse: 17q“Deus de Abraão, Deus de Isaac e Deus de Jacó, tu és bendito. Vem em meu socorro, pois estou só e não tenho outro defensor fora de ti, Senhor, 17rpois eu mesma me expus ao perigo. 17aaSenhor, eu ouvi, dos livros de meus antepassados, que tu libertas, Senhor, até o fim, todos os que te são caros. 17bbAgora, pois, ajuda-me, a mim que estou sozinha e não tenho mais ninguém senão a ti, Senhor meu Deus. 17ggVem, pois, em auxílio de minha orfandade. Põe em meus lábios um discurso atraente, quando eu estiver diante do leão, e muda o seu coração para que odeie aquele que nos ataca, para que este pereça com todos os seus cúmplices. 17hhE livra-nos da mão de nossos inimigos. Transforma nosso luto em alegria e nossas dores em bem-estar”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 137(138)",
+        "refrao": "Naquele dia em que gritei, vós me escutastes, ó Senhor!",
+        "texto": "— Ó Senhor, de coração eu vos dou graças, porque ouvistes as palavras dos meus lábios! Perante os vossos anjos vou cantar-vos e ante o vosso templo vou prostrar-me.\n— Eu agradeço vosso amor, vossa verdade, porque fizestes muito mais que prometestes; naquele dia em que gritei, vós me escutastes e aumentastes o vigor da minha alma.\n— Estendereis o vosso braço em meu auxílio e havereis de me salvar com vossa destra. Completai em mim a obra começada; ó Senhor, vossa bondade é para sempre! Eu vos peço: não deixeis inacabada esta obra que fizeram vossas mãos!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 7,7-12",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 7“Pedi e vos será dado! Procurai e achareis! Batei e a porta vos será aberta! 8Pois todo aquele que pede, recebe; quem procura, encontra; e a quem bate, a porta será aberta. 9Quem de vós dá ao filho uma pedra quando ele pede um pão? 10Ou lhe dá uma cobra quando ele pede um peixe? 11Ora, se vós, que sois maus, sabeis dar coisas boas a vossos filhos, quanto mais vosso Pai que está nos céus dará coisas boas aos que lhe pedirem! 12Tudo quanto quereis que os outros vos façam, fazei também a eles. Nisto consiste a Lei e os Profetas”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Prestai ouvidos, Senhor, às minhas palavras, escutai o meu clamor. Ficai atento ao meu apelo, ó meu Rei e meu Deus! (Cf. Sl 5,2-3)",
+    "comunhao": "Todo aquele que pede, recebe; quem procura, encontra; e a quem bate, a porta será aberta. (Cf. Mt 7,8)"
+  }
+}

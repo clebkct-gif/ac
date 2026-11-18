@@ -1,0 +1,40 @@
+{
+  "data": "07/02/2026",
+  "liturgia": "Sábado da 4ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Concedei-nos, Senhor nosso Deus, adorar-vos de coração sincero e amar todas as pessoas com verdadeira caridade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Apresentamos, Senhor, no vosso altar os dons do nosso serviço. Acolhei-os com bondade e transformai-os em sacramento da nossa redenção. Por Cristo, nosso Senhor.",
+    "comunhao": "Alimentados com o sacramento da nossa redenção, nós vos pedimos, Senhor, que, com este auxílio de salvação eterna, cresça sempre mais a verdadeira fé. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Rs 3,4-13",
+        "titulo": "Leitura do primeiro livro dos Reis",
+        "texto": "Naqueles dias, 4o rei Salomão foi a Gabaon para oferecer um sacrifício, porque esse era o lugar alto mais importante. Salomão ofereceu mil holocaustos naquele altar. 5Em Gabaon o Senhor apareceu a Salomão, em sonho, durante a noite, e lhe disse: “Pede o que desejas e eu to darei”. 6Salomão respondeu: “Tu mostraste grande benevolência para com teu servo Davi, meu pai, porque ele andou na tua presença com sinceridade, justiça e retidão de coração para contigo. Tu lhe conservaste essa grande benevolência e lhe deste um filho que hoje ocupa o seu trono. 7Portanto, Senhor meu Deus, tu fizeste reinar o teu servo em lugar de Davi, meu pai. Mas eu não passo de um adolescente, que não sabe ainda como governar. 8Além disso, teu servo está no meio do teu povo eleito, povo tão numeroso, que não se pode contar ou calcular. 9Dá, pois, ao teu servo um coração compreensivo, capaz de governar o teu povo e de discernir entre o bem e o mal. Do contrário, quem poderá governar este teu povo tão numeroso?” 10Essa oração de Salomão agradou ao Senhor. 11E Deus disse a Salomão: “Já que pediste estes dons e não pediste para ti longos anos de vida, nem riquezas, nem a morte de teus inimigos, mas sim sabedoria para praticar a justiça, 12vou satisfazer o teu pedido; dou-te um coração sábio e inteligente, como nunca houve outro igual antes de ti nem haverá depois de ti. 13Mas dou-te também o que não pediste, tanta riqueza e tanta glória como jamais haverá entre os reis, durante toda a tua vida”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 118(119)",
+        "refrao": "Ó Senhor, ensinai-me os vossos mandamentos!",
+        "texto": "– Como um jovem poderá ter vida pura? Observando, ó Senhor, vossa palavra.\n– De todo o coração eu vos procuro, não deixeis que eu abandone a vossa lei!\n– Conservei no coração vossas palavras, a fim de que eu não peque contra vós.\n– Ó Senhor, vós sois bendito para sempre; os vossos mandamentos ensinai-me!\n– Com meus lábios, ó Senhor, eu enumero os decretos que ditou a vossa boca.\n– Seguindo vossa lei, me rejubilo muito mais do que em todas as riquezas."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 6,30-34",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 30os apóstolos reuniram-se com Jesus e contaram tudo o que haviam feito e ensinado. 31Ele lhes disse: “Vinde sozinhos para um lugar deserto e descansai um pouco”. Havia, de fato, tanta gente chegando e saindo, que não tinham tempo nem para comer. 32Então foram sozinhos, de barco, para um lugar deserto e afastado. 33Muitos os viram partir e reconheceram que eram eles. Saindo de todas as cidades, correram a pé e chegaram lá antes deles. 34Ao desembarcar, Jesus viu uma numerosa multidão e teve compaixão, porque eram como ovelhas sem pastor. Começou, pois, a ensinar-lhes muitas coisas."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Salvai-nos, Senhor nosso Deus, e do meio das nações nos congregai, para ao vosso nome agradecer e para termos nossa glória em vos louvar! (Cf. Sl 105, 47)",
+    "comunhao": "Mostrai serena a vossa face ao vosso servo e salvai-me pela vossa compaixão. Não serei confundido, Senhor, porque vos invoquei. (Cf. Sl 30, 17-18)"
+  }
+}

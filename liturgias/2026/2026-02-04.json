@@ -1,0 +1,40 @@
+{
+  "data": "04/02/2026",
+  "liturgia": "4ª feira da 4ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Concedei-nos, Senhor nosso Deus, adorar-vos de coração sincero e amar todas as pessoas com verdadeira caridade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Apresentamos, Senhor, no vosso altar os dons do nosso serviço. Acolhei-os com bondade e transformai-os em sacramento da nossa redenção. Por Cristo, nosso Senhor.",
+    "comunhao": "Alimentados com o sacramento da nossa redenção, nós vos pedimos, Senhor, que, com este auxílio de salvação eterna, cresça sempre mais a verdadeira fé. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Sm 24,2.9-17",
+        "titulo": "Leitura do Segundo Livro de Samuel",
+        "texto": "Naqueles dias, 2disse o rei Davi a Joab e aos chefes do seu exército que estavam com ele: “Percorre todas as tribos de Israel, desde Dã até Bersabeia, e faze o recenseamento do povo, de maneira que eu saiba o seu número”. 9Joab apresentou ao rei o resultado do recenseamento do povo: havia em Israel oitocentos mil homens de guerra, que manejavam a espada; e, em Judá, quinhentos mil homens. 10Mas, depois que o povo foi recenseado, Davi sentiu remorsos e disse ao Senhor: “Cometi um grande pecado ao fazer o que fiz. Mas perdoa a iniquidade do teu servo, porque procedi como um grande insensato”. 11Pela manhã, quando Davi se levantou, a palavra do Senhor tinha sido dirigida ao profeta Gad, vidente de Davi, nestes termos: 12“Vai dizer a Davi: Assim fala o Senhor: dou-te a escolher três coisas; escolhe aquela que queres que eu te envie”. 13Gad foi ter com Davi e referiu-lhe estas palavras, dizendo: “Que preferes: três anos de fome na tua terra, três meses de derrotas diante dos inimigos que te perseguem ou três dias de peste no país? Reflete, pois, e vê o que devo responder a quem me enviou”. 14Davi respondeu a Gad: “Estou em grande angústia. É melhor cair nas mãos do Senhor, cuja misericórdia é grande, do que cair nas mãos dos homens!” 15E Davi escolheu a peste. Era o tempo da colheita do trigo. O Senhor mandou, então, a peste a Israel, desde aquela manhã até o dia fixado, de modo que morreram setenta mil homens da população, desde Dã até Bersabeia. 16Quando o anjo estendeu a mão para exterminar Jerusalém, o Senhor arrependeu-se desse mal e disse ao anjo que exterminava o povo: “Basta! Retira agora a tua mão!” O anjo estava junto à eira de Areúna, o jebuseu. 17Quando Davi viu o anjo que afligia o povo, disse ao Senhor: “Fui eu que pequei, eu é que tenho a culpa. Mas estes, que são como ovelhas, que fizeram? Peço-te que a tua mão se volte contra mim e contra a minha família!”"
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 31(32)",
+        "refrao": "Perdoai-me, Senhor, meu pecado!",
+        "texto": "– Feliz o homem que foi perdoado e cuja falta já foi encoberta! Feliz o homem a quem o Senhor não olha mais como sendo culpado e em cuja alma não há falsidade!\n– Eu confessei, afinal, meu pecado e minha falta vos fiz conhecer. Disse: “Eu irei confessar meu pecado!” E perdoastes, Senhor, minha falta.\n– Todo fiel pode, assim, invocar-vos durante o tempo da angústia e aflição, porque, ainda que irrompam as águas, não poderão atingi-lo jamais.\n– Sois para mim proteção e refúgio; na minha angústia me haveis de salvar e envolvereis a minha alma no gozo da salvação que me vem só de vós."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 6,1-6",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 1Jesus foi a Nazaré, sua terra, e seus discípulos o acompanharam. 2Quando chegou o sábado, começou a ensinar na sinagoga. Muitos que o escutavam ficavam admirados e diziam: “De onde recebeu ele tudo isso? Como conseguiu tanta sabedoria? E esses grandes milagres que são realizados por suas mãos? 3Este homem não é o carpinteiro, filho de Maria e irmão de Tiago, de Joset, de Judas e de Simão? Suas irmãs não moram aqui conosco?” E ficaram escandalizados por causa dele. 4Jesus lhes dizia: “Um profeta só não é estimado em sua pátria, entre seus parentes e familiares”. 5E ali não pôde fazer milagre algum. Apenas curou alguns doentes, impondo-lhes as mãos. 6E admirou-se com a falta de fé deles. Jesus percorria os povoados das redondezas, ensinando."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Salvai-nos, Senhor nosso Deus, e do meio das nações nos congregai, para ao vosso nome agradecer e para termos nossa glória em vos louvar! (Cf. Sl 105, 47)",
+    "comunhao": "Mostrai serena a vossa face ao vosso servo e salvai-me pela vossa compaixão. Não serei confundido, Senhor, porque vos invoquei. (Cf. Sl 30, 17-18)"
+  }
+}

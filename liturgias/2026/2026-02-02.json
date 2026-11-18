@@ -1,0 +1,45 @@
+{
+  "data": "02/02/2026",
+  "liturgia": "Apresentação do Senhor, Festa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, humildemente vos suplicamos: assim como o vosso Filho único, revestido da natureza humana, foi hoje apresentado no templo, fazei que, também nós, possamos nos apresentar diante de vós com os corações purificados. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, quisestes que o vosso Filho Unigênito se oferecesse a vós como Cordeiro sem mancha pela vida do mundo, fazei que vos seja agradável a oblação da vossa Igreja em festa. Por Cristo, nosso Senhor.",
+    "comunhao": "Por este sacramento que recebemos, Senhor, completai em nós a obra da vossa graça; como correspondestes à esperança de Simeão, não consentindo que morresse antes de acolher o Cristo, concedei também a nós que, caminhando ao encontro do Senhor, alcancemos a vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ml 3, 1-4",
+        "titulo": "Leitura da Profecia de Malaquias",
+        "texto": "Assim diz o Senhor: 1Eis que envio meu anjo, e ele há de preparar o caminho para mim; logo chegará ao seu templo o Dominador, que tentais encontrar, e o anjo da aliança, que desejais. Ei-lo que vem, diz o Senhor dos exércitos; 2e quem poderá fazer-lhe frente, no dia de sua chegada? E quem poderá resistir-lhe, quando ele aparecer?,Ele é como o fogo da forja e como a barrela dos lavadeiros; 3e estará a postos, como para fazer derreter e purificar a prata: assim ele purificará os filhos de Levi e os refinará como ouro e como prata, e eles poderão assim fazer oferendas justas ao Senhor.,4Será então aceitável ao Senhor a oblação de Judá e de Jerusalém, como nos primeiros tempos e nos anos antigos."
+      },
+      {
+        "referencia": "Hb 2,14-18",
+        "titulo": "Leitura da Carta aos Hebreus",
+        "texto": "Irmãos: 14 Visto que os filhos têm em comum a carne e o sangue, também Jesus participou da mesma condição, para assim destruir, com a sua morte, aquele que tinha o poder da morte, isto é, o diabo, 15 e libertar os que, por medo da morte, estavam a vida toda sujeitos à escravidão. 16 Pois, afinal, não veio ocupar-se com os anjos, mas com a descendência de Abraão. 17 Por isso devia fazer-se em tudo semelhante aos irmãos, para se tornar um sumo sacerdote misericordioso e digno de confiança nas coisas referentes a Deus, a fim de expiar os pecados do povo. 18 Pois, tendo ele próprio sofrido ao ser tentado, é capaz de socorrer os que agora sofrem a tentação."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 23",
+        "refrao": "O Rei da glória é o Senhor onipotente!",
+        "texto": "— “Ó portas, levantai vossos frontões! Elevai-vos bem mais alto, antigas portas, a fim de que o Rei da glória possa entrar!” \n— Dizei-nos: “Quem é este Rei da glória?” “É o Senhor, o valoroso, o onipotente, o Senhor, o poderoso nas batalhas!” \n— “Ó portas, levantai vossos frontões! Elevai-vos bem mais alto, antigas portas, a fim de que o Rei da glória possa entrar!” \n— Dizei-nos: “Quem é este Rei da glória?” “O Rei da glória é o Senhor onipotente, o Rei da glória é o Senhor Deus do universo."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 2, 22-40",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "22Quando se completaram os dias para a purificação da mãe e do filho, conforme a lei de Moisés, Maria e José levaram Jesus a Jerusalém, a fim de apresentá-lo ao Senhor. 23Conforme está escrito na lei do Senhor: “Todo primogênito do sexo masculino deve ser consagrado ao Senhor”.\n24Foram também oferecer o sacrifício — um par de rolas ou dois pombinhos — como está ordenado na Lei do Senhor. 25Em Jerusalém, havia um homem chamado Simeão, o qual era justo e piedoso, e esperava a consolação do povo de Israel. O Espírito Santo estava com ele 26e lhe havia anunciado que não morreria antes de ver o Messias que vem do Senhor.\n27Movido pelo Espírito, Simeão veio ao Templo. Quando os pais trouxeram o menino Jesus para cumprir o que a Lei ordenava, 28Simeão tomou o menino nos braços e bendisse a Deus: 29“Agora, Senhor, conforme a tua promessa, podes deixar teu servo partir em paz; 30porque meus olhos viram a tua salvação, 31que preparaste diante de todos os povos: 32luz para iluminar as nações e glória do teu povo Israel”.\n[33O pai e a mãe de Jesus estavam admirados com o que diziam a respeito dele. 34Simeão os abençoou e disse a Maria, a mãe de Jesus: “Este menino vai ser causa tanto de queda como de reerguimento para muitos em Israel. Ele será um sinal de contradição. 35Assim serão revelados os pensamentos de muitos corações. Quanto a ti, uma espada te traspassará a alma”.\n36Havia também uma profetisa, chamada Ana, filha de Fanuel, da tribo de Aser. Era de idade muito avançada; quando jovem, tinha sido casada e vivera sete anos com o marido. 37Depois ficara viúva, e agora já estava com oitenta e quatro anos. Não saía do Templo, dia e noite servindo a Deus com jejuns e orações. 38Ana chegou nesse momento e pôs-se a louvar a Deus e a falar do menino a todos os que esperavam a libertação de Jerusalém.\n39Depois de cumprirem tudo, conforme a Lei do Senhor, voltaram à Galileia, para Nazaré, sua cidade. 40O menino crescia e tornava-se forte, cheio de sabedoria; e a graça de Deus estava com ele.]"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Recebemos, Senhor, vossa misericórdia no meio do vosso templo. Como vosso nome, ó Deus, assim vosso louvor ressoa até os confins da terra; vossa destra está cheia de justiça. (Cf. Sl 47, 10-11)",
+    "comunhao": "Meus olhos viram vossa salvação que preparastes ante a face das nações. (Cf. Lc 2, 30-31)"
+  }
+}

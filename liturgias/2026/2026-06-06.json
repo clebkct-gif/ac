@@ -1,0 +1,40 @@
+{
+  "data": "06/06/2026",
+  "liturgia": "Sábado da 9ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, cuja providência jamais falha, nós vos pedimos humildemente: afastai de nós o que é nocivo, e concedei-nos tudo o que for útil. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, confiantes em vosso amor de Pai, acorremos com nossos dons ao santo altar. Concedei-nos que, ao celebrarmos os vossos mistérios, sejamos purificados por vossa graça santificadora. Por Cristo, nosso Senhor.",
+    "comunhao": "Governai, Senhor, pelo vosso Espírito os que alimentais com o Corpo e o Sangue do vosso Filho. Dai-nos proclamar a nossa fé não somente em palavras, mas também pela verdade das nossas ações, para que mereçamos entrar no reino dos céus. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Tm 4,1-8",
+        "titulo": "Leitura da Segunda Carta de São Paulo a Timóteo",
+        "texto": "Caríssimo, 1diante de Deus e de Cristo Jesus, que há de vir a julgar os vivos e os mortos, e em virtude da sua manifestação gloriosa e do seu reino, eu te peço com insistência: 2proclama a palavra, insiste oportuna ou importunamente, argumenta, repreende, aconselha com toda a paciência e doutrina. 3Pois vai chegar o tempo em que não suportarão a sã doutrina, mas, com o prurido da curiosidade nos ouvidos, se rodearão de mestres ao sabor de seus próprios caprichos. 4E assim, deixando de ouvir a verdade, se desviarão para as fábulas. 5Tu, porém, mostra vigilância em tudo, suporta o sofrimento, desempenha o teu serviço de pregador do evangelho, cumpre com perfeição o teu ministério. Sê sóbrio. 6Quanto a mim, eu já estou para ser derramado em sacrifício; aproxima-se o momento de minha partida. 7Combati o bom combate, completei a corrida, guardei a fé. 8Agora está reservada para mim a coroa da justiça, que o Senhor, justo juiz, me dará naquele dia; e não somente a mim, mas também a todos os que esperam com amor a sua manifestação gloriosa."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl (71/70)",
+        "refrao": "Minha boca anunciará vossa justiça.",
+        "texto": "– Vosso louvor é transbordante de meus lábios, cantam eles vossa glória o dia inteiro. Não me deixeis quando chegar minha velhice, não me falteis quando faltarem minhas forças!\n– Eu, porém, sempre em vós confiarei, sempre mais aumentarei vosso louvor! Minha boca anunciará todos os dias vossa justiça e vossas graças incontáveis.\n– Cantarei vossos portentos, ó Senhor, lembrarei vossa justiça sem igual! Vós me ensinastes desde a minha juventude, e até hoje canto as vossas maravilhas.\n– Então, vos cantarei ao som da harpa, celebrando vosso amor sempre fiel; para louvar-vos, tocarei a minha cítara, glorificando-vos, ó santo de Israel!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 12,38-44",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 38Jesus dizia, no seu ensinamento, à multidão: “Tomai cuidado com os doutores da lei! Eles gostam de andar com roupas vistosas, de ser cumprimentados nas praças públicas; 39gostam das primeiras cadeiras nas sinagogas e dos melhores lugares nos banquetes. 40Eles devoram as casas das viúvas, fingindo fazer longas orações. Por isso eles receberão a pior condenação”. 41Jesus estava sentado no templo, diante do cofre das esmolas, e observava como a multidão depositava suas moedas no cofre. Muitos ricos depositavam grandes quantias. 42Então chegou uma pobre viúva que deu duas pequenas moedas, que não valiam quase nada. 43Jesus chamou os discípulos e disse: “Em verdade vos digo, esta pobre viúva deu mais do que todos os outros que ofereceram esmolas. 44Todos deram do que tinham de sobra, enquanto ela, na sua pobreza, ofereceu tudo aquilo que possuía para viver”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Olhai para mim. Senhor, e tende compaixão, porque sou pobre e estou sozinho. Considerai minha miséria e sofrimento e concedei vosso perdão aos meus pecados. (Cf. Sl 24.16.18)",
+    "comunhao": "Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! (Cf. Sl 16,6)"
+  }
+}

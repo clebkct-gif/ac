@@ -1,0 +1,40 @@
+{
+  "data": "14/01/2026",
+  "liturgia": "4ª feira da 1ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Senhor, atendei com bondade paterna as preces do vosso povo suplicante; dai-lhe luz para ver o que deve ser feito e coragem para realizar o que viu. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Possa agradar-vos, Senhor, a oferenda do vosso povo; ela nos obtenha a santificação e o que confiantes vos pedimos. Por Cristo, nosso Senhor.",
+    "comunhao": "Deus todo-poderoso, que refazeis as nossas forças pelos vossos sacramentos, nós vos pedimos a graça de vos servir por uma vida que vos seja agradável. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Sm 3,1-10.19-20",
+        "titulo": "Leitura do primeiro livro de Samuel",
+        "texto": "Naqueles dias, 1o jovem Samuel servia ao Senhor na presença de Eli. Naquele tempo a palavra do Senhor era rara e as visões não eram frequentes. 2Aconteceu que, um dia, Eli estava dormindo no seu quarto. Seus olhos começavam a enfraquecer e já não conseguia enxergar. 3A lâmpada de Deus ainda não se tinha apagado e Samuel estava dormindo no templo do Senhor, onde se encontrava a arca de Deus. 4Então o Senhor chamou: “Samuel, Samuel!” Ele respondeu: “Estou aqui”. 5E correu para junto de Eli e disse: “Tu me chamaste, aqui estou”. Eli respondeu: “Eu não te chamei. Volta a dormir!” E ele foi deitar-se. 6O Senhor chamou de novo: “Samuel, Samuel!” E Samuel levantou-se, foi ter com Eli e disse: “Tu me chamaste, aqui estou”. Ele respondeu: “Não te chamei, meu filho. Volta a dormir!” 7Samuel ainda não conhecia o Senhor, pois, até então, a palavra do Senhor não se lhe tinha manifestado. 8O Senhor chamou pela terceira vez: “Samuel, Samuel!” Ele levantou-se, foi para junto de Eli e disse: “Tu me chamaste, aqui estou”. Eli compreendeu que era o Senhor que estava chamando o menino. 9Então disse a Samuel: “Volta a deitar-te e, se alguém te chamar, responderás: ‘Senhor, fala, que teu servo escuta!’” E Samuel voltou ao seu lugar para dormir. 10O Senhor veio, pôs-se junto dele e chamou-o como das outras vezes: “Samuel! Samuel!” E ele respondeu: “Fala, que teu servo escuta”. 19Samuel crescia, e o Senhor estava com ele. E não deixava cair por terra nenhuma de suas palavras. 20Todo Israel, desde Dã até Bersabéia, reconheceu que Samuel era um profeta do Senhor."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 39(40)",
+        "refrao": "Eis que venho fazer, com prazer, a vossa vontade, Senhor!",
+        "texto": "– Esperando, esperei no Senhor, e, inclinando-se, ouviu meu clamor. É feliz quem a Deus se confia; + quem não segue os que adoram os ídolos e se perdem por falsos caminhos.\n– Sacrifício e oblação não quisestes, mas abristes, Senhor, meus ouvidos; não pedistes ofertas nem vítimas, + holocaustos por nossos pecados. E então eu vos disse: “Eis que venho!”\n– Sobre mim está escrito no livro: + “Com prazer faço a vossa vontade, guardo em meu coração vossa lei!”\n– Boas novas de vossa justiça + anunciei numa grande assembleia; vós sabeis:"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 1,29-39",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 29Jesus saiu da sinagoga e foi, com Tiago e João, para a casa de Simão e André. 30A sogra de Simão estava de cama, com febre, e eles logo contaram a Jesus. 31E ele se aproximou, segurou sua mão e ajudou-a a levantar-se. Então, a febre desapareceu; e ela começou a servi-los. 32À tarde, depois do pôr do sol, levaram a Jesus todos os doentes e os possuídos pelo demônio. 33A cidade inteira se reuniu em frente da casa. 34Jesus curou muitas pessoas de diversas doenças e expulsou muitos demônios. E não deixava que os demônios falassem, pois sabiam quem ele era. 35De madrugada, quando ainda estava escuro, Jesus se levantou e foi rezar num lugar deserto. 36Simão e seus companheiros foram à procura de Jesus. 37Quando o encontraram, disseram: “Todos estão te procurando”. 38Jesus respondeu: “Vamos a outros lugares, às aldeias da redondeza! Devo pregar também ali, pois foi para isso que eu vim”. 39E andava por toda a Galileia, pregando em suas sinagogas e expulsando os demônios."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vi um homem sentado num trono excelso; a multidão dos Anjos o adora, cantando a uma só voz: Eis aquele cujo nome e império permanecem eternamente.",
+    "comunhao": "Junto de vós, Senhor, está a fonte da vida, e em vossa luz veremos a luz. (Sl 35, 10)"
+  }
+}

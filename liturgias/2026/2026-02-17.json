@@ -1,0 +1,40 @@
+{
+  "data": "17/02/2026",
+  "liturgia": "3ª feira da 6ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, que prometestes permanecer nos corações retos e sinceros, concedei-nos por vossa graça viver de tal maneira que possais habitar em nós. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Este sacrifício, Senhor, nos purifique e renove e seja causa de recompensa eterna para os que fazem a vossa vontade. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, que nos fizestes provar as alegrias do céu, dai-nos desejar sempre o alimento que nos traz a verdadeira vida. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Tg 1,12-18",
+        "titulo": "Leitura da carta de são Tiago",
+        "texto": "12Feliz o homem que suporta a provação. Porque, uma vez provado, receberá a coroa da vida, que o Senhor prometeu àqueles que o amam. 13Ninguém, ao ser tentado, deve dizer: “É Deus que me está tentando”, pois Deus não pode ser tentado pelo mal e tampouco ele tenta a ninguém. 14Antes, cada qual é tentado por sua própria concupiscência, que o arrasta e seduz. 15Em seguida, a concupiscência concebe o pecado e o dá à luz, e o pecado, uma vez consumado, gera a morte. 16Meus queridos irmãos, não vos enganeis. 17Todo dom precioso e toda dádiva perfeita vêm do alto; descem do Pai das luzes, no qual não há mudança nem sombra de variação. 18De livre vontade ele nos gerou, pela palavra da verdade, a fim de sermos como que as primícias de suas criaturas."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 93(94)",
+        "refrao": "Bem-aventurado é aquele a quem ensinais vossa lei!",
+        "texto": "– É feliz, ó Senhor, quem formais e educais nos caminhos da lei, para dar-lhe um alívio na angústia.\n– O Senhor não rejeita o seu povo e não pode esquecer sua herança: voltarão a juízo as sentenças; quem é reto andará na justiça.\n– Quando eu penso: “Estou quase caindo!”, vosso amor me sustenta, Senhor! Quando o meu coração se angustia, consolais e alegrais minha alma."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 8,14-21",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 14os discípulos tinham se esquecido de levar pães. Tinham consigo na barca apenas um pão. 15Então Jesus os advertiu: “Prestai atenção e tomai cuidado com o fermento dos fariseus e com o fermento de Herodes”. 16Os discípulos diziam entre si: “É porque não temos pão”. 17Mas Jesus percebeu e perguntou-lhes: “Por que discutis sobre a falta de pão? Ainda não entendeis nem compreendeis? Vós tendes o coração endurecido? 18Tendo olhos, vós não vedes e, tendo ouvidos, não ouvis? Não vos lembrais 19de quando reparti cinco pães para cinco mil pessoas? Quantos cestos vós recolhestes cheios de pedaços?” Eles responderam: “Doze”. 20Jesus perguntou: “E quando reparti sete pães com quatro mil pessoas, quantos cestos vós recolhestes cheios de pedaços?” Eles responderam: “Sete”. 21Jesus disse: “E vós ainda não compreendeis?”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Sede para mim um Deus protetor e um lugar de refúgio, para me salvar. Porque sois minha força e meu refúgio e, por causa do vosso nome, me guiais e sustentais. (Cf. Sl 30,3-4)",
+    "comunhao": "Eles comeram e beberam à vontade. O Senhor satisfizera os seus desejos. Pois Deus amou tanto o mundo que deu o seu Filho Unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna. (Cf. Sl 77,29-30 Ou: Jo 3,16)"
+  }
+}

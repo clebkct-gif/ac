@@ -1,0 +1,40 @@
+{
+  "data": "10/02/2026",
+  "liturgia": "Santa Escolástica, virgem, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Celebrando a memória da virgem Santa Escolástica, nós vos pedimos, Senhor, a graça de imitá-la, para que, a seu exemplo, vos sirvamos com sincera caridade e, alegres, obtenhamos os frutos do vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, proclamando-vos admirável na santa virgem Escolástica, humildemente vos pedimos: como vos foram agradáveis os méritos da sua vida, assim vos agrade o serviço do nosso culto. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor nosso Deus, saciados pela participação nos divinos mistérios, fazei que, a exemplo de santa Escolástica, nos esforcemos por servir unicamente a vós, trazendo em nosso corpo os sinais dos sofrimentos de Jesus. Que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Rs 8,22-23.27-30",
+        "titulo": "Leitura do primeiro livro dos Reis",
+        "texto": "Naqueles dias, 22Salomão pôs-se de pé diante do altar do Senhor, na presença de toda a assembleia de Israel, estendeu as mãos para o céu e disse: 23“Ó Senhor, Deus de Israel, não há Deus igual a ti nem no mais alto dos céus nem aqui embaixo na terra; tu és fiel à tua misericordiosa aliança com teus servos, que andam na tua presença de todo o seu coração. 27Mas será que Deus pode realmente morar sobre a terra? Se os mais altos céus não te podem conter, muito menos esta casa que eu construí! 28Mas atende, Senhor meu Deus, à oração e à súplica do teu servo e ouve o clamor e a prece que ele faz hoje em tua presença. 29Teus olhos estejam abertos noite e dia sobre esta casa, sobre o lugar do qual disseste: ‘Aqui estará o meu nome!’ Ouve a oração que o teu servo te faz neste lugar. 30Ouve as súplicas de teu servo e de teu povo Israel quando aqui orarem. Escuta-os do alto da tua morada, no céu, escuta-os e perdoa!”"
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 83(84)",
+        "refrao": "Quão amável, ó Senhor, é vossa casa!",
+        "texto": "– Minha alma desfalece de saudades e anseia pelos átrios do Senhor! Meu coração e minha carne rejubilam e exultam de alegria no Deus vivo!\n– Mesmo o pardal encontra abrigo em vossa casa, e a andorinha ali prepara o seu ninho, para nele seus filhotes colocar: vossos altares, ó Senhor Deus do universo! Vossos altares, ó meu rei e meu Senhor!\n– Felizes os que habitam vossa casa; para sempre haverão de vos louvar! Olhai, ó Deus, que sois a nossa proteção, vede a face do eleito, vosso ungido!\n– Na verdade, um só dia em vosso templo vale mais do que milhares fora dele! Prefiro estar no limiar de vossa casa a hospedar-me na mansão dos pecadores!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 7,1-13",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 1os fariseus e alguns mestres da lei vieram de Jerusalém e se reuniram em torno de Jesus. 2Eles viam que alguns dos seus discípulos comiam o pão com as mãos impuras, isto é, sem as terem lavado. 3Com efeito, os fariseus e todos os judeus só comem depois de lavar bem as mãos, seguindo a tradição recebida dos antigos. 4Ao voltar da praça, eles não comem sem tomar banho. E seguem muitos outros costumes que receberam por tradição: a maneira certa de lavar copos, jarras e vasilhas de cobre. 5Os fariseus e os mestres da lei perguntaram então a Jesus: “Por que os teus discípulos não seguem a tradição dos antigos, mas comem o pão sem lavar as mãos?” 6Jesus respondeu: “Bem profetizou Isaías a vosso respeito, hipócritas, como está escrito: ‘Este povo me honra com os lábios, mas seu coração está longe de mim. 7De nada adianta o culto que me prestam, pois as doutrinas que ensinam são preceitos humanos’. 8Vós abandonais o mandamento de Deus para seguir a tradição dos homens”. 9E dizia-lhes: “Vós sabeis muito bem como anular o mandamento de Deus a fim de guardar as vossas tradições. 10Com efeito, Moisés ordenou: ‘Honra teu pai e tua mãe’. E ainda: ‘Quem amaldiçoa o pai ou a mãe deve morrer’. 11Mas vós ensinais que é lícito alguém dizer a seu pai e à sua mãe: ‘O sustento que vós poderíeis receber de mim é Corban, isto é, consagrado a Deus’. 12E essa pessoa fica dispensada de ajudar seu pai ou sua mãe. 13Assim vós esvaziais a palavra de Deus com a tradição que vós transmitis. E vós fazeis muitas outras coisas como estas”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Esta é uma das virgens sábias e prudentes, que foi ao encontro de Cristo com sua lâmpada acesa.",
+    "comunhao": "Eis, o Noivo está chegando: ide ao encontro do Cristo Senhor (Cf. Mt 25, 6)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "21/08/2026",
+  "liturgia": "São Pio X, papa, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, para defender a fé católica e restaurar todas as coisas em Cristo, cumulastes o papa São Pio X de sabedoria divina e coragem apostólica; concedei benigno que, seguindo seus exemplos e instruções, alcancemos o prêmio eterno. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, acolhei com bondade as nossas oferendas e dai-nos seguir os ensinamentos de São Pio X, para celebrar dignamente estes divinos mistérios e recebê-los com fé. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor nosso Deus, na comemoração do papa São Pio X, nós vos pedimos que, pela força desta mesa celeste, nos tornemos firmes na fé e unidos na vossa caridade. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ez 37,1-14",
+        "titulo": "Leitura da Profecia de Ezequiel",
+        "texto": "Naqueles dias, 1a mão do Senhor estava sobre mim e, por seu espírito, ele me levou para fora e me deixou no meio de uma planície cheia de ossos, 2e me fez andar no meio deles em todas as direções. Havia muitíssimos ossos na planície e estavam ressequidos. 3Ele me perguntou: “Filho do homem, será que estes ossos podem voltar à vida?” E eu respondi: “Senhor Deus, só tu o sabes”. 4E ele me disse: “Profetiza sobre estes ossos e dize: Ossos ressequidos, escutai a palavra do Senhor! 5Assim diz o Senhor Deus a estes ossos: Eu mesmo vou fazer entrar um espírito em vós e voltareis à vida. 6Porei nervos em vós, farei crescer carne e estenderei a pele por cima. Porei em vós um espírito, para que possais voltar à vida. Assim sabereis que eu sou o Senhor”. 7Profetizei como me foi ordenado. Enquanto eu profetizava, ouviu-se primeiro um rumor e, logo, um estrondo quando os ossos se aproximaram uns dos outros. 8Olhei e vi nervos e carne crescendo sobre os ossos e, por cima, a pele que se estendia. Mas não tinham nenhum sopro de vida. 9Ele me disse: “Profetiza para o espírito, profetiza, filho do homem! Dirás ao espírito: Assim diz o Senhor Deus: Vem dos quatro ventos, ó espírito, vem soprar sobre estes mortos, para que eles possam voltar à vida”. 10Profetizei como me foi ordenado, e o espírito entrou neles. Eles voltaram à vida e puseram-se de pé: era uma imensa multidão! 11Então ele me disse: “Filho do homem, estes ossos são toda a casa de Israel. É isto que eles dizem: ‘Nossos ossos estão secos, nossa esperança acabou, estamos perdidos!’ 12Por isso, profetiza e dize-lhes: Assim fala o Senhor Deus: Ó meu povo, vou abrir as vossas sepulturas e conduzir-vos para a terra de Israel; 13e quando eu abrir as vossas sepulturas e vos fizer sair delas, sabereis que eu sou o Senhor. 14Porei em vós o meu espírito, para que vivais, e vos colocarei em vossa terra. Então sabereis que eu, o Senhor, digo e faço – oráculo do Senhor”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 106(10)7",
+        "refrao": "Dai graças ao Senhor, porque ele é bom, porque eterna é a sua misericórdia!",
+        "texto": "– Que o digam os libertos do Senhor, que da mão dos opressores os salvou e de todas as nações os reuniu, do oriente, ocidente, norte e sul.\n– Uns vagavam, no deserto, extraviados, sem acharem o caminho da cidade. Sofriam fome e também sofriam sede, e sua vida ia aos poucos definhando.\n– Mas gritaram ao Senhor na aflição, e ele os libertou daquela angústia. Pelo caminho bem seguro os conduziu para chegarem à cidade onde morar.\n– Agradeçam ao Senhor por seu amor e por suas maravilhas entre os homens! Deu de beber aos que sofriam tanta sede e os famintos saciou com muitos bens!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 22,34-40",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 34os fariseus ouviram dizer que Jesus tinha feito calar os saduceus. Então eles se reuniram em grupo 35e um deles perguntou a Jesus, para experimentá-lo: 36“Mestre, qual é o maior mandamento da lei?” 37Jesus respondeu: “‘Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todo o teu entendimento!’ 38Esse é o maior e o primeiro mandamento. 39O segundo é semelhante a esse: ‘Amarás ao teu próximo como a ti mesmo’. 40Toda a lei e os profetas dependem desses dois mandamentos”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor o escolheu para a plenitude do sacerdócio e, abrindo o seu tesouro, o cumulou de todos os bens.",
+    "comunhao": "O bom pastor deu a vida por suas ovelhas. (Cf. Jo 10, 11)"
+  }
+}

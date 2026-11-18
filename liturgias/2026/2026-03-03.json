@@ -1,0 +1,40 @@
+{
+  "data": "03/03/2026",
+  "liturgia": "3ª feira da 2ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Guardai, Senhor, com eterna bondade a vossa Igreja e, como a fraqueza humana desfalece sem o vosso auxílio, livrai-nos constantemente do mal e conduzi-nos pelos caminhos da salvação. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Dignai-vos, Senhor, santificar-nos por estes mistérios, para que sejamos curados dos vícios terrenos e conduzidos para os bens celestiais. Por Cristo, nosso Senhor.",
+    "comunhao": "A participação na vossa mesa sagrada, Senhor, faça crescer em nós o amor fraterno e nos assegure sempre o auxílio da vossa bondade. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 1, 10. 16-20",
+        "titulo": "Leitura do Livro do Profeta Isaías",
+        "texto": "10Ouvi a palavra do Senhor, magistrados de Sodoma, prestai ouvidos ao ensinamento do nosso Deus, povo de Gomorra. 16Lavai-vos, purificai-vos. Tirai a maldade de vossas ações de minha frente. Deixai de fazer o mal! 17Aprendei a fazer o bem! Procurai o direito, corrigi o opressor. Julgai a causa do órfão, defendei a viúva. 18Vinde, debatamos — diz o Senhor. Ainda que vossos pecados sejam como púrpura, tornar-se-ão brancos como a neve. Se forem vermelhos como o carmesim, tornar-se-ão como lã. 19Se consentirdes em obedecer, comereis as coisas boas da terra. 20Mas se recusardes e vos rebelardes, pela espada sereis devorados, porque a boca do Senhor falou!"
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 49",
+        "refrao": "A todos que procedem retamente, eu mostrarei a salvação que vem de Deus.",
+        "texto": "— “Eu não venho censurar teus sacrifícios, pois sempre estão perante mim teus holocaustos; não preciso dos novilhos de tua casa nem dos carneiros que estão nos teus rebanhos. \n— Como ousas repetir os meus preceitos e trazer minha Aliança em tua boca? Tu que odiaste minhas leis e meus conselhos e deste as costas às palavras dos meus lábios! \n— Diante disso que fizeste, eu calarei? Acaso pensas que eu sou igual a ti? É disso que te acuso e repreendo e manifesto essas coisas aos teus olhos. \n— Quem me oferece um sacrifício de louvor, este sim é que me honra de verdade. A todo homem que procede retamente, eu mostrarei a salvação que vem de Deus”."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 23, 1-12",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 1Jesus falou às multidões e aos seus discípulos e lhes disse: 2“Os mestres da Lei e os fariseus têm autoridade para interpretar a Lei de Moisés. 3Por isso, deveis fazer e observar tudo o que eles dizem. Mas não imiteis suas ações! Pois eles falam e não praticam. 4Amarram pesados fardos e os colocam nos ombros dos outros, mas eles mesmos não estão dispostos a movê-los, nem sequer com um dedo.\n5Fazem todas as suas ações só para serem vistos pelos outros. Eles usam faixas largas, com trechos da Escritura, na testa e nos braços, e põem na roupa longas franjas.\n6Gostam de lugar de honra nos banquetes e dos primeiros lugares nas sinagogas. 7Gostam de ser cumprimentados nas praças públicas e de serem chamados de Mestre. 8Quanto a vós, nunca vos deixeis chamar de Mestre, pois um só é vosso Mestre e todos vós sois irmãos. 9Na terra, não chameis a ninguém de pai, pois um só é vosso Pai, aquele que está nos céus. 10Não deixeis que vos chamem de guias, pois um só é o vosso Guia, Cristo. 11Pelo contrário, o maior dentre vós deve ser aquele que vos serve. 12Quem se exaltar será humilhado, e quem se humilhar será exaltado”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Iluminai meus olhos, Senhor, para que eu não adormeça no sono da morte. Que meu inimigo não possa dizer: triunfei sobre ele. (Cf. Sl 12, 4-5)",
+    "comunhao": "Senhor, de coração vos darei graças, as vossas maravilhas cantarei! Em vós exultarei de alegria, cantarei ao vosso nome, Deus altíssimo! (Cf. Sl 9, 2-3)"
+  }
+}

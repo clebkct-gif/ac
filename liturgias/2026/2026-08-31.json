@@ -1,0 +1,40 @@
+{
+  "data": "31/08/2026",
+  "liturgia": "2ª feira da 22ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus onipotente, fonte de todo dom perfeito, semeai em nossos corações o amor ao vosso nome e, estreitando os laços que nos unem convosco, fazei crescer em nós o que é bom e guardai com amorosa solicitude o que nos destes. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Este santo sacrifício, Senhor, nos traga a perene bênção da salvação e vosso poder leve à plenitude o que celebramos no sacramento. Por Cristo, nosso Senhor.",
+    "comunhao": "Revigorados pelo pão da mesa celeste nós vos pedimos, Senhor, que este alimento da caridade fortifique os nossos corações e nos leve a vos servir nos irmãos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Cor 2,1-5",
+        "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+        "texto": "1Irmãos, quando fui à vossa cidade anunciar-vos o mistério de Deus, não recorri a uma linguagem elevada ou ao prestígio da sabedoria humana. 2Pois, entre vós, não julguei saber coisa alguma, a não ser Jesus Cristo, e este crucificado. 3Aliás, eu estive junto de vós com fraqueza e receio e muito tremor. 4Também a minha palavra e a minha pregação não tinham nada dos discursos persuasivos da sabedoria, mas eram uma demonstração do poder do Espírito, 5para que a vossa fé se baseasse no poder de Deus e não na sabedoria dos homens."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 118(119)",
+        "refrao": "Quanto eu amo, ó Senhor, a vossa lei!",
+        "texto": "– Quanto eu amo, ó Senhor, a vossa lei! Permaneço o dia inteiro a meditá-la.\n– Vossa lei me faz mais sábio que os rivais, porque ela me acompanha eternamente.\n– Fiquei mais sábio do que todos os meus mestres, porque medito sem cessar vossa Aliança.\n– Sou mais prudente que os próprios anciãos, porque cumpro, ó Senhor, vossos preceitos.\n– De todo mau caminho afasto os passos, para que eu siga fielmente as vossas ordens.\n– De vossos julgamentos não me afasto, porque vós mesmo me ensinastes vossas leis."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 4,16-30",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 16veio Jesus à cidade de Nazaré, onde se tinha criado. Conforme seu costume, entrou na sinagoga no sábado e levantou-se para fazer a leitura. 17Deram-lhe o livro do profeta Isaías. Abrindo o livro, Jesus achou a passagem em que está escrito: 18“O Espírito do Senhor está sobre mim, porque ele me consagrou com a unção para anunciar a Boa-nova aos pobres; enviou-me para proclamar a libertação aos cativos e aos cegos a recuperação da vista; para libertar os oprimidos 19e para proclamar um ano da graça do Senhor”. 20Depois fechou o livro, entregou-o ao ajudante e sentou-se. Todos os que estavam na sinagoga tinham os olhos fixos nele. 21Então começou a dizer-lhes: “Hoje se cumpriu esta passagem da Escritura que acabastes de ouvir”.\n22Todos davam testemunho a seu respeito, admirados com as palavras cheias de encanto que saíam da sua boca. E diziam: “Não é este o filho de José?” 23Jesus, porém, disse: “Sem dúvida, vós me repetireis o provérbio: Médico, cura-te a ti mesmo. Faze também aqui, em tua terra, tudo o que ouvimos dizer que fizeste em Cafarnaum”. 24E acrescentou: “Em verdade eu vos digo que nenhum profeta é bem recebido em sua pátria. 25De fato, eu vos digo, no tempo do profeta Elias, quando não choveu durante três anos e seis meses e houve grande fome em toda a região, havia muitas viúvas em Israel. 26No entanto, a nenhuma delas foi enviado Elias, senão a uma viúva que vivia em Sarepta, na Sidônia. 27E no tempo do profeta Eliseu havia muitos leprosos em Israel. Contudo, nenhum deles foi curado, mas sim Naamã, o sírio”. 28Quando ouviram essas palavras de Jesus, todos na sinagoga ficaram furiosos. 29Levantaram-se e o expulsaram da cidade. Levaram-no até o alto do monte sobre o qual a cidade estava construída, com a intenção de lançá-lo no precipício. 30Jesus, porém, passando pelo meio deles, continuou o seu caminho."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Piedade de mim, ó Senhor, porque clamo por vós todo o dia! Ó Senhor, vós sois bom e clemente, sois perdão para quem vos invoca. (Cf. Sl 85, 3. 5)",
+    "comunhao": "Como é grande, ó Senhor, a riqueza da vossa bondade, que reservais para aqueles que vos temem. (Cf. Sl 30, 20)"
+  }
+}

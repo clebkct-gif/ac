@@ -1,0 +1,40 @@
+{
+  "data": "25/04/2026",
+  "liturgia": "São Marcos, Evangelista, Festa",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, que glorificastes São Marcos, vosso evangelista, com a graça de pregar o Evangelho, concedei-nos progredir de tal modo em seus ensinamentos que sigamos fielmente os passos de Cristo. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ao celebrarmos a glória de São Marcos, nós vos oferecemos, Senhor, este sacrifício de louvor e vos suplicamos humildemente que a pregação do Evangelho sempre floresça em vossa Igreja. Por Cristo, nosso Senhor.",
+    "comunhao": "Deus todo-poderoso, o dom recebido do vosso altar nos santifique e nos torne firmes na fidelidade ao Evangelho que São Marcos pregou. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Pd 5, 5b-14",
+        "titulo": "Leitura da Primeira Carta de São Pedro",
+        "texto": "Caríssimos, 5brevesti-vos todos de humildade no relacionamento mútuo, porque Deus resiste aos soberbos, mas dá a sua graça aos humildes. 6Rebaixai-vos, pois, humildemente, sob a poderosa mão de Deus, para que, na hora oportuna, ele vos exalte. 7Lançai sobre ele toda a vossa preocupação, pois é ele quem cuida de vós. 8Sede sóbrios e vigilantes. O vosso adversário, o diabo, rodeia como um leão a rugir, procurando a quem devorar. 9Resisti-lhe, firmes na fé, certos de que iguais sofrimentos atingem também os vossos irmãos pelo mundo afora. 10Depois de terdes sofrido um pouco, o Deus de toda a graça, que vos chamou para a sua glória eterna, em Cristo, vos restabelecerá e vos tornará firmes, fortes e seguros. 11A ele pertence o poder, pelos séculos dos séculos. Amém. 12Por meio de Silvano, que considero um irmão fiel junto de vós, envio-vos esta breve carta, para vos exortar e para atestar que esta é a verdadeira graça de Deus, na qual estais firmes. 13A Igreja que está em Babilônia, eleita como vós, vos saúda, como também, Marcos, o meu filho. 14Saudai-vos uns aos outros com o abraço do amor fraterno. A paz esteja com todos vós que estais em Cristo."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 88",
+        "refrao": "Ó Senhor, eu cantarei eternamente o vosso amor.",
+        "texto": "— Ó Senhor, eu cantarei eternamente o vosso amor, de geração em geração eu cantarei vossa verdade! Porque dissestes: “O amor é garantido para sempre!” E a vossa lealdade é tão firme como os céus. \n— Anuncia o firmamento vossas grandes maravilhas, e o vosso amor fiel, a assembleia dos eleitos, pois, quem pode, lá nas nuvens ao Senhor se comparar e quem pode, entre seus anjos, ser a ele semelhante? \n— Quão feliz é aquele povo que conhece a alegria; seguirá pelo caminho, sempre à luz de vossa face! Exultará de alegria em vosso nome dia a dia, e com grande entusiasmo exaltará vossa justiça."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mc 16, 15-20",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Marcos",
+        "texto": "Naquele tempo, Jesus se manifestou aos onze discípulos, 15e disse-lhes: “Ide pelo mundo inteiro e anunciai o Evangelho a toda criatura! 16Quem crer e for batizado será salvo. Quem não crer será condenado. 17Os sinais que acompanharão aqueles que crerem serão estes: expulsarão demônios em meu nome, falarão novas línguas; 18se pegarem em serpentes ou beberem algum veneno mortal não lhes fará mal algum; quando impuserem as mãos sobre os doentes, eles ficarão curados”.\n19Depois de falar com os discípulos, o Senhor Jesus foi levado ao céu, e sentou-se à direita de Deus. 20Os discípulos então saíram e pregaram por toda parte. O Senhor os ajudava e confirmava sua palavra por meio dos sinais que a acompanhavam."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Ide pelo mundo inteiro e anunciai o Evangelho a toda criatura, aleluia! (Mc 16, 15)",
+    "comunhao": "Eis que estarei convosco todos os dias, até o fim do mundo, diz o Senhor, aleluia. (Cf. Mt 28, 20)"
+  }
+}

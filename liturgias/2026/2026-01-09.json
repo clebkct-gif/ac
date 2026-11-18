@@ -1,0 +1,40 @@
+{
+  "data": "09/01/2026",
+  "liturgia": "6ª feira do Tempo do Natal depois da Epifania",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus todo-poderoso, por meio da estrela revelastes aos Magos o nascimento do Salvador do mundo; manifestai também a nós o mistério de Cristo, para que cresçamos sempre mais na adesão a ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos do séculos.",
+    "oferendas": "Acolhei benigno, Senhor, nós vos pedimos, as oferendas do vosso povo, para que alcancemos pelos celestes sacramentos o que professamos filialmente pela fé. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, que vindes ao nosso encontro pela participação neste sacramento, realizai em nossos corações os efeitos de sua força, para que, ao recebermos o vosso dom, sejamos a ele configurados. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Jo 5, 5-13",
+        "titulo": "Leitura da Primeira Carta de São João",
+        "texto": "Caríssimos, 5quem é o vencedor do mundo, senão aquele que crê que Jesus é o Filho de Deus? 6Este é o que veio pela água e pelo sangue: Jesus Cristo. (Não veio somente com a água, mas com a água e o sangue.) E o Espírito é que dá testemunho, porque o Espírito é a Verdade. 7Assim, são três que dão testemunho: 8o Espírito, a água e o sangue; e os três são unânimes. 9Se aceitamos o testemunho dos homens, o testemunho de Deus é maior. Este é o testemunho de Deus, pois ele deu testemunho a respeito de seu Filho. 10Aquele que crê no Filho de Deus tem este testemunho dentro de si. Aquele que não crê em Deus faz dele um mentiroso, porque não crê no testemunho que Deus deu a respeito de seu Filho. 11E o testemunho é este: Deus nos deu a vida eterna, e esta vida está em seu Filho. 12Quem tem o Filho, tem a vida; quem não tem o Filho não tem a vida. 13Eu vos escrevo estas coisas a vós que acreditastes no nome do Filho de Deus, para que saibais que possuís a vida eterna."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 147(147B)",
+        "refrao": "Glorifica o Senhor, Jerusalém!",
+        "texto": "— Glorifica o Senhor, Jerusalém! Ó Sião, canta louvores ao teu Deus! Pois reforçou com segurança as tuas portas, e os teus filhos em teu seio abençoou; \n— a paz em teus limites garantiu e te dá como alimento a flor do trigo. Ele envia suas ordens para a terra, e a palavra que ele diz corre veloz. \n— Anuncia a Jacó sua palavra, seus preceitos, suas leis a Israel. Nenhum povo recebeu tanto carinho, a nenhum outro revelou os seus preceitos."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 5, 12-16",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "12Aconteceu que Jesus estava numa cidade, e havia aí um homem leproso. Vendo Jesus, o homem caiu a seus pés, e pediu: “Senhor, se queres, tu tens o poder de me purificar”. 13Jesus estendeu a mão, tocou nele, e disse: “Eu quero, fica purificado”. E, imediatamente, a lepra o deixou. 14E Jesus recomendou-lhe: “Não digas nada a ninguém. Vai mostrar-te ao sacerdote e oferece pela purificação o prescrito por Moisés como prova de tua cura”.\n15Não obstante, sua fama ia crescendo, e numerosas multidões acorriam para ouvi-lo e serem curadas de suas enfermidades. 16Ele, porém, se retirava para lugares solitários e se entregava à oração."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Para os retos de coração surgiu nas trevas uma luz: o Senhor cheio de compaixão, justo e misericordioso. (Cf. Sl 111, 4)",
+    "comunhao": "Foi assim que o amor de Deus se manifestou entre nós. Deus enviou o seu Filho único ao mundo, para que tenhamos vida por meio dele. (1Jo 4, 9)"
+  }
+}

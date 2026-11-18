@@ -1,0 +1,40 @@
+{
+  "data": "21/04/2026",
+  "liturgia": "3ª feira da 3ª Semana da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que abris as portas do reino do céu aos renascidos da água e do Espírito Santo, aumentai em vossos fiéis a graça que lhes destes para que, purificados de todo pecado, não sejam privados de nenhuma promessa de vossa bondade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, os dons da vossa Igreja em festa e concedei o fruto da eterna alegria a quem destes motivo de tão grande júbilo. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, olhai com bondade o vosso povo e fazei chegar à incorruptível ressurreição da carne aqueles que renovastes pelos sacramentos da vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 7, 51-8, 1a",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Naqueles dias, Estêvão disse ao povo, aos anciãos e aos doutores da lei: 51“Homens de cabeça dura, insensíveis e incircuncisos de coração e ouvido! Vós sempre resististes ao Espírito Santo e como vossos pais agiram, assim fazeis vós! 52A qual dos profetas vossos pais não perseguiram? Eles mataram aqueles que anunciavam a vinda do Justo, do qual, agora, vós vos tornastes traidores e assassinos. 53Vós recebestes a Lei, por meio de anjos, e não a observastes!”,54Ao ouvir essas palavras, eles ficaram enfurecidos e rangeram os dentes contra Estêvão. 55Estêvão, cheio do Espírito Santo, olhou para o céu e viu a glória de Deus e Jesus, de pé, à direita de Deus. 56E disse: “Estou vendo o céu aberto, e o Filho do Homem, de pé, à direita de Deus”. 57Mas eles, dando grandes gritos e, tapando os ouvidos, avançaram todos juntos contra Estêvão; 58arrastaram-no para fora da cidade e começaram a apedrejá-lo. As testemunhas deixaram suas vestes aos pés de um jovem, chamado Saulo. 59Enquanto o apedrejavam, Estêvão clamou dizendo: “Senhor Jesus, acolhe o meu espírito”. 60Dobrando os joelhos, gritou com voz forte: “Senhor, não os condenes por este pecado”. E, ao dizer isto, morreu. 8, 1aSaulo era um dos que aprovavam a execução de Estêvão."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 30",
+        "refrao": "Em vossas mãos, Senhor, entrego o meu espírito.",
+        "texto": "— Sede uma rocha protetora para mim, um abrigo bem seguro que me salve! Sim, sois vós a minha rocha e fortaleza; por vossa honra orientai-me e conduzi-me! \n— Em vossas mãos, Senhor, entrego o meu espírito, porque vós me salvareis, ó Deus fiel! Quanto a mim, é ao Senhor que me confio, vosso amor me faz saltar de alegria. \n— Mostrai serena a vossa face ao vosso servo, e salvai-me pela vossa compaixão! Na proteção de vossa face os defendeis bem longe das intrigas dos mortais."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 6, 30-35",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, a multidão perguntou a Jesus: 30“Que sinal realizas, para que possamos ver e crer em ti? Que obra fazes? 31Nossos pais comeram o maná no deserto, como está na Escritura: ‘Pão do céu deu-lhes a comer’”.\n32Jesus respondeu: “Em verdade, em verdade vos digo, não foi Moisés quem vos deu o pão que veio do céu. É meu Pai que vos dá o verdadeiro pão do céu. 33Pois o pão de Deus é aquele que desce do céu e dá vida ao mundo”.\n34Então pediram: “Senhor, dá-nos sempre desse pão”. 35Jesus lhes disse: “Eu sou o pão da vida. Quem vem a mim não terá mais fome e quem crê em mim nunca mais terá sede”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Louvai o nosso Deus, todos os seus servos e todos os que o temeis, pequenos e grandes, pois chegou a salvação, o poder, o reino do nosso Deus e a autoridade do seu Cristo, aleluia. (Cf. Ap 19, 5; 12, 10)",
+    "comunhao": "Se morremos com Cristo, cremos que também viveremos com ele, aleluia. (Rm 6, 8)"
+  }
+}

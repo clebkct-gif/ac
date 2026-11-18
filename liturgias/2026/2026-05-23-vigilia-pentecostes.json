@@ -1,0 +1,46 @@
+{
+  "data": "23/05/2026",
+  "liturgia": "Vigília de Pentecostes - 7ª Semana da Páscoa",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, quisestes que o mistério pascal fosse celebrado durante cinquenta dias. Fazei, nós vos pedimos, que pela graça do céu as diferentes línguas dos povos dispersos se unam no louvor do vosso nome. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Derramai, Senhor, nós vos pedimos, a bênção do vosso Espírito sobre os dons aqui presente, para que se acenda por eles em vossa Igreja aquele amor que revele ao mundo inteiro a verdade do mistério da salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Aproveite-nos, Senhor, estes dons que recebemos, para que vivamos sempre no fervor daquele Espírito que de modo admirável derramastes sobre os vossos Apóstolos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Gênesis 11,1-9",
+        "titulo": "Leitura do Livro do Gênesis",
+        "texto": "1Toda a terra tinha uma só linguagem e servia-se das mesmas palavras. 2E aconteceu que, partindo do oriente, os homens acharam uma planície na terra de Senaar, e aí se estabeleceram. 3E disseram uns aos outros: \"Vamos, façamos tijolos e cozamo-los ao fogo\". Usaram tijolos em vez de pedra, e betume em lugar de argamassa. 4E disseram: \"Vamos, façamos para nós uma cidade e uma torre cujo cimo atinja o céu. Assim, ficaremos famosos, e não seremos dispersos por toda a face da terra\". 5Então o Senhor desceu para ver a cidade e a torre que os homens estavam construindo. 6E o Senhor disse: \"Eis que eles são um só povo e falam uma só língua. E isso é apenas o começo de seus empreendimentos. Agora, nada os impedirá de fazer o que se propuseram. 7Desçamos e confundamos a sua língua, de modo que não se entendam uns aos outros\". 8E o Senhor os dispersou daquele lugar por toda a superfície da terra, e eles cessaram de construir a cidade. 9Por isso, foi chamada Babel, porque foi aí que o Senhor confundiu a linguagem de todo o mundo, e daí dispersou os homens por toda a terra."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 103(104)",
+        "refrao": "Enviai o vosso Espírito, Senhor, e da terra toda a face renovai.",
+        "texto": "— Bendize, ó minha alma, ao Senhor! Ó meu Deus e meu Senhor, como sois grande! De majestade e esplendor vos revestis e de luz vos envolveis como num manto.  \n— Quão numerosas, ó Senhor, são vossas obras, e que sabedoria em todas elas! Encheu-se a terra com as vossas criaturas. Bendize, ó minha alma, ao Senhor!  \n— Todos eles, ó Senhor, de vós esperam que a seu tempo vós lhes deis o alimento; vós lhes dais o que comer e eles recolhem, vós abris a vossa mão e eles se fartam. \n— Se tirais o seu respiro, eles perecem e voltam para o pó de onde vieram; enviais o vosso espírito e renascem e da terra toda a face renovais."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Romanos 8,22-27",
+        "titulo": "Leitura da Carta de São Paulo aos Romanos",
+        "texto": "Irmãos: 22Sabemos que toda a criação, até ao tempo presente, está gemendo como que em dores de parto. 23E não somente ela, mas nós também, que temos os primeiros frutos do Espírito, estamos interiormente gemendo, aguardando a adoção filial e a libertação para o nosso corpo. 24Pois já fomos salvos, mas na esperança. Ora, o objeto da esperança não é aquilo que a gente está vendo; como pode alguém esperar o que já vê? 25Mas, se esperamos o que não vemos, é porque o estamos aguardando mediante a perseverança. 26Também o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir, nem como pedir; é o próprio Espírito que intercede em nosso favor, com gemidos inefáveis. 27E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "João 7,37-39",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "No último dia da festa, o dia mais solene, Jesus, em pé, proclamou em voz alta: \"Se alguém tem sede, venha a mim, e beba. 38Aquele que crê em mim, conforme diz a Escritura, rios de água viva jorrarão do seu interior\". 39Jesus falava do Espírito, que deviam receber os que tivessem fé nele; pois ainda não tinha sido dado o Espírito, porque Jesus ainda não tinha sido glorificado."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O amor de Deus foi derramado em nossos corações pelo seu Espírito que habita em nós, aleluia. (Cf. Rm 5,5; cf. 8,11)",
+    "comunhao": "No último dia da festa, Jesus proclamou em alta voz: Se alguém tem sede, venha a mim e beba, aleluia. (Cf. Jo 7,37)"
+  }
+}

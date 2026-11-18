@@ -1,0 +1,40 @@
+{
+  "data": "17/01/2026",
+  "liturgia": "Santo Antão, abade, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, chamastes o abade Santo Antão a vos servir no deserto numa vida heroica, concedei-nos, por sua intercessão, a graça de renunciar a nós mesmos e de amar-vos acima de tudo. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Nós vos pedimos, Senhor, aceitai os dons do nosso serviço apresentados em vosso altar na comemoração de Santo Antão, e concedei que, livres dos impedimentos terrestres, tenhamos só em vós a nossa riqueza. Por Cristo, nosso Senhor.",
+    "comunhao": "Tendo nos alimentado, Senhor, com vosso sacramento salutar, fazei-nos superar todas as tentações do inimigo, como destes a Santo Antão a graça de esplêndidas vitórias sobre as forças das trevas. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Sm 9,1-4.17-19; 10,1",
+        "titulo": "Leitura do primeiro livro de Samuel",
+        "texto": "1Havia um homem de Benjamin chamado Cis, filho de Abiel, filho de Seror, filho de Becorat, filho de Afia, um benjaminita, homem forte e valente. 2Ele tinha um filho chamado Saul, de boa apresentação. Entre os filhos de Israel não havia outro melhor do que ele: dos ombros para cima sobressaía a todo o povo. 3Ora, aconteceu que se perderam umas jumentas de Cis, pai de Saul. E Cis disse a seu filho Saul: “Toma contigo um dos criados, põe-te a caminho e vai procurar as jumentas”. Eles atravessaram a montanha de Efraim 4e a região de Salisa, mas não as encontraram. Passaram também pela região de Salim, sem encontrar nada; e ainda pela terra de Benjamim, sem resultado algum. 17Quando Samuel avistou Saul, o Senhor lhe disse: “Este é o homem de quem te falei. Ele reinará sobre o meu povo”. 18Saul aproximou-se de Samuel, na soleira da porta, e disse-lhe: “Peço-te que me informes onde é a casa do vidente”. 19Samuel respondeu a Saul: “Sou eu mesmo o vidente. Sobe na minha frente ao santuário da colina. Hoje comereis comigo e amanhã de manhã te deixarei partir, depois de te ter revelado tudo o que tens no coração”. 1Na manhã seguinte, Samuel tomou um pequeno frasco de azeite, derramou-o sobre a cabeça de Saul e beijou-o, dizendo: “Com isto o Senhor te ungiu como chefe do seu povo, Israel. Tu governarás o povo do Senhor e o livrarás das mãos de seus inimigos, que estão ao seu redor”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 20(21)",
+        "refrao": "Ó Senhor, em vossa força o rei se alegra.",
+        "texto": "– Ó Senhor, em vossa força o rei se alegra; quanto exulta de alegria em vosso auxílio! O que sonhou seu coração, lhe concedestes; não recusastes os pedidos de seus lábios.\n– Com bênção generosa o preparastes; de ouro puro coroastes sua fronte. A vida ele pediu e vós lhe destes, longos dias, vida longa pelos séculos.\n– É grande a sua glória em vosso auxílio; de esplendor e majestade o revestistes. Transformastes o seu nome numa bênção e o cobristes de alegria em vossa face."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 2,13-17",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 13Jesus saiu de novo para a beira do mar. Toda a multidão ia ao seu encontro e Jesus os ensinava. 14Enquanto passava, Jesus viu Levi, o filho de Alfeu, sentado na coletoria de impostos e disse-lhe: “Segue-me!” Levi se levantou e o seguiu. 15E aconteceu que, estando à mesa na casa de Levi, muitos cobradores de impostos e pecadores também estavam à mesa com Jesus e seus discípulos. Com efeito, eram muitos os que o seguiam. 16Alguns doutores da lei, que eram fariseus, viram que Jesus estava comendo com pecadores e cobradores de impostos. Então eles perguntaram aos discípulos: “Por que ele come com os cobradores de impostos e pecadores?” 17Tendo ouvido, Jesus respondeu-lhes: “Não são as pessoas sadias que precisam de médico, mas as doentes. Eu não vim para chamar justos, mas sim pecadores”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O justo florescerá como a palmeira e crescerá como o cedro do Líbano, plantado na casa do Senhor, nos átrios da casa do nosso Deus. (Cf. Sl 91, 13-14)",
+    "comunhao": "Se queres ser perfeito, vai, vende o que tens e dá o dinheiro aos pobres; depois, segue-me, diz o Senhor. (Cf. Mt 19, 21)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "12/02/2026",
+  "liturgia": "5ª feira da 5ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Velai, Senhor, nós vos pedimos, com incansável amor sobre a vossa família; e porque só em vós coloca a sua esperança, defendei-a sempre com vossa proteção. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor nosso Deus, que criastes o pão e o vinho para alimentar nossa fraqueza, concedei, nós vos pedimos, que se tornem para nós sacramento de vida eterna. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, quisestes que participássemos do mesmo pão e do mesmo cálice; fazei-nos viver de tal modo unidos em Cristo, que possamos com alegria produzir fruto para a salvação do mundo. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Rs 11,4-13",
+        "titulo": "Leitura do primeiro livro dos Reis",
+        "texto": "4Quando Salomão ficou velho, suas mulheres desviaram o seu coração para outros deuses e seu coração já não pertencia inteiramente ao Senhor, seu Deus, como o do seu pai, Davi. 5Salomão prestou culto a Astarte, deusa dos sidônios, e a Melcom, ídolo dos amonitas. 6Ele fez o que desagrada ao Senhor e não lhe foi inteiramente fiel, como seu pai, Davi. 7Foi então que Salomão construiu um santuário para Camos, ídolo de Moab, no monte que está defronte de Jerusalém, e para Melcom, ídolo dos amonitas. 8Fez o mesmo para todas as suas mulheres estrangeiras, as quais queimavam incenso e ofereciam sacrifícios aos seus deuses. 9Então, o Senhor irritou-se contra Salomão, porque o seu coração tinha se desviado do Senhor, Deus de Israel, que lhe tinha aparecido duas vezes 10e lhe proibira expressamente seguir a outros deuses. Mas ele não obedeceu à ordem do Senhor. 11E o Senhor disse a Salomão: “Já que procedeste assim e não guardaste a minha aliança nem as leis que te prescrevi, vou tirar-te o reino e dá-lo a um teu servo. 12Mas, por amor de teu pai, Davi, não o farei durante a tua vida; é da mão de teu filho que o arrebatarei. 13Não te tirarei o reino todo, mas deixarei ao teu filho uma tribo, por consideração para com meu servo Davi e para com Jerusalém, que escolhi”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 105(106)",
+        "refrao": "Lembrai-vos, ó Senhor, de mim, lembrai-vos, segundo o amor que demonstrais ao vosso povo!",
+        "texto": "– Felizes os que guardam seus preceitos e praticam a justiça em todo o tempo! Lembrai-vos, ó Senhor, de mim, lembrai-vos, pelo amor que demonstrais ao vosso povo!\n– Misturaram-se, então, com os pagãos e aprenderam seus costumes depravados. Aos ídolos pagãos prestaram culto, que se tornaram armadilha para eles.\n– Pois imolaram até mesmo os próprios filhos, sacrificaram suas filhas aos demônios. Acendeu-se a ira de Deus contra o seu povo, e o Senhor abominou a sua herança."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 7,24-30",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 24Jesus saiu e foi para a região de Tiro e Sidônia. Entrou numa casa e não queria que ninguém soubesse onde ele estava. Mas não conseguiu ficar escondido. 25Uma mulher, que tinha uma filha com um espírito impuro, ouviu falar de Jesus. Foi até ele e caiu a seus pés. 26A mulher era pagã, nascida na Fenícia da Síria. Ela suplicou a Jesus que expulsasse de sua filha o demônio. 27Jesus disse: “Deixa primeiro que os filhos fiquem saciados, porque não está certo tirar o pão dos filhos e jogá-lo aos cachorrinhos”. 28A mulher respondeu: “É verdade, Senhor; mas também os cachorrinhos, debaixo da mesa, comem as migalhas que as crianças deixam cair”. 29Então Jesus disse: “Por causa do que acabas de dizer, podes voltar para casa. O demônio já saiu de tua filha”. 30Ela voltou para casa e encontrou sua filha deitada na cama, pois o demônio já havia saído dela."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vinde, adoremos e prostremo-nos por terra, e ajoelhemo-nos ante o Deus que nos criou! Porque ele é o nosso Deus, nosso Pastor. (Cf. Sl 94,6-7 )",
+    "comunhao": "Agradeçam ao Senhor por seu amor e por suas maravilhas entre os homens! Deu de beber aos que sofriam tanta sede e os famintos saciou com muitos bens. (Cf. Sl 106.8-9)"
+  }
+}

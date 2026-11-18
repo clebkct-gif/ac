@@ -1,0 +1,40 @@
+{
+  "data": "07/01/2026",
+  "liturgia": "4ª feira do Tempo do Natal depois da Epifania",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, luz de todas as nações, concedei aos povos da terra viver em perene paz, e infundi em nossos corações aquela luz admirável que fizestes brilhar nos corações dos nossos pais. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, fonte da verdadeira devoção e da paz, concedei que vos honremos dignamente com esta oferenda e, pela fiel participação nos sagrados mistérios, sejam reforçados os laços que nos unem. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, que o vosso povo, sustentado com tantas graças, possa receber hoje e sempre os dons do vosso amor, para que, confortado pelos bens transitórios, busque com mais confiança os bens eternos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Jo 4, 11-18",
+        "titulo": "Leitura da Primeira Carta de São João",
+        "texto": "11Caríssimos, se Deus nos amou assim, nós também devemos amar-nos uns aos outros. 12Ninguém jamais viu a Deus. Se nos amamos uns aos outros, Deus permanece conosco e seu amor é plenamente realizado entre nós. 13A prova de que permanecemos com ele, e ele conosco, é que ele nos deu o seu Espírito. 14E nós vimos, e damos testemunho, que o Pai enviou o seu Filho como Salvador do mundo. 15Todo aquele que proclama que Jesus é o Filho de Deus, Deus permanece com ele, e ele com Deus. 16E nós conhecemos o amor que Deus tem para conosco, e acreditamos nele. Deus é amor: quem permanece no amor, permanece com Deus, e Deus permanece com ele. 17Nisto se realiza plenamente o seu amor para conosco: em nós termos plena confiança no dia do julgamento, porque, tal como Jesus, nós somos neste mundo. 18No amor não há temor. Ao contrário, o perfeito amor lança fora o temor, pois o temor implica castigo, e aquele que teme não chegou à perfeição do amor."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 71(72)",
+        "refrao": "As nações de toda a terra, hão de adorar-vos, ó Senhor!",
+        "texto": "— Dai ao Rei vossos poderes, Senhor Deus, vossa justiça ao descendente da realeza! Com justiça ele governe o vosso povo, com equidade ele julgue os vossos pobres. \n— Os reis de Társis e das ilhas hão de vir e oferecer-lhe seus presentes e seus dons; e também os reis de Seba e de Sabá hão de trazer-lhe oferendas e tributos. Os reis de toda a terra hão de adorá-lo, e de todas as nações hão de servi-lo. \n— Libertará o indigente que suplica, e o pobre ao qual ninguém quer ajudar. Terá pena do indigente e do infeliz, e a vida dos humildes salvará."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 6, 45-52",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Marcos",
+        "texto": "Depois de saciar os cinco mil homens, 45Jesus obrigou os discípulos a entrarem na barca e irem na frente para Betsaida, na outra margem, enquanto ele despedia a multidão. 46Logo depois de se despedir deles, subiu ao monte para rezar.\n47Ao anoitecer, a barca estava no meio do mar e Jesus sozinho em terra. 48Ele viu os discípulos cansados de remar, porque o vento era contrário. Então, pelas três da madrugada, Jesus foi até eles andando sobre as águas, e queria passar na frente deles.\n49Quando os discípulos o viram andando sobre o mar, pensaram que era um fantasma e começaram a gritar. 50Com efeito, todos o tinham visto e ficaram assustados. Mas Jesus logo falou: “Coragem, sou eu! Não tenhais medo!” 51Então subiu com eles na barca. E o vento cessou. Mas os discípulos ficaram ainda mais espantados, 52porque não tinham compreendido nada a respeito dos pães. O coração deles estava endurecido."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O povo que andava na escuridão viu uma grande luz; para os que habitavam nas sombras da morte, uma luz resplandeceu. (Is 9, 2)",
+    "comunhao": "A vida, que estava no Pai, manifestou-se e apareceu a nós. (Cf. 1Jo 1, 2)"
+  }
+}

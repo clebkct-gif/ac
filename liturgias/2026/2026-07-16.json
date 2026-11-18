@@ -1,0 +1,40 @@
+{
+  "data": "16/07/2026",
+  "liturgia": "Bem-aventurada Virgem Maria do Monte Carmelo, Festa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Senhor, nós vos pedimos: venha em nosso auxílio a venerável intercessão da gloriosa Virgem Maria, para que, por sua proteção, possamos chegar ao monte que é Cristo, nosso Senhor. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, as orações e oferendas dos vossos fiéis, que vos apresentamos na festa da Bem-aventurada Virgem Maria, Mãe de Deus; que elas vos sejam agradáveis e nos tragam o auxilio da vossa misericórdia. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, vós nos fizestes participantes dos frutos da redenção eterna; concedei a nós, que celebramos a festa da Mãe do vosso Filho, que nos gloriemos da plenitude da vossa graça e que sintamos crescer sempre mais a salvação. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Zc 2, 14-17",
+        "titulo": "Leitura da Profecia de Zacarias",
+        "texto": "14“Rejubila, alegra-te, cidade de Sião, eis que venho para habitar no meio de ti, diz o Senhor. 15Muitas nações se aproximarão do Senhor, naquele dia, e serão o seu povo. Habitarei no meio de ti, e saberás que o Senhor dos exércitos me enviou a ti. 16O Senhor entrará em posse de Judá, como sua porção na terra santa, e escolherá de novo Jerusalém. 17Emudeça todo mortal diante do Senhor, ele acaba de levantar-se de sua santa habitação”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Lc 1, 46-55",
+        "refrao": "O Poderoso fez por mim maravilhas, e Santo é o seu nome.",
+        "texto": "— A minh’alma engrandece ao Senhor, e se alegrou o meu espírito em Deus, meu Salvador,\n— pois, ele viu a pequenez de sua serva, desde agora as gerações hão de chamar-me de bendita. O Poderoso fez por mim maravilhas e Santo é o seu nome!\n— Seu amor, de geração em geração, chega a todos que o respeitam. Demonstrou o poder de seu braço, dispersou os orgulhosos.\n— Derrubou os poderosos de seus tronos e os humildes exaltou. De bens saciou os famintos e despediu, sem nada, os ricos.\n— Acolheu Israel, seu servidor, fiel ao seu amor, como havia prometido aos nossos pais, em favor de Abraão e de seus filhos, para sempre"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 12, 46-50",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 46enquanto Jesus estava falando às multidões, sua mãe e seus irmãos ficaram do lado de fora, procurando falar com ele. 47Alguém disse a Jesus: “Olha! Tua mãe e teus irmãos estão aí fora, e querem falar contigo”. 48Jesus perguntou àquele que tinha falado: “Quem é minha mãe, e quem são meus irmãos?” 49E, estendendo a mão para os discípulos, Jesus disse: “Eis minha mãe e meus irmãos. 50Pois todo aquele que faz a vontade do meu Pai, que está nos céus, esse é meu irmão, minha irmã e minha mãe”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Todos vós que a Deus temeis, vinde escutar: vou  contar-vos todo o bem que ele me fez! (Cf. Sl 65,16)",
+    "comunhao": "Desde agora as gerações hão de chamar me de bendita. O poderoso fez em mim maravilhas e Santo é o seu nome! (Cf. Lc 1,48-49)"
+  }
+}

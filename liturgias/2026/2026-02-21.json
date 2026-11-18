@@ -1,0 +1,40 @@
+{
+  "data": "21/02/2026",
+  "liturgia": "Sábado depois das Cinzas",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Ó Deus eterno e todo-poderoso, olhai com bondade a nossa fraqueza e estendei, para proteger-nos, a vossa mão poderosa. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, nós vos pedimos, este sacrifício de louvor e de reconciliação e fazei que, por ele purificados, vos ofereçamos o afeto de um coração que vos agrade. Por Cristo, nosso Senhor.",
+    "comunhao": "Alimentados pelo dom da vida celeste, nós vos pedimos, Senhor, torne-se auxílio para a eternidade o sacramento que recebemos na terra. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 58, 9b-14",
+        "titulo": "Leitura do Livro do Profeta Isaías",
+        "texto": "Assim fala o Senhor: 9b“Se destruíres teus instrumentos de opressão, e deixares os hábitos autoritários e a linguagem maldosa; 10se acolheres de coração aberto o indigente e prestares todo socorro ao necessitado, nascerá nas trevas a tua luz e tua vida obscura será como o meio-dia.,11O Senhor te conduzirá sempre e saciará tua sede na aridez da vida, e renovará o vigor do teu corpo; serás como um jardim bem regado, como uma fonte de águas que jamais secarão. 12Teu povo reconstruirá as ruínas antigas; tu levantarás os fundamentos das gerações passadas: serás chamado reconstrutor de ruínas, restaurador de caminhos, nas terras a povoar.,13Se não puseres o pé fora de casa no sábado, nem tratares de negócios em meu dia santo, se considerares o sábado teu dia favorito, o dia glorioso, consagrado ao Senhor, se o honrares, pondo de lado atividades, negócios e conversações, 14então te deleitarás no Senhor; eu te farei transportar sobre as alturas da terra e desfrutar a herança de Jacó, teu pai”. Falou a boca do Senhor."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 85",
+        "refrao": "Ensinai-me os vossos caminhos e na vossa verdade andarei.",
+        "texto": "— Inclinai, ó Senhor, vosso ouvido, escutai, pois sou pobre e infeliz! Protegei-me, que sou vosso amigo, e salvai vosso servo, meu Deus, que espera e confia em vós! \n— Piedade de mim, ó Senhor, porque clamo por vós todo o dia! Animai e alegrai vosso servo, pois a vós eu elevo a minh’alma. \n— Ó Senhor, vós sois bom e clemente, sois perdão para quem vos invoca. Escutai, ó Senhor, minha prece, o lamento da minha oração"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 5, 27-32",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 27Jesus viu um cobrador de impostos, chamado Levi, sentado na coletoria. Jesus lhe disse: “Segue-me”. 28Levi deixou tudo, levantou-se e o seguiu.29Depois, Levi preparou em casa um grande banquete para Jesus. Estava aí grande número de cobradores de impostos e outras pessoas sentadas à mesa com eles. 30Os fariseus e seus mestres da Lei murmuravam e diziam aos discípulos de Jesus: “Por que vós comeis e bebeis com os cobradores de impostos e com os pecadores?”31Jesus respondeu: “Os que são sadios não precisam de médico, mas sim os que estão doentes. 32Eu não vim chamar os justos, mas sim os pecadores para a conversão”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Atendei-nos, Senhor, porque grande é a vossa misericórdia; olhai para nós, Senhor, por vossa imensa bondade. (Cf. Sl 68,17)",
+    "comunhao": "Quero misericórdia e não sacrifício, diz o Senhor. De fato, eu não vim para chamar os justos, mas os pecadores. (Cf. Mt 9,13)"
+  }
+}

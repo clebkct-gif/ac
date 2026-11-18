@@ -1,0 +1,40 @@
+{
+  "data": "12/01/2026",
+  "liturgia": "2ª feira da 1ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Senhor, atendei com bondade paterna as preces do vosso povo suplicante; dai-lhe luz para ver o que deve ser feito e coragem para realizar o que viu. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Possa agradar-vos, Senhor, a oferenda do vosso povo; ela nos obtenha a santificação e o que confiantes vos pedimos. Por Cristo, nosso Senhor.",
+    "comunhao": "Deus todo-poderoso, que refazeis as nossas forças pelos vossos sacramentos, nós vos pedimos a graça de vos servir por uma vida que vos seja agradável. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Sm 1,1-8",
+        "titulo": "Início do primeiro livro de Samuel",
+        "texto": "1Havia um homem sufita, oriundo de Ramá, no monte Efraim, que se chamava Elcana, filho de Jeroam, filho de Eliú, filho de Tou, filho de Suf, efraimita. 2Elcana tinha duas mulheres; uma chamava-se Ana e a outra Fenena. Fenena tinha filhos; Ana, porém, não tinha. 3Todos os anos, esse homem subia da sua cidade para adorar e oferecer sacrifícios ao Senhor todo-poderoso em Silo. Os dois filhos de Eli, Hofni e Fineias, eram sacerdotes do Senhor naquele santuário. 4Quando oferecia sacrifício, Elcana dava à sua mulher Fenena e a todos os seus filhos e filhas as porções que lhes cabiam. 5A Ana, embora a amasse, dava apenas uma porção escolhida, pois o Senhor a tinha deixado estéril. 6Sua rival também a magoava e atormentava, humilhando-a pelo fato de o Senhor a ter tornado estéril. 7E isso acontecia todos os anos. Sempre que subiam à casa do Senhor, ela a provocava do mesmo modo. E Ana chorava e não comia. 8Então, Elcana, seu marido, lhe disse: “Ana, por que estás chorando e não te alimentas? E por que se aflige o teu coração? Acaso não sou eu melhor para ti do que dez filhos?”"
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 115(116)",
+        "refrao": "Oferto ao Senhor um sacrifício de louvor.",
+        "texto": "– Que poderei retribuir ao Senhor Deus por tudo aquilo que ele fez em meu favor? Elevo o cálice da minha salvação, invocando o nome santo do Senhor.\n– Vou cumprir minhas promessas ao Senhor na presença de seu povo reunido. Por isso oferto um sacrifício de louvor, invocando o nome santo do Senhor.\n– Vou cumprir minhas promessas ao Senhor na presença de seu povo reunido; nos átrios da casa do Senhor, em teu meio, ó cidade de Sião!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 1,14-20",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "14Depois que João Batista foi preso, Jesus foi para a Galileia, pregando o evangelho de Deus e dizendo: 15“O tempo já se completou e o reino de Deus está próximo. Convertei-vos e crede no evangelho!” 16E, passando à beira do mar da Galileia, Jesus viu Simão e André, seu irmão, que lançavam a rede ao mar, pois eram pescadores. 17Jesus lhes disse: “Segui-me e eu farei de vós pescadores de homens”. 18E eles, deixando imediatamente as redes, seguiram a Jesus. 19Caminhando mais um pouco, viu também Tiago e João, filhos de Zebedeu. Estavam na barca, consertando as redes; 20e logo os chamou. Eles deixaram seu pai, Zebedeu, na barca com os empregados e partiram, seguindo Jesus."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vi um homem sentado num trono excelso; a multidão dos Anjos o adora, cantando a uma só voz: Eis aquele cujo nome e império permanecem eternamente.",
+    "comunhao": "Junto de vós, Senhor, está a fonte da vida, e em vossa luz veremos a luz. (Sl 35, 10)"
+  }
+}

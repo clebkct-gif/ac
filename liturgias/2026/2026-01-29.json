@@ -1,0 +1,40 @@
+{
+  "data": "29/01/2026",
+  "liturgia": "5ª feira da 3ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, dirigi nossas ações segundo a vossa vontade, para que, em nome do vosso dileto Filho, mereçamos frutificar em boas obras. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei com bondade, Senhor, as nossas oferendas para que sejam santificadas e nos tragam a salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Concedei-nos, Deus todo-poderoso, que, tendo recebido a graça de uma nova vida, sempre nos gloriemos dos vossos dons. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Sm 7,18-19.24-29",
+        "titulo": "Leitura do segundo livro de Samuel",
+        "texto": "Depois que Natã falara a Davi, o rei entrou no tabernáculo, 18foi assentar-se diante do Senhor e disse: “Quem sou eu, Senhor Deus, e o que é a minha família, para que me tenhas conduzido até aqui? 19Mas, como isso te parecia pouco, Senhor Deus, ainda fizeste promessas à casa do teu servo para um futuro distante. Porque esta é a lei do homem, Senhor Deus! 24Estabeleceste o teu povo, Israel, para que ele seja para sempre o teu povo; e tu, Senhor, te tornaste o seu Deus. 25Agora, Senhor Deus, cumpre para sempre a promessa que fizeste ao teu servo e à sua casa e faze como disseste! 26Então o teu nome será exaltado para sempre, e dirão: ‘O Senhor todo-poderoso é o Deus de Israel’. E a casa do teu servo Davi permanecerá estável na tua presença. 27Pois tu, Senhor todo-poderoso, Deus de Israel, fizeste esta revelação ao teu servo: ‘Eu te construirei uma casa’. Por isso o teu servo se animou a dirigir-te esta oração. 28Agora, Senhor Deus, tu és Deus e tuas palavras são verdadeiras. Pois que fizeste esta bela promessa ao teu servo, 29abençoa, então, a casa do teu servo, para que ela permaneça para sempre na tua presença. Porque és tu, Senhor Deus, que falaste, e é graças à tua bênção que a casa do teu servo será abençoada para sempre”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 131(132)",
+        "refrao": "O Senhor vai dar-lhe o trono de seu pai, o rei Davi.",
+        "texto": "– Recordai-vos, ó Senhor, do rei Davi e de quanto vos foi ele dedicado; do juramento que ao Senhor havia feito e de seu voto ao poderoso de Jacó.\n– “Não entrarei na minha tenda, minha casa, nem subirei à minha cama em que repouso, não deixarei adormecerem os meus olhos nem cochilarem em descanso minhas pálpebras, até que eu ache um lugar para o Senhor, uma casa para o forte de Jacó!”\n– O Senhor fez a Davi um juramento, uma promessa que jamais renegará: “Um herdeiro que é fruto do teu ventre colocarei sobre o trono em teu lugar!\n– Se teus filhos conservarem minha aliança e os preceitos que lhes dei a conhecer, os filhos deles igualmente hão de sentar-se eternamente sobre o trono que te dei!”\n– Pois o Senhor quis para si Jerusalém e a desejou para que fosse sua morada: “Eis o lugar do meu repouso para sempre, eu fico aqui: este é o lugar que preferi!”"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 4,21-25",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, Jesus disse à multidão: 21“Quem é que traz uma lâmpada para colocá-la debaixo de um caixote ou debaixo da cama? Ao contrário, não a coloca num candeeiro? 22Assim, tudo o que está escondido deverá tornar-se manifesto, e tudo o que está em segredo deverá ser descoberto. 23Se alguém tem ouvidos para ouvir, ouça”. 24Jesus dizia ainda: “Prestai atenção no que ouvis: com a mesma medida com que medirdes, também vós sereis medidos; e vos será dado ainda mais. 25Ao que tem alguma coisa, será dado ainda mais; do que não tem, será tirado até mesmo o que ele tem”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Cantai ao Senhor um cântico novo, cantai ao Senhor, terra inteira. Glória e esplendor, em sua presença, santidade e beleza no seu santuário. (Cf. Sl 95,1.6)",
+    "comunhao": "Aproximai-vos do Senhor e sereis iluminados e vosso rosto não se cubra de vergonha. Eu sou a luz do mundo, diz o Senhor. Quem me segue, não andará nas trevas, mas terá a luz da vida. (Cf. Sl 33,6 Ou: Jo 8,12)"
+  }
+}

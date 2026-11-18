@@ -1,0 +1,51 @@
+{
+  "data": "14/09/2026",
+  "liturgia": "Exaltação da Santa Cruz, Festa",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, quisestes que vosso Filho Unigênito sofresse o suplício da cruz para salvar o gênero humano; concedei que, tendo conhecido na terra este mistério, mereçamos alcançar no céu o prêmio da redenção. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Purifique-nos, Senhor, de todas as ofensas, este sacrifício que, no altar da cruz, tirou o pecado do mundo inteiro. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor Jesus Cristo, alimentados pela vossa santa ceia, humildemente vos pedimos: levai à glória da ressurreição os redimidos pela árvore da cruz que nos trouxe a vida. Vós que viveis e reinais pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Nm 21, 4b-9",
+        "titulo": "Leitura do Livro dos Números",
+        "texto": "Naqueles dias, 4bos filhos de Israel partiram do monte Hor, pelo caminho que leva ao mar Vermelho, para contornarem o país de Edom. Durante a viagem o povo começou a impacientar-se, 5e se pôs a falar contra Deus e contra Moisés, dizendo: “Por que nos fizestes sair do Egito para morrermos no deserto? Não há pão, falta água, e já estamos com nojo desse alimento miserável”. 6Então o Senhor mandou contra o povo serpentes venenosas, que os mordiam; e morreu muita gente em Israel. 7O povo foi ter com Moisés e disse: “Pecamos, falando contra o Senhor e contra ti. Roga ao Senhor que afaste de nós as serpentes”. Moisés intercedeu pelo povo, 8e o Senhor respondeu: “Faze uma serpente de bronze e coloca-a como sinal sobre uma haste; aquele que for mordido e olhar para ela viverá”. 9Moisés fez, pois, uma serpente de bronze e colocou-a como sinal sobre uma haste. Quando alguém era mordido por uma serpente, e olhava para a serpente de bronze, ficava curado."
+      },
+      {
+        "referencia": "Fl 2, 6-11",
+        "titulo": "Leitura da Carta de São Paulo aos Filipenses",
+        "texto": "Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, 7mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano, 8humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz. 9Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome. 10Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, 11e toda língua proclame: “Jesus Cristo é o Senhor”, para a glória de Deus Pai."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 77",
+        "refrao": "Das obras do Senhor, ó meu povo, não te esqueças!",
+        "texto": "— Escuta, ó meu povo, a minha Lei, ouve atento as palavras que eu te digo; abrirei a minha boca em parábolas, os mistérios do passado lembrarei. \n— Quando os feria, eles então o procuravam, convertiam-se correndo para ele; recordavam que o Senhor é sua rocha e que Deus, seu Redentor, é o Deus Altíssimo. \n— Mas apenas o honravam com seus lábios e mentiam ao Senhor com suas línguas; seus corações enganadores eram falsos e, infiéis, eles rompiam a Aliança. \n— Mas o Senhor, sempre benigno e compassivo, não os matava e perdoava seu pecado; quantas vezes dominou a sua ira e não deu largas à vazão de seu furor"
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Fl 2, 6-11",
+        "titulo": "Leitura da carta de São Paulo aos Filipenses",
+        "texto": "6Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, 7mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano, 8humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz. 9Por isso, Deus o exaltou acima de tudo e lhe deu o nome que está acima de todo nome. 10Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra 11e toda língua proclame: “Jesus Cristo é o Senhor”, para a glória de Deus Pai."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 3, 13-17",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, disse Jesus a Nicodemos: 13“Ninguém subiu ao céu, a não ser aquele que desceu do céu, o Filho do Homem. 14Do mesmo modo como Moisés levantou a serpente no deserto, assim é necessário que o Filho do Homem seja levantado, 15para que todos os que nele crerem tenham a vida eterna.16Pois Deus amou tanto o mundo, que deu o seu Filho unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna. 17De fato, Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo seja salvo por ele”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Nós, porém, devemos gloriar-nos na cruz de nosso Senhor Jesus Cristo; nele está a salvação, nossa vida e ressurreição; por ele somos salvos e libertos. (Cf. Gl 6, 14)",
+    "comunhao": "Quando eu for elevado da terra, diz o Senhor, atrairei todos a mim (Cf. Jo 12, 32)"
+  }
+}

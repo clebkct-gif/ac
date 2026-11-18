@@ -1,0 +1,40 @@
+{
+  "data": "21/07/2026",
+  "liturgia": "3ª feira da 16ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Senhor, sede propício a vossos fiéis, e, benigno, multiplicai neles os dons da vossa graça, para que, fervorosos na fé, esperança e caridade, perseverem sempre vigilantes na observância dos vossos mandamentos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, no único sacrifício da cruz levastes à plenitude os diversos sacrifícios da antiga lei. Aceitai esta oblação das mãos dos vossos fiéis e santificai-a, com a mesma bênção que destes à oferta de Abel, a fim de que sirva para a salvação de todos o que cada um trouxe em vossa honra. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor misericordioso, permanecei junto ao vosso povo e fazei passar da antiga para a nova vida aqueles que iniciastes nos mistérios do céu. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Mq 7, 14-15. 18-20",
+        "titulo": "Leitura da Profecia de Miqueias",
+        "texto": "14Apascenta o teu povo com o cajado da autoridade, o rebanho de tua propriedade, os habitantes dispersos pela mata e pelos campos cultivados; que eles desfrutem a terra de Basã e Galaad, como nos velhos tempos. 15E, como foi nos dias em que nos fizeste sair do Egito, faze-nos ver novos prodígios. 18Qual Deus existe, como tu, que apagas a iniquidade e esqueces o pecado daqueles que são resto de tua propriedade? Ele não guarda rancor para sempre, o que ama é a misericórdia. 19Voltará a compadecer-se de nós, esquecerá nossas iniquidades e lançará ao fundo do mar todos os nossos pecados. 20Tu manterás fidelidade a Jacó e terás compaixão de Abraão, como juraste a nossos pais, desde tempos remotos."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 84",
+        "refrao": "Mostrai-nos, ó Senhor, vossa bondade.",
+        "texto": "— Favorecestes, ó Senhor, a vossa terra, libertastes os cativos de Jacó. Perdoastes o pecado ao vosso povo, encobristes toda a falta cometida; retirastes a ameaça que fizestes, acalmastes o furor de vossa ira.\n— Renovai-nos, nosso Deus e Salvador, esquecei a vossa mágoa contra nós! Ficareis eternamente irritado? Guardareis a vossa ira pelos séculos?\n— Não vireis restituir a nossa vida, para que em vós se rejubile o vosso povo? Mostrai-nos, ó Senhor, vossa bondade, concedei-nos também vossa salvação"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 12, 46-50",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 46enquanto Jesus estava falando às multidões, sua mãe e seus irmãos ficaram do lado de fora, procurando falar com ele. 47Alguém disse a Jesus: “Olha! Tua mãe e teus irmãos estão aí fora, e querem falar contigo”. 48Jesus perguntou àquele que tinha falado: “Quem é minha mãe, e quem são meus irmãos?” 49E, estendendo a mão para os discípulos, Jesus disse: “Eis minha mãe e meus irmãos. 50Pois todo aquele que faz a vontade do meu Pai, que está nos céus, esse é meu irmão, minha irmã e minha mãe”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Quem me protege e me ampara é meu Deus; é o Senhor quem sustenta minha vida. Quero ofertar-vos o meu sacrifício de coração e com muita alegria (Cf. Sl 53, 6. 8)",
+    "comunhao": "O Senhor bom e clemente nos deixou o memorial de suas grandes maravilhas. Ele dá o alimento aos que o temem. (Cf. Sl 110, 4-5)"
+  }
+}

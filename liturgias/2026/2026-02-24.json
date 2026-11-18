@@ -1,0 +1,40 @@
+{
+  "data": "24/02/2026",
+  "liturgia": "3ª feira da 1ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Olhai, Senhor, a vossa família e fazei que, interiormente mortificados pela penitência corporal, resplandeça sempre mais em nós a luz da vossa presença. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, criador de todas as coisas que recebemos da vossa bondade, acolhei as oferendas e fazei frutificar para a vida eterna os dons que nos concedeis neste mundo. Por Cristo, nosso Senhor.",
+    "comunhao": "Por este sacramento, Senhor, dai-nos moderar os desejos terrenos e aprender a amar os bens celestes. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 55, 10-11",
+        "titulo": "Leitura do Livro do Profeta Isaías",
+        "texto": "Isto diz o Senhor: 10“Assim como a chuva e a neve descem do céu e para lá não voltam mais, mas vêm irrigar e fecundar a terra, e fazê-la germinar e dar semente, para o plantio e para a alimentação, 11assim a palavra que sair de minha boca; não voltará para mim vazia; antes, realizará tudo que for de minha vontade e produzirá os efeitos que pretendi, ao enviá-la”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 33",
+        "refrao": "O Senhor liberta os justos de todas as angústias.",
+        "texto": "— Comigo engrandecei ao Senhor Deus, exaltemos todos juntos o seu nome! Todas as vezes que o busquei, ele me ouviu, e de todos os temores me livrou.\n— Contemplai a sua face e alegrai-vos, e vosso rosto não se cubra de vergonha! Este infeliz gritou a Deus, e foi ouvido, e o Senhor o libertou de toda angústia.\n— O Senhor pousa seus olhos sobre os justos, e seu ouvido está atento ao seu chamado; mas ele volta a sua face contra os maus, para da terra apagar sua lembrança.\n— Clamam os justos, e o Senhor bondoso escuta e de todas as angústias os liberta. Do coração atribulado ele está perto e conforta os de espírito abatido."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 6, 7-15",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 7“Quando orardes, não useis muitas palavras, como fazem os pagãos. Eles pensam que serão ouvidos por força das muitas palavras.\n8Não sejais como eles, pois vosso Pai sabe do que precisais, muito antes que vós o peçais.9Vós deveis rezar assim: Pai nosso que estás nos céus, santificado seja o teu nome; 10venha o teu Reino; seja feita a tua vontade, assim na terra como nos céus. 11O pão nosso de cada dia dá-nos hoje. 12Perdoa as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido. 13E não nos deixes cair em tentação, mas livra-nos do mal.\n14De fato, se vós perdoardes aos homens as faltas que eles cometeram, vosso Pai que está nos céus também vos perdoará. 15Mas, se vós não perdoardes aos homens, vosso Pai também não perdoará as faltas que vós cometestes”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Senhor, vós vos tornastes um refúgio para nós de geração em geração; desde sempre e para sempre, vós sois Deus. (Cf. Sl 89,1-2)",
+    "comunhao": "Quando vos invoquei, vós me ouvistes, ó Deus, minha justiça, e na angústia me livrastes; tende piedade de mim, atendei a minha prece! (Cf. Sl 4,2)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "05/01/2026",
+  "liturgia": "2ª feira do Tempo do Natal depois da Epifania",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, o vosso Verbo et3rno ornou a face do céu e assumiu da Virgem Maria a fragilidade da nossa carne. Nós vos pedimos: aquele que, como esplendor da verdade, apareceu entre nós, manifeste a plenitude do seu poder para a redenção do mundo. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos do séculos.",
+    "oferendas": "Aceitai, Senhor, as nossas oferendas, nesta admirável troca de dons, para que oferecendo-vos o que nos destes, mereçamos acolher-vos em nós. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, ó Deus todo-poderoso, que a nossa vida seja sempre sustentada pela força dos vossos santos mistérios. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Jo 3, 22-4, 6",
+        "titulo": "Leitura da Primeira Carta de São João",
+        "texto": "Caríssimos: 22qualquer coisa que pedimos recebemos dele, porque guardamos os seus mandamentos e fazemos o que é do seu agrado. 23Este é o seu mandamento: que creiamos no nome do seu Filho, Jesus Cristo, e nos amemos uns aos outros, de acordo com o mandamento que ele nos deu. 24Quem guarda os seus mandamentos permanece com Deus e Deus permanece com ele. Que ele permanece conosco, sabemo-lo pelo Espírito que ele nos deu.4, 1Caríssimos, não acrediteis em qualquer espírito, mas examinai os espíritos para ver se são de Deus, pois muitos falsos profetas vieram ao mundo. 2Este é o critério para saber se uma inspiração vem de Deus: todo espírito que leva a professar que Jesus Cristo veio na carne é de Deus; 3e todo espírito que não professa a fé em Jesus não é de Deus; é o espírito do Anticristo. Ouvistes dizer que o Anticristo virá; pois bem, ele já está no mundo. 4Filhinhos, vós sois de Deus e vós vencestes o Anticristo. Pois convosco está quem é maior do que aquele que está no mundo. 5Os vossos adversários são do mundo; por isso, agem conforme o mundo, e o mundo lhes presta ouvidos. 6Nós somos de Deus. Quem conhece a Deus, escuta-nos; quem não é de Deus não nos escuta. Nisto reconhecemos o espírito da verdade e o espírito do erro."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 2, 7-8. 10-11",
+        "refrao": "Eu te darei por tua herança os povos todos.",
+        "texto": "— O decreto do Senhor promulgarei, foi assim que me falou o Senhor Deus: “Tu és meu Filho, e eu hoje te gerei!” Podes pedir-me, e em resposta eu te darei por tua herança os povos todos e as nações, e há de ser a terra inteira o teu domínio \n— E agora, poderosos, entendei; soberanos, aprendei esta lição: Com temor servi a Deus, rendei-lhe glória e prestai-lhe homenagem com respeito!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 4, 12-17. 23-25",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 12ao saber que João tinha sido preso, Jesus voltou para a Galileia. 13Deixou Nazaré e foi morar em Cafarnaum, que fica às margens do mar da Galileia, 14no território de Zabulon e Neftali, para se cumprir o que foi dito pelo profeta Isaías: 15“Terra de Zabulon, terra de Neftali, caminho do mar, região do outro lado do rio Jordão, Galileia dos pagãos! 16O povo que vivia nas trevas viu uma grande luz; e para os que viviam na região escura da morte brilhou uma luz”.\n17Daí em diante, Jesus começou a pregar, dizendo: “Convertei-vos, porque o Reino dos Céus está próximo”. 23Jesus andava por toda a Galileia, ensinando em suas sinagogas, pregando o Evangelho do Reino e curando todo tipo de doença e enfermidade do povo. 24E sua fama espalhou-se por toda a Síria. Levavam-lhe todos os doentes, que sofriam diversas enfermidades e tormentos: endemoninhados, epiléticos e paralíticos. E Jesus os curava. 25Numerosas multidões o seguiam, vindas da Galileia, da Decápole, de Jerusalém, da Judeia, e da região além do Jordão."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Raiou para nós um dia de bênção; vinde, nações, e adorai o Senhor, porque grande luz desceu sobre a terra!",
+    "comunhao": "Contemplemos a sua glória, glória que recebe do Pai como Filho unigênito, cheio de graça e de verdade. (Cf. Jo 1, 14)"
+  }
+}

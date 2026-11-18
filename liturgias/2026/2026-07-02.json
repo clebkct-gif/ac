@@ -1,0 +1,40 @@
+{
+  "data": "02/07/2026",
+  "liturgia": "5ª feira da 13ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, pela graça da adoção nos tornastes filhos da luz; concedei que não sejamos envolvidos pelas trevas do erro, mas permaneçamos sempre no esplendor da verdade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, que nos assegurais os frutos dos vossos mistérios, fazei que nosso serviço corresponda à santidade dos vossos dons Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, o Corpo e o Sangue de Jesus Cristo, que oferecemos em sacrifício e recebemos em comunhão, nos transmitam uma vida nova, para que, unidos a vós pela caridade que não passa, possamos produzir frutos que permaneçam. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Am 7, 10-17",
+        "titulo": "Leitura da Profecia de Amós",
+        "texto": "Naqueles dias, 10Amasias, sacerdote de Betel, mandou dizer a Jeroboão, rei de Israel: “Amós conspira contra ti, dentro da própria casa de Israel; o país não consegue evitar que se espalhem todas as suas palavras. 11Ele anda dizendo: ‘Jeroboão morrerá pela espada, e Israel será deportado de sua pátria, como escravo’”. 12Disse depois Amasias a Amós: “Vidente, sai e procura refúgio em Judá, onde possas ganhar teu pão e exercer a profecia; 13mas em Betel não deverás insistir em profetizar, porque aí fica o santuário do rei e a corte do reino”. 14Respondeu Amós a Amasias, dizendo: “Não sou profeta nem sou filho de profeta; sou pastor de gado e cultivo sicômoros. 15O Senhor chamou-me, quando eu tangia o rebanho, e o Senhor me disse: ‘Vai profetizar para Israel, meu povo’”. 16E agora ouve a Palavra do Senhor. “Tu dizes: ‘Não profetizes contra Israel e não insinues palavras contra a casa de Isaac’. 17Pois bem, isto diz o Senhor: ‘Tua mulher se prostituirá na cidade, teus filhos e filhas morrerão pela espada, tuas terras serão tomadas e loteadas; tu mesmo morrerás em terra poluída, e Israel será levado em cativeiro para longe de seu país’”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 18",
+        "refrao": "Os julgamentos do Senhor são corretos e justos igualmente.",
+        "texto": "— A lei do Senhor Deus é perfeita, conforto para a alma! O testemunho do Senhor é fiel, sabedoria dos humildes.\n— Os preceitos do Senhor são precisos, alegria ao coração. O mandamento do Senhor é brilhante, para os olhos é uma luz.\n— É puro o temor do Senhor, imutável para sempre. Os julgamentos do Senhor são corretos e justos igualmente.\n— Mais desejáveis do que o ouro são eles, do que o ouro refinado. Suas palavras são mais doces que o mel, que o mel que sai dos favos"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 9, 1-8",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 1entrando em um barco, Jesus atravessou para a outra margem do lago e foi para a sua cidade. 2Apresentaram-lhe, então, um paralítico deitado numa cama. Vendo a fé que eles tinham, Jesus disse ao paralítico: “Coragem, filho, os teus pecados estão perdoados!”3Então alguns mestres da Lei pensaram: “Esse homem está blasfemando!” 4Mas Jesus, conhecendo os pensamentos deles, disse: “Por que tendes esses maus pensamentos em vossos corações? 5O que é mais fácil, dizer: ‘Os teus pecados estão perdoados’, ou dizer: ‘Levanta-te e anda?’ 6Pois bem, para que saibais que o Filho do Homem tem na terra poder para perdoar pecados, "
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Povos todos do universo, batei palmas, gritai a  Deus aclamações de alegria. (Cf. Sl 46,2)",
+    "comunhao": "Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores! (Cf. Sl 102,1)"
+  }
+}
