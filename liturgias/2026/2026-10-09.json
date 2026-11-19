@@ -1,0 +1,40 @@
+{
+  "data": "09/10/2026",
+  "liturgia": "6ª feira da 27ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, que no vosso imenso amor de Pai nos concedeis mais do que merecemos e pedimos, infundi em nós vossa misericórdia, para perdoar o que nos pesa na consciência e para nos dar mais do que a oração ousa pedir. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, nós vos pedimos, o sacrifício que instituístes; e pelos sagrados mistérios que celebramos em vossa honra dignai-vos completar a santificação daqueles que salvastes. Por Cristo, nosso Senhor.",
+    "comunhao": "Concedei-nos, Deus todo-poderoso, que inebriados e saciados pelo sacramento que recebemos, sejamos transformados naquele que comungamos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Gl 3,7-14",
+        "titulo": "Leitura da carta de São Paulo aos Gálatas",
+        "texto": "Irmãos, 7ficai cientes que os que creem é que são verdadeiros filhos de Abraão. 8E a Escritura, prevendo que Deus justificaria as nações pagãs pela fé, anunciou, muito antes, a Abraão: “Em ti serão abençoadas todas as nações”. 9Portanto, os crentes são abençoados com o crente Abraão. 10Aliás, todos os que põem sua confiança na prática da Lei estão ameaçados pela maldição, porque está escrito: “Maldito quem não cumprir perseverantemente tudo o que está escrito no livro da Lei”. 11Pela Lei ninguém se justifica perante Deus; isso é evidente, porque o justo vive da fé. 12E a Lei não se funda na fé, mas no cumprimento: aquele que cumpre a Lei por ela viverá. 13Cristo resgatou-nos da maldição da Lei, fazendo-se maldição por nós, pois está escrito: “Maldito todo aquele que é suspenso no madeiro!” 14Assim a bênção de Abraão se estendeu aos pagãos em Cristo Jesus e pela fé recebemos a promessa do Espírito."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 110(111)",
+        "refrao": "O Senhor se lembra sempre da Aliança!",
+        "texto": "– Eu agradeço a Deus, de todo o coração, junto com todos os seus justos reunidos! Que grandiosas são as obras do Senhor, elas merecem todo o amor e admiração!\n– Que beleza e esplendor são os seus feitos! Sua justiça permanece eternamente! O Senhor bom e clemente nos deixou a lembrança de suas grandes maravilhas.\n– Ele dá o alimento aos que o temem e jamais esquecerá sua Aliança. Ao seu povo manifesta seu poder, dando a ele a herança das nações."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 11,15-26",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, Jesus estava expulsando um demônio. 15Mas alguns disseram: “É por Belzebu, o príncipe dos demônios, que ele expulsa os demônios”. 16Outros, para tentar Jesus, pediam-lhe um sinal do céu. 17Mas, conhecendo seus pensamentos, Jesus disse-lhes: “Todo reino dividido contra si mesmo será destruído; e cairá uma casa por cima da outra. 18Ora, se até satanás está dividido contra si mesmo, como poderá sobreviver o seu reino? Vós dizeis que é por Belzebu que eu expulso os demônios. 19Se é por meio de Belzebu que eu expulso demônios, vossos filhos os expulsam por meio de quem? Por isso, eles mesmos serão vossos juízes. 20Mas, se é pelo dedo de Deus que eu expulso os demônios, então chegou para vós o Reino de Deus. 21Quando um homem forte e bem armado guarda a própria casa, seus bens estão seguros. 22Mas, quando chega um homem mais forte do que ele, vence-o, arranca-lhe a armadura na qual ele confiava e reparte o que roubou. 23Quem não está comigo está contra mim. E quem não recolhe comigo dispersa. 24Quando o espírito mau sai de um homem, fica vagando em lugares desertos à procura de repouso; não o encontrando, ele diz: ‘Vou voltar para minha casa de onde saí’. 25Quando ele chega, encontra a casa varrida e arrumada. 26Então ele vai e traz consigo outros sete espíritos piores do que ele. E, entrando, instalam-se aí. No fim, esse homem fica em condição pior do que antes”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Ao vosso poder, Senhor, tudo está sujeito, e não há quem possa resistir à vossa vontade, porque sois o criador de todas as coisas, do céu e da terra e de tudo que eles contêm; vós sois o Senhor do universo. (Cf. Est 4, 17)",
+    "comunhao": "O Senhor é bondoso para quem nele confia, para a alma que o procura. (Lm 3, 25)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "16/12/2026",
+  "liturgia": "4ª feira da 3ª Semana do Advento",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Nós vos pedimos, Deus todo-poderoso: concedei, aos que sofremos na antiga escravidão sob o jugo do pecado, sejamos libertados pelo novo nascimento do vosso Filho que esperamos. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos do séculos.",
+    "oferendas": "O sacrifício que celebramos em vossa honra nos torne agradáveis a vós, Senhor, para que possamos participar da eternidade do vosso Filho que, ao fazer-se mortal, nos libertou da morte. Ele, que convosco vive e reina para sempre.",
+    "comunhao": "Concedei-nos, Senhor, a vossa misericórdia no meio do vosso templo, para que possamos preparar dignamente a festa da redenção que se aproxima. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 45,6-8.18.21-25",
+        "titulo": "Leitura do livro do profeta Isaías",
+        "texto": "″Eu sou o Senhor, não há outro, 7eu formei a luz e criei as trevas, crio o bem-estar e as condições de mal-estar: sou o Senhor que faço todas estas coisas. 8Céus, deixai cair orvalho das alturas, e que as nuvens façam chover justiça; abra-se a terra e germine a salvação; brote igualmente a justiça: eu, o Senhor, a criei”. 18Isto diz o Senhor que criou os céus, o próprio Deus que fez a terra, a conformou e consolidou; não a criou para ficar vazia, formou-a para ser habitada: “Sou eu o Senhor, e não há outro. 21Acaso não sou eu o Senhor? E não há deus além de mim. Não há um Deus justo e que salve, a não ser eu. 22Povos de todos os confins da terra, voltai-vos para mim e sereis salvos, eu sou Deus e não há outro. 23Juro por mim mesmo: de minha boca sai o que é justo, a palavra que não volta atrás; todo joelho há de dobrar-se para mim, por mim há de jurar toda língua, 24dizendo: Somente no Senhor residem justiça e força”. Comparecerão perante ele, envergonhados, todos os que lhe resistem; 25no Senhor será justificada e glorificada toda a descendência de Israel."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 84(85)",
+        "refrao": "Que os céus lá do alto derramem o orvalho, que chova das nuvens o justo esperado!",
+        "texto": "– Quero ouvir o que o Senhor irá falar: é a paz que ele vai anunciar; a paz para o seu povo e seus amigos, para os que voltam ao Senhor seu coração. Está perto a salvação dos que o temem, e a glória habitará em nossa terra.\n– A verdade e o amor se encontrarão, a justiça e a paz se abraçarão; da terra brotará a fidelidade, e a justiça olhará dos altos céus.\n– O Senhor nos dará tudo o que é bom, e a nossa terra nos dará suas colheitas; a justiça andará na sua frente e a salvação há de seguir os passos seus."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 7,19-23",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, João convocou dois de seus discípulos 19e mandou-os perguntar ao Senhor: “És tu aquele que há de vir, ou devemos esperar outro?” 20Eles foram ter com Jesus e disseram: “João Batista nos mandou a ti para perguntar: ‘És tu aquele que há de vir, ou devemos esperar outro?'” 21Nessa mesma hora, Jesus curou de doenças, enfermidades e espíritos malignos a muitas pessoas e fez muitos cegos recuperarem a vista. 22Então, Jesus lhes respondeu: “Ide contar a João o que vistes e ouvistes: os cegos recuperam a vista, os paralíticos andam, os leprosos são purificados, os surdos ouvem, os mortos ressuscitam e a Boa-nova é anunciada aos pobres. 23E feliz é aquele que não se escandaliza por causa de mim!”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Está chegando o nosso Rei, Cristo que João anunciou como Cordeiro que há de vir.",
+    "comunhao": "O seu nome será Emanuel, que significa Deus conosco. (Cf. Mt 1, 23)"
+  }
+}

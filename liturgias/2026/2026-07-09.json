@@ -1,0 +1,40 @@
+{
+  "data": "09/07/2026",
+  "liturgia": "Santa Paulina do Coração Agonizante de Jesus, virgem, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, que conduzistes Santa Paulina pelo caminho da santidade através das provações, do trabalho humilde e da oração constante, concedei-nos, por sua intercessão, suportar com fortaleza os sofrimentos de cada dia e servir com generosidade os mais necessitados. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Abençoai, Senhor, os dons que vos oferecemos em memória de Santa Paulina e concedei que, convertidos pela vossa graça, vivamos uma vida nova à luz do Evangelho. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, renovados por estes sagrados mistérios, fazei que, a exemplo de Santa Paulina, nos esforcemos por servir unicamente a vós, trazendo em nossa vida os sinais dos sofrimentos de Jesus Cristo. Que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Os 11, 1-4. 8c-9",
+        "titulo": "Leitura da Profecia de Oseias",
+        "texto": "Assim fala o Senhor: 1“Quando Israel era criança, eu já o amava, e desde o Egito chamei meu filho. 2Quanto mais eu os chamava tanto mais eles se afastavam de mim; imolavam aos Baals e sacrificavam aos ídolos. 3Ensinei Efraim a dar os primeiros passos, tomei-o em meus braços, mas eles não reconheceram que eu cuidava deles. 4Eu os atraía com laços de humanidade, com laços de amor; era para eles como quem leva uma criança ao colo, e rebaixava-me a dar-lhes de comer. 8cMeu coração comove-se no íntimo e arde de compaixão. 9Não darei largas à minha ira, não voltarei a destruir Efraim, eu sou Deus, e não homem; o santo no meio de vós, e não me servirei do terror”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 79(80)",
+        "refrao": "Sobre nós iluminai a vossa face e, então, seremos salvos, ó Senhor!",
+        "texto": "– Ó pastor de Israel, prestai ouvidos. Vós, que sobre os querubins vos assentais, despertai vosso poder, ó nosso Deus, e vinde logo nos trazer a salvação!\n– Voltai-vos para nós, Deus do universo! Olhai dos altos céus e observai. Visitai a vossa vinha e protegei-a! Foi a vossa mão direita que a plantou; protegei-a, e ao rebento que firmastes!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 10,7-15",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 7“Em vosso caminho, anunciai: ‘O reino dos céus está próximo’. 8Curai os doentes, ressuscitai os mortos, purificai os leprosos, expulsai os demônios. De graça recebestes, de graça deveis dar! 9Não leveis ouro, nem prata, nem dinheiro nos vossos cintos; 10nem sacola para o caminho, nem duas túnicas, nem sandálias, nem bastão, porque o operário tem direito ao seu sustento. 11Em qualquer cidade ou povoado onde entrardes, informai-vos para saber quem ali seja digno. Hospedai-vos com ele até a vossa partida. 12Ao entrardes numa casa, saudai-a. 13Se a casa for digna, desça sobre ela a vossa paz; se ela não for digna, volte para vós a vossa paz. 14Se alguém não vos receber nem escutar vossa palavra, saí daquela casa ou daquela cidade e sacudi a poeira dos vossos pés. 15Em verdade vos digo, as cidades de Sodoma e Gomorra serão tratadas com menos dureza do que aquela cidade no dia do juízo”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O caminho dos justos é como luz esplêndida que surge e cresce do amanhecer até o pleno dia. (Cf. Pr 4,18)",
+    "comunhao": "Vinde a mim todos vós que estais cansados e fatigados, e eu vos darei descanso, diz o Senhor. (Cf. Mt 11,28)"
+  }
+}

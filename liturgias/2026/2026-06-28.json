@@ -1,0 +1,46 @@
+{
+  "data": "28/06/2026",
+  "liturgia": "Santos Pedro e Paulo Apóstolos, Solenidade",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, que hoje nos concedeis a santa alegria de festejar os apóstolos São Pedro e São Paulo, dai à vossa Igrejaseguir em tudo os ensinamentos destes Apóstolos que nos deram os fundamentos da fé. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "A oração de vossos Apóstolos, Senhor, acompanhe as oferendas que vos apresentamos para serem consagradas e volva para vós o nosso coração, ao celebrarmos este sacrifício. Por Cristo, nosso Senhor.",
+    "comunhao": "Refeitos por este sacramento, concedei-nos, Senhor, viver de tal modo na vossa Igreja que, perseverando na fração do pão e no ensinamento dos Apóstolos, enraizados no vosso amor, sejamos um só coração e uma só alma. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 12, 1-11",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Naqueles dias, 1o rei Herodes prendeu alguns membros da Igreja, para torturá-los. 2Mandou matar à espada Tiago, irmão de João. 3E, vendo que isso agradava aos judeus, mandou também prender a Pedro. Eram os dias dos Pães ázimos.,4Depois de prender Pedro, Herodes colocou-o na prisão, guardado por quatro grupos de soldados, com quatro soldados cada um. Herodes tinha a intenção de apresentá-lo ao povo, depois da festa da Páscoa. 5Enquanto Pedro era mantido na prisão, a Igreja rezava continuamente a Deus por ele.,6Herodes estava para apresentá-lo. Naquela mesma noite, Pedro dormia entre dois soldados, preso com duas correntes; e os guardas vigiavam a porta da prisão.,7Eis que apareceu o anjo do Senhor e uma luz iluminou a cela. O anjo tocou o ombro de Pedro, acordou-o e disse: “Levanta-te depressa!” As correntes caíram-lhe das mãos.,8O anjo continuou: “Coloca o cinto e calça tuas sandálias!” Pedro obedeceu e o anjo lhe disse: “Põe tua capa e vem comigo!” 9Pedro acompanhou-o, e não sabia que era realidade o que estava acontecendo por meio do anjo, pois pensava que aquilo era uma visão. 10Depois de passarem pela primeira e segunda guarda, chegaram ao portão de ferro que dava para a cidade. O portão abriu-se sozinho. Eles saíram, caminharam por uma rua e logo depois o anjo o deixou. 11Então Pedro caiu em si e disse: “Agora sei, de fato, que o Senhor enviou o seu anjo para me libertar do poder de Herodes e de tudo o que o povo judeu esperava!”"
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 33",
+        "refrao": "De todos os temores me livrou o Senhor Deus.",
+        "texto": "— Bendirei o Senhor Deus em todo o tempo, seu louvor estará sempre em minha boca. Minha alma se gloria no Senhor; que ouçam os humildes e se alegrem!\n— Comigo engrandecei ao Senhor Deus, exaltemos todos juntos o seu nome! Todas as vezes que o busquei, ele me ouviu, e de todos os temores me livrou.\n— Contemplai a sua face e alegrai-vos, e vosso rosto não se cubra de vergonha! Este infeliz gritou a Deus, e foi ouvido, e o Senhor o libertou de toda angústia.\n— O anjo do Senhor vem acampar ao redor dos que o temem, e os salva. Provai e vede quão suave é o Senhor! Feliz o homem que tem nele o seu refúgio"
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "2Tm 4, 6-8. 17-18",
+        "titulo": "Leitura da Segunda Carta de São Paulo a Timóteo",
+        "texto": "Caríssimo: 6quanto a mim, eu já estou para ser derramado em sacrifício; aproxima-se o momento de minha partida. 7Combati o bom combate, completei a corrida, guardei a fé. 8Agora está reservada para mim a coroa da justiça, que o Senhor, justo juiz, me dará naquele dia; e não somente a mim, mas também a todos os que esperam com amor a sua manifestação gloriosa.,17Mas o Senhor esteve a meu lado e me deu forças, ele fez com que a mensagem fosse anunciada por mim integralmente, e ouvida por todas as nações; e eu fui libertado da boca do leão.18O Senhor me libertará de todo mal e me salvará para o seu Reino celeste. A ele a glória, pelos séculos dos séculos! Amém."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 16, 13-19",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 13Jesus foi à região de Cesareia de Filipe e ali perguntou aos seus discípulos: “Quem dizem os homens ser o Filho do Homem?”14Eles responderam: “Alguns dizem que é João Batista; outros que é Elias; outros ainda, que é Jeremias ou algum dos profetas”.15Então Jesus lhes perguntou: “E vós, quem dizeis que eu sou?”16Simão Pedro respondeu: “Tu és o Messias, o Filho do Deus vivo”. 17Respondendo, Jesus lhe disse: “Feliz és tu, Simão, filho de Jonas, porque não foi um ser humano que te revelou isso, mas o meu Pai que está no céu. 18Por isso eu te digo que tu és Pedro, e sobre esta pedra construirei a minha Igreja, e o poder do inferno nunca poderá vencê-la. 19Eu te darei as chaves do Reino dos Céus: tudo o que tu ligares na terra será ligado nos céus; tudo o que tu desligares na terra será desligado nos céus”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Pedro, o apóstolo, e Paulo, o doutor das nações, os dois nos ensinaram a vossa lei, Senhor.",
+    "comunhao": "Simão, filho de João, tu me amas mais do que estes? Senhor, tu sabes tudo; tu sabes que eu te amo. (Cf. Jo 21,15.17)"
+  }
+}

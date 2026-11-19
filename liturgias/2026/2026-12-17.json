@@ -1,0 +1,40 @@
+{
+  "data": "17/12/2026",
+  "liturgia": "5ª feira da 3ª Semana do Advento",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Ó Deus, pelo parto virginal de Maria revelastes ao mundo o esplendor da vossa glória; concedei-nos venerar com fé pura e celebrar com devoção e amor o mistério tão profundo da encarnação. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Olhai com bondade, Senhor, os dons que trazemos ao vosso altar, e consagrai com o vosso poder o que em nossa fragilidade apresentamos. Por Cristo, nosso Senhor.",
+    "comunhao": "Graças vos damos, Deus todo-poderoso, pelos dons que recebemos; infundi em nós o desejo da salvação que há de vir, para que possamos celebrar de coração purificado o nascimento do nosso Salvador. Que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Gn 49,2.8-10",
+        "titulo": "Leitura do livro do Gênesis",
+        "texto": "Naqueles dias, Jacó chamou seus filhos e disse: 2″Juntai-vos e ouvi, filhos de Jacó, ouvi Israel, vosso pai! 8Judá, teus irmãos te louvarão; pesará tua mão sobre a nuca de teus inimigos, se prostrarão diante de ti os filhos de teu pai. 9Judá, filhote de leão: subiste, meu filho, da pilhagem; ele se agacha e se deita como um leão e como uma leoa; quem o despertará? 10O cetro não será tirado de Judá, nem o bastão de comando dentre seus pés, até que venha aquele a quem pertencem e a quem obedecerão os povos”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 71(72)",
+        "refrao": "Nos seus dias a justiça florirá e paz em abundância, para sempre.",
+        "texto": "– Dai ao rei vossos poderes, Senhor Deus, vossa justiça ao descendente da realeza! Com justiça ele governe o vosso povo, com equidade ele julgue os vossos pobres.\n– Das montanhas venha a paz a todo o povo, e desça das colinas a justiça! Este rei defenderá os que são pobres, os filhos dos humildes salvará.\n– Nos seus dias a justiça florirá e grande paz, até que a lua perca o brilho! De mar a mar estenderá o seu domínio, e desde o rio até os confins de toda a terra!\n– Seja bendito o seu nome para sempre! E que dure como o sol sua memória! Todos os povos serão nele abençoados, todas as gentes cantarão o seu louvor!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 1,1-17",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "1Livro da origem de Jesus Cristo, filho de Davi, filho de Abraão. 2Abraão gerou Isaac; Isaac gerou Jacó; Jacó gerou Judá e seus irmãos. 3Judá gerou Farés e Zara, cuja mãe era Tamar. Farés gerou Esrom; Esrom gerou Aram; 4Aram gerou Aminadab; Aminadab gerou Naasson; Naasson gerou Salmon; 5Salmon gerou Booz, cuja mãe era Raab. Booz gerou Obed, cuja mãe era Rute. Obed gerou Jessé. 6Jessé gerou o rei Davi. Davi gerou Salomão, daquela que tinha sido a mulher de Urias. 7Salomão gerou Roboão; Roboão gerou Abias; Abias gerou Asa; 8Asa gerou Josafá; Josafá gerou Jorão; Jorão gerou Ozias; 9Ozias gerou Jotão; Jotão gerou Acaz; Acaz gerou Ezequias; 10Ezequias gerou Manassés; Manassés gerou Amon; Amon gerou Josias. 11Josias gerou Jeconias e seus irmãos, no tempo do exílio na Babilônia. 12Depois do exílio na Babilônia, Jeconias gerou Salatiel; Salatiel gerou Zorobabel; 13Zorobabel gerou Abiud; Abiud gerou Eliaquim; Eliaquim gerou Azor; 14Azor gerou Sadoc; Sadoc gerou Aquim; Aquim gerou Eliud; 15Eliud gerou Eleazar; Eleazar gerou Matã; Matã gerou Jacó. 16Jacó gerou José, o esposo de Maria, da qual nasceu Jesus, que é chamado o Cristo. 17Assim, as gerações desde Abraão até Davi são quatorze; de Davi até o exílio na Babilônia, quatorze; e do exílio na Babilônia até Cristo, quatorze."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Aquele que há de vir chegará sem demora, e já não haverá mais temor entre nós, porque ele é o nosso Salvador. (Cf. Hb 10, 37)",
+    "comunhao": "O sol nascente nos veio visitar, para guiar os nossos passos no caminho da paz. (Cf. Lc 1, 78-79)"
+  }
+}

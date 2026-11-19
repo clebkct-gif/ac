@@ -1,0 +1,40 @@
+{
+  "data": "11/12/2026",
+  "liturgia": "6ª feira da 2ª Semana do Advento",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "O Deus todo-poderoso, dai ao vosso povo esperar com plena vigilância a vinda do vosso Filho Unigênito, e, assim como ensinou o autor da nossa salvação, possamos correr vigilantes a seu encontro com lâmpadas acesas. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, com bondade as nossas humildes preces e oferendas; e como não podemos invocar os nossos méritos, socorrei-nos com o remédio da vossa misericórdia. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos suplicamos, Senhor, que, saciados com o alimento espiritual, pela participação nestes santos mistérios, nos ensineis a apreciar com sabedoria as coisas terrenas e colocar nossas esperanças nos bens eternos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 48,17-19",
+        "titulo": "Leitura do livro do profeta Isaías",
+        "texto": "Isto diz o Senhor, o teu libertador, o santo de Israel: “Eu, o Senhor teu Deus, te ensino coisas úteis, te conduzo pelo caminho em que andas. 18Ah, se tivesses observado os meus mandamentos! Tua paz teria sido como um rio e tua justiça como as ondas do mar; 19tua descendência seria como a areia do mar e os filhos do teu ventre como os grãos de areia; este nome não teria desaparecido nem teria sido cancelado de minha presença”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 1",
+        "refrao": "Senhor, quem vos seguir terá a luz da vida.",
+        "texto": "– Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados nem junto aos zombadores vai sentar-se; mas encontra seu prazer na Lei de Deus e a medita, dia e noite, sem cessar.\n– Eis que ele é semelhante a uma árvore que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar.\n– Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 11,16-19",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus às multidões: 16“Com quem vou comparar esta geração? São como crianças sentadas nas praças, que gritam para os colegas, dizendo: 17‘Tocamos flauta e vós não dançastes. Entoamos lamentações e vós não batestes no peito!’ 18Veio João, que não come nem bebe, e dizem: ‘Ele está com um demônio’. 19Veio o Filho do Homem, que come e bebe, e dizem: ‘É um comilão e beberrão, amigo de cobradores de impostos e de pecadores’. Mas a sabedoria foi reconhecida com base em suas obras”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor descerá com esplendor para visitar o seu povo na paz e comunicar-lhe a vida eterna.",
+    "comunhao": "Aguardamos como salvador o Senhor Jesus Cristo. Ele transformará o nosso corpo, humilhado, tornando-o semelhante ao seu corpo glorioso. (Cf. Fl 3.20-21)"
+  }
+}

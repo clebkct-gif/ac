@@ -1,0 +1,40 @@
+{
+  "data": "22/06/2026",
+  "liturgia": "2ª feira da 12ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Concedei-nos, Senhor, a graça de sempre temer e amar vosso santo nome, pois nunca cessais de conduzir os que firmais solidamente no vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, nós vos pedimos, este sacrifício de louvor e de reconciliação e fazei que, por ele purificados, vos ofereçamos o afeto de um coração que vos agrade. Por Cristo, nosso Senhor.",
+    "comunhao": "Renovados pelo alimento do precioso Corpo e Sangue do vosso Filho, imploramos vossa misericórdia, Senhor: dai-nos receber um dia, resgatados para sempre, a salvação que celebramos fielmente.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Rs 17,5-8.13-15.18",
+        "titulo": "Leitura do segundo livro dos Reis",
+        "texto": "Naqueles dias, 5Salmanasar, rei da Assíria, invadiu todo o país. E, chegando a Samaria, sitiou-a durante três anos. 6No nono ano de Oseias, o rei da Assíria tomou Samaria e deportou os habitantes de Israel para a Assíria, estabelecendo-os em Hala e nas margens do Habor, rio de Gozã, e nas cidades da Média. 7Isso aconteceu porque os filhos de Israel pecaram contra o Senhor, seu Deus, que os tinha tirado do Egito, libertando-os da opressão do faraó, rei do Egito, porque tinham adorado outros deuses. 8Eles seguiram os costumes dos povos que o Senhor havia expulsado diante deles e as leis introduzidas pelos reis de Israel. 13O Senhor tinha advertido seriamente Israel e Judá por meio de todos os profetas e videntes, dizendo: “Voltai dos vossos maus caminhos e observai meus mandamentos e preceitos, conforme todas as leis que prescrevi a vossos pais e que vos comuniquei por intermédio de meus servos, os profetas”. 14Eles, porém, não prestaram ouvidos, mostrando-se tão obstinados como seus pais, que não tinham acreditado no Senhor, seu Deus. 15Desprezaram as suas leis e a aliança que tinha feito com seus pais, e os testemunhos com que os havia garantido. 18O Senhor indignou-se profundamente contra os filhos de Israel e rejeitou-os para longe da sua face, restando apenas a tribo de Judá."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 59(60)",
+        "refrao": "Vossa mão nos ajude, ouvi-nos, Senhor!",
+        "texto": "– Rejeitastes, ó Deus, vosso povo e arrasastes as nossas fileiras; vós estáveis irado: voltai-vos!\n– Abalastes, partistes a terra, reparai suas brechas, pois treme. Duramente provastes o povo e um vinho atordoante nos destes.\n– Quem me leva à cidade segura, e a Edom quem me vai conduzir, se vós, Deus, rejeitais vosso povo e não mais conduzis nossas tropas?\n– Dai-nos, Deus, vosso auxílio na angústia; nada vale o socorro dos homens! Mas com Deus nós faremos proezas, e ele vai esmagar o opressor."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 7,1-5",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 1“Não julgueis e não sereis julgados. 2Pois vós sereis julgados com o mesmo julgamento com que julgardes; e sereis medidos com a mesma medida com que medirdes. 3Por que observas o cisco no olho do teu irmão e não prestas atenção à trave que está no teu próprio olho? 4Ou como podes dizer ao teu irmão: ‘deixa-me tirar o cisco do teu olho’, quando tu mesmo tens uma trave no teu? 5Hipócrita, tira primeiro a trave do teu próprio olho e então enxergarás bem para tirar o cisco do olho do teu irmão”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor é a força do seu povo, é a fortaleza de salvação do seu Ungido. Salvai vosso povo, Senhor, abençoai vossa herança e governai-a pelos séculos. (Cf. Sl 27,8-9)",
+    "comunhao": "Os olhos de todos esperam em vós, Senhor, e vós lhes dais alimento no tempo oportuno. Eu sou o bom Pastor. Eu dou minha vida pelas ovelhas, diz o Senhor. (Cf. Sl 144,15 Ou: Jo 10,11.15)"
+  }
+}

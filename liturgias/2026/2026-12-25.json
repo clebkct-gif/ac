@@ -1,0 +1,46 @@
+{
+  "data": "25/12/2026",
+  "liturgia": "Natal de Nosso Senhor Jesus Cristo, Solenidade",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que admiravelmente criastes o ser humano e mais admiravelmente restabelecestes a sua dignidade, dai-nos participar da divindade do vosso Filho, que se dignou assumir a nossa humanidade. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Sejam de vosso agrado, Senhor, as oferendas da festa de hoje, que nos trazem a perfeita reconciliação e a plenitude do culto divino. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus de misericórdia, que o Salvador do mundo, hoje nascido, como nos fez nascer para a vida divina, nos conceda também a imortalidade. Ele, que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 52, 7-10",
+        "titulo": "Livro do Livro do Profeta Isaías",
+        "texto": "Como são belos, andando sobre os montes, os pés de quem anuncia e prega a paz, de quem anuncia o bem e prega a salvação, e diz a Sião: “Reina teu Deus!” 8Ouve-se a voz de teus vigias, eles levantam a voz, estão exultantes de alegria, sabem que verão com os próprios olhos o Senhor voltar a Sião. 9Alegrai-vos e exultai ao mesmo tempo, ó ruínas de Jerusalém, o Senhor consolou seu povo e resgatou Jerusalém.\n10O Senhor desnudou seu santo braço aos olhos de todas as nações; todos os confins da terra hão de ver a salvação que vem do nosso Deus."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 97(98)",
+        "refrao": "Os confins do universo contemplaram a salvação do nosso Deus.",
+        "texto": "— Cantai ao Senhor Deus um canto novo, porque ele fez prodígios! Sua mão e o seu braço forte e santo alcançaram-lhe a vitória.\n— O Senhor fez conhecer a salvação, e às nações, sua justiça; recordou o seu amor sempre fiel pela casa de Israel.\n— Os confins do universo contemplaram a salvação do nosso Deus. Aclamai o Senhor Deus, ó terra inteira, alegrai-vos e exultai!\n— Cantai salmos ao Senhor ao som da harpa e da cítara suave! Aclamai, com os clarins e as trombetas, ao Senhor, o nosso Rei!\n"
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Hb 1, 1-6",
+        "titulo": "Leitura da Carta aos Hebreus",
+        "texto": "Muitas vezes e de muitos modos falou Deus outrora aos nossos pais, pelos profetas; 2nestes dias, que são os últimos, ele nos falou por meio do Filho, a quem ele constituiu herdeiro de todas as coisas e pelo qual também ele criou o universo.\n3Este é o esplendor da glória do Pai, a expressão do seu ser. Ele sustenta o universo com o poder de sua palavra. Tendo feito a purificação dos pecados, ele sentou-se à direita da majestade divina, nas alturas. 4Ele foi colocado tanto acima dos anjos quanto o nome que ele herdou supera o nome deles.\n5De fato, a qual dos anjos Deus disse alguma vez: “Tu és o meu Filho, eu hoje te gerei?” Ou ainda: “Eu serei para ele um Pai e ele será para mim um filho?” 6Mas, quando faz entrar o Primogênito no mundo, Deus diz: “Todos os anjos devem adorá-lo!”"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 1, 1-18",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "No princípio era a Palavra, e a Palavra estava com Deus; e a Palavra era Deus. 2No princípio estava ela com Deus. 3Tudo foi feito por ela, e sem ela nada se fez de tudo que foi feito. 4Nela estava a vida, e a vida era a luz dos homens. 5E a luz brilha nas trevas, e as trevas não conseguiram dominá-la. 6Surgiu um homem enviado por Deus; seu nome era João. 7Ele veio como testemunha, para dar testemunho da luz, para que todos chegassem à fé por meio dele. 8Ele não era a luz, mas veio para dar testemunho da luz: 9daquele que era a luz de verdade, que, vindo ao mundo, ilumina todo ser humano. 10A Palavra estava no mundo — e o mundo foi feito por meio dela — mas o mundo não quis conhecê-la. 11Veio para o que era seu, e os seus não a acolheram. 12Mas, a todos que a receberam, deu-lhes capacidade de se tornarem filhos de Deus, isto é, aos que acreditam em seu nome, 13pois estes não nasceram do sangue nem da vontade da carne nem da vontade do varão, mas de Deus mesmo. 14E a Palavra se fez carne e habitou entre nós. E nós contemplamos a sua glória, glória que recebe do Pai como Filho unigênito, cheio de graça e de verdade. 15Dele, João dá testemunho, clamando: “Este é aquele de quem eu disse: O que vem depois de mim passou à minha frente, porque ele existia antes de mim”. 16De sua plenitude todos nós recebemos graça por graça. 17Pois por meio de Moisés foi dada a Lei, mas a graça e a verdade nos chegaram através de Jesus Cristo. 18A Deus, ninguém jamais viu. Mas o Unigênito de Deus, que está na intimidade do Pai, ele no-lo deu a conhecer."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Nasceu para nós um menino, foi nos dado um filho; ele traz aos ombros a marca da realeza; o nome que lhe foi dado é: Conselheiro admirável. (Is 9, 5)",
+    "comunhao": "Os confins do universo contemplaram a salvação do nosso Deus. (Cf. Sl 97, 3)"
+  }
+}

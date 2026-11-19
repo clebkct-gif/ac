@@ -1,0 +1,40 @@
+{
+  "data": "20/07/2026",
+  "liturgia": "2ª feira da 16ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Senhor, sede propício a vossos fiéis, e, benigno, multiplicai neles os dons da vossa graça, para que, fervorosos na fé, esperança e caridade, perseverem sempre vigilantes na observância dos vossos mandamentos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, no único sacrifício da cruz levastes à plenitude os diversos sacrifícios da antiga lei. Aceitai esta oblação das mãos dos vossos fiéis e santificai-a, com a mesma bênção que destes à oferta de Abel, a fim de que sirva para a salvação de todos o que cada um trouxe em vossa honra. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor misericordioso, permanecei junto ao vosso povo e fazei passar da antiga para a nova vida aqueles que iniciastes nos mistérios do céu. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Mq 6,1-4.6-8",
+        "titulo": "Leitura da Profecia de Miqueias",
+        "texto": "1Ouvi o que diz o Senhor: “Levanta-te, convoca um julgamento perante os montes e faze que as colinas ouçam tua voz”. 2Ouvi, montes, as razões do Senhor em juízo, escutai-o, fundamentos da terra; a pendência do Senhor é com seu povo, ele disputa em juízo contra Israel. 3“Povo meu, que é que te fiz? Em que te fui penoso? Responde-me. 4Eu te retirei da terra do Egito e te libertei da casa de servidão, e pus à tua frente Moisés, Aarão e Maria”. 6“Que oferta farei ao Senhor, digna dele, ao ajoelhar-me diante do Deus altíssimo? Acaso oferecerei holocaustos e novilhos de um ano? 7Acaso agradam ao Senhor carneiros aos milhares e torrentes de óleo? Porventura ofertaria eu o meu primogênito por um crime meu, o fruto do meu sangue pelos pecados da minha vida?” 8Foi-te revelado, ó homem, o que é o bem e o que o Senhor exige de ti: principalmente praticar a justiça e amar a misericórdia, e caminhar solícito com teu Deus."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 49(50)",
+        "refrao": "A todo homem que procede retamente eu mostrarei a salvação que vem de Deus.",
+        "texto": "– “Reuni à minha frente os meus eleitos, que selaram a aliança em sacrifícios!” Testemunha o próprio céu seu julgamento, porque Deus mesmo é juiz e vai julgar.\n– Eu não venho censurar teus sacrifícios, pois sempre estão perante mim teus holocaustos; não preciso dos novilhos de tua casa nem dos carneiros que estão nos teus rebanhos.\n– “Como ousas repetir os meus preceitos e trazer minha aliança em tua boca? Tu, que odiaste minhas leis e meus conselhos e deste as costas às palavras dos meus lábios!\n– Diante disso que fizeste, eu calarei? Acaso pensas que eu sou igual a ti? É disso que te acuso e repreendo e manifesto essas coisas aos teus olhos.\n– Quem me oferece um sacrifício de louvor, este, sim, é que me honra de verdade. A todo homem que procede retamente eu mostrarei a salvação que vem de Deus.”"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 12,38-42",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 38alguns mestres da Lei e fariseus disseram a Jesus: \"Mestre, queremos ver um sinal realizado por ti\". 39Jesus respondeu-lhes: \"Uma geração má e adúltera busca um sinal, mas nenhum sinal lhe será dado, a não ser o sinal do profeta Jonas. 40Com efeito, assim como Jonas esteve três dias e três noites no ventre da baleia, assim também o Filho do Homem estará três dias e três noites no seio da terra. 41No dia do juízo, os habitantes de Nínive se levantarão contra essa geração e a condenarão, porque se converteram diante da pregação de Jonas. E aqui está quem é maior do que Jonas. 42No dia do juízo, a rainha do Sul se levantará contra essa geração e a condenará, porque veio dos confins da terra para ouvir a sabedoria de Salomão, e aqui está quem é maior do que Salomão\"."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Quem me protege e me ampara é meu Deus; é o Senhor quem sustenta minha vida. Quero ofertar-vos o meu sacrifício de coração e com muita alegria (Cf. Sl 53, 6. 8)",
+    "comunhao": "O Senhor bom e clemente nos deixou o memorial de suas grandes maravilhas. Ele dá o alimento aos que o temem. (Cf. Sl 110, 4-5)"
+  }
+}

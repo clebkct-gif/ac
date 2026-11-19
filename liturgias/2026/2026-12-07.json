@@ -1,0 +1,40 @@
+{
+  "data": "07/12/2026",
+  "liturgia": "Santo Ambrósio, bispo e doutor da Igreja, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que fizestes o bispo santo Ambrósio doutor da fé católica e exemplo de fortaleza apostólica, despertai na vossa Igreja homens segundo o vosso coração, que a governem com firmeza e sabedoria. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Celebrando os divinos mistérios, nós vos pedimos, Senhor, que o Espírito Santo infunda em nós aquela luz da fé para difundir sempre a vossa glória. Por Cristo, nosso Senhor.",
+    "comunhao": "Reconfortados com a força deste sacramento, fazei-nos progredir de tal modo nos ensinamentos de Santo Ambrósio que, percorrendo corajosamente os vossos caminhos, nos preparemos para a alegria do eterno convívio. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 35,1-10",
+        "titulo": "Leitura do livro do profeta Isaías",
+        "texto": "Alegre-se a terra que era deserta e intransitável, exulte a solidão e floresça como um lírio. 2Germine e exulte de alegria e louvores. Foi-lhe dada a glória do Líbano, o esplendor do Carmelo e de Saron; seus habitantes verão a glória do Senhor, a majestade do nosso Deus. 3Fortalecei as mãos enfraquecidas e firmai os joelhos debilitados. 4Dizei às pessoas deprimidas: “Criai ânimo, não tenhais medo! Vede, é vosso Deus, é a vingança que vem, é a recompensa de Deus; é ele que vem para vos salvar”. 5Então se abrirão os olhos dos cegos e se descerrarão os ouvidos dos surdos. 6O coxo saltará como um cervo e se desatará a língua dos mudos, assim como brotarão águas no deserto e jorrarão torrentes no ermo. 7A terra árida se transformará em lago, e a região sedenta, em fontes de água; nas cavernas onde viviam dragões crescerá o caniço e o junco. 8Ali haverá uma vereda e um caminho; o caminho se chamará estrada santa: por ela não passará o impuro, mas será uma estrada reta em que até os débeis não se perderão. 9Ali não existem leões, não andam por ela animais depredadores, nem mesmo aparecem lá; os que forem libertados poderão percorrê-la, 10os que o Senhor salvou voltarão para casa. Eles virão a Sião cantando louvores, com infinita alegria brilhando em seus rostos: cheios de gozo e contentamento, não mais conhecerão a dor e o pranto”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 84(85)",
+        "refrao": "Eis que vem o nosso Deus! Ele vem para salvar.",
+        "texto": "– Quero ouvir o que o Senhor irá falar: é a paz que ele vai anunciar; a paz para o seu povo e seus amigos, para os que voltam ao Senhor seu coração. Está perto a salvação dos que o temem, e a glória habitará em nossa terra.\n– A verdade e o amor se encontrarão, a justiça e a paz se abraçarão; da terra brotará a fidelidade, e a justiça olhará dos altos céus.\n– O Senhor nos dará tudo o que é bom, e a nossa terra nos dará suas colheitas; a justiça andará na sua frente, e a salvação há de seguir os passos seus."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 5,17-26",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "17Um dia Jesus estava ensinando. À sua volta estavam sentados fariseus e doutores da Lei, vindos de todas as aldeias da Galileia, da Judeia e de Jerusalém. E a virtude do Senhor o levava a curar. 18Uns homens traziam um paralítico num leito e procuravam fazê-lo entrar para apresentá-lo. 19Mas, não achando por onde introduzi-lo devido à multidão, subiram ao telhado e, por entre as telhas, o desceram com o leito no meio da assembleia, diante de Jesus. 20Vendo-lhes a fé, ele disse: “Homem, teus pecados estão perdoados”. 21Os escribas e fariseus começaram a murmurar, dizendo: “Quem é este que assim blasfema? Quem pode perdoar os pecados senão Deus?” 22Conhecendo-lhes os pensamentos, Jesus respondeu, dizendo: “Por que murmurais em vossos corações? 23O que é mais fácil, dizer: ‘Teus pecados estão perdoados’ou dizer: ‘Levanta-te e anda’? 24Pois, para que saibais que o Filho do Homem tem na terra poder de perdoar os pecados – disse ao paralítico -, eu te digo: levanta-te, pega o leito e vai para casa”. 25Imediatamente, diante deles, ele se levantou, tomou o leito e foi para casa, louvando a Deus. 26Todos ficaram fora de si, glorificavam a Deus e, cheios de temor, diziam: “Hoje vimos coisas maravilhosas!”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "No meio da Igreja o Senhor abriu os seus lábios, encheu-o com o espírito de sabedoria e inteligência e o revestiu com um manto de glória. (Cf. Eclo 15, 5)",
+    "comunhao": "Quem medita dia e noite na lei do Senhor dará seu fruto no devido tempo. (Cf. Sl 1, 2-3)"
+  }
+}

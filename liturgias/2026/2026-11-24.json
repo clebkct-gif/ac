@@ -1,0 +1,40 @@
+{
+  "data": "24/11/2026",
+  "liturgia": "Santo André Dung-Lac, presbítero, e companheiros mártires, Memória",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, fonte e origem de toda paternidade, que tornastes fiéis à cruz do vosso Filho os Santos mártires André e seus companheiros até o derramamento do seu sangue; por sua intercessão, concedei-nos que, difundindo o vosso amor possamos ser chamados vossos filhos e filhas e o sejamos de fato. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Recebei, Pai santo, as oferendas que vos apresentamos venerando a paixão dos santos mártires vietnamitas, para que mereçamos ser encontrados fiéis a vós nas adversidades de nossa vida, e possamos oferecer-nos como sacrifício agradável aos vossos olhos. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, saciados com o alimento do mesmo pão, na comemoração dos vossos santos mártires, nós vos suplicamos que, permanecendo unidos no vosso amor, alcancemos o prêmio eterno da nossa perseverança. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ap 14,14-19",
+        "titulo": "Leitura do livro do Apocalipse de São João",
+        "texto": "Eu, João, 14na minha visão, vi uma nuvem branca e, sentado na nuvem, alguém que parecia um “filho de homem”. Tinha na cabeça uma coroa de ouro e, nas mãos, uma foice afiada. 15Saiu do templo um outro anjo, gritando em alta voz para aquele que estava sentado na nuvem: “Lança tua foice e ceifa. Chegou a hora da colheita. A seara da terra está madura!” 16E aquele que estava sentado na nuvem lançou a foice, e a terra foi ceifada. 17Então saiu do templo que está no céu mais um anjo. Também ele tinha nas mãos uma foice afiada. 18E saiu, de junto do altar, outro anjo ainda, aquele que tem o poder sobre o fogo. Ele gritou em alta voz para aquele que segurava a foice afiada: “Lança a foice e colhe os cachos da videira da terra, porque as uvas já estão maduras”. 19E o anjo lançou a foice afiada na terra e colheu as uvas da videira da terra. Depois, despejou as uvas no grande lagar do furor de Deus."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 95(96)",
+        "refrao": "O Senhor vem julgar nossa terra.",
+        "texto": "– Publicai entre as nações: “Reina o Senhor!” Ele firmou o universo inabalável, e os povos ele julga com justiça.\n– O céu se rejubile e exulte a terra, aplauda o mar com o que vive em suas águas; os campos com seus frutos rejubilem, e exultem as florestas e as matas.\n– Na presença do Senhor, pois ele vem, porque vem para julgar a terra inteira. Governará o mundo todo com justiça e os povos julgará com lealdade."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 21,5-11",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 5algumas pessoas comentavam a respeito do templo que era enfeitado com belas pedras e com ofertas votivas. Jesus disse: 6“Vós admirais estas coisas? Dias virão em que não ficará pedra sobre pedra. Tudo será destruído”. 7Mas eles perguntaram: “Mestre, quando acontecerá isso? E qual vai ser o sinal de que essas coisas estão para acontecer?” 8Jesus respondeu: “Cuidado para não serdes enganados, porque muitos virão em meu nome, dizendo: ‘Sou eu!’ E ainda: ‘O tempo está próximo’. Não sigais essa gente! 9Quando ouvirdes falar de guerras e revoluções, não fiqueis apavorados. É preciso que essas coisas aconteçam primeiro, mas não será logo o fim”. 10E Jesus continuou: “Um povo se levantará contra outro povo, um país atacará outro país. 11Haverá grandes terremotos, fomes e pestes em muitos lugares; acontecerão coisas pavorosas e grandes sinais serão vistos no céu”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Não devemos gloriar-nos a não ser na cruz de nosso Senhor Jesus Cristo; pois a palavra da cruz é força de Deus para nós que fomos salvos. (Cf. Gl 6,14; 1Cor 1,18)",
+    "comunhao": "Bem-aventurados os que são perseguidos por causa justiça porque deles é o reino dos céus. (Cf. Mt 5,10)"
+  }
+}

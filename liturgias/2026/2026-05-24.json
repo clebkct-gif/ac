@@ -1,0 +1,56 @@
+{
+  "data": "24/05/2026",
+  "liturgia": "Domingo de Pentecostes, Solenidade",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, que pelo mistério da festa de hoje santificais vossa Igreja inteira, em todos os povos e nações, derramai por toda a extensão do mundo os dons do vosso Espírito Santo, e realizai agora, no coração dos que creem em vós, as maravilhas que operastes no início da pregação do Evangelho.Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei, nós vos pedimos, Senhor, que, conforme a promessa do vosso Filho, o Espírito Santo nos revele mais abundantemente o mistério deste sacrifício e nos manifeste toda a verdade. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, que enriqueceis a Igreja com os bens do céu, conservai-a em vossa graça, para que o dom do alto, o Espírito Santo, nela continue sendo sua força, e o alimento espiritual que recebemos aperfeiçoe em nós a obra da redenção. Por Cristo, nosso Senhor.",
+    "extras": [
+      {
+        "titulo": "Benção Solene",
+        "texto": "Deus, o Pai das luzes, que hoje iluminou os corações dos discípulos, derramando sobre eles o Espírito Santo, vos conceda a alegria de sua bênção e a plenitude dos dons do mesmo Espírito.\nR. Amém.\nAquele fogo, descido de modo admirável sobre os discípulos, por seu poder purifique os vossos corações de todo mal e vos ilumine com o esplendor da sua luz.\nR. Amém.\nAquele que na proclamação de uma só fé reuniu a diversidade das línguas vos faça perseverar na mesma fé e por ela passar da esperança à plena visão.\nR. Amém.\nE a bênção de Deus todo poderoso, Pai e Filho * e Espírito Santo, desça sobre vós e permaneça para sempre.\nR. Amém."
+      }
+    ]
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 2, 1-11",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Quando chegou o dia de Pentecostes, os discípulos estavam todos reunidos no mesmo lugar. 2De repente, veio do céu um barulho como se fosse uma forte ventania, que encheu a casa onde eles se encontravam. 3Então apareceram línguas como de fogo que se repartiram e pousaram sobre cada um deles. 4Todos ficaram cheios do Espírito Santo e começaram a falar em outras línguas, conforme o Espírito os inspirava.,5Moravam em Jerusalém judeus devotos, de todas as nações do mundo. 6Quando ouviram o barulho, juntou-se a multidão, e todos ficaram confusos, pois cada um ouvia os discípulos falar em sua própria língua.,7Cheios de espanto e admiração, diziam: “Esses homens que estão falando não são todos galileus? 8Como é que nós os escutamos na nossa própria língua? 9Nós que somos partos, medos e elamitas, habitantes da Mesopotâmia, da Judeia e da Capadócia, do Ponto e da Ásia, 10da Frígia e da Panfília, do Egito e da parte da Líbia próxima de Cirene, também romanos que aqui residem; 11judeus e prosélitos, cretenses e árabes, todos nós os escutamos anunciarem as maravilhas de Deus na nossa própria língua!”"
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 103",
+        "refrao": "Enviai o vosso Espírito, Senhor, e da terra toda a face renovai.",
+        "texto": "— Bendize, ó minha alma, ao Senhor! Ó meu Deus e meu Senhor, como sois grande! Quão numerosas, ó Senhor, são vossas obras! Encheu-se a terra com as vossas criaturas! \n— Se tirais o seu respiro, elas perecem e voltam para o pó de onde vieram. Enviais o vosso espírito e renascem e da terra toda a face renovais. \n— Que a glória do Senhor perdure sempre, e alegre-se o Senhor em suas obras! Hoje seja-lhe agradável o meu canto, pois o Senhor é a minha grande alegria"
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "1Cor 12, 3b-7. 12-13",
+        "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+        "texto": "Irmãos: 3bNinguém pode dizer: Jesus é o Senhor, a não ser no Espírito Santo. 4Há diversidade de dons, mas um mesmo é o Espírito. 5Há diversidade de ministérios, mas um mesmo é o Senhor. 6Há diferentes atividades, mas um mesmo Deus que realiza todas as coisas em todos.,7A cada um é dada a manifestação do Espírito em vista do bem comum. 12Como o corpo é um, embora tenha muitos membros, e como todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também acontece com Cristo. 13De fato, todos nós, judeus ou gregos, escravos ou livres, fomos batizados num único Espírito, para formarmos um único corpo, e todos nós bebemos de um único Espírito."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 20, 19-23",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Ao anoitecer daquele dia, o primeiro da semana, estando fechadas, por medo dos judeus, as portas do lugar onde os discípulos se encontravam, Jesus entrou e, pondo-se no meio deles, disse: “A paz esteja convosco”. 20Depois dessas palavras, mostrou-lhes as mãos e o lado. Então os discípulos se alegraram por verem o Senhor.21Novamente, Jesus disse: “A paz esteja convosco. Como o Pai me enviou, também eu vos envio”. 22E, depois de ter dito isso, soprou sobre eles e disse: “Recebei o Espírito Santo. 23A quem perdoardes os pecados, eles lhes serão perdoados; a quem não os perdoardes, eles lhes serão retidos”."
+      }
+    ],
+    "extras": [
+      {
+        "titulo": "Sequência de Pentecostes",
+        "texto": "Espírito de Deus, enviai dos céus um raio de luz!\nVinde, Pai dos pobres, dai aos corações vossos sete dons.\nConsolo que acalma, hóspede da alma, doce alívio, vinde!\nNo labor descanso, na aflição remanso, no calor aragem.\nEnchei, luz bendita, chama que crepita, o íntimo de nós!\nSem a luz que acode, nada o homem pode, nenhum bem há nele.\nAo sujo lavai, ao seco regai, curai o doente.\nDobrai o que é duro, guiai no escuro, o frio aquecei.\nDai à vossa Igreja,que espera e deseja, vossos sete dons.\nDai em prêmio ao forte uma santa morte, alegria eterna. Amém."
+      }
+    ]
+  },
+  "antifonas": {
+    "entrada": "O Espírito do Senhor encheu a terra inteira; ele, que abrange todo o universo, conhece também cada palavra, aleluia. (Cf. Sb 1,7)",
+    "comunhao": "Todos ficaram repletos do Espírito Santo anunciando as maravilhas de Deus, aleluia. (Cf. At 2,4.11)"
+  }
+}

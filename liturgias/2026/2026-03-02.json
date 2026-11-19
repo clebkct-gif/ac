@@ -1,0 +1,40 @@
+{
+  "data": "02/03/2026",
+  "liturgia": "2ª feira da 2ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Ó Deus, que para nossa salvação nos ordenais a prática da mortificação, concedei que possamos evitar todo pecado e cumprir de coração os mandamentos do vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei benigno, Senhor, as nossas preces e preservai das seduções do mundo os que chamais a celebrar os vossos mistérios. Por Cristo, nosso Senhor.",
+    "comunhao": "Esta comunhão, Senhor, nos purifique do pecado e nos faça participar da alegria celestial. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Dn 9, 4b-10",
+        "titulo": "Leitura da Profecia de Daniel",
+        "texto": "4b“Eu te suplico, Senhor, Deus grande e terrível, que preservas a aliança e a benevolência aos que te amam e cumprem teus mandamentos; 5temos pecado, temos praticado a injustiça e a impiedade, temos sido rebeldes, afastando-nos de teus mandamentos e de tua lei; 6não temos prestado ouvidos a teus servos, os profetas, que, em teu nome, falaram a nossos reis e príncipes, a nossos antepassados e a todo o povo do país. 7A ti, Senhor, convém a justiça; e a nós, hoje, resta-nos ter vergonha no rosto: seja ao homem de Judá, aos habitantes de Jerusalém e a todo Israel, seja aos que moram perto e aos que moram longe, de todos os países, para onde os escorraçaste por causa das infidelidades cometidas contra ti. 8A nós, Senhor, resta-nos ter vergonha no rosto: a nossos reis e príncipes, e a nossos antepassados, pois que pecamos contra ti; 9mas a ti, Senhor, nosso Deus, cabe misericórdia e perdão, pois nos temos rebelado contra ti, 10e não ouvimos a voz do Senhor, nosso Deus, indicando-nos o caminho de sua lei, que nos propôs mediante seus servos, os profetas”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 78",
+        "refrao": "O Senhor não nos trata como exigem nossas faltas.",
+        "texto": "— Não lembreis as nossas culpas do passado, mas venha logo sobre nós vossa bondade, pois estamos humilhados em extremo. \n— Ajudai-nos, nosso Deus e Salvador! Por vosso nome e vossa glória, libertai-nos! Por vosso nome, perdoai nossos pecados! \n— Até vós chegue o gemido dos cativos: libertai com vosso braço poderoso os que foram condenados a morrer! Quanto a nós, vosso rebanho e vosso povo, celebraremos vosso nome para sempre, de geração em geração vos louvaremos."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 6, 36-38",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 36“Sede misericordiosos, como também o vosso Pai é misericordioso. 37Não julgueis e não sereis julgados; não condeneis e não sereis condenados; perdoai, e sereis perdoados. 38Dai e vos será dado. Uma boa medida, calcada, sacudida, transbordante será colocada no vosso colo; porque com a mesma medida com que medirdes os outros, vós também sereis medidos”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Salvai-me, Senhor, e tende compaixão de mim! Meu pé está firme no caminho reto, nas assembleias bendirei ao Senhor. (Cf. Sl 25, 11-12)",
+    "comunhao": "Sede misericordiosos, diz o Senhor, como o vosso Pai é misericordioso. (Cf. Lc 6, 36)"
+  }
+}

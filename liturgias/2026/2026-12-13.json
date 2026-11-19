@@ -1,0 +1,46 @@
+{
+  "data": "13/12/2026",
+  "liturgia": "3º Domingo do Advento",
+  "cor": "Rosa",
+  "oracoes": {
+    "coleta": "Ó Deus que vedes o vosso povo esperando fervoroso o Natal do Senhor, concedei-nos chegar às alegrias da salvação e celebrá-las sempre com intenso júbilo na solene liturgia. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Possamos, Senhor, oferecer-vos sem cessar este nosso sacrifício, para que, ao celebrarmos o sacramento que nos destes, realizem-se em nós as maravilhas da salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Imploramos, Senhor, vossa clemência, para que estes divinos auxílios nos purifiquem dos pecados e nos preparem para as festas que se aproximam. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 61,1-2.10-11",
+        "titulo": "Leitura do livro do profeta Isaías",
+        "texto": "O espírito do Senhor Deus está sobre mim, porque o Senhor me ungiu; enviou-me para dar a boa-nova aos humildes, curar as feridas da alma, pregar a redenção para os cativos e a liberdade para os que estão presos; 2para proclamar o tempo da graça do Senhor. 10Exulto de alegria no Senhor e minha alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me como um noivo com sua coroa ou uma noiva com suas joias. 11Assim como a terra faz brotar a planta e o jardim faz germinar a semente, assim o Senhor Deus fará germinar a justiça e a sua glória diante de todas as nações."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl Lc 1",
+        "refrao": "A minha alma se alegra no meu Deus.",
+        "texto": "– A minha alma engrandece ao Senhor, e se alegrou o meu espírito em Deus, meu salvador, pois ele viu a pequenez de sua serva, desde agora as gerações hão de chamar-me de bendita.\n– O Poderoso fez por mim maravilhas, e santo é o seu nome! Seu amor, de geração em geração, chega a todos os que o respeitam.\n– De bens saciou os famintos e despediu, sem nada, os ricos. Acolheu Israel, seu servidor, fiel ao seu amor."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "1Ts 5,16-24",
+        "titulo": "Leitura da primeira carta de São Paulo aos Tessalonicenses",
+        "texto": "Irmãos, 16estai sempre alegres! 17Rezai sem cessar. 18Dai graças em todas as circunstâncias, porque essa é, a vosso respeito, a vontade de Deus em Jesus Cristo. 19Não apagueis o espírito! 20Não desprezeis as profecias, 21mas examinai tudo e guardai o que for bom. 22Afastai-vos de toda espécie de maldade! 23Que o próprio Deus da paz vos santifique totalmente e que tudo aquilo que sois – espírito, alma, corpo – seja conservado sem mancha alguma para a vinda de nosso Senhor Jesus Cristo! 24Aquele que vos chamou é fiel; ele mesmo realizará isso."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 1,6-8.19-28",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João",
+        "texto": "6Surgiu um homem enviado por Deus; seu nome era João. 7Ele veio como testemunha para dar testemunho da luz, para que todos chegassem à fé por meio dele. 8Ele não era a luz, mas veio para dar testemunho da luz. 19Este foi o testemunho de João, quando os judeus enviaram de Jerusalém sacerdotes e levitas para perguntar: “Quem és tu?” 20João confessou e não negou. Confessou: “Eu não sou o Messias”. 21Eles perguntaram: “Quem és, então? És tu Elias?” João respondeu: “Não sou”. Eles perguntaram: “És o profeta?” Ele respondeu: “Não”. 22Perguntaram então: “Quem és, afinal? Temos que levar uma resposta para aqueles que nos enviaram. O que dizes de ti mesmo?” 23João declarou: “Eu sou a voz que grita no deserto: ‘Aplainai o caminho do Senhor’, conforme disse o profeta Isaías”. 24Ora, os que tinham sido enviados pertenciam aos fariseus 25e perguntaram: “Por que então andas batizando se não és o Messias, nem Elias, nem o profeta?” 26João respondeu: “Eu batizo com água; mas no meio de vós está aquele que vós não conheceis 27e que vem depois de mim. Eu não mereço desamarrar a correia de suas sandálias”. 28Isso aconteceu em Betânia, além do Jordão, onde João estava batizando."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Alegrai-vos sempre no Senhor! Repito, alegrai-vos! O Senhor está próximo. (Cf. Fl 4, 4-5)",
+    "comunhao": "Dizei aos desanimados: coragem, não temais; eis que chega o nosso Deus, ele mesmo nos salvará. (Cf. Is 35, 4)"
+  }
+}

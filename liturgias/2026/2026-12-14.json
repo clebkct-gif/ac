@@ -1,0 +1,40 @@
+{
+  "data": "14/12/2026",
+  "liturgia": "São João da Cruz, presbítero e doutor da Igreja, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que destes ao presbítero São João da Cruz total desapego de si mesmo e ardente amor à cruz, concedei que, imitando sempre o seu exemplo, cheguemos à contemplação eterna da vossa glória. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Deus todo-poderoso, voltai o vosso olhar para o sacrifício que vos oferecemos na comemoração de São João da Cruz e concedei-nos imitar em nossa vida os mistérios da paixão do Senhor que celebramos. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, manifestastes de modo admirável o mistério da cruz na vida do presbítero São João; concedei-nos benigno que, fortalecidos por este sacrifício, permaneçamos fiéis a Cristo e trabalhemos na Igreja para a salvação de todos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Nm 24,2-7.15-17",
+        "titulo": "Leitura do livro dos Números",
+        "texto": "Naqueles dias, 2Balaão levantou os olhos e viu Israel acampado por tribos. O espírito de Deus veio sobre ele, 3e Balaão pronunciou seu poema: “Oráculo de Balaão, filho de Beor, oráculo do homem que tem os olhos abertos; 4oráculo daquele que ouve as palavras de Deus, que vê o que o Poderoso lhe faz ver, que cai, e seus olhos se abrem. 5Como são belas as tuas tendas, ó Jacó, e as tuas moradas, ó Israel! 6Elas se estendem como vales, como jardins ao longo de um rio, como aloés que o Senhor plantou, como cedros junto das águas. 7A água transborda de seus cântaros, e sua semente é ricamente regada. Seu rei é mais poderoso do que Agag, seu reino está em ascensão”. 15E Balaão continuou pronunciando o seu poema: “Oráculo de Balaão, filho de Beor, oráculo do homem que tem os olhos abertos, 16oráculo daquele que ouve as palavras de Deus e conhece os pensamentos do Altíssimo, que vê o que o Poderoso lhe faz ver, que cai, e seus olhos se abrem. 17Eu o vejo, mas não agora; e o contemplo, mas não de perto. Uma estrela sai de Jacó, e um cetro se levanta de Israel”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 24(25)",
+        "refrao": "Fazei-me conhecer a vossa estrada, ó Senhor!",
+        "texto": "– Mostrai-me, ó Senhor, vossos caminhos e fazei-me conhecer a vossa estrada! Vossa verdade me oriente e me conduza, porque sois o Deus da minha salvação.\n– Recordai, Senhor meu Deus, vossa ternura e a vossa compaixão, que são eternas! De mim lembrai-vos, porque sois misericórdia e sois bondade sem limites, ó Senhor!\n– O Senhor é piedade e retidão e reconduz ao bom caminho os pecadores. Ele dirige os humildes na justiça, e aos pobres ele ensina o seu caminho."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 21,23-27",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 23Jesus voltou ao templo. Enquanto ensinava, os sumos sacerdotes e os anciãos do povo aproximaram-se dele e perguntaram: “Com que autoridade fazes essas coisas? Quem te deu tal autoridade?” 24Jesus respondeu-lhes: “Também eu vos farei uma pergunta. Se vós me responderdes, também eu vos direi com que autoridade faço essas coisas. 25Donde vinha o batismo de João? Do céu ou dos homens?” Eles refletiam entre si: “Se dissermos ‘do céu’, ele nos dirá: ‘Por que não acreditastes nele?’ 26Se dissermos ‘dos homens’, temos medo do povo, pois todos têm João Batista na conta de profeta”. 27Eles então responderam a Jesus: “Não sabemos”. Ao que Jesus também respondeu: “Eu também não vos direi com que autoridade faço essas coisas”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Quanto a mim, que eu me glorie somente da cruz do Senhor nosso, Jesus Cristo. Por ele, o mundo está crucificado para mim, como eu estou crucificado para o mundo. (Gl 6, 14)",
+    "comunhao": "Se alguém quer me seguir, renuncie a si mesmo, tome a sua cruz e me siga, diz o Senhor. (Cf. Mt 16, 24)"
+  }
+}

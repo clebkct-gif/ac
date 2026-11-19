@@ -1,0 +1,40 @@
+{
+  "data": "15/10/2026",
+  "liturgia": "Santa Teresa de Jesus, virgem e doutora da Igreja, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus, pelo vosso Espírito suscitastes Santa Teresa para indicar à Igreja um novo caminho na busca da perfeição;concedei-nos encontrar sempre alimento em sua doutrina espiritual e ser inflamados pelo desejo da verdadeira santidade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, que nossas oferendas agradem à vossa majestade como Santa Teresa soube agradar-vos, consagrando-se inteiramente a vós. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor nosso Deus, que alimentastes a vossa família com o pão celeste, concedei-lhe, a exemplo de Santa Teresa, a alegria de cantar eternamente as vossas misericórdias. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ef 1,1-10",
+        "titulo": "Início da carta de São Paulo aos Efésios",
+        "texto": "1Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos e fiéis em Cristo Jesus: 2a vós, graça e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo. 3Bendito seja Deus, Pai de nosso Senhor Jesus Cristo. Ele nos abençoou com toda a bênção do seu Espírito em virtude de nossa união com Cristo, no céu. 4Em Cristo, ele nos escolheu, antes da fundação do mundo, para que sejamos santos e irrepreensíveis sob o seu olhar, no amor. 5Ele nos predestinou para sermos seus filhos adotivos por intermédio de Jesus Cristo, conforme a decisão da sua vontade, 6para o louvor da sua glória e da graça com que ele nos cumulou no seu bem-amado. 7Pelo seu sangue, nós somos libertados. Nele, as nossas faltas são perdoadas, segundo a riqueza da sua graça, 8que Deus derramou profusamente sobre nós, abrindo-nos a toda sabedoria e prudência. 9Ele nos fez conhecer o mistério da sua vontade, o desígnio benevolente que de antemão determinou em si mesmo, 10para levar à plenitude o tempo estabelecido e recapitular, em Cristo, o universo inteiro: tudo o que está nos céus e tudo o que está sobre a terra."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 97(98)",
+        "refrao": "O Senhor fez conhecer seu poder salvador perante as nações.",
+        "texto": "– Cantai ao Senhor Deus um canto novo, porque ele fez prodígios! Sua mão e o seu braço forte e santo alcançaram-lhe a vitória.\n– O Senhor fez conhecer a salvação, e às nações, sua justiça; recordou o seu amor sempre fiel pela casa de Israel.\n– Os confins do universo contemplaram a salvação do nosso Deus. Aclamai o Senhor Deus, ó terra inteira, alegrai-vos e exultai!\n– Cantai salmos ao Senhor ao som da harpa e da cítara suave! Aclamai, com os clarins e as trombetas, ao Senhor, o nosso rei!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 11,47-54",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, disse o Senhor: 47“Ai de vós, porque construís os túmulos dos profetas; no entanto, foram vossos pais que os mataram. 48Com isso, vós sois testemunhas e aprovais as obras de vossos pais, pois eles mataram os profetas e vós construís os túmulos. 49É por isso que a sabedoria de Deus afirmou: Eu lhes enviarei profetas e apóstolos, e eles matarão e perseguirão alguns deles, 50a fim de que se peçam contas a esta geração do sangue de todos os profetas derramado desde a criação do mundo, 51desde o sangue de Abel até o sangue de Zacarias, que foi morto entre o altar e o santuário. Sim, eu vos digo, serão pedidas contas disso a esta geração. 52Ai de vós, mestres da Lei, porque tomastes a chave da ciência. Vós mesmos não entrastes e ainda impedistes os que queriam entrar”. 53Quando Jesus saiu daí, os mestres da Lei e os fariseus começaram a tratá-lo mal e a provocá-lo sobre muitos pontos. 54Armavam ciladas para pegá-lo de surpresa por qualquer palavra que saísse de sua boca."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Assim como a corça suspira, pelas águas correntes, suspira igualmente minh'alma por vós, ó meu Deus! Minha alma tem sede de Deus, e deseja o Deus vivo. (Cf. Sl 41, 2-3)",
+    "comunhao": "Ó Senhor, eu cantarei eternamente o vosso amor, de geração em geração eu cantarei vossa verdade. (Sl 88, 2)"
+  }
+}

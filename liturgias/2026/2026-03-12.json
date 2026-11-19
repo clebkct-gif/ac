@@ -1,0 +1,40 @@
+{
+  "data": "12/03/2026",
+  "liturgia": "5ª feira da 3ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Ó Deus onipotente, suplicantes imploramos a vossa majestade: à medida que se aproxima a festa da salvação, nos preparemos, com maior empenho, para celebrar o mistério pascal. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, para que a oferenda do vosso povo possa agradar-vos, purificai-nos de todo contágio do mal; e não nos deixeis ser seduzidos pelas falsas alegrias, pois nos prometestes chegar ao prêmio da vossa verdade. Por Cristo, nosso Senhor.",
+    "comunhao": "Sustentai, Senhor de bondade, com vosso auxílio, os que reconfortais com os sacramentos, para podermos colher os frutos da salvação na liturgia e na vida. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 7, 23-28",
+        "titulo": "Leitura do Livro do Profeta Jeremias",
+        "texto": "Assim fala o Senhor: 23“Dei esta ordem ao povo dizendo: Ouvi a minha voz, assim serei o vosso Deus, e vós sereis o meu povo; e segui adiante por todo o caminho que eu vos indicar para serdes felizes. 24Mas eles não ouviram e não prestaram atenção; ao contrário, seguindo as más inclinações do coração, andaram para trás e não para a frente, 25desde o dia em que seus pais saíram do Egito até ao dia de hoje. A todos enviei meus servos, os profetas, e enviei-os cada dia, começando bem cedo; 26mas não ouviram e não prestaram atenção; ao contrário, obstinaram-se no erro, procedendo ainda pior que seus pais. 27Se falares todas essas coisas, eles não te escutarão, e, se os chamares, não te darão resposta. 28Dirás, então: ʽEsta é a nação que não escutou a voz do Senhor, seu Deus, e não aceitou correção. Sua fé morreu, foi arrancada de sua bocaʼ”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 94",
+        "refrao": "Oxalá ouvísseis hoje a voz do Senhor: Não fecheis os vossos corações.",
+        "texto": "— Vinde, exultemos de alegria no Senhor, aclamemos o Rochedo que nos salva! Ao seu encontro caminhemos com louvores, e com cantos de alegria o celebremos! \n— Vinde adoremos e prostremo-nos por terra, e ajoelhemos ante o Deus que nos criou! Porque ele é o nosso Deus, nosso Pastor, e nós somos o seu povo e seu rebanho, as ovelhas que conduz com sua mão. \n— Oxalá ouvísseis hoje a sua voz: “Não fecheis os corações como em Meriba, como em Massa, no deserto, aquele dia, em que outrora vossos pais me provocaram, apesar de terem visto as minhas obras”."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 11, 14-23",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 14Jesus estava expulsando um demônio que era mudo. Quando o demônio saiu, o mudo começou a falar, e as multidões ficaram admiradas. 15Mas alguns disseram: “É por Belzebu, o príncipe dos demônios, que ele expulsa os demônios”.\n16Outros, para tentar Jesus, pediam-lhe um sinal do céu. 17Mas, conhecendo seus pensamentos, Jesus disse-lhes: “Todo reino dividido contra si mesmo será destruído; e cairá uma casa por cima da outra.\n18Ora, se até Satanás está dividido contra si mesmo, como poderá sobreviver o seu reino? Vós dizeis que é por Belzebu que eu expulso os demônios. 19Se é por meio de Belzebu que eu expulso demônios, vossos filhos os expulsam por meio de quem? Por isso, eles mesmos serão vossos juízes.\n20Mas, se é pelo dedo de Deus que eu expulso os demônios, então chegou para vós o Reino de Deus. 21Quando um homem forte e bem armado guarda a própria casa, seus bens estão seguros. 22Mas, quando chega um homem mais forte do que ele, vence-o, arranca-lhe a armadura na qual ele confiava, e reparte o que roubou. 23Quem não está comigo está contra mim. E quem não recolhe comigo, dispersa”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "A salvação do povo sou eu, diz o Senhor: de qualquer tribulação em que clamarem por mim, eu os ouvirei e serei seu Deus para sempre.",
+    "comunhao": "Os vossos mandamentos vós nos destes, para serem fielmente observados. Oxalá seja bem firme a minha vida em cumprir vossa vontade e vossa lei! (Cf. Sl 118, 4-5)"
+  }
+}

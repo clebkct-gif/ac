@@ -1,0 +1,46 @@
+{
+  "data": "18/10/2026",
+  "liturgia": "29º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, tornai-nos dispostos a obedecer sempre à vossa vontade e a vos servir de coração sincero. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei-nos, Senhor, nós vos pedimos, que possamos, com liberdade de coração, servir ao vosso altar para que vossa graça nos purifique e nos renovem estes mistérios que celebramos em vossa honra. Por Cristo, nosso Senhor.",
+    "comunhao": "Concedei-nos, Senhor, colher os frutos da participação da Eucaristia, para que, auxiliados pelos bens temporais, possamos conhecer as riquezas do vosso Reino. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 45,1.4-6",
+        "titulo": "Leitura do livro do profeta Isaías",
+        "texto": "1Isto diz o Senhor sobre Ciro, seu ungido: “Tomei-o pela mão para submeter os povos ao seu domínio, dobrar o orgulho dos reis, abrir todas as portas à sua marcha e para não deixar trancar os portões. 4Por causa de meu servo Jacó e de meu eleito Israel, chamei-te pelo nome; reservei-te, e não me reconheceste. 5Eu sou o Senhor, não existe outro: fora de mim não há deus. Armei-te guerreiro, sem me reconheceres, 6para que todos saibam, do oriente ao ocidente, que fora de mim outro não existe. Eu sou o Senhor, não há outro”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 95(96)",
+        "refrao": "Ó família das nações, dai ao Senhor poder e glória!",
+        "texto": "– Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! Manifestai a sua glória entre as nações e, entre os povos do universo, seus prodígios!\n– Pois Deus é grande e muito digno de louvor, é mais terrível e maior que os outros deuses, porque um nada são os deuses dos pagãos. Foi o Senhor e nosso Deus quem fez os céus.\n– Ó família das nações, dai ao Senhor, ó nações, dai ao Senhor poder e glória, dai-lhe a glória que é devida ao seu nome! Oferecei um sacrifício nos seus átrios.\n– Adorai-o no esplendor da santidade, terra inteira, estremecei diante dele! Publicai entre as nações: “Reina o Senhor!”, pois os povos ele julga com justiça."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "1Ts 1,1-5",
+        "titulo": "Leitura da primeira carta de São Paulo aos Tessalonicenses",
+        "texto": "1Paulo, Silvano e Timóteo à igreja dos tessalonicenses, reunida em Deus Pai e no Senhor Jesus Cristo: a vós, graça e paz! 2Damos graças a Deus por todos vós, lembrando-vos sempre em nossas orações. 3Diante de Deus, nosso Pai, recordamos sem cessar a atuação da vossa fé, o esforço da vossa caridade e a firmeza da vossa esperança em nosso Senhor Jesus Cristo. 4Sabemos, irmãos amados por Deus, que sois do número dos escolhidos. 5Porque o nosso Evangelho não chegou até vós somente por meio de palavras, mas também mediante a força que é o Espírito Santo; e isso com toda a abundância."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 22,15-21",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 15os fariseus fizeram um plano para apanhar Jesus em alguma palavra. 16Então mandaram os seus discípulos, junto com alguns do partido de Herodes, para dizerem a Jesus: “Mestre, sabemos que és verdadeiro e que, de fato, ensinas o caminho de Deus. Não te deixas influenciar pela opinião dos outros, pois não julgas um homem pelas aparências. 17Dize-nos, pois, o que pensas: é lícito ou não pagar imposto a César?” 18Jesus percebeu a maldade deles e disse: “Hipócritas! Por que me preparais uma armadilha? 19Mostrai-me a moeda do imposto!” Levaram-lhe então a moeda. 20E Jesus disse: “De quem é a figura e a inscrição desta moeda?” 21Eles responderam: “De César”. Jesus então lhes disse: “Dai, pois, a César o que é de César e a Deus o que é de Deus”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! Protegei-me qual dos olhos a pupila e abrigai-me à sombra de vossas asas. (Cf. SI 16, 6. 8)",
+    "comunhao": "O Senhor pousa o olhar sobre os que o tememe que confiam esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria. (Cf. SI 32, 18-19)"
+  }
+}

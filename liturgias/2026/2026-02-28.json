@@ -1,0 +1,40 @@
+{
+  "data": "28/02/2026",
+  "liturgia": "Sábado da 1ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Pai eterno, convertei para vós nossos corações, a fim de que, buscando sempre o único necessário e praticando as obras de caridade, nos dediquemos ao vosso culto. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Nós vos pedimos, Senhor, que estes santos mistérios nos restaurem e nos tornem dignos dos seus frutos. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, favorecei os que alimentas pelo divino mistério, e acompanhai com o consolo da vossa graça os que formastes com celestes ensinamentos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Dt 26, 16-19",
+        "titulo": "Leitura do Livro do Deuteronômio",
+        "texto": "Moisés dirigiu a palavra ao povo de Israel e lhe disse: 16“Hoje, o Senhor teu Deus te manda cumprir esses preceitos e decretos. Guarda-os e observa-os com todo o teu coração e com toda a tua alma. 17Tu escolheste hoje o Senhor para ser o teu Deus, para seguires os seus caminhos, e guardares seus preceitos, mandamentos e decretos, e para obedeceres à sua voz. 18E o Senhor te escolheu, hoje, para que sejas para ele um povo particular, como te prometeu, a fim de observares todos os seus mandamentos. 19Assim ele te fará ilustre entre todas as nações que criou, e te tornará superior em honra e glória, a fim de que sejas o povo santo do Senhor teu Deus, como ele disse”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 118",
+        "refrao": "Feliz é quem na lei do Senhor Deus vai progredindo!",
+        "texto": "— Feliz o homem sem pecado em seu caminho, que na lei do Senhor Deus vai progredindo! Feliz o homem que observa seus preceitos, e de todo o coração procura a Deus! \n— Os vossos mandamentos vós nos destes, para serem fielmente observados. Oxalá seja bem firme a minha vida em cumprir vossa vontade e vossa lei! \n— Quero louvar-vos com sincero coração, pois aprendi as vossas justas decisões. Quero guardar vossa vontade e vossa lei; Senhor, não me deixeis desamparado!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 5, 43-48",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 43“Vós ouvistes o que foi dito: ‘Amarás o teu próximo e odiarás o teu inimigo!’ 44Eu, porém, vos digo: Amai os vossos inimigos e rezai por aqueles que vos perseguem!\n45Assim, vos tornareis filhos do vosso Pai que está nos céus, porque ele faz nascer o sol sobre maus e bons, e faz cair a chuva sobre justos e injustos. 46Porque, se amais somente aqueles que vos amam, que recompensa tereis? Os cobradores de impostos não fazem a mesma coisa?\n47E se saudais somente os vossos irmãos, o que fazeis de extraordinário? Os pagãos não fazem a mesma coisa? 48Portanto, sede perfeitos como o vosso Pai celeste é perfeito”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "A lei do Senhor é perfeita, converte os corações. O testemunho do Senhor é fiel, dá sabedoria aos pequenos. (Cf. Sl 18, 8)",
+    "comunhao": "Sede perfeitos, diz o Senhor, como vosso Pai celeste é perfeito. (Cf. Mt 5, 48)"
+  }
+}

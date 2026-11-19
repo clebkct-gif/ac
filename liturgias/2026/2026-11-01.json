@@ -1,0 +1,46 @@
+{
+  "data": "01/11/2026",
+  "liturgia": "Todos os Santos, Solenidade",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, que nos permitis celebrar os méritos de todos os vossos santos numa única festa, concedei-nos, por intercessores tão numerosos, a desejada abundância da vossa misericórdia. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, possam agradar-vos as oferendas que apresentamos em honra de todos os santos.Certos de que eles já alcançaram a imortalidade, experimentemos sua solicitude pela nossa salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, nós vos adoramos e admiramos em todos os santos, porque só vós sois o Santo, e imploramos a vossa graça para que, santificados na plenitude do vosso amor, passemos desta mesa de peregrinos ao banquete da pátria celeste. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ap 7, 2-4. 9-14",
+        "titulo": "Leitura do Livro do Apocalipse de São João",
+        "texto": "Eu, João, 2vi um outro anjo, que subia do lado onde nasce o sol. Ele trazia a marca do Deus vivo e gritava, em alta voz, aos quatro anjos que tinham recebido o poder de danificar a terra e o mar, dizendo-lhes: 3’Não façais mal à terra, nem ao mar, nem às árvores, até que tenhamos marcado na fronte os servos do nosso Deus’. 4Ouvi então o número dos que tinham sido marcados: eram cento e quarenta e quatro mil, de todas as tribos dos filhos de Israel. 9Depois disso, vi uma multidão imensa de gente de todas as nações, tribos, povos e línguas, e que ninguém podia contar. Estavam de pé diante do trono e do Cordeiro; trajavam vestes brancas e traziam palmas na mão. 10Todos proclamavam com voz forte: “A salvação pertence ao nosso Deus, que está sentado no trono, e ao Cordeiro”. 11Todos os anjos estavam de pé, em volta do trono e dos Anciãos, e dos quatro Seres vivos, e prostravam-se, com o rosto por terra, diante do trono. E adoravam a Deus, dizendo: 12“Amém. O louvor, a glória e a sabedoria, a ação de graças, a honra, o poder e a força pertencem ao nosso Deus para sempre. Amém”. 13E um dos Anciãos falou comigo e perguntou: “Quem são esses vestidos com roupas brancas? De onde vieram?” 14Eu respondi: “Tu é que sabes, meu senhor”. E então ele me disse: “Esses são os que vieram da grande tribulação. Lavaram e alvejaram as suas roupas no sangue do Cordeiro”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 23(24)",
+        "refrao": "É assim a geração dos que procuram o Senhor!",
+        "texto": "— Ao Senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam; porque ele a tornou firme sobre os mares, e sobre as águas a mantém inabalável. \n— “Quem subirá até o monte do Senhor, quem ficará em sua santa habitação?” “Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime. \n— Sobre este desce a bênção do Senhor e a recompensa de seu Deus e Salvador”. “É assim a geração dos que o procuram, e do Deus de Israel buscam a face”."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "1Jo 3, 1-3",
+        "titulo": "Leitura da Primeira Carta de São João",
+        "texto": "Caríssimos: 1Vede que grande presente de amor o Pai nos deu: de sermos chamados filhos de Deus! E nós o somos! Se o mundo não nos conhece, é porque não conheceu o Pai. 2Caríssimos, desde já somos filhos de Deus, mas nem sequer se manifestou o que seremos! Sabemos que, quando Jesus se manifestar, seremos semelhantes a ele, porque o veremos tal como ele é. 3Todo o que espera nele, purifica-se a si mesmo, como também ele é puro."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 5, 1-12a",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 1vendo Jesus as multidões, subiu ao monte e sentou-se. Os discípulos aproximaram-se, 2e Jesus começou a ensiná-los:\n3’Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus.\n4Bem-aventurados os aflitos, porque serão consolados.\n5Bem-aventurados os mansos, porque possuirão a terra.\n6Bem-aventurados os que têm fome e sede de justiça, porque serão saciados.\n7Bem-aventurados os misericordiosos, porque alcançarão misericórdia.\n8Bem-aventurados os puros de coração, porque verão a Deus.\n9Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus.\n10Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus.\n11Bem-aventurados sois vós, quando vos injuriarem e perseguirem, e, mentindo, disserem todo tipo de mal contra vós, por causa de mim. 12aAlegrai-vos e exultai, porque será grande a vossa recompensa nos céus’."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Alegremo-nos todos no Senhor, celebrando este dia festivo em honra de todos os santos. Nesta solenidade os Anjos se alegram e conosco dão glória ao Filho de Deus.",
+    "comunhao": "Bem-aventurados os puros no coração, porque verão a Deus. Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus.Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o reino dos céus. (Cf. Mt 5, 8-10)"
+  }
+}

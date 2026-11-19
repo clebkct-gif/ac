@@ -1,0 +1,40 @@
+{
+  "data": "28/07/2026",
+  "liturgia": "3ª feira da 17ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, amparo dos que em vós esperam, sem vós nada tem valor, nada é santo. Multiplicai em nós a vossa misericórdia para que, conduzidos por vós usemos agora de tal modo os bens temporais que possamos aderir desde já aos bens eternos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, nós vos pedimos, os dons que recebemos de vossa generosidade e agora vos apresentamos, para que estes santos mistérios, pelo poder da vossa graça nos santifiquem na vida presente e nos conduzam à felicidade eterna. Por Cristo, nosso Senhor.",
+    "comunhao": "Recebemos, Senhor, o divino sacramento, memorial perpétuo da paixão do vosso Filho. Concedei, nós vos pedimos, que sirva para nossa salvação o que ele mesmo nos deixou em seu inefável amor. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 14, 17-22",
+        "titulo": "Leitura do Livro do Profeta Jeremias",
+        "texto": "17“Derramem lágrimas meus olhos, noite e dia, sem parar, porque um grande desastre feriu a cidade, a jovem filha de meu povo, um golpe terrível e violento. 18Se eu sair ao campo, vejo cadáveres abatidos à espada; se entrar na cidade, deparo com gente consumida de fome; até os profetas e sacerdotes andam à toa pelo país”. 19Acaso terás rejeitado Judá inteiramente, ou te desgostaste deveras de Sião? Por que, então, nos feriste tanto, que não há meio de nos curarmos? Esperávamos a paz, e não veio a felicidade; contávamos com o tempo de cura, e não nos restou senão consternação. 20Reconhecemos, Senhor, a nossa impiedade, os pecados de nossos pais, porque todos pecamos contra ti. 21Mas, por teu nome, não nos faças sofrer a vergonha suprema de levarmos a desonra ao trono de tua glória; lembra-te, não quebres a tua aliança conosco. 22Acaso existem entre os ídolos dos povos os que podem fazer chover? Acaso podem os céus mandar-nos as águas? Não és tu o Senhor, nosso Deus, que estamos esperando? Tu realizas todas essas coisas."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 78",
+        "refrao": "Por vosso nome e vossa glória, libertai-nos!",
+        "texto": "— Não lembreis as nossas culpas do passado, mas venha logo sobre nós vossa bondade, pois estamos humilhados em extremo.\n— Ajudai-nos, nosso Deus e Salvador! Por vosso nome e vossa glória, libertai-nos! Por vosso nome, perdoai nossos pecados!\n— Até vós chegue o gemido dos cativos: libertai com vosso braço poderoso os que foram condenados a morrer! Quanto a nós, vosso rebanho e vosso povo, celebraremos vosso nome para sempre, de geração em geração vos louvaremos."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 13, 36-43",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 36Jesus deixou as multidões e foi para casa. Seus discípulos aproximaram-se dele e disseram: “Explica-nos a parábola do joio!” 37Jesus respondeu: “Aquele que semeia a boa semente é o Filho do Homem. 38O campo é o mundo. A boa semente são os que pertencem ao Reino. O joio são os que pertencem ao Maligno. 39O inimigo que semeou o joio é o diabo. A colheita é o fim dos tempos. Os ceifadores são os anjos. 40Como o joio é recolhido e queimado ao fogo, assim também acontecerá no fim dos tempos: 41o Filho do Homem enviará os seus anjos e eles retirarão do seu Reino todos os que fazem outros pecar e os que praticam o mal; 42e depois os lançarão na fornalha de fogo. Ali haverá choro e ranger de dentes. 43Então os justos brilharão como o sol no Reino de seu Pai. Quem tem ouvidos, ouça”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Deus habita em seu santuário, reúne os fiéis em sua casa; ele mesmo dá vigor e força a seu povo. (Cf. Sl 67, 6-7. 36)",
+    "comunhao": "Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores! (Cf. Sl 102, 2)"
+  }
+}

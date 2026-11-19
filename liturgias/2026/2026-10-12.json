@@ -1,0 +1,46 @@
+{
+  "data": "12/10/2026",
+  "liturgia": "Bem-Aventurada Virgem Maria da Conceição Aparecida, Padroeira do Brasil, Solenidade",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus todo-poderoso, ao rendermos culto à Imaculada Conceição de Maria, Mãe de Deus e Senhora nossa, concedei que o povo brasileiro, vivendo na paz e na justiça, possa chegar um dia à pátria definitiva. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, ó Deus, as preces e oferendas apresentadas na festa da Virgem Maria, Mãe de Jesus Cristo, vosso Filho; concedei que elas vos sejam agradáveis e nos tragam a graça da vossa proteção. Por Cristo, nosso Senhor.",
+    "comunhao": "Alimentados com o Corpo e o Sangue do vosso Filho, nós vos suplicamos, ó Deus: dai ao vosso povo, sob o olhar de Nossa Senhora da Conceição Aparecida, empenhar-se nas tarefas de cada dia para a propagação do vosso reino. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Est 5, 1b-2; 7, 2b-3",
+        "titulo": "Leitura do Livro de Ester",
+        "texto": "Ester revestiu-se com vestes de rainha e foi colocar-se no vestíbulo interno do palácio real, frente à residência do rei. O rei estava sentado no trono real, na sala do trono, frente à entrada. 2Ao ver a rainha Ester parada no vestíbulo, olhou para ela com agrado e estendeu-lhe o cetro de ouro que tinha na mão, e Ester aproximou-se para tocar a ponta do cetro. 7, 2bEntão, o rei lhe disse: “O que me pedes, Ester; o que queres que eu faça? Ainda que me pedisses a metade do meu reino, ela te seria concedida”. 3Ester respondeu-lhe: “Se ganhei as tuas boas graças, ó rei, e se for de teu agrado, concede-me a vida — eis o meu pedido! — e a vida do meu povo — eis o meu desejo!”"
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 44",
+        "refrao": "Escutai, minha filha, olhai, ouvi isto: que o Rei se encante com vossa beleza!",
+        "texto": "— Escutai, minha filha, olhai, ouvi isto: “Esquecei vosso povo e a casa paterna! Que o Rei se encante com vossa beleza! Prestai-lhe homenagem: é vosso Senhor! \n— O povo de Tiro vos traz seus presentes, os grandes do povo vos pedem favores. Majestosa, a princesa real vem chegando, vestida de ricos brocados de ouro. \n— Em vestes vistosas ao Rei se dirige, e as virgens amigas lhe formam cortejo; entre cantos de festa e com grande alegria, ingressam, então, no palácio real”"
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Ap 12, 1. 5. 13a. 15-16a",
+        "titulo": "Leitura do Livro do Apocalipse de São João",
+        "texto": "Apareceu no céu um grande sinal: uma mulher vestida do sol, tendo a lua debaixo dos pés e sobre a cabeça uma coroa de doze estrelas. 5E ela deu à luz um filho homem, que veio para governar todas as nações com cetro de ferro. Mas o filho foi levado para junto de Deus e do seu trono. 13aQuando viu que tinha sido expulso para a terra, o dragão começou a perseguir a mulher que tinha dado à luz o menino. 15A serpente, então, vomitou como um rio de água atrás da mulher, a fim de a submergir. 16aA terra, porém, veio em socorro da mulher."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 2, 1-11",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, 1houve um casamento em Caná da Galileia. A mãe de Jesus estava presente. 2Também Jesus e seus discípulos tinham sido convidados para o casamento. 3Como o vinho veio a faltar, a mãe de Jesus lhe disse: “Eles não têm mais vinho”.4Jesus respondeu-lhe: “Mulher, por que dizes isto a mim? Minha hora ainda não chegou”. 5Sua mãe disse aos que estavam servindo: “Fazei o que ele vos disser”. 6Estavam seis talhas de pedra colocadas aí para a purificação que os judeus costumam fazer. Em cada uma delas cabiam mais ou menos cem litros.7Jesus disse aos que estavam servindo: “Enchei as talhas de água”. Encheram-nas até a boca. 8Jesus disse: “Agora tirai e levai ao mestre-sala”. E eles levaram. 9O mestre-sala experimentou a água, que se tinha transformado em vinho. Ele não sabia de onde vinha, mas os que estavam servindo sabiam, pois eram eles que tinham tirado a água.10O mestre-sala chamou então o noivo e lhe disse: “Todo mundo serve primeiro o vinho melhor e, quando os convidados já estão embriagados, serve o vinho menos bom. Mas tu guardaste o vinho melhor até agora!” 11Este foi o início dos sinais de Jesus. Ele o realizou em Caná da Galileia e manifestou a sua glória, e seus discípulos creram nele."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Exulto de alegria no Senhor e minha alma regozija-se em meu Deus; ele me vestiu com as vestes da salvação, envolveu-me com o manto da justiça e adornou-me como uma noiva com suas joias. (Is 61, 10)",
+    "comunhao": "Seus filhos se erguem, para proclamá-la Bem-aventurada.Ela se levanta antes da aurora para dar o alimento a cada um. (Cf. Pr 31, 28. 15)"
+  }
+}

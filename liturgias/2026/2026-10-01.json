@@ -1,0 +1,40 @@
+{
+  "data": "01/10/2026",
+  "liturgia": "Santa Teresa do Menino Jesus, virgem e doutora da Igreja, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que preparais o vosso reino para os pequenos e humildes, fazei-nos seguir confiantes o caminho de Santa Teresinha do Menino Jesus, para que, por sua intercessão, nos seja revelada a vossa glória eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, proclamando-vos admirável, em Santa Teresinha do Menino Jesus, humildemente nós vos pedimos: como vos foram agradáveis os méritos da sua vida, assim também vos agrade o serviço do nosso culto. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, o sacramento que recebemos acenda em nós a força daquele amor que levou Santa Teresinha do Menino Jesus a se consagrar inteiramente a vós e a implorar vossa misericórdia para todos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jó 19,21-27",
+        "titulo": "Leitura do livro de Jó",
+        "texto": "Disse Jó: 21“Piedade, piedade de mim, meus amigos, pois a mão de Deus me feriu! 22Por que me perseguis como Deus e não vos cansais de me torturar? 23Gostaria que minhas palavras fossem escritas e gravadas numa inscrição 24com ponteiro de ferro e com chumbo, cravadas na rocha para sempre! 25Eu sei que o meu redentor está vivo e que, por último, se levantará sobre o pó; 26e depois que tiverem destruído esta minha pele, na minha carne, verei a Deus. 27Eu mesmo o verei, meus olhos o contemplarão, e não os olhos de outros. Dentro de mim consomem-se os meus rins”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 26(27)",
+        "refrao": "Sei que a bondade do Senhor eu hei de ver na terra dos viventes.",
+        "texto": "– Ó Senhor, ouvi a voz do meu apelo, atendei por compaixão! Meu coração fala convosco confiante e os meus olhos vos procuram.\n– Senhor, é vossa face que eu procuro; não me escondais a vossa face! Não afasteis em vossa ira o vosso servo, sois vós o meu auxílio! Não me esqueçais nem me deixeis abandonado, meu Deus e salvador!\n– Sei que a bondade do Senhor eu hei de ver na terra dos viventes. Espera no Senhor e tem coragem, espera no Senhor!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 10,1-12",
+        "titulo": "Proclamação do evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 1o Senhor escolheu outros setenta e dois discípulos e os enviou dois a dois, na sua frente, a toda cidade e lugar aonde ele próprio devia ir. 2E dizia-lhes: “A messe é grande, mas os trabalhadores são poucos. Por isso, pedi ao dono da messe que mande trabalhadores para a colheita. 3Eis que vos envio como cordeiros para o meio de lobos. 4Não leveis bolsa, nem sacola, nem sandálias e não cumprimenteis ninguém pelo caminho! 5Em qualquer casa em que entrardes, dizei primeiro: ‘A paz esteja nesta casa!’ 6Se ali morar um amigo da paz, a vossa paz repousará sobre ele; se não, ela voltará para vós. 7Permanecei naquela mesma casa, comei e bebei do que tiverem, porque o trabalhador merece o seu salário. Não passeis de casa em casa.\n8Quando entrardes numa cidade e fordes bem recebidos, comei do que vos servirem, 9curai os doentes que nela houver e dizei ao povo: ‘O reino de Deus está próximo de vós’. 10Mas, quando entrardes numa cidade e não fordes bem recebidos, saindo pelas ruas, dizei: 11‘Até a poeira de vossa cidade, que se apegou aos nossos pés, sacudimos contra vós. No entanto, sabei que o reino de Deus está próximo!’ 12Eu vos digo que, naquele dia, Sodoma será tratada com menos rigor do que essa cidade”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor cercou-a de cuidados e a instruiu; guardou-a como a pupila dos seus olhos. Como águia estendeu as suas asas, tomou-a e levou-a nos seus ombros. Somente o Senhor foi o seu guia. (Cf. Dt 32,10-12)",
+    "comunhao": "Se não vos converterdes, e não vos tornardes como crianças, não entrareis no reino dos céus, diz o Senhor. (Cf. Mt 18,3)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "24/09/2026",
+  "liturgia": "5ª feira da 25ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, que resumistes toda a sagrada lei no amor a vós e ao próximo, concedei-nos que, observando os vossos mandamentos, mereçamos chegar à vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei benigno, Senhor, nós vos pedimos, as oferendas do vosso povo, para que alcancemos pelos celestes sacramentos o que professamos filialmente pela fé. Por Cristo, nosso Senhor.",
+    "comunhao": "Sustentai, Senhor de bondade, com vosso constante auxílio, os que reconfortais com os vossos sacramentos, para podermos colher os frutos da redenção na liturgia e na vida. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ecl 1,2-11",
+        "titulo": "Leitura do Livro do Eclesiastes",
+        "texto": "2“Vaidade das vaidades, diz o Eclesiastes, vaidade das vaidades! Tudo é vaidade.” 3Que proveito tira o homem de todo trabalho com o qual se afadiga debaixo do sol? 4Uma geração passa, outra lhe sucede, enquanto a terra permanece sempre a mesma. 5O sol se levanta, o sol se deita, apressando-se para voltar ao seu lugar, donde novamente torna a levantar-se. 6Dirigindo-se para o sul e voltando para o norte, ora para cá, ora para lá, vai soprando o vento, para retomar novamente o seu curso. 7Todos os rios correm para o mar e, contudo, o mar não transborda; voltam ao lugar de onde saíram para tornarem a correr. 8Tudo é penoso, difícil para o homem explicar. A vista não se cansa de ver nem o ouvido se farta de ouvir. 9O que foi, será; o que aconteceu, acontecerá: 10não há nada de novo debaixo do sol. Uma coisa da qual se diz: “Eis aqui algo de novo”, também esta já existiu nos séculos que nos precederam. 11Não há memória do que aconteceu no passado nem também haverá lembrança do que acontecer, entre aqueles que viverão depois."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 89(90)",
+        "refrao": "Ó Senhor, vós fostes sempre um refúgio para nós.",
+        "texto": "– Vós fazeis voltar ao pó todo mortal quando dizeis: “Voltai ao pó, filhos de Adão!” Pois mil anos para vós são como ontem, qual vigília de uma noite que passou.\n– Eles passam como o sono da manhã, são iguais à erva verde pelos campos: de manhã ela floresce vicejante, mas à tarde é cortada e logo seca.\n– Ensinai-nos a contar os nossos dias e dai ao nosso coração sabedoria! Senhor, voltai-vos! Até quando tardareis? Tende piedade e compaixão de vossos servos!\n– Saciai-nos de manhã com vosso amor, e exultaremos de alegria todo o dia! Que a bondade do Senhor e nosso Deus repouse sobre nós e nos conduza! Tornai fecundo, ó Senhor, nosso trabalho."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 9,7-9",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 7o tetrarca Herodes ouviu falar de tudo o que estava acontecendo e ficou perplexo, porque alguns diziam que João Batista tinha ressuscitado dos mortos. 8Outros diziam que Elias tinha aparecido; outros, ainda, que um dos antigos profetas tinha ressuscitado. 9Então Herodes disse: “Eu mandei degolar João. Quem é esse homem sobre quem ouço falar essas coisas?” E procurava ver Jesus."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "A salvação do povo sou eu, diz o Senhor: de qualquer tribulação em que clamarem por mim, eu os ouvirei e serei seu Deus para sempre.",
+    "comunhao": "Os vossos mandamentos vós nos destes, para serem fielmente observados. Que seja bem firme a minha vida em cumprir vossa vontade e vossa lei! (Cf. Sl 118, 4-5)"
+  }
+}

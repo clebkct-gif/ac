@@ -1,0 +1,40 @@
+{
+  "data": "08/06/2026",
+  "liturgia": "2ª feira da 10ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, fonte de todo o bem, atendei ao nosso apelo e fazei-nos, por vossa inspiração, pensar o que é certo e realizá-lo com vossa ajuda. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Olhai, Senhor, com bondade nossa disposição em vos servir, para que nossa oferenda vos seja agradável e nos faça crescer no amor. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor de bondade, a vossa força salvadora nos liberte das más inclinações e nos conduza pelo caminho do bem. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Rs 17, 1-6",
+        "titulo": "Leitura do Primeiro Livro dos Reis",
+        "texto": "Naqueles dias, 1o profeta Elias, tesbita de Tesbi de Galaad, disse a Acab: “Pela vida do Senhor, o Deus de Israel, a quem sirvo, não haverá nestes anos nem orvalho nem chuva, senão quando eu disser!”,2E a palavra do Senhor foi dirigida a Elias nestes termos: 3“Parte daqui e toma a direção do oriente. Vai esconder-te junto à torrente de Carit, que está defronte ao Jordão. 4Lá beberás da torrente. E eu ordenei aos corvos que te deem alimento”. 5Elias partiu e fez como o Senhor lhe tinha ordenado, e foi morar junto à torrente de Carit, que está defronte do Jordão. 6Os corvos traziam-lhe pão e carne, tanto de manhã como de tarde, e ele bebia da torrente."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 120",
+        "refrao": "Do Senhor é que me vem o meu socorro, do Senhor que fez o céu e fez a terra!",
+        "texto": "— Eu levanto os meus olhos para os montes: de onde pode vir o meu socorro? “Do Senhor é que me vem o meu socorro, do Senhor que fez o céu e fez a terra!” \n— Ele não deixa tropeçarem os meus pés, e não dorme quem te guarda e te vigia. Oh! não! ele não dorme nem cochila, aquele que é o guarda de Israel! \n— O Senhor é o teu guarda, o teu vigia, é uma sombra protetora à tua direita. Não vai ferir-te o sol durante o dia, nem a lua através de toda a noite. \n— O Senhor te guardará de todo o mal, ele mesmo vai cuidar da tua vida! Deus te guarda na partida e na chegada. Ele te guarda desde agora e para sempre"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 5, 1-12",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 1vendo Jesus as multidões, subiu ao monte e sentou-se. Os discípulos aproximaram-se, 2e Jesus começou a ensiná-los:3“Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus. 4Bem-aventurados os aflitos, porque serão consolados.5Bem-aventurados os mansos, porque possuirão a terra. 6Bem-aventurados os que têm fome e sede de justiça, porque serão saciados.7Bem-aventurados os misericordiosos, porque alcançarão misericórdia. 8Bem-aventurados os puros de coração, porque verão a Deus.9Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus. 10Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus. 11Bem-aventurados sois vós, quando vos injuriarem e perseguirem, e, mentindo, disserem todo tipo de mal contra vós, por causa de mim. 12Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus. Do mesmo modo perseguiram os profetas que vieram antes de vós."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor é minha luz e salvação, de quem eu terei medo? O Senhor é a proteção da minha vida; perante quem eu tremerei? São eles, inimigos e opressores, que tropeçam e sucumbem. (Cf. Sl 26.1-2)",
+    "comunhao": "Ó meu Deus, sois o rochedo que me abriga, minha força e poderosa salvação, sois meu escudo e proteção, em vós espero! (Ct Sl 17.3)"
+  }
+}

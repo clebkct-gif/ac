@@ -1,0 +1,46 @@
+{
+  "data": "05/07/2026",
+  "liturgia": "14º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, pela humilhação do vosso Filho reerguestes o mundo decaído, dai-nos uma santa alegria, para que, livres da servidão do pecado, cheguemos à felicidade eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Fazei, Senhor, que este sacrifício celebrado em honra do vosso nome, nos purifique e nos leve, cada vez mais, a viver a vida do vosso reino. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor, que, enriquecidos por essa tão grande dádiva, possamos colher os frutos da salvação sem jamais cessar vosso louvor. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Zc 9,9-10",
+        "titulo": "Leitura da Profecia de Zacarias",
+        "texto": "Assim diz o Senhor: 9“Exulta, cidade de Sião! Rejubila, cidade de Jerusalém. Eis que vem teu rei ao teu encontro; ele é justo, ele salva; é humilde e vem montado num jumento, um potro, cria de jumenta. 10Eliminará os carros de Efraim, os cavalos de Jerusalém; ele quebrará o arco de guerreiro, anunciará a paz às nações. Seu domínio se estenderá de um mar a outro mar e desde o rio até os confins da terra”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 144(145)",
+        "refrao": "Bendirei, eternamente, vosso nome, ó Senhor!",
+        "texto": "– Ó meu Deus, quero exaltar-vos, ó meu rei, e bendizer o vosso nome pelos séculos. Todos os dias haverei de bendizer-vos, hei de louvar o vosso nome para sempre.\n– Misericórdia e piedade é o Senhor, ele é amor, é paciência, é compaixão. O Senhor é muito bom para com todos, sua ternura abraça toda criatura.\n– Que vossas obras, ó Senhor, vos glorifiquem, e os vossos santos com louvores vos bendigam! Narrem a glória e o esplendor do vosso reino e saibam proclamar vosso poder!\n– O Senhor é amor fiel em sua palavra, é santidade em toda obra que ele faz. Ele sustenta todo aquele que vacila e levanta todo aquele que tombou."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Rm 8,9.11-13",
+        "titulo": "Leitura da carta de São Paulo aos Romanos",
+        "texto": "Irmãos, 9vós não viveis segundo a carne, mas segundo o espírito, se realmente o Espírito de Deus mora em vós. Se alguém não tem o Espírito de Cristo, não pertence a Cristo. 11E, se o Espírito daquele que ressuscitou Jesus dentre os mortos mora em vós, então aquele que ressuscitou Jesus Cristo dentre os mortos vivificará também vossos corpos mortais por meio do seu Espírito, que mora em vós. 12Portanto, irmãos, temos uma dívida, mas não para com a carne, para vivermos segundo a carne. 13Pois, se viverdes segundo a carne, morrereis, mas se, pelo espírito, matardes o procedimento carnal, então vivereis."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 11,25-30",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "25Naquele tempo, Jesus pôs-se a dizer: “Eu te louvo, ó Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e entendidos e as revelaste aos pequeninos. 26Sim, Pai, porque assim foi do teu agrado. 27Tudo me foi entregue por meu Pai, e ninguém conhece o Filho, senão o Pai, e ninguém conhece o Pai, senão o Filho e aquele a quem o Filho o quiser revelar. 28Vinde a mim todos vós que estais cansados e fatigados sob o peso dos vossos fardos, e eu vos darei descanso. 29Tomai sobre vós o meu jugo e aprendei de mim, porque sou manso e humilde de coração, e vós encontrareis descanso. 30Pois o meu jugo é suave e o meu fardo é leve”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Recebemos, Senhor, vossa misericórdia no  meio do vosso templo. Como vosso nome, ó Deus, assim vosso louvor ressoa até os confins da terra; vossa destra está cheia de justiça. (Cf Sl 47,10-11)",
+    "comunhao": "Vinde a mim todos vós que  estais cansados e fatigados, e eu vos darei descanso, diz o Senhor. (Cf. Mt 11,28)"
+  }
+}

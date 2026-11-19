@@ -1,0 +1,46 @@
+{
+  "data": "06/12/2026",
+  "liturgia": "2º Domingo do Advento",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Ó Deus todo-poderoso e cheio de misericórdia, que nenhuma atividade terrena nos impeça de correr ao encontro do vosso Filho, mas, instruídos pela celeste sabedoria, participemos da vida daquele que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, com bondade as nossas humildes preces e oferendas; e como não podemos invocar os nossos méritos, socorrei-nos com o remédio da vossa misericórdia. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos suplicamos, Senhor, que saciados com o alimento espiritual, pela participação nestes santos mistérios, nos ensineis a apreciar com sabedoria as coisas terrenas e colocar nossas esperanças nos bens eternos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 40,1-5.9-11",
+        "titulo": "Leitura do livro do profeta Isaías",
+        "texto": "″Consolai o meu povo, consolai-o – diz o vosso Deus. 2Falai ao coração de Jerusalém e dizei em alta voz que sua servidão acabou e a expiação de suas culpas foi cumprida; ela recebeu das mãos do Senhor o dobro por todos os seus pecados”. 3Grita uma voz: “Preparai no deserto o caminho do Senhor, aplainai na solidão a estrada de nosso Deus. 4Nivelem-se todos os vales, rebaixem-se todos os montes e colinas; endireite-se o que é torto e alisem-se as asperezas: 5a glória do Senhor então se manifestará, e todos os homens verão juntamente o que a boca do Senhor falou. 9Sobe a um alto monte, tu, que trazes a boa-nova a Sião; levanta com força a tua voz, tu, que trazes a boa-nova a Jerusalém, ergue a voz, não temas; dize às cidades de Judá: ‘Eis o vosso Deus, 10eis que o Senhor Deus vem com poder, seu braço tudo domina; eis, com ele, sua conquista, eis à sua frente a vitória. 11Como um pastor, ele apascenta o rebanho, reúne, com a força dos braços, os cordeiros e carrega-os ao colo; ele mesmo tange as ovelhas-mães””."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 84(85)",
+        "refrao": "Mostrai-nos, ó Senhor, vossa bondade e a vossa salvação nos concedei!",
+        "texto": "– Quero ouvir o que o Senhor irá falar: é a paz que ele vai anunciar; a paz para o seu povo e seus amigos, para os que voltam ao Senhor seu coração. Está perto a salvação dos que o temem, e a glória habitará em nossa terra.\n– A verdade e o amor se encontrarão, a justiça e a paz se abraçarão; da terra brotará a fidelidade, e a justiça olhará dos altos céus.\n– O Senhor nos dará tudo o que é bom, e a nossa terra nos dará suas colheitas; a justiça andará na sua frente e a salvação há de seguir os passos seus."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "2Pd 3,8-14",
+        "titulo": "Leitura da segunda carta de São Pedro",
+        "texto": "Uma coisa vós não podeis desconhecer, caríssimos: para o Senhor, um dia é como mil anos e mil anos como um dia. 9O Senhor não tarda a cumprir sua promessa, como pensam alguns, achando que demora. Ele está usando de paciência para convosco, pois não deseja que alguém se perca. Ao contrário, quer que todos venham a converter-se. 10O dia do Senhor chegará como um ladrão, e então os céus acabarão com barulho espantoso; os elementos, devorados pelas chamas, se dissolverão, e a terra será consumida com tudo o que nela se fez. 11Se desse modo tudo se vai desintegrar, qual não deve ser o vosso empenho numa vida santa e piedosa, 12enquanto esperais com anseio a vinda do dia de Deus, quando os céus em chama se vão derreter e os elementos, consumidos pelo fogo, se fundirão? 13O que nós esperamos, de acordo com a sua promessa, são novos céus e uma nova terra, onde habitará a justiça. 14Caríssimos, vivendo nessa esperança, esforçai-vos para que ele vos encontre numa vida pura e sem mancha e em paz."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 1,1-8",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "1Início do Evangelho de Jesus Cristo, Filho de Deus. 2Está escrito no livro do profeta Isaías: “Eis que envio meu mensageiro à tua frente, para preparar o teu caminho. 3Esta é a voz daquele que grita no deserto: ‘Preparai o caminho do Senhor, endireitai suas estradas!'” 4Foi assim que João Batista apareceu no deserto, pregando um batismo de conversão para o perdão dos pecados. 5Toda a região da Judeia e todos os moradores de Jerusalém iam ao seu encontro. Confessavam os seus pecados e João os batizava no rio Jordão. 6João se vestia com uma pele de camelo e comia gafanhotos e mel do campo. 7E pregava, dizendo: “Depois de mim virá alguém mais forte do que eu. Eu nem sou digno de me abaixar para desamarrar suas sandálias. 8Eu vos batizei com água, mas ele vos batizará com o Espírito Santo”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Povo de Sião, o Senhor vem para salvar as nações; e, na alegria do vosso coração, soará majestosa a sua voz. (Cf. Is 30,19.30)",
+    "comunhao": "Levanta-te, Jerusalém, põe-te no alto e vê: vem a ti a alegria do teu Deus. (Cf. Br 5,5; 4,36)"
+  }
+}

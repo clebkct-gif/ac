@@ -1,0 +1,40 @@
+{
+  "data": "28/05/2026",
+  "liturgia": "5ª feira da 8ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Fazei, Senhor, que os acontecimentos deste mundo decorram na paz que desejais, e vossa Igreja voz possa servir alegre e tranquila. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, que nos dais o que oferecemos, e aceitais nossa oferta como um gesto de amor, fazei que os vossos dons, nossa única riqueza, frutifiquem para nós em prêmio eterno. Por Cristo, nosso Senhor.",
+    "comunhao": "Saciados pelo dom que nos salva, imploramos, Senhor, a vossa misericórdia, e pedimos que, pelo mesmo sacramento no qual nos alimentais neste mundo, nos leveis benigno a participar da vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Pd 2,2-5.9-12",
+        "titulo": "Leitura da Primeira Carta de São Pedro",
+        "texto": "Caríssimos, 2como criancinhas recém-nascidas, desejai o leite legítimo e puro, que vos vai fazer crescer na salvação. 3Pois já provastes que o Senhor é bom. 4Aproximai-vos do Senhor, pedra viva, rejeitada pelos homens, mas escolhida e honrosa aos olhos de Deus. 5Do mesmo modo, também vós, como pedras vivas, formai um edifício espiritual, um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais, agradáveis a Deus, por Jesus Cristo. 9o sacerdócio do Reino, a nação santa, o povo que ele conquistou para proclamar as obras admiráveis daquele que vos chamou das trevas para a sua luz maravilhosa. 10Vós sois aqueles que \"antes não eram povo, agora porém são povo de Deus; os que não eram objeto de misericórdia, agora porém alcançaram miserícórdia\". 11Amados, eu vos exorto como a estrangeiros emigrantes: afastai-vos das humanas paixões, que fazem guerra contra vós mesmos. 12Tende bom procedimento no meio dos gentios. Deste modo, mesmo caluniando-vos, como se fósseis malfeitores, eles poderão observar a vossa boa atuação e glorificar a Deus, no dia de sua visitação."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 99(100)",
+        "refrao": "Com canto apresentai-vos diante do Senhor!",
+        "texto": "– Aclamai o Senhor, ó terra inteira, servi ao Senhor com alegria, ide a ele, cantando jubilosos!\n– Sabei que o Senhor, só ele, é Deus, ele mesmo nos fez, e somos seus, nós somos seu povo e seu rebanho.\n– Entrai por suas portas dando graças, e em seus átrios com hinos de louvor; dai-lhe graças, seu nome bendizei!\n– Sim, é bom o Senhor e nosso Deus, sua bondade perdura para sempre, seu amor é fiel eternamente!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mc 10, 46-52",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Marcos",
+        "texto": "Naquele tempo, 46Jesus saiu de Jericó junto com seus discípulos e uma grande multidão. O filho de Timeu, Bartimeu, cego e mendigo, estava sentado à beira do caminho. 47Quando ouviu dizer que Jesus, o Nazareno, estava passando, começou a gritar: “Jesus, filho de Davi, tem piedade de mim!” 48Muitos o repreendiam para que se calasse. Mas ele gritava mais ainda: “Filho de Davi, tem piedade de mim!” 49Então Jesus parou e disse: “Chamai-o”. Eles o chamaram e disseram: “Coragem, levanta-te, Jesus te chama!” 50O cego jogou o manto, deu um pulo e foi até Jesus. 51Então Jesus lhe perguntou: “O que queres que eu te faça?” O cego respondeu: “Mestre, que eu veja!” 52Jesus disse: “Vai, a tua fé te curou”. No mesmo instante, ele recuperou a vista."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor tornou-se meu protetor e me conduziu para um lugar espaçoso; ele me salvou, porque me ama. (Cf. Sl 17,19-20)",
+    "comunhao": "Cantarei ao Senhor pelo bem que ele me fez, entoarei salmos ao nome do Senhor, o Altíssimo (Cf. Sl 12, 6)"
+  }
+}

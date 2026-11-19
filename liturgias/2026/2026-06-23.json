@@ -1,0 +1,40 @@
+{
+  "data": "23/06/2026",
+  "liturgia": "3ª feira da 12ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Concedei-nos, Senhor, a graça de sempre temer e amar vosso santo nome, pois nunca cessais de conduzir os que firmais solidamente no vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, nós vos pedimos, este sacrifício de louvor e de reconciliação e fazei que, por ele purificados, vos ofereçamos o afeto de um coração que vos agrade. Por Cristo, nosso Senhor.",
+    "comunhao": "Renovados pelo alimento do precioso Corpo e Sangue do vosso Filho, imploramos vossa misericórdia, Senhor: dai-nos receber um dia, resgatados para sempre, a salvação que celebramos fielmente.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Rs 19, 9b-11. 14-21. 31-35a. 36",
+        "titulo": "Leitura do Segundo Livro dos Reis",
+        "texto": "Naqueles dias, 9bSenaquerib, rei da Assíria, enviou de novo mensageiros a Ezequias para dizer-lhe: 10Não te seduza o teu Deus, em quem confias, pensando: ʽJerusalém não será entregue nas mãos do rei dos assíriosʼ. 11Porque tu mesmo tens ouvido o que os reis da Assíria fizeram a todas as nações e como as devastaram. Só tu te vais salvar?”,14Ezequias tomou a carta da mão dos mensageiros e leu-a. Depois subiu ao templo do Senhor, estendeu a carta diante do Senhor 15e, na presença do Senhor, fez a seguinte oração: “Senhor, Deus de Israel, que estás sentado sobre os querubins! Tu és o único Deus de todos os reinos da terra. Tu fizeste o céu e a terra. 16Inclina o teu ouvido, Senhor, e ouve. Abre, Senhor, os teus olhos e vê. Ouve todas as palavras de Senaquerib, que mandou emissários para insultar o Deus vivo. 17É verdade, Senhor, que os reis da Assíria devastaram as nações e seus territórios; 18lançaram os seus deuses ao fogo, porque não eram deuses, mas obras das mãos dos homens, de madeira e pedra; por isso os puderam destruir. 19Mas agora, Senhor, nosso Deus, livra-nos de suas mãos, para que todos os reinos da terra saibam que só tu, Senhor, és Deus”.,20Então Isaías, filho de Amós, mandou dizer a Ezequias: “Assim fala o Senhor, Deus de Israel: Ouvi a prece que me dirigiste a respeito de Senaquerib, rei da Assíria. 21Eis o que o Senhor disse dele: ʽA virgem filha de Sion despreza-te e zomba de ti. A filha de Jerusalém meneia a cabeça nas tuas costas. 31Pois um resto sairá de Jerusalém, e sobreviventes, do monte Sião. Eis o que fará o zelo do Senhor todo-poderosoʼ.,32Por isso, assim diz o Senhor acerca do rei da Assíria: ʽEle não entrará nesta cidade, nem lançará nenhuma flecha contra ela, nem a assaltará com escudo, nem a cercará com trincheira alguma. 33Pelo caminho, por onde veio, há de voltar, e não entrará nesta cidade, diz o Senhor. 34Protegerei esta cidade e a salvarei em atenção a mim mesmo e ao meu servo Daviʼ”.,35aNaquela mesma noite, saiu o Anjo do Senhor e exterminou no acampamento assírio cento e oitenta e cinco mil homens. 36Senaquerib, rei da Assíria, levantou acampamento e partiu. Voltou para Nínive e aí permaneceu."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 47",
+        "refrao": "O Senhor estabelece sua cidade para sempre.",
+        "texto": "— Grande é o Senhor e muito digno de louvores na cidade onde ele mora; seu Monte santo, esta colina encantadora, é a alegria do universo.\n— Monte Sião, no extremo norte situado, és a mansão do grande Rei! Deus revelou-se em suas fortes cidadelas um refúgio poderoso.\n— Recordamos, Senhor Deus, vossa bondade em meio a vosso templo; com vosso nome vai também vosso louvor aos confins de toda a terra"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 7, 6. 12-14",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 6“Não deis aos cães as coisas santas, nem atireis vossas pérolas aos porcos; para que eles não as pisem com o pés e, voltando-se contra vós, vos despedacem. 12Tudo quanto quereis que os outros vos façam, fazei também a eles. Nisto consiste a Lei e os Profetas. 13Entrai pela porta estreita, porque larga é a porta e espaçoso é o caminho que leva à perdição, e muitos são os que entram por ele! 14Como é estreita a porta e apertado o caminho que leva à vida! E são poucos os que o encontram”!"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor é a força do seu povo, é a fortaleza de salvação do seu Ungido. Salvai vosso povo, Senhor, abençoai vossa herança e governai-a pelos séculos. (Cf. Sl 27,8-9)",
+    "comunhao": "Os olhos de todos esperam em vós, Senhor, e vós lhes dais alimento no tempo oportuno. Eu sou o bom Pastor. Eu dou minha vida pelas ovelhas, diz o Senhor. (Cf. Sl 144,15 Ou: Jo 10,11.15)"
+  }
+}

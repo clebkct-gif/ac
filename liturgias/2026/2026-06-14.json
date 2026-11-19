@@ -1,0 +1,46 @@
+{
+  "data": "14/06/2026",
+  "liturgia": "11º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, força daqueles que em vós esperam, sede favorável ao nosso apelo e, como nada podemos em nossa fraqueza, dai-nos sempre o socorro da vossa graça, para que possamos querer e agir conforme a vossa vontade, seguindo os vossos mandamentos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, com estes dons alimentais nossa vida e a renovais pelo sacramento. Concedei, nós vos pedimos, que nunca falte este auxílio ao nosso corpo e à nossa alma. Por Cristo, nosso Senhor.",
+    "comunhao": "Fazei, Senhor, que a sagrada comunhão nos vossos mistérios, sinal da nossa união convosco, realize a unidade na vossa Igreja. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ex 19,2-6",
+        "titulo": "Leitura do Livro do Êxodo",
+        "texto": "Naqueles dias, os israelitas, 2partindo de Rafidim, chegaram ao deserto do Sinai, onde acamparam. Israel armou aí suas tendas, defronte da montanha. 3Moisés, então, subiu ao encontro de Deus. O Senhor chamou-o do alto da montanha e disse: “Assim deverás falar à casa de Jacó e anunciar aos filhos de Israel: 4Vistes o que fiz aos egípcios e como vos levei sobre asas de águia e vos trouxe a mim. 5Portanto, se ouvirdes a minha voz e guardardes a minha aliança, sereis para mim a porção escolhida dentre todos os povos, porque minha é toda a terra. 6E vós sereis para mim um reino de sacerdotes e uma nação santa”."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Rm 5,6-11",
+        "titulo": "Leitura da carta de São Paulo aos Romanos",
+        "texto": "Irmãos, 6quando éramos ainda fracos, Cristo morreu pelos ímpios, no tempo marcado. 7Dificilmente alguém morrerá por um justo; por uma pessoa muito boa, talvez alguém se anime a morrer. 8Pois bem, a prova de que Deus nos ama é que Cristo morreu por nós quando éramos ainda pecadores. 9Muito mais agora, que já estamos justificados pelo sangue de Cristo, seremos salvos da ira por ele. 10Quando éramos inimigos de Deus, fomos reconciliados com ele pela morte do seu Filho; quanto mais agora, estando já reconciliados, seremos salvos por sua vida! 11Ainda mais, nós nos gloriamos em Deus por nosso Senhor Jesus Cristo. É por ele que, já desde o tempo presente, recebemos a reconciliação."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 99(100)",
+        "refrao": "Nós somos o povo e o rebanho do Senhor.",
+        "texto": "– Aclamai o Senhor, ó terra inteira, servi ao Senhor com alegria, ide a ele, cantando jubilosos!\n– Sabei que o Senhor, só ele, é Deus, ele mesmo nos fez, e somos seus, nós somos seu povo e seu rebanho.\n– Sim, é bom o Senhor e nosso Deus, sua bondade perdura para sempre, seu amor é fiel eternamente!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 9,36-10,8",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 36vendo Jesus as multidões, compadeceu-se delas, porque estavam cansadas e abatidas como ovelhas que não têm pastor. Então disse a seus discípulos: 37“A messe é grande, mas os trabalhadores são poucos. 38Pedi, pois, ao dono da messe que envie trabalhadores para a sua colheita!”\n10,1Jesus chamou os doze discípulos e deu-lhes poder para expulsarem os espíritos maus e para curarem todo tipo de doença e enfermidade. 2Estes são os nomes dos doze apóstolos: primeiro, Simão, chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e seu irmão João; 3Filipe e Bartolomeu; Tomé e Mateus, o cobrador de impostos; Tiago, filho de Alfeu, e Tadeu; 4Simão, o zelota, e Judas Iscariotes, que foi o traidor de Jesus. 5Jesus enviou esses doze com as seguintes recomendações: “Não deveis ir aonde moram os pagãos nem entrar nas cidades dos samaritanos! 6Ide, antes, às ovelhas perdidas da casa de Israel! 7Em vosso caminho, anunciai: ‘O reino dos céus está próximo’. 8Curai os doentes, ressuscitai os mortos, purificai os leprosos, expulsai os demônios. De graça recebestes, de graça deveis dar!”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Escutai, Senhor, a voz do meu apelo. Sede meu amparo; não me rejeiteis, nem me abandoneis, o Deus meu Salvador. (Cf. Sl 26,7.9)",
+    "comunhao": "Ao Senhor eu peço apenas uma coisa, e só isto que eu desejo: habitar no santuário do Senhor por toda a minha vida. Pai santo, guarda-os em teu nome, aqueles que me deste, para que sejam um como nos, diz o Senhor. (Cf Sl 26.4)"
+  }
+}

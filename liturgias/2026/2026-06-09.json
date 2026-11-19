@@ -1,0 +1,40 @@
+{
+  "data": "09/06/2026",
+  "liturgia": "São José de Anchieta, presbítero, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Derramai, Senhor, sobre nós a vossa graça, a fim de que, a exemplo do presbítero São José de Anchieta, Apóstolo do Brasil, sirvamos fielmente ao Evangelho, tornando-nos tudo para todos, e nos esforcemos em ganhar para vós novos irmãos no amor de Cristo. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, atendei benigno as nossas súplicas, e livrai-nos de toda a culpa, para que, por vossa graça purificadora, sejamos perdoados pelos mistérios que celebramos. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor nosso Deus, os sacramentos que recebemos alimentem em nós a mesma fé transmitida pela pregação apostólica e que São José de Anchieta guardou com solicitude. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Rs 17,7-16",
+        "titulo": "Leitura do primeiro livro dos Reis",
+        "texto": "Naqueles dias, 7secou a torrente do lugar onde Elias estava escondido, porque não tinha chovido no país. 8Então, a palavra do Senhor foi-lhe dirigida nestes termos: “Levanta-te e vai à Sarepta dos sidônios e fica morando lá, pois ordenei a uma viúva desse lugar que te dê sustento”. 10Elias pôs-se a caminho e foi para Sarepta. Ao chegar à porta da cidade, viu uma viúva apanhando lenha. Ele chamou-a e disse: “Por favor, traze-me um pouco de água numa vasilha para eu beber”. 11Quando ela ia buscar água, Elias gritou-lhe: “Por favor, traze-me também um pedaço de pão em tua mão!” 12Ela respondeu: “Pela vida do Senhor, teu Deus, não tenho pão. Só tenho um punhado de farinha numa vasilha e um pouco de azeite na jarra. Eu estava apanhando dois pedaços de lenha, a fim de preparar esse resto para mim e meu filho, para comermos e depois esperar a morte”. 13Elias replicou-lhe: “Não te preocupes! Vai e faze como disseste. Mas, primeiro, prepara-me com isso um pãozinho e traze-o. Depois farás o mesmo para ti e teu filho. 14Porque assim fala o Senhor, Deus de Israel: ‘A vasilha de farinha não acabará e a jarra de azeite não diminuirá, até o dia em que o Senhor enviar a chuva sobre a face da terra’”. 15A mulher foi e fez como Elias lhe tinha dito. E comeram, ele e ela e sua casa, durante muito tempo. 16A farinha da vasilha não acabou nem diminuiu o óleo da jarra, conforme o que o Senhor tinha dito por intermédio de Elias."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 4",
+        "refrao": "Sobre nós fazei brilhar o esplendor da vossa face!",
+        "texto": "– Quando eu chamo, respondei-me, ó meu Deus, minha justiça! Vós que soubestes aliviar-me nos momentos de aflição, atendei-me por piedade e escutai minha oração! Filhos dos homens, até quando fechareis o coração? Por que amais a ilusão e procurais a falsidade?\n– Compreendei que nosso Deus faz maravilhas por seu servo e que o Senhor me ouvirá quando lhe faço a minha prece! Se ficardes revoltados, não pequeis por vossa ira; meditai nos vossos leitos e calai o coração!\n– Muitos há que se perguntam: “Quem nos dá felicidade?” Sobre nós fazei brilhar o esplendor de vossa face! Vós me destes, ó Senhor, mais alegria ao coração do que a outros na fartura do seu trigo e vinho novo."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 5,13-16",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 13“Vós sois o sal da terra. Ora, se o sal se tornar insosso, com que salgaremos? Ele não servirá para mais nada, senão para ser jogado fora e ser pisado pelos homens. 14Vós sois a luz do mundo. Não pode ficar escondida uma cidade construída sobre um monte. 15Ninguém acende uma lâmpada e a coloca debaixo de uma vasilha, mas sim num candeeiro, onde ela brilha para todos os que estão em casa. 16Assim também brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras e louvem o vosso Pai que está nos céus”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Como são belos sobre os montes os pés do mensageiro que anuncia a paz, que anuncia a felicidade e prega a salvação. (Cf Is 52,7)",
+    "comunhao": "Ide pelo mundo inteiro e anunciai o Evangelho! (Cf. Mc 16,15)"
+  }
+}

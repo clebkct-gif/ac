@@ -1,0 +1,40 @@
+{
+  "data": "18/12/2026",
+  "liturgia": "6ª feira da 3ª Semana do Advento",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, pela anunciação do anjo, a Virgem imaculada acolheu vosso Verbo inefável e, como habitação da divindade, ficou repleta da luz do Espírito Santo. Concedei que, a seu exemplo, abracemos humildemente a vossa vontade. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, nós vos pedimos, este admirável sacrifício que vos oferecemos para que, pela participação neste sacramento, recebamos os bens desejados que a fé nos faz esperar. Por Cristo, nosso Senhor.",
+    "comunhao": "Guardai, ó Senhor, sob a vossa proteção, aqueles que alimentastes com o pão celestial, para que encontrem em vossos mistérios a alegria da verdadeira paz. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 23,5-8",
+        "titulo": "Leitura do livro do profeta Jeremias",
+        "texto": "″Eis que virão dias, diz o Senhor, em que farei nascer um descendente de Davi; reinará como rei e será sábio, fará valer a justiça e a retidão na terra. 6Naqueles dias, Judá será salvo e Israel viverá tranquilo; este é o nome com que o chamarão: ‘Senhor, nossa justiça’. 7Eis que virão dias, diz o Senhor, em que já não se usará jurar ‘pela vida do Senhor que tirou os filhos de Israel do Egito’, 8mas sim ‘pela vida do Senhor que tirou e reconduziu os descendentes da casa de Israel desde o país do norte e todos os outros países para onde os expulsara; eles então irão habitar em sua terra'”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 71(72)",
+        "refrao": "Nos seus dias, a justiça florirá e paz em abundância, para sempre.",
+        "texto": "– Dai ao rei vossos poderes, Senhor Deus, vossa justiça ao descendente da realeza! Com justiça ele governe o vosso povo, com equidade ele julgue os vossos pobres.\n– Libertará o indigente que suplica e o pobre ao qual ninguém quer ajudar. Terá pena do indigente e do infeliz e a vida dos humildes salvará.\n– Bendito seja o Senhor Deus de Israel, porque só ele realiza maravilhas! Bendito seja o seu nome glorioso! Bendito seja eternamente! Amém, amém!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 1,18-24",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "18A origem de Jesus Cristo foi assim: Maria, sua mãe, estava prometida em casamento a José, e, antes de viverem juntos, ela ficou grávida pela ação do Espírito Santo. 19José, seu marido, era justo e, não querendo denunciá-la, resolveu abandonar Maria em segredo. 20Enquanto José pensava nisso, eis que o anjo do Senhor apareceu-lhe, em sonho, e lhe disse: “José, filho de Davi, não tenhas medo de receber Maria como tua esposa, porque ela concebeu pela ação do Espírito Santo. 21Ela dará à luz um filho, e tu lhe darás o nome de Jesus, pois ele vai salvar o seu povo dos seus pecados”. 22Tudo isso aconteceu para se cumprir o que o Senhor havia dito pelo profeta: 23″Eis que a virgem conceberá e dará à luz um filho. Ele será chamado pelo nome de Emanuel, que significa: Deus está conosco”. 24Quando acordou, José fez conforme o anjo do Senhor havia mandado e aceitou sua esposa."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Um ramo brotará da raiz de Jessé; a glória do Senhor encherá a terra inteira, e toda criatura verá a salvação de Deus. (Cf. Is 11, 1; 40, 5; Lc 3, 6)",
+    "comunhao": "O anjo disse à Maria: Eis que conceberás e darás à luz um filho, a quem porás o nome de Jesus. (Cf. Lc 1, 31)"
+  }
+}

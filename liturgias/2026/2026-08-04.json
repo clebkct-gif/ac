@@ -1,0 +1,40 @@
+{
+  "data": "04/08/2026",
+  "liturgia": "São João Maria Vianney, presbítero, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus de poder e misericórdia, que tornastes o presbítero São João Maria Vianney admirável por seu zelo pastoral, concedei-nos, por seu exemplo e intercessão, conquistar no amor irmãos e irmãs para Cristo e com eles alcançar a glória eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus onipotente, suplicantes imploramos à vossa majestade para que os dons oferecidos em honra de São João Maria Vianney, como manifestam a glória do poder divino, assim nos obtenham os frutos da vossa salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, o sacramento recebido nos prepare para as eternas alegrias, que São João Maria Vianney mereceu por seu fiel ministério. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 30,1-2.12-15.18-22",
+        "titulo": "Leitura do Livro do profeta Jeremias",
+        "texto": "1Palavra que foi dirigida a Jeremias da parte do Senhor: 2“Isto diz o Senhor, Deus de Israel: Escreve para ti, num livro, todas as palavras que te falei. 12Isto diz o Senhor: Incurável é tua ferida, maligna tua chaga; 13não há quem conheça teu diagnóstico; uma úlcera tem remédio, mas em ti não se produz cicatrização. 14Todos os teus amigos te esqueceram, não te procuram mais; eu te causei uma ferida, como se fosses inimigo, como um castigo cruel, por causa do grande número de maldades que te fez endurecer no pecado. 15Por que gritas em teu sofrimento? É insanável a tua dor. Eu te tratei com rudeza por causa das tuas inúmeras maldades e por causa do teu endurecimento no pecado. 18Isto diz o Senhor: Eis que eu mudarei a sorte das tendas de Jacó e terei compaixão de suas moradias, a cidade ressurgirá das suas ruínas e a fortaleza terá lugar para suas fundações; 19de lá sairão cânticos de louvor e sons festivos. Hei de multiplicá-los, eles não diminuirão, hei de glorificá-los, eles não serão humilhados. 20Teus filhos serão felizes como outrora, e sua comunidade, estável na minha presença; e agirei contra todos os que os molestarem. 21Para chefe será escolhido um dos seus, e o soberano sairá do seu meio; eu o incitarei, e ele se aproximará de mim. Quem dará a vida em penhor da sua aproximação de mim? – diz o Senhor. 22Sereis meu povo e eu serei vosso Deus”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 101(102)",
+        "refrao": "O Senhor olhou a terra do alto céu.",
+        "texto": "– As nações respeitarão o vosso nome, e os reis de toda a terra, a vossa glória; quando o Senhor reconstruir Jerusalém e aparecer com gloriosa majestade, ele ouvirá a oração dos oprimidos e não desprezará a sua prece.\n– Para as futuras gerações se escreva isto, e um povo novo a ser criado louve a Deus. Ele inclinou-se de seu templo nas alturas, e o Senhor olhou a terra do alto céu, para os gemidos dos cativos escutar e da morte libertar os condenados.\n– Assim também a geração dos vossos servos terá casa e viverá em segurança, e ante vós se firmará sua descendência. Para que cantem o seu nome em Sião e louve ao Senhor Jerusalém quando os povos e as nações se reunirem e todos os impérios o servirem."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 15,1-2.10-14",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "1Naquele tempo, alguns fariseus e mestres da Lei, vindos de Jerusalém, aproximaram-se de Jesus e perguntaram: 2“Por que os teus discípulos não observam a tradição dos antigos? Pois não lavam as mãos quando comem o pão?” 10Jesus chamou a multidão para perto de si e disse: “Escutai e compreendei. 11Não é o que entra pela boca que torna o homem impuro, mas o que sai da boca, isso é que torna o homem impuro”. 12Então os discípulos se aproximaram e disseram a Jesus: “Sabes que os fariseus ficaram escandalizados ao ouvir as tuas palavras?” 13Jesus respondeu: “Toda planta que não foi plantada pelo meu Pai celeste será arrancada. 14Deixai-os! São cegos guiando cegos. Ora, se um cego guia outro cego, os dois cairão no buraco”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Espírito do Senhor repousa sobre mim; ele me consagrou com a unção, enviou-me para levar a boa-nova aos pobres e curar os corações contritos. (Cf. Lc 4,18)",
+    "comunhao": "Eis que estarei convosco todos os dias, até o fim do mundo, diz o Senhor. (Cf. Mt 28,20)"
+  }
+}

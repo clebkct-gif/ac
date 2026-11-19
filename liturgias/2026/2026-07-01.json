@@ -1,0 +1,40 @@
+{
+  "data": "01/07/2026",
+  "liturgia": "4ª feira da 13ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, pela graça da adoção nos tornastes filhos da luz; concedei que não sejamos envolvidos pelas trevas do erro, mas permaneçamos sempre no esplendor da verdade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, que nos assegurais os frutos dos vossos mistérios, fazei que nosso serviço corresponda à santidade dos vossos dons Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, o Corpo e o Sangue de Jesus Cristo, que oferecemos em sacrifício e recebemos em comunhão, nos transmitam uma vida nova, para que, unidos a vós pela caridade que não passa, possamos produzir frutos que permaneçam. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Am 5,14-15.21-24",
+        "titulo": "Leitura da Profecia de Amós",
+        "texto": "14Buscai o bem, não o mal, para terdes mais vida, só assim o Senhor Deus dos exércitos vos assistirá, como tendes afirmado. 15Odiai o mal, amai o bem, restabelecei a justiça no julgamento, talvez o Senhor Deus dos exércitos se compadeça do resto da tribo de José. 21“Aborreço, rejeito vossas festas, diz o Senhor, não me agradam vossas assembleias de culto. 22Se me oferecerdes holocaustos, não aceitarei vossas oblações e não farei caso de vossos gordos animais de sacrifício. 23Livra-me da balbúrdia dos teus cantos, não quero ouvir a toada de tuas liras. 24Que a justiça seja abundante como água e a vida honesta, como torrente perene”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 49(50)",
+        "refrao": "A todos os que procedem retamente eu mostrarei a salvação que vem de Deus.",
+        "texto": "– “Escuta, ó meu povo, eu vou falar; ouve, Israel, eu testemunho contra ti: eu, o Senhor, somente eu, sou o teu Deus!\n– Eu não venho censurar teus sacrifícios, pois sempre estão perante mim teus holocaustos; não preciso dos novilhos de tua casa nem dos carneiros que estão nos teus rebanhos.\n– Porque as feras da floresta me pertencem e os animais que estão nos montes aos milhares. Conheço os pássaros que voam pelos céus e os seres vivos que se movem pelos campos.\n– Não te diria, se com fome eu estivesse, porque é meu o universo e todo ser. Porventura comerei carne de touros? Beberei, acaso, o sangue de carneiros?\n– Como ousas repetir os meus preceitos e trazer minha aliança em tua boca? Tu que odiaste minhas leis e meus conselhos e deste as costas às palavras dos meus lábios!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 8,28-34",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 28quando Jesus chegou à outra margem do lago, na região dos gadarenos, vieram ao seu encontro dois homens possuídos pelo demônio, saindo dos túmulos. Eram tão violentos, que ninguém podia passar por aquele caminho. 29Eles então gritaram: “O que tens a ver conosco, Filho de Deus? Tu vieste aqui para nos atormentar antes do tempo?” 30Ora, a certa distância deles estava pastando uma grande manada de porcos. 31Os demônios suplicavam-lhe: “Se nos expulsas, manda-nos para a manada de porcos”. 32Jesus disse: “Ide”. Os demônios saíram e foram para os porcos. E logo toda a manada atirou-se monte abaixo para dentro do mar, afogando-se nas águas. 33Os homens que guardavam os porcos fugiram e, indo até a cidade, contaram tudo, inclusive o caso dos possuídos pelo demônio. 34Então a cidade toda saiu ao encontro de Jesus. Quando o viram, pediram-lhe que se retirasse da região deles."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Povos todos do universo, batei palmas, gritai a  Deus aclamações de alegria. (Cf. Sl 46,2)",
+    "comunhao": "Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores! (Cf. Sl 102,1)"
+  }
+}

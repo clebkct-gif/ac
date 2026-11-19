@@ -1,0 +1,46 @@
+{
+  "data": "30/08/2026",
+  "liturgia": "22º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus onipotente, fonte de todo dom perfeito, semeai em nossos corações o amor ao vosso nome e, estreitando os laços que nos unem convosco, fazei crescer em nós o que é bom e guardai com amorosa solicitude o que nos destes. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Este santo sacrifício, Senhor, nos traga a perene bênção da salvação e vosso poder leve à plenitude o que celebramos no sacramento. Por Cristo, nosso Senhor.",
+    "comunhao": "Revigorados pelo pão da mesa celeste nós vos pedimos, Senhor, que este alimento da caridade fortifique os nossos corações e nos leve a vos servir nos irmãos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 20,7-9",
+        "titulo": "Leitura do Livro do profeta Jeremias",
+        "texto": "7Seduziste-me, Senhor, e deixei-me seduzir; foste mais forte, tiveste mais poder. Tornei-me alvo de irrisão o dia inteiro, todos zombam de mim. 8Todas as vezes que falo, levanto a voz, clamando contra a maldade e invocando calamidades; a palavra do Senhor tornou-se para mim fonte de vergonha e de chacota o dia inteiro. 9Disse comigo: “Não quero mais lembrar-me disso nem falar mais em nome dele”. Senti, então, dentro de mim um fogo ardente a penetrar-me o corpo todo: desfaleci, sem forças para suportar."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 62(63)",
+        "refrao": "A minha alma tem sede de vós como a terra sedenta, ó meu Deus!",
+        "texto": "– Sois vós, ó Senhor, o meu Deus! Desde a aurora, ansioso vos busco! A minha alma tem sede de vós, minha carne também vos deseja, como terra sedenta e sem água!\n– Venho, assim, contemplar-vos no templo, para ver vossa glória e poder. Vosso amor vale mais do que a vida: e por isso meus lábios vos louvam.\n– Quero, pois, vos louvar pela vida e elevar para vós minhas mãos! A minha alma será saciada, como em grande banquete de festa; cantará a alegria em meus lábios ao cantar para vós meu louvor!\n– Para mim fostes sempre um socorro; de vossas asas à sombra eu exulto! Minha alma se agarra em vós; com poder vossa mão me sustenta."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Rm 12,1-2",
+        "titulo": "Leitura da carta de São Paulo aos Romanos",
+        "texto": "1Pela misericórdia de Deus, eu vos exorto, irmãos, a vos oferecerdes em sacrifício vivo, santo e agradável a Deus: este é o vosso culto espiritual. 2Não vos conformeis com o mundo, mas transformai-vos, renovando vossa maneira de pensar e de julgar, para que possais distinguir o que é da vontade de Deus, isto é, o que é bom, o que lhe agrada, o que é perfeito."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 16,21-27",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 21Jesus começou a mostrar a seus discípulos que devia ir a Jerusalém e sofrer muito da parte dos anciãos, dos sumos sacerdotes e dos mestres da Lei e que devia ser morto e ressuscitar no terceiro dia. 22Então Pedro tomou Jesus à parte e começou a repreendê-lo, dizendo: “Deus não permita tal coisa, Senhor! Que isso nunca te aconteça!” 23Jesus, porém, voltou-se para Pedro e disse: “Vai para longe, satanás! Tu és para mim uma pedra de tropeço, porque não pensas as coisas de Deus, mas sim as coisas dos homens!” 24Então Jesus disse aos discípulos: “Se alguém quer me seguir, renuncie a si mesmo, tome a sua cruz e me siga. 25Pois quem quiser salvar a sua vida vai perdê-la; e quem perder a sua vida por causa de mim vai encontrá-la. 26De fato, que adianta ao homem ganhar o mundo inteiro, mas perder a sua vida? O que poderá alguém dar em troca de sua vida? 27Porque o Filho do Homem virá na glória do seu Pai, com os seus anjos, e então retribuirá a cada um de acordo com a sua conduta”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Piedade de mim, ó Senhor, porque clamo por vós todo o dia! Ó Senhor, vós sois bom e clemente, sois perdão para quem vos invoca. (Cf. Sl 85, 3. 5)",
+    "comunhao": "Como é grande, ó Senhor, a riqueza da vossa bondade, que reservais para aqueles que vos temem. (Cf. Sl 30, 20)"
+  }
+}

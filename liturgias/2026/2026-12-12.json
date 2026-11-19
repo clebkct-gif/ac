@@ -1,0 +1,40 @@
+{
+  "data": "12/12/2026",
+  "liturgia": "Bem-aventurada Virgem Maria de Guadalupe, Padroeira principal da América, Festa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que nos destes a Santa Virgem de Guadalupe para amparar-nos como mãe solícita, concedei aos povos da América Latina, que se alegram com sua proteção, crescer constantemente na fé e alcançar o desejado progresso no caminho da justiça e da paz. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, o mesmo Espírito Santo, que com seu poder fecundou o seio de Maria, santifique estas oferendas, colocadas sobre o vosso altar. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor nosso Deus, a comunhão nos vossos mistérios manifeste sempre em nós a vossa misericórdia e nos salve pela encarnação do vosso Filho, cuja Mãe agora festejamos, cheios de fé e devoção. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Gl 4, 4-7",
+        "titulo": "Leitura da Carta de São Paulo aos Gálatas",
+        "texto": "Irmãos, 4quando se completou o tempo previsto, Deus enviou o seu Filho, nascido de uma mulher, nascido sujeito à Lei, 5a fim de resgatar os que eram sujeitos à Lei e para que todos recebêssemos a filiação adotiva. 6E porque sois filhos, Deus enviou aos nossos corações o Espírito do seu Filho, que clama: Abá – ó Pai! 7Assim, já não és mais escravo, mas filho; e se és filho, és também herdeiro: tudo isso, por graça de Deus."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 95",
+        "refrao": "Manifestai a sua glória entre as nações.",
+        "texto": "— Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! Cantai e bendizei seu Santo nome. \n— Dia após dia anunciai sua salvação, manifestai a sua glória entre as nações, e entre os povos do universo seus prodígios! \n— Publicai entre as nações: “Reina o Senhor! Ele firmou o universo inabalável, e os povos ele julga com justiça”."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 1, 39-47",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naqueles dias, Maria partiu para a região montanhosa, dirigindo-se, apressadamente, a uma cidade da Judeia. 40Entrou na casa de Zacarias e cumprimentou Isabel. 41Quando Isabel ouviu a saudação de Maria, a criança pulou no seu ventre e Isabel ficou cheia do Espírito Santo. 42Com um grande grito, exclamou: “Bendita és tu entre as mulheres e bendito é o fruto do teu ventre! 43Como posso merecer que a mãe do meu Senhor me venha visitar? 44Logo que a tua saudação chegou aos meus ouvidos, a criança pulou de alegria no meu ventre. 45Bem-aventurada aquela que acreditou, porque será cumprido o que o Senhor lhe prometeu”. 46Então Maria disse: “A minha alma engrandece o Senhor, 47e o meu espírito se alegra em Deus, meu Salvador”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Alegremo-nos todos no Senhor, celebrando este dia festivo em honra de Nossa Senhora de Guadalupe; os anjos se alegram conosco e dão glória ao Filho de Deus.",
+    "comunhao": "A virgem conceberá e dará à luz um filho; e ele será chamado Emanuel, Deus-conosco. (Cf. Is 7, 14)"
+  }
+}

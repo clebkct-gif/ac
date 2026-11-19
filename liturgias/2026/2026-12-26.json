@@ -1,0 +1,40 @@
+{
+  "data": "26/12/2026",
+  "liturgia": "Santo Estêvão, protomártir, Festa",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Senhor, concedei-nos imitar o que celebramos, para aprendermos a amar até os inimigos, pois festejamos o martírio de Santo Estêvão, que soube orar por seus perseguidores. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, ao celebrarmos hoje a gloriosa comemoração do mártir Santo Estevão, pedimos que vos sejam agradáveis as oferendas de nossa devoção. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos damos graças, Senhor, pela abundância da vossa misericórdia para conosco, pois nos salvais pelo nascimento do vosso Filho e nos alegrais com a celebração do mártir Santo Estêvão. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 6, 8-10; 7, 54-59",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "8Naqueles dias, Estêvão, cheio de graça e poder, fazia prodígios e grandes sinais entre o povo. 9Mas alguns membros da chamada Sinagoga dos Libertos, junto com cirenenses e alexandrinos, e alguns da Cilícia e da Ásia, começaram a discutir com Estêvão. 10Porém, não conseguiam resistir à sabedoria e ao Espírito com que ele falava. 7, 54Ao ouvir essas palavras, eles ficaram enfurecidos e rangeram os dentes contra Estêvão. 55Estêvão, cheio do Espírito Santo, olhou para o céu e viu a glória de Deus e Jesus, de pé, à direita de Deus. 56E disse: “Estou vendo o céu aberto, e o Filho do Homem, de pé, à direita de Deus”. 57Mas eles, dando grandes gritos e, tapando os ouvidos, avançaram todos juntos contra Estêvão; 58arrastaram-no para fora da cidade e começaram a apedrejá-lo. As testemunhas deixaram suas vestes aos pés de um jovem, chamado Saulo. 59Enquanto o apedrejavam, Estêvão clamou dizendo: “Senhor Jesus, acolhe o meu espírito”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 30(31)",
+        "refrao": "Em vossas mãos, Senhor, entrego o meu espírito.",
+        "texto": "— Sede uma rocha protetora para mim, um abrigo bem seguro que me salve! Sim, sois vós a minha rocha e fortaleza; por vossa honra orientai-me e conduzi-me! \n— Em vossas mãos, Senhor, entrego o meu espírito, porque vós me salvareis, ó Deus fiel. Vosso amor me faz saltar de alegria, pois olhastes para as minhas aflições. \n— Eu entrego em vossas mãos o meu destino; libertai-me do inimigo e do opressor! Mostrai serena a vossa face ao vosso servo, e salvai-me pela vossa compaixão!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 10, 17-22",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus apóstolos: 17“Cuidado com os homens, porque eles vos entregarão aos tribunais e vos açoitarão nas suas sinagogas. 18Vós sereis levados diante de governadores e reis, por minha causa, para dar testemunho diante deles e das nações. 19Quando vos entregarem, não fiqueis preocupados como falar ou o que dizer. Então naquele momento vos será indicado o que deveis dizer. 20Com efeito, não sereis vós que havereis de falar, mas sim o Espírito do vosso Pai é que falará através de vós. 21O irmão entregará à morte o próprio irmão; o pai entregará o filho; os filhos se levantarão contra seus pais, e os matarão. 22Vós sereis odiados por todos, por causa do meu nome. Mas quem perseverar até o fim, esse será salvo."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Abriram-se as portas do céu para Santo Estêvão, que foi o primeiro dos mártires e por isso, coroado, triunfa no céu.",
+    "comunhao": "Apedrejavam Estêvão, que exclamava: Senhor Jesus, acolhe o meu espírito. (Cf. At 7, 59)"
+  }
+}

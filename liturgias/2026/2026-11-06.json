@@ -1,0 +1,40 @@
+{
+  "data": "06/11/2026",
+  "liturgia": "6ª feira da 31ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus de poder e misericórdia, que concedeis a vossos filhos e filhas o dom de vos servir como devem, fazei que corramos livremente ao encontro das vossas promessas. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Seja este sacrifício para vós, Senhor, uma oferenda pura e, para nós, fonte generosa de vossa santa misericórdia. Por Cristo, nosso Senhor.",
+    "comunhao": "Cresça em nós, Senhor, a ação da vossa graça, para que, refeitos pelos vossos sacramentos, sejamos preparados para alcançar o que prometem. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Fl 3,17-4,1",
+        "titulo": "Leitura da carta de São Paulo aos Filipenses",
+        "texto": "17Sede meus imitadores, irmãos, e observai os que vivem de acordo com o exemplo que nós damos. 18Já vos disse muitas vezes e agora o repito, chorando: há muitos por aí que se comportam como inimigos da cruz de Cristo. 19O fim deles é a perdição, o deus deles é o estômago, a glória deles está no que é vergonhoso e só pensam nas coisas terrenas. 20Nós, porém, somos cidadãos do céu. De lá aguardamos o nosso salvador, o Senhor, Jesus Cristo. 21Ele transformará o nosso corpo humilhado e o tornará semelhante ao seu corpo glorioso, com o poder que tem de sujeitar a si todas as coisas. 4,1Assim, meus irmãos, a quem quero bem e dos quais sinto saudade, minha alegria, minha coroa, meus amigos, continuai firmes no Senhor."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 121(122)",
+        "refrao": "Que alegria quando ouvi que me disseram: Vamos à casa do Senhor!",
+        "texto": "– Que alegria quando ouvi que me disseram: “Vamos à casa do Senhor!” E agora nossos pés já se detêm, Jerusalém, em tuas portas.\n– Jerusalém, cidade bem edificada num conjunto harmonioso; para lá sobem as tribos de Israel, as tribos do Senhor.\n– Para louvar, segundo a lei de Israel, o nome do Senhor. A sede da justiça lá está e o trono de Davi."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 16,1-8",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 1Jesus disse aos discípulos: “Um homem rico tinha um administrador que foi acusado de esbanjar os seus bens. 2Ele o chamou e lhe disse: ‘Que é isto que ouço a teu respeito? Presta contas da tua administração, pois já não podes mais administrar meus bens’. 3O administrador então começou a refletir: ‘O senhor vai me tirar a administração. Que vou fazer? Para cavar, não tenho forças; de mendigar, tenho vergonha. 4Ah! Já sei o que fazer, para que alguém me receba em sua casa quando eu for afastado da administração’. 5Então ele chamou cada um dos que estavam devendo ao seu patrão. E perguntou ao primeiro: ‘Quanto deves ao meu patrão?’ 6Ele respondeu: ‘Cem barris de óleo!’ O administrador disse: ‘Pega a tua conta, senta-te depressa e escreve cinquenta!’ 7Depois ele perguntou a outro: ‘E tu, quanto deves?’ Ele respondeu: ‘Cem medidas de trigo’. O administrador disse: ‘Pega tua conta e escreve oitenta’. 8E o senhor elogiou o administrador desonesto, porque ele agiu com esperteza. Com efeito, os filhos deste mundo são mais espertos em seus negócios do que os filhos da luz”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Não me abandoneis, Senhor, meu Deus, nem fiqueis longe de mim! Vinde em meu auxílio, ó Senhor, força da minha salvação! (Cf. Sl 37, 22-23)",
+    "comunhao": "Vós me ensinastes o caminho para a vida, junto a vós, Senhor, felicidade sem limites. (Cf. Sl 15, 11)"
+  }
+}

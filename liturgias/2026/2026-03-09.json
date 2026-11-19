@@ -1,0 +1,40 @@
+{
+  "data": "09/03/2026",
+  "liturgia": "2ª feira da 3ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Senhor, vossa incansável misericórdia purifique e proteja a vossa Igreja; e, porque sem vós ela não pode subsistir, governai-a constantemente com o vosso auxílio. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Transformai, Senhor, em sacramento que nos salva, estes dons que vos apresentamos como sinal da nossa dedicação. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor, que a comunhão no vosso sacramento nos purifique dos pecados e nos conduza à unidade. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Rs 5, 1-15a",
+        "titulo": "Leitura do Segundo Livro dos Reis",
+        "texto": "Naqueles dias, 1Naamã, general do exército do rei da Síria, era um homem muito estimado e considerado pelo seu senhor, pois foi por meio dele que o Senhor concedeu a vitória aos arameus. Mas esse homem, valente guerreiro, era leproso. 2Ora, um bando de arameus que tinha saído da Síria, tinha levado cativa uma moça do país de Israel. Ela ficou ao serviço da mulher de Naamã. 3Disse ela à sua senhora: “Ah, se meu senhor se apresentasse ao profeta que reside em Samaria, sem dúvida, ele o livraria da lepra de que padece!”,4Naamã foi então informar o seu senhor: “Uma moça do país de Israel disse isto e isto”. 5Disse-lhe o rei de Aram: “Vai, que eu enviarei uma carta ao rei de Israel”. Naamã partiu, levando consigo dez talentos de prata, seis mil siclos de ouro e dez mudas de roupa. 6E entregou ao rei de Israel a carta, que dizia: “Quando receberes esta carta, saberás que eu te enviei Naamã, meu servo, para que o cures de sua lepra”. 7O rei de Israel, tendo lido a carta, rasgou suas vestes e disse: “Sou Deus, porventura, que possa dar a morte e a vida, para que este me mande um homem para curá-lo de lepra? Vê-se bem que ele busca pretexto contra mim”. 8Quando Eliseu, o homem de Deus, soube que o rei de Israel havia rasgado as vestes, mandou dizer-lhe: “Por que rasgaste tuas vestes? Que ele venha a mim, para que saiba que há um profeta em Israel”. 9Então Naamã chegou com seus cavalos e carros, e parou à porta da casa de Eliseu. 10Eliseu mandou um mensageiro para lhe dizer: “Vai, lava-te sete vezes no Jordão, e tua carne será curada e ficarás limpo”. 11Naamã, irritado, foi-se embora, dizendo: “Eu pensava que ele sairia para me receber e que, de pé, invocaria o nome do Senhor, seu Deus, e que tocaria com sua mão o lugar da lepra e me curaria. 12Será que os rios de Damasco, o Abana e o Farfar, não são melhores do que todas as águas de Israel, para eu me banhar nelas e ficar limpo?” Deu meia-volta e partiu indignado. 13Mas seus servos aproximaram-se dele e disseram-lhe: “Senhor, se o profeta te mandasse fazer uma coisa difícil, não a terias feito? Quanto mais agora que ele te disse: ‘Lava-te e ficarás limpo”’. 14Então ele desceu e mergulhou sete vezes no Jordão, conforme o homem de Deus tinha mandado, e sua carne tornou-se semelhante à de uma criancinha, e ele ficou purificado. 15aEm seguida, voltou com toda a sua comitiva para junto do homem de Deus. Ao chegar, apresentou-se diante dele e disse: “Agora estou convencido de que não há outro Deus em toda a terra, senão o que há em Israel!”"
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 41",
+        "refrao": "Minha alma tem sede de Deus, do Deus vivo: e quando verei a face de Deus?",
+        "texto": "— Assim como a corça suspira pelas águas correntes, suspira igualmente minh’alma por vós, ó meu Deus! \n— A minh’alma tem sede de Deus, e deseja o Deus vivo. Quando terei a alegria de ver a face de Deus? \n— Enviai vossa luz, vossa verdade: elas serão o meu guia; que me levem ao vosso Monte santo, até a vossa morada! \n— Então irei aos altares do Senhor, Deus da minha alegria. Vosso louvor cantarei, ao som da harpa, meu Senhor e meu Deus!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 4, 24-30",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Jesus, vindo a Nazaré, disse ao povo na sinagoga: 24“Em verdade eu vos digo que nenhum profeta é bem recebido em sua pátria. 25De fato, eu vos digo: no tempo do profeta Elias, quando não choveu durante três anos e seis meses e houve grande fome em toda a região, havia muitas viúvas em Israel. 26No entanto, a nenhuma delas foi enviado Elias, senão a uma viúva em Sarepta, na Sidônia. 27E no tempo do profeta Eliseu, havia muitos leprosos em Israel. Contudo, nenhum deles foi curado, mas sim Naamã, o sírio”.\n28Quando ouviram estas palavras de Jesus, todos na sinagoga ficaram furiosos. 29Levantaram-se e o expulsaram da cidade. Levaram-no até ao alto do monte sobre o qual a cidade estava construída, com a intenção de lançá-lo no precipício. 30Jesus, porém, passando pelo meio deles, continuou o seu caminho."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Minha alma desfalece de saudades e anseia pelos átrios do Senhor! Meu coração e minha carne rejubilam e exultam de alegria no Deus vivo! (Cf. Sl 83, 3)",
+    "comunhao": "Cantai louvores ao Senhor, todas as gentes, pois comprovado é seu amor para conosco. (Cf. Sl 116, 1-2)"
+  }
+}

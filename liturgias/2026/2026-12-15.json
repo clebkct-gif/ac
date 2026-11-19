@@ -1,0 +1,40 @@
+{
+  "data": "15/12/2026",
+  "liturgia": "3ª feira da 3ª Semana do Advento",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Ó Deus, criador e redentor do gênero humano, quisestes que o vosso Verbo se encarnasse no seio da sempre Virgem Maria; escutai com bondade a nossas preces, para que vosso Filho Unigênito, tendo assumido a nossa humanidade, nos faça participar da sua vida divina. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Santificai, Senhor, os dons da vossa Igreja e concedei que, por estes sagrados mistérios, sejamos restaurados com o pão do céu. Por Cristo, nosso Senhor.",
+    "comunhao": "Saciados com os vossos dons divinos, nós vos pedimos, ó Deus todo-poderoso: satisfazei o nosso desejo de brilhar diante do vosso Cristo que se aproxima como lâmpadas acesas pelo vosso Espírito. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Sf 3,1-2.9-13",
+        "titulo": "Leitura da profecia de Sofonias",
+        "texto": "Assim fala o Senhor: 1“Ai de ti, rebelde e desonrada, cidade desumana. 2Ela não prestou ouvidos ao apelo, não aceitou a correção; não teve confiança no Senhor nem se aproximou de seu Deus. 9Darei aos povos, nesse tempo, lábios purificados, para que todos invoquem o nome do Senhor e lhe prestem culto em união de esforços. 10Desde além-rios da Etiópia, os que me adoram, os dispersos do meu povo, me trarão suas oferendas. 11Naquele dia, não terás de envergonhar-te por causa de todas as tuas obras com que prevaricaste contra mim; pois eu afastarei do teu meio teus fanfarrões arrogantes, e não continuarás a fazer de meu santo monte motivo de tuas vanglórias. 12E deixarei entre vós um punhado de homens humildes e pobres”. E no nome do Senhor porá sua esperança o resto de Israel. 13Eles não cometerão iniquidades nem falarão mentiras; não se encontrará em sua boca uma língua enganadora; serão apascentados e repousarão, e ninguém os molestará."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 33(34)",
+        "refrao": "Este infeliz gritou a Deus e foi ouvido.",
+        "texto": "– Bendirei o Senhor Deus em todo o tempo, seu louvor estará sempre em minha boca. Minha alma se gloria no Senhor; que ouçam os humildes e se alegrem!\n– Contemplai a sua face e alegrai-vos, e vosso rosto não se cubra de vergonha! Este infeliz gritou a Deus e foi ouvido, e o Senhor o libertou de toda angústia.\n– Mas ele volta a sua face contra os maus, para da terra apagar sua lembrança. Clamam os justos, e o Senhor bondoso escuta e de todas as angústias os liberta.\n– Do coração atribulado ele está perto e conforta os de espírito abatido. Mas o Senhor liberta a vida dos seus servos, e castigado não será quem nele espera."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 21,28-32",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos chefes dos sacerdotes e aos anciãos do povo: 28“Que vos parece? Um homem tinha dois filhos. Dirigindo-se ao primeiro, ele disse: ‘Filho, vai trabalhar hoje na vinha!’ 29O filho respondeu: ‘Não quero’. Mas depois mudou de opinião e foi. 30O pai dirigiu-se ao outro filho e disse a mesma coisa. Este respondeu: ‘Sim, senhor, eu vou’. Mas não foi. 31Qual dos dois fez a vontade do pai?” Os sumos sacerdotes e os anciãos do povo responderam: “O primeiro”. Então Jesus lhes disse: “Em verdade vos digo que os publicanos e as prostitutas vos precedem no Reino de Deus. 32Porque João veio até vós, num caminho de justiça, e vós não acreditastes nele. Ao contrário, os publicanos e as prostitutas creram nele. Vós, porém, mesmo vendo isso, não vos arrependestes para crer nele”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Alegrem-se os céus e exulte a terra, porque o Senhor virá e terá compaixão dos pequeninos. (Cf. Is 49, 13)",
+    "comunhao": "Eis que vem o desejado de todas as nações e a casa do Senhor será repleta de glória. (Cf. Ag 2, 8)"
+  }
+}

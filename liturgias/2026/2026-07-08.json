@@ -1,0 +1,40 @@
+{
+  "data": "08/07/2026",
+  "liturgia": "4ª feira da 14ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, pela humilhação do vosso Filho reerguestes o mundo decaído, dai-nos uma santa alegria, para que, livres da servidão do pecado, cheguemos à felicidade eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Fazei, Senhor, que este sacrifício celebrado em honra do vosso nome, nos purifique e nos leve, cada vez mais, a viver a vida do vosso reino. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor, que, enriquecidos por essa tão grande dádiva, possamos colher os frutos da salvação sem jamais cessar vosso louvor. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Os 10, 1-3. 7-8. 12",
+        "titulo": "Leitura da Profecia de Oseias",
+        "texto": "1Israel era uma vinha exuberante e dava frutos para seu consumo; na medida de sua produção, erguia os numerosos altares; na medida da fertilidade da terra, embelezava seus ídolos. 2Com o coração dividido, deve agora receber castigo; o Senhor mesmo derrubará seus altares, destruirá os seus simulacros. 3Decerto, dirão agora: “Não temos rei; não temos medo do Senhor. Que poderia o rei fazer por nós?” 7Samaria está liquidada, seu rei vai flutuando como palha em cima da água. 8Será desmantelada a idolatria dos lugares altos, pecado de Israel; ali crescerão espinhos e abrolhos sobre seus altares; então se dirá aos montes: “Cobri-nos!” e às colinas: “Caí sobre nós!” 12Semeai justiça entre vós, e colhereis amor; desbravai uma roça nova. É tempo de procurar o Senhor, até que ele venha e derrame a justiça em vós."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 104",
+        "refrao": "Buscai constantemente a face do Senhor!",
+        "texto": "— Cantai, entoai salmos para ele, publicai todas as suas maravilhas! Gloriai-vos em seu nome que é santo, exulte o coração que busca a Deus!\n— Procurai o Senhor Deus e seu poder, buscai constantemente a sua face! Lembrai as maravilhas que ele fez, seus prodígios e as palavras de seus lábios!\n— Descendentes de Abraão, seu servidor, e filhos de Jacó, seu escolhido, ele mesmo, o Senhor, é nosso Deus, vigoram suas leis em toda a terra"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 10, 1-7",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 1Jesus chamou os doze discípulos e deu-lhes poder para expulsarem os espíritos maus e para curarem todo tipo de doença e enfermidade. 2Estes são os nomes dos doze apóstolos: primeiro, Simão, chamado Pedro, e André, seu irmão; Tiago, filho de Zebedeu, e seu irmão João; 3Filipe e Bartolomeu; Tomé e Mateus, o cobrador de impostos; Tiago, filho de Alfeu, e Tadeu; 4Simão, o Zelota, e Judas Iscariotes, que foi o traidor de Jesus. 5Jesus enviou estes Doze, com as seguintes recomendações: “Não deveis ir aonde moram os pagãos, nem entrar nas cidades dos samaritanos! 6Ide, antes, às ovelhas perdidas da casa de Israel! 7Em vosso caminho, anunciai: ‘O Reino dos Céus está próximo’”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Recebemos, Senhor, vossa misericórdia no  meio do vosso templo. Como vosso nome, ó Deus, assim vosso louvor ressoa até os confins da terra; vossa destra está cheia de justiça. (Cf Sl 47,10-11)",
+    "comunhao": "Provai e vede quão suave é o Senhor. Feliz o homem que tem nele o seu refúgio! (Cf Sl 33,9)"
+  }
+}

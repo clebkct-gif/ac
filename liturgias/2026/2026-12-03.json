@@ -1,0 +1,40 @@
+{
+  "data": "03/12/2026",
+  "liturgia": "São Francisco Xavier, presbítero, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, pela pregação de são Francisco Xavier, atraístes muitos povos para vós; infundi em vossos fiéis o mesmo ardor na propagação da fé, e a Santa Igreja se alegre, em toda a terra, com numerosos filhos e filhas. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Recebei, Senhor, as oferendas que vos trazemos na comemoração de São Francisco Xavier, a quem o desejo de salvar a todos levou a terras longínquas; concedei que também nós, dando testemunho eficaz do Evangelho, corramos com nossos irmãos e irmãs ao vosso encontro. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, os vossos santos mistérios acendam em nós o mesmo ardor da caridade que inflamava São Francisco Xavier no seu zelo pela salvação de todos, para que, vivendo mais dignamente a nossa vocação, alcancemos com ele o prêmio prometido aos bons operários. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 26,1-6",
+        "titulo": "Leitura do livro do profeta Isaías",
+        "texto": "Naquele dia, cantarão este canto em Judá: “Uma cidade fortificada é a nossa segurança; o Senhor cercou-a de muros e antemuro. 2Abri as suas portas, para que entre um povo justo, cumpridor da palavra, 3firme em seu propósito; e tu lhe conservarás a paz, porque confia em ti. 4Esperai no Senhor por todos os tempos, o Senhor é a rocha eterna. 5Ele derrubou os que habitam no alto, há de humilhar a cidade orgulhosa, deitando-a por terra até fazê-la beijar o chão. 6Hão de pisá-la os pés, os pés dos pobres, as passadas dos humildes”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 117(118)",
+        "refrao": "Bendito é aquele que vem vindo em nome do Senhor!",
+        "texto": "– Dai graças ao Senhor, porque ele é bom! “Eterna é a sua misericórdia!” É melhor buscar refúgio no Senhor do que pôr no ser humano a esperança; é melhor buscar refúgio no Senhor do que contar com os poderosos deste mundo!\n– Abri-me vós, abri-me as portas da justiça; quero entrar para dar graças ao Senhor! “Sim, esta é a porta do Senhor, por ela só os justos entrarão!” Dou-vos graças, ó Senhor, porque me ouvistes e vos tornastes para mim o salvador!\n– “Ó Senhor, dai-nos a vossa salvação, ó Senhor, dai-nos também prosperidade!” Bendito seja, em nome do Senhor, aquele que em seus átrios vai entrando! Desta casa do Senhor vos bendizemos. Que o Senhor e nosso Deus nos ilumine!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 7,21.24-27",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 21″Nem todo aquele que me diz: ‘Senhor, Senhor’, entrará no Reino dos céus, mas o que põe em prática a vontade de meu Pai que está nos céus. 24Portanto, quem ouve estas minhas palavras e as põe em prática é como um homem prudente, que construiu sua casa sobre a rocha. 25Caiu a chuva, vieram as enchentes, os ventos deram contra a casa, mas a casa não caiu, porque estava construída sobre a rocha. 26Por outro lado, quem ouve estas minhas palavras e não as põe em prática é como um homem sem juízo, que construiu sua casa sobre a areia. 27Caiu a chuva, vieram as enchentes, os ventos sopraram e deram contra a casa, e a casa caiu, e sua ruína foi completa!”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Eu vos louvarei, Senhor, entre os povos, e anunciarei o vosso nome aos meus irmãos. (Cf. Sl 17, 50; 21, 23)",
+    "comunhao": "O que vos digo na escuridão, dizei-o à luz do dia; o que escutais ao pé do ouvido, proclamai-o sobre os telhados, diz o Senhor. (Cf. Mt 10, 27)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "28/12/2026",
+  "liturgia": "Os Santos Inocentes, mártires, Festa",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, hoje os mártires Inocentes proclamaram o vosso louvor, não por palavras, mas pela morte; concedei que também nossa vida testemunhe a fé que nossos lábios professam. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, nós vos pedimos, os dons da devoção dos vossos fiéis, e purificai os que, com piedade, servem aos vossos mistérios, pelos quais são salvos também os que não vos conhecem. Por Cristo, nosso Senhor.",
+    "comunhao": "Concedei, Senhor, a plenitude da salvação aos fiéis que se alimentaram dos vossos mistérios na festa dos que, ainda sem falar, professaram a fé e foram glorificados pela graça do nascimento do vosso Filho. Que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Jo 1, 5–2, 2",
+        "titulo": "Leitura da Primeira Carta de São João",
+        "texto": "5Caríssimos, a mensagem, que ouvimos de Jesus Cristo e vos anunciamos, é esta: Deus é luz e nele não há trevas. 6Se dissermos que estamos em comunhão com ele, mas andamos nas trevas, estamos mentindo e não nos guiamos pela verdade. 7Mas, se andamos na luz, como ele está na luz, então estamos em comunhão uns com os outros, e o sangue de seu Filho Jesus nos purifica de todo pecado. 8Se dissermos que não temos pecado, estamo-nos enganando a nós mesmos, e a verdade não está dentro de nós. 9Se reconhecermos nossos pecados, então Deus se mostra fiel e justo, para nos perdoar os pecados e nos purificar de toda culpa. 10Se dissermos que nunca pecamos, fazemos dele um mentiroso e sua palavra não está dentro de nós. 2, 1Meus filhinhos, escrevo isto para que não pequeis. No entanto, se alguém pecar, temos junto do Pai um Defensor: Jesus Cristo, o Justo. 2Ele é a vítima de expiação pelos nossos pecados, e não só pelos nossos, mas também pelos pecados do mundo inteiro."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 123(124)",
+        "refrao": "Nossa alma como um pássaro escapou do laço que lhe armara o caçador.",
+        "texto": "— Se o Senhor não estivesse ao nosso lado, quando os homens investiram contra nós, com certeza nos teriam devorado no furor de sua ira contra nós.\n— Então as águas nos teriam submergido, a correnteza nos teria arrastado, e então, por sobre nós teriam passado essas águas sempre mais impetuosas.\n— O laço arrebentou-se de repente, e assim nós conseguimos libertar-nos. O nosso auxílio está no nome do Senhor, do Senhor que fez o céu e fez a terra!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 2, 13-18",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "13Depois que os magos partiram, o Anjo do Senhor apareceu em sonho a José e lhe disse: “Levanta-te, pega o menino e sua mãe e foge para o Egito! Fica lá até que eu te avise! Porque Herodes vai procurar o menino para matá-lo”. 14José levantou-se de noite, pegou o menino e sua mãe, e partiu para o Egito. 15Ali ficou até a morte de Herodes, para se cumprir o que o Senhor havia dito pelo profeta: “Do Egito chamei o meu Filho”. 16Quando Herodes percebeu que os magos o haviam enganado, ficou muito furioso. Mandou matar todos os meninos de Belém e de todo o território vizinho, de dois anos para baixo, exatamente conforme o tempo indicado pelos magos. 17Então se cumpriu o que foi dito pelo profeta Jeremias: 18“Ouviu-se um grito em Ramá, choro e grande lamento: é Raquel que chora seus filhos, e não quer ser consolada, porque eles não existem mais”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Inocentes, as crianças foram mortas por causa de Cristo, seguem o Cordeiro sem mancha, e cantam sem cessar: Glória a vós, Senhor!",
+    "comunhao": "Estes são os que foram resgatados do meio da humanidade como primeira oferta a Deus e ao Cordeiro. Eles seguem o Cordeiro aonde quer que vá. (Cf. Ap 14, 4)"
+  }
+}

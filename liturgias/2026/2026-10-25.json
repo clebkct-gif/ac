@@ -1,0 +1,46 @@
+{
+  "data": "25/10/2026",
+  "liturgia": "30º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, aumentai em nós a fé, a esperança e a caridade e, para merecermos alcançar o que prometeis, fazei-nos amar o que ordenais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Olhai benigno, nós vos pedimos, Senhor, os dons que vos apresentamos, e nossa celebração seja, antes de tudo, para a vossa glória. Por Cristo, nosso Senhor.",
+    "comunhao": "Os vossos sacramentos, Senhor, realizem o que significam, a fim de que um dia possamos entrar em plena posse do mistério que agora em ritos celebramos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ex 22,20-26",
+        "titulo": "Leitura do livro do Êxodo",
+        "texto": "Assim diz o Senhor: 20Não oprimas nem maltrates o estrangeiro, pois vós fostes estrangeiros na terra do Egito. 21Não façais mal algum à viúva nem ao órfão. 22Se os maltratardes, gritarão por mim e eu ouvirei o seu clamor. 23Minha cólera, então, se inflamará e eu vos matarei à espada; vossas mulheres ficarão viúvas, e órfãos os vossos filhos. 24Se emprestares dinheiro a alguém do meu povo, a um pobre que vive ao teu lado, não sejas um usurário, dele cobrando juros. 25Se tomares como penhor o manto do teu próximo, deverás devolvê-lo antes do pôr do sol. 26Pois é a única veste que tem para o seu corpo, e coberta que ele tem para dormir. Se clamar por mim, eu o ouvirei, porque sou misericordioso."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 17(18)",
+        "refrao": "Eu vos amo, ó Senhor, sois minha força e salvação.",
+        "texto": "– Eu vos amo, ó Senhor! Sois minha força, minha rocha, meu refúgio e salvador! Ó meu Deus, sois o rochedo que me abriga, minha força e poderosa salvação.\n– Ó meu Deus, sois o rochedo que me abriga, sois meu escudo e proteção: em vós espero! Invocarei o meu Senhor: a ele a glória! E dos meus perseguidores serei salvo!\n– Viva o Senhor! Bendito seja o meu rochedo! E louvado seja Deus, meu salvador! Concedeis ao vosso rei grandes vitórias e mostrais misericórdia ao vosso ungido."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "1Ts 1,5-10",
+        "titulo": "Leitura da primeira carta de São Paulo aos Tessalonicenses",
+        "texto": "Irmãos, 5sabeis de que maneira procedemos entre vós, para o vosso bem. 6E vós vos tornastes imitadores nossos e do Senhor, acolhendo a Palavra com a alegria do Espírito Santo, apesar de tantas tribulações. 7Assim vos tornastes modelo para todos os fiéis da Macedônia e da Acaia. 8Com efeito, a partir de vós, a Palavra do Senhor não se divulgou apenas na Macedônia e na Acaia, mas a vossa fé em Deus propagou-se por toda parte. Assim, nós já nem precisamos de falar, 9pois as pessoas mesmas contam como vós nos acolhestes e como vos convertestes, abandonando os falsos deuses para servir ao Deus vivo e verdadeiro, 10esperando dos céus o seu Filho, a quem ele ressuscitou dentre os mortos: Jesus, que nos livra do castigo que está por vir."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 22,34-40",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 34os fariseus ouviram dizer que Jesus tinha feito calar os saduceus. Então eles se reuniram em grupo 35e um deles perguntou a Jesus, para experimentá-lo: 36“Mestre, qual é o maior mandamento da Lei?” 37Jesus respondeu: “‘Amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma e de todo o teu entendimento!’ 38Esse é o maior e o primeiro mandamento. 39O segundo é semelhante a esse: ‘Amarás ao teu próximo como a ti mesmo’. 40Toda a Lei e os Profetas dependem desses dois mandamentos”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Exulte o coração que busca a Deus! Procurai o Senhor Deus e seu poder, buscai constantemente a sua face. (Cf. Sl 104, 3-4)",
+    "comunhao": "Nós nos alegraremos na vossa salvação e no nome do nosso Deus exultaremos. (Cf. Sl 19, 6)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": "11/10/2026",
+  "liturgia": "28º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Nós vos pedimos, Senhor, que vossa graça nos preceda e acompanhe e nos torne atentos para perseverar na prática do bem. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, as preces dos fiéis com a oblação do sacrifício, para que possamos, por este serviço da nossa piedosa devoção, alcançar a glória do céu. Por Cristo, nosso Senhor.",
+    "comunhao": "Deus todo-poderoso, nós vos pedimos humildemente: assim como nos alimentais com o sacramento do Corpo e Sangue de Cristo, fazei-nos participar da natureza divina. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 25,6-10",
+        "titulo": "Leitura do livro do profeta Isaías",
+        "texto": "6O Senhor dos exércitos dará neste monte, para todos os povos, um banquete de ricas iguarias, regado com vinho puro, servido de pratos deliciosos e dos mais finos vinhos. 7Ele removerá, neste monte, a ponta da cadeia que ligava todos os povos, a teia em que tinha envolvido todas as nações. 8O Senhor Deus eliminará para sempre a morte, e enxugará as lágrimas de todas as faces, e acabará com a desonra do seu povo em toda a terra; o Senhor o disse. 9Naquele dia se dirá: “Este é o nosso Deus, esperamos nele, até que nos salvou; este é o Senhor, nele temos confiado: vamos alegrar-nos e exultar por nos ter salvo”. 10E a mão do Senhor repousará sobre este monte."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 22(23)",
+        "refrao": "Na casa do Senhor habitarei eternamente.",
+        "texto": "– O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha e restaura as minhas forças.\n– Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei; estais comigo com bastão e com cajado: eles me dão a segurança!\n– Preparais à minha frente uma mesa, bem à vista do inimigo, e com óleo vós ungis minha cabeça; o meu cálice transborda.\n– Felicidade e todo bem hão de seguir-me por toda a minha vida; e na casa do Senhor habitarei pelos tempos infinitos."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Fl 4,12-14.19-20",
+        "titulo": "Leitura da carta de são Paulo aos Filipenses",
+        "texto": "Irmãos, 12sei viver na miséria e sei viver na abundância. Eu aprendi o segredo de viver em toda e qualquer situação, estando farto ou passando fome, tendo de sobra ou sofrendo necessidade. 13Tudo posso naquele que me dá força. 14No entanto, fizestes bem em compartilhar as minhas dificuldades. 19O meu Deus proverá esplendidamente, com sua riqueza, a todas as vossas necessidades, em Cristo Jesus. 20Ao nosso Deus e Pai, a glória pelos séculos dos séculos. Amém."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 22,1-14",
+        "titulo": "Proclamação do evangelho de Jesus Cristo segundo Mateus",
+        "texto": "[Naquele tempo, 1Jesus voltou a falar em parábolas aos sumos sacerdotes e aos anciãos do povo, dizendo: 2“O reino dos céus é como a história do rei que preparou a festa de casamento do seu filho. 3E mandou os seus empregados para chamar os convidados para a festa, mas estes não quiseram ir. 4O rei mandou outros empregados, dizendo: ‘Dizei aos convidados: já preparei o banquete, os bois e os animais cevados já foram abatidos, e tudo está pronto. Vinde para a festa!’ 5Mas os convidados não deram a menor atenção: um foi para o seu campo, outro para os seus negócios, 6outros agarraram os empregados, bateram neles e os mataram. 7O rei ficou indignado e mandou suas tropas para matar aqueles assassinos e incendiar a cidade deles. 8Em seguida, o rei disse aos empregados: ‘A festa de casamento está pronta, mas os convidados não foram dignos dela. 9Portanto, ide até as encruzilhadas dos caminhos e convidai para a festa todos os que encontrardes’. 10Então os empregados saíram pelos caminhos e reuniram todos os que encontraram, maus e bons. E a sala da festa ficou cheia de convidados”.] 11“Quando o rei entrou para ver os convidados, observou aí um homem que não estava usando traje de festa 12e perguntou-lhe: ‘Amigo, como entraste aqui sem o traje de festa?’ Mas o homem nada respondeu. 13Então o rei disse aos que serviam: ‘Amarrai os pés e as mãos desse homem e jogai-o fora, na escuridão! Aí haverá choro e ranger de dentes’. 14Porque muitos são chamados, e poucos são escolhidos”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Se levardes em conta, Senhor, nossas faltas, quem haverá de subsistir? Mas em vós se encontra o perdão. (Cf. Sl 129, 3-4)",
+    "comunhao": "Os ricos empobrecem e passam fome, mas nada falta aos que procuram o Senhor. (Cf. Sl 33, 11)"
+  }
+}

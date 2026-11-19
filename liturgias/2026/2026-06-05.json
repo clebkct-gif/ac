@@ -1,0 +1,40 @@
+{
+  "data": "05/06/2026",
+  "liturgia": "São Bonifácio, bispo e mártir, Memória",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Interceda por nós, Senhor, o mártir São Bonifácio, para que guardemos fielmente e proclamemos por nossas ações a fé que ele ensinou pela palavra e selou com o seu sangue. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Santificai, Senhor, com vossa bênção, os dons que de vós recebemos e agora vos apresentamos; e acendei em nós o fogo do vosso amor que levou santo mártir São Bonifácio a vencer os tormentos do martírio. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, os sagrados mistérios que comungamos nos concedam a fortaleza de ânimo que levou o santo mártir São Bonifácio a ser fiel no vosso serviço e vitorioso no martírio. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Tm 3,10-17",
+        "titulo": "Leitura da Segunda Carta de São Paulo a Timóteo",
+        "texto": "Caríssimo, 10tu me tens seguido fielmente no ensino, no procedimento, nos projetos, na fé, na paciência, no amor, na perseverança, 11nas perseguições e nos sofrimentos que suportei em Antioquia, Icônio e Listra. E que perseguições sofri! Mas de todas elas o Senhor me livrou. 12Aliás, todos os que quiserem levar uma vida fervorosa em Cristo Jesus serão perseguidos. 13Os homens maus e sedutores irão de mal a pior, enganando e sendo enganados. 14Permanece firme naquilo que aprendeste e aceitaste como verdade; tu sabes de quem o aprendeste. 15Desde a infância conheces as Sagradas Escrituras: elas têm o poder de te comunicar a sabedoria que conduz à salvação pela fé em Cristo Jesus. 16Toda a Escritura é inspirada por Deus e útil para ensinar, para argumentar, para corrigir e para educar na justiça, 17a fim de que o homem de Deus seja perfeito e qualificado para toda boa obra."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 118(119",
+        "refrao": "Os que amam vossa lei têm grande paz!",
+        "texto": "— Tantos são os que me afligem e perseguem,mas eu nunca deixarei vossa aliança!\n— Vossa palavra é fundada na verdade, os vossos justos julgamentos são eternos.\n— Os poderosos me perseguem sem motivo; meu coração, porém, só teme a vossa lei.\n— Os que amam vossa lei têm grande paz, e não há nada que os faça tropeçar.\n— Ó Senhor, de vós espero a salvação, pois eu cumpro sem cessar vossos preceitos.\n— Serei fiel à vossa lei, vossa aliança; os meus caminhos estão todos ante vós."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mc 12,35-37",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Marcos",
+        "texto": "Naquele tempo, 35Jesus ensinava no templo, dizendo: “Como é que os mestres da lei dizem que o Messias é filho de Davi? 36O próprio Davi, movido pelo Espírito Santo, falou: ‘Disse o Senhor ao meu Senhor: senta-te à minha direita, até que eu ponha teus inimigos debaixo dos teus pés’. 37Portanto, o próprio Davi chama o Messias de Senhor. Como é que ele pode então ser seu filho?” E uma grande multidão o escutava com prazer."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Este santo lutou até à morte pela lei do seu Deus e não teve medo das ameaças dos ímpios, sua casa estava fundada sobre a rocha.",
+    "comunhao": "Se alguém quer me seguir, renuncie a si mesmo, tome a sua cruz e me siga, diz o Senhor. (Cf. Mt 16,24)"
+  }
+}

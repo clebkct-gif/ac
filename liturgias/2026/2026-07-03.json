@@ -1,0 +1,40 @@
+{
+  "data": "03/07/2026",
+  "liturgia": "São Tomé, Apóstolo, Festa",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Concedei-nos, Deus todo poderoso, celebrar com alegria a festa de São Tomé, para que sejamos sempre sustentados por sua proteção e tenhamos a vida pela fé no nome de Jesus Cristo, que o Apóstolo reconheceu como Senhor. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Na celebração da profissão de fé do apóstolo São Tomé, nós vos oferecemos, Senhor, este sacrifício de louvor, prestando-vos nosso culto de servos, e pedimos humildemente que conserveis em nós os vossos dons. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, neste sacramento recebemos verdadeiramente o Corpo do vosso Filho Unigênito; concedei que proclamemos o Cristo, com nossa vida e ações, reconhecendo nele nosso Deus e Senhor, como fez o apóstolo São Tomé. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ef 2, 19-22",
+        "titulo": "Leitura da Carta de São Paulo aos Efésios",
+        "texto": "Irmãos, 19já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. 20Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas, e o próprio Jesus Cristo como pedra principal. 21É nele que toda a construção se ajusta e se eleva para formar um templo Santo no Senhor. 22E vós também sois integrados nesta construção, para vos tornardes morada de Deus pelo Espírito."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 116",
+        "refrao": "Ide, por todo o mundo, a todos pregai o Evangelho.",
+        "texto": "— Cantai louvores ao Senhor, todas as gentes, povos todos festejai-o!\n— Pois comprovado é seu amor para conosco, para sempre ele é fiel"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 20, 24-29",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "24Tomé, chamado Dídimo, que era um dos doze, não estava com eles quando Jesus veio. 25Os outros discípulos contaram-lhe depois: “Vimos o Senhor!” Mas Tomé disse-lhes: “Se eu não vir a marca dos pregos em suas mãos, se eu não puser o dedo nas marcas dos pregos e não puser a mão no seu lado, não acreditarei”.26Oito dias depois, encontravam-se os discípulos novamente reunidos em casa, e Tomé estava com eles. Estando fechadas as portas, Jesus entrou, pôs-se no meio deles e disse: “A paz esteja convosco”. 27Depois disse a Tomé: “Põe o teu dedo aqui e olha as minhas mãos. Estende a tua mão e coloca-a no meu lado. E não sejas incrédulo, mas fiel”. 28Tomé respondeu: “Meu Senhor e meu Deus!” 29Jesus lhe disse: “Acreditaste, porque me viste? Bem-aventurados os que creram sem terem visto!”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vós sois o meu Deus e eu vos dou graças;  vós sois o meu Deus e eu vos exalto: Eu vos dou graças porque vos tornastes para  mim salvação. (Cf. Sl 117,28.21)",
+    "comunhao": "Coloca aqui a tua mão e reconhece o lugar dos cravos, e não sejas incrédulo, mas fiel. (Cf. Jo 20,27)"
+  }
+}

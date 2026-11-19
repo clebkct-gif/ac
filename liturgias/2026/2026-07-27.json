@@ -1,0 +1,40 @@
+{
+  "data": "27/07/2026",
+  "liturgia": "2ª feira da 17ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, amparo dos que em vós esperam, sem vós nada tem valor, nada é santo. Multiplicai em nós a vossa misericórdia para que, conduzidos por vós usemos agora de tal modo os bens temporais que possamos aderir desde já aos bens eternos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, nós vos pedimos, os dons que recebemos de vossa generosidade e agora vos apresentamos, para que estes santos mistérios, pelo poder da vossa graça nos santifiquem na vida presente e nos conduzam à felicidade eterna. Por Cristo, nosso Senhor.",
+    "comunhao": "Recebemos, Senhor, o divino sacramento, memorial perpétuo da paixão do vosso Filho. Concedei, nós vos pedimos, que sirva para nossa salvação o que ele mesmo nos deixou em seu inefável amor. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 13,1-11",
+        "titulo": "Leitura do Livro do profeta Jeremias",
+        "texto": "1Isto disse-me o Senhor: “Vai comprar um cinto de linho e põe-no em torno da cintura, mas não o deixes molhar na água”. 2Comprei o cinto, conforme a ordem do Senhor, e coloquei-o à cintura. 3E a palavra do Senhor dirigiu-se a mim pela segunda vez, dizendo: 4“Toma o cinto que compraste e tens à cintura, levanta-te e vai ao Eufrates, esconde-o lá na fenda de uma pedra”. 5Fui e o escondi perto do Eufrates, conforme mandara o Senhor. 6Ora, ao cabo de muitos dias, disse-me o Senhor: “Levanta-te, vai ao Eufrates e retira de lá o cinto que te mandei esconder”. 7Fui ao Eufrates, cavei e retirei o cinto do lugar, onde o tinha escondido; mas eis que o cinto tinha apodrecido tanto, que não servia mais para nada. 8E a palavra do Senhor dirigiu-se a mim, dizendo: 9“Isto diz o Senhor: assim farei apodrecer a grande soberba de Judá e de Jerusalém; 10esse povo perverso, que se recusa a ouvir minhas palavras, convive com a maldade no coração e vai atrás de deuses estrangeiros, prestando-lhes culto e prostrando-se diante deles, será como este cinto que não serve mais para nada. 11Pois, assim como o cinto se une à cintura do homem, assim quis eu que toda a casa de Israel e toda a casa de Judá se unissem a mim, diz o Senhor, para ser meu povo, honra do meu nome, louvor e glória. Mas não ouviram”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Dt 32, 18-21",
+        "refrao": "Esqueceram o Deus que os gerou.",
+        "texto": "— Da Rocha que te deu à luz, te esqueceste, do Deus que te gerou, não te lembraste. Vendo isto, o Senhor os desprezou, aborrecido com seus filhos e suas filhas.\n— E disse: “Esconderei deles meu rosto e verei, então, o fim que eles terão, pois, tornaram-se um povo pervertido, são filhos que não têm fidelidade.\n— Com deuses falsos provocaram minha ira, com ídolos vazios me irritaram; vou provocá-los por aqueles que nem são um povo, através de gente louca hei de irritá-los."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 13,31-35",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 31Jesus contou-lhes outra parábola: “O reino dos céus é como uma semente de mostarda que um homem pega e semeia no seu campo. 32Embora ela seja a menor de todas as sementes, quando cresce, fica maior do que as outras plantas. E torna-se uma árvore, de modo que os pássaros vêm e fazem ninhos em seus ramos”. 33Jesus contou-lhes ainda uma outra parábola: “O reino dos céus é como o fermento que uma mulher pega e mistura com três porções de farinha, até que tudo fique fermentado”. 34Tudo isso Jesus falava em parábolas às multidões. Nada lhes falava sem usar parábolas, 35para se cumprir o que foi dito pelo profeta: “Abrirei a boca para falar em parábolas; vou proclamar coisas escondidas desde a criação do mundo”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Deus habita em seu santuário, reúne os fiéis em sua casa; ele mesmo dá vigor e força a seu povo. (Cf. Sl 67, 6-7. 36)",
+    "comunhao": "Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores! (Cf. Sl 102, 2)"
+  }
+}

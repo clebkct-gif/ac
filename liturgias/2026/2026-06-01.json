@@ -1,0 +1,40 @@
+{
+  "data": "01/06/2026",
+  "liturgia": "São Justino, mártir, Memória",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, pela loucura da cruz, ensinastes de modo admirável ao mártir São Justino a sublime sabedoria de Cristo; concedei-nos, por sua intercessão, repelir os erros que nos cercam e permanecer firmes na fé. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei, Senhor, nós vos pedimos, celebrar dignamente estes mistérios, que São Justino defendeu com admirável coragem. Por Cristo, nosso Senhor.",
+    "comunhao": "Refeitos com o pão do céu, nós vos pedimos humildemente, Senhor, que, obedecendo aos ensinamentos do mártir São Justino, possamos permanecer sempre em ação de graças pelos dons que recebemos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Pd 1,2-7",
+        "titulo": "Leitura da Segunda Carta de São Pedro",
+        "texto": "Caríssimos, 2graça e paz vos sejam concedidas abundantemente, porque conheceis Deus e Jesus, nosso Senhor. 3O seu divino poder nos deu tudo o que contribui para a vida e para a piedade, mediante o conhecimento daquele que, pela sua própria glória e virtude, nos chamou. 4Por meio de tudo isso nos foram dadas as preciosas promessas, as maiores que há, a fim de que vos tornásseis participantes da natureza divina, depois de libertos da corrupção, da concupiscência no mundo. 5Por isso mesmo, dedicai todo o esforço em juntar à vossa fé a virtude, à virtude o conhecimento, 6ao conhecimento o autodomínio, ao autodomínio a perseverança, à perseverança a piedade, 7à piedade o amor fraterno e ao amor fraterno a caridade."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 90(91)",
+        "refrao": "Vós sois meu Deus, no qual confio inteiramente.",
+        "texto": "– Quem habita ao abrigo do Altíssimo e vive à sombra do Senhor onipotente, diz ao Senhor: “Sois meu refúgio e proteção, sois o meu Deus, no qual confio inteiramente”.\n– “Porque a mim se confiou, hei de livrá-lo e protegê-lo, pois meu nome ele conhece. Ao invocar-me, hei de ouvi-lo e atendê-lo, a seu lado eu estarei em suas dores.\n– Hei de livrá-lo e de glória coroá-lo, vou conceder-lhe vida longa e dias plenos e vou mostrar-lhe minha graça e salvação.”"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 12,1-12",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 1Jesus começou a falar aos sumos sacerdotes, mestres da lei e anciãos, usando parábolas: “Um homem plantou uma vinha, cercou-a, fez um lagar e construiu uma torre de guarda. Depois arrendou a vinha a alguns agricultores e viajou para longe. 2Na época da colheita, ele mandou um empregado aos agricultores para receber a sua parte dos frutos da vinha. 3Mas os agricultores pegaram o empregado, bateram nele e o mandaram de volta sem nada. 4Então o dono da vinha mandou de novo mais um empregado. Os agricultores bateram na cabeça dele e o insultaram. 5Então o dono mandou ainda mais outro, e eles o mataram. Trataram da mesma maneira muitos outros, batendo em uns e matando outros. 6Restava-lhe ainda alguém: seu filho querido. Por último, ele mandou o filho até os agricultores, pensando: ‘Eles respeitarão meu filho’. 7Mas aqueles agricultores disseram uns aos outros: ‘Esse é o herdeiro. Vamos matá-lo, e a herança será nossa’. 8Então agarraram o filho, o mataram e o jogaram fora da vinha. 9Que fará o dono da vinha? Ele virá, destruirá os agricultores e entregará a vinha a outros. 10Por acaso, não lestes na Escritura: ‘A pedra que os construtores deixaram de lado tornou-se a pedra mais importante; 11isso foi feito pelo Senhor e é admirável aos nossos olhos’?” 12Então os chefes dos judeus procuraram prender Jesus, pois compreenderam que havia contado a parábola para eles. Porém ficaram com medo da multidão e, por isso, deixaram Jesus e foram-se embora."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Os malvados me contaram coisas vãs ignorando vossa lei; eu, porém, anunciei vossa palavra diante dos reis sem me envergonhar. (Cf. Sl 118.85.46)",
+    "comunhao": "Não julguei saber coisa alguma entre vos, a não ser Jesus Cristo, e este, crucificado. (Cf. 1Cor 2,2)"
+  }
+}

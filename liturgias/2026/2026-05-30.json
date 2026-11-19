@@ -1,0 +1,40 @@
+{
+  "data": "30/05/2026",
+  "liturgia": "Sábado da 8ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Fazei, Senhor, que os acontecimentos deste mundo decorram na paz que desejais, e vossa Igreja voz possa servir alegre e tranquila. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, que nos dais o que oferecemos, e aceitais nossa oferta como um gesto de amor, fazei que os vossos dons, nossa única riqueza, frutifiquem para nós em prêmio eterno. Por Cristo, nosso Senhor.",
+    "comunhao": "Saciados pelo dom que nos salva, imploramos, Senhor, a vossa misericórdia, e pedimos que, pelo mesmo sacramento no qual nos alimentais neste mundo, nos leveis benigno a participar da vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jd 17.20-25",
+        "titulo": "Leitura da carta de são Judas",
+        "texto": "17Vós, porém, amados, lembrai-vos das palavras preditas pelos apóstolos de nosso Senhor Jesus Cristo. 20Edificai-vos sobre o fundamento da vossa santíssima fé e rezai, no Santo Espírito, 21de modo que vos mantenhais no amor de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo, para a vida eterna. 22E a uns, que estão com dúvidas, deveis tratar com piedade. 23A outros, deveis salvá-los, arrancando-os do fogo. De outros ainda deveis ter piedade, mas com temor, aborrecendo a própria veste manchada pela carne… 24Àquele que é capaz de guardar-vos da queda e de apresentar-vos perante a sua glória irrepreensíveis e jubilosos, 25ao único Deus, nosso salvador, por Jesus Cristo, nosso Senhor: glória, majestade, poder e domínio, desde antes de todos os séculos, e agora, e por todos os séculos. Amém."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 62(63)",
+        "refrao": "A minha alma tem sede de vós, ó Senhor!",
+        "texto": "– Sois vós, ó Senhor, o meu Deus! Desde a aurora ansioso vos busco! A minha alma tem sede de vós, minha carne também vos deseja, como terra sedenta e sem água!\n– Venho, assim, contemplar-vos no templo, para ver vossa glória e poder. Vosso amor vale mais do que a vida: e por isso meus lábios vos louvam.\n– Quero, pois, vos louvar pela vida e elevar para vós minhas mãos! A minha alma será saciada, como em grande banquete de festa; cantará a alegria em meus lábios, ao cantar para vós meu louvor!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 11,27-33",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 27Jesus e os discípulos foram de novo a Jerusalém. Enquanto Jesus estava andando no templo, os sumos sacerdotes, os mestres da lei e os anciãos aproximaram-se dele e perguntaram: 28“Com que autoridade fazes essas coisas? Quem te deu autoridade para fazer isso?” 29Jesus respondeu: “Vou fazer-vos uma só pergunta. Se me responderdes, eu vos direi com que autoridade faço isso. 30O batismo de João vinha do céu ou dos homens? Respondei-me”. 31Eles discutiam entre si: “Se respondermos que vinha do céu, ele vai dizer: ‘Por que não acreditastes em João?’ 32Devemos então dizer que vinha dos homens?” Mas eles tinham medo da multidão, porque todos, de fato, tinham João na qualidade de profeta. 33Então eles responderam a Jesus: “Não sabemos”. E Jesus disse: “Pois eu também não vos digo com que autoridade faço essas coisas”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor tornou-se meu protetor e me conduziu para um lugar espaçoso; ele me salvou, porque me ama. (Cf. Sl 17,19-20)",
+    "comunhao": "Cantarei ao Senhor pelo bem que ele me fez, entoarei salmos ao nome do Senhor, o Altíssimo (Cf. Sl 12, 6)"
+  }
+}

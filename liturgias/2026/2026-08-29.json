@@ -1,0 +1,40 @@
+{
+  "data": "29/08/2026",
+  "liturgia": "Martírio de São João Batista, Memória",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "O Deus, quisestes que São João Batista fosse o Precursor do vosso Filho no nascimento e na morte; como ele tombou mártir da justiça e da verdade, fazei-nos também lutar corajosamente para testemunhar a vossa palavra. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei-nos, Senhor, pela oferenda que vos apresentamos, aquela retidão nos vossos caminhos que São João Batista, voz que clama no deserto, ensinou e selou, com grande coragem, derramando o seu sangue. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, ao celebrarmos o nascimento de São João Batista para a glória, concedei que veneremos no sacramento recebido a realidade que ele simboliza, e nos alegremos cada vez mais por seus frutos em nossa vida. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 1, 17-19",
+        "titulo": "Leitura do Livro do Profeta Jeremias",
+        "texto": "Naqueles dias, a Palavra do Senhor foi-me dirigida: 17“Vamos, põe a roupa e o cinto, levanta-te e comunica-lhes tudo que eu te mandar dizer: não tenhas medo, senão, eu te farei tremer na presença deles. 18Com efeito, eu te transformarei hoje numa cidade fortificada, numa coluna de ferro, num muro de bronze contra todo o mundo, frente aos reis de Judá e seus príncipes, aos sacerdotes e ao povo da terra; 19eles farão guerra contra ti, mas não prevalecerão, porque eu estou contigo para defender-te”, diz o Senhor."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 70",
+        "refrao": "Minha boca anunciará vossa justiça.",
+        "texto": "— Eu procuro meu refúgio em vós, Senhor: que eu não seja envergonhado para sempre! Porque sois justo, defendei-me e libertai-me! Escutai a minha voz, vinde salvar-me! \n— Sede uma rocha protetora para mim, um abrigo bem seguro que me salve! Porque sois a minha força e meu amparo, o meu refúgio, proteção e segurança! Libertai-me, ó meu Deus, das mãos do ímpio. \n— Porque sois, ó Senhor Deus, minha esperança, em vós confio desde a minha juventude! Sois meu apoio desde antes que eu nascesse, desde o seio maternal, o meu amparo. \n— Minha boca anunciará todos os dias vossa justiça e vossas graças incontáveis. Vós me ensinastes desde a minha juventude, e até hoje canto as vossas maravilhas"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mc 6, 17-29",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Marcos",
+        "texto": "Naquele tempo, 17Herodes tinha mandado prender João, e colocá-lo acorrentado na prisão. Fez isso por causa de Herodíades, mulher do seu irmão Filipe, com quem se tinha casado. 18João dizia a Herodes: “Não te é permitido ficar com a mulher do teu irmão”. 19Por isso Herodíades o odiava e queria matá-lo, mas não podia. 20Com efeito, Herodes tinha medo de João, pois sabia que ele era justo e santo, e por isso o protegia. Gostava de ouvi-lo, embora ficasse embaraçado quando o escutava.21Finalmente, chegou o dia oportuno. Era o aniversário de Herodes, e ele fez um grande banquete para os grandes da corte, os oficiais e os cidadãos importantes da Galileia. 22A filha de Herodíades entrou e dançou, agradando a Herodes e seus convidados. Então o rei disse à moça: “Pede-me o que quiseres e eu to darei”. 23E lhe jurou dizendo: “Eu te darei qualquer coisa que me pedires, ainda que seja a metade do meu reino”.24Ela saiu e perguntou à mãe: “O que vou pedir?” A mãe respondeu: “A cabeça de João Batista”. 25E, voltando depressa para junto do rei, pediu: “Quero que me dês agora, num prato, a cabeça de João Batista”. 26O rei ficou muito triste, mas não pôde recusar. Ele tinha feito o juramento diante dos convidados. 27Imediatamente, o rei mandou que um soldado fosse buscar a cabeça de João.O soldado saiu, degolou-o na prisão, 28trouxe a cabeça num prato e a deu à moça. Ela a entregou à sua mãe. 29Ao saberem disso, os discípulos de João foram lá, levaram o cadáver e o sepultaram."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Quero falar de vossa lei perante os reis e darei meu testemunho sem temor. Muito me alegro com os vossos mandamentos que eu amo, amo tanto, mais que tudo. (Cf. Sl 118, 46-47)",
+    "comunhao": "João respondeu: É necessário que ele cresça e eu diminua. (Cf. Jo 3, 27. 30)"
+  }
+}

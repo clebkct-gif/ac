@@ -1,0 +1,40 @@
+{
+  "data": "31/03/2026",
+  "liturgia": "3ª feira da Semana Santa",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, dai-nos celebrar de tal modo os mistérios da Paixão do Senhor, que possamos receber vosso perdão. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Olhai, Senhor, com bondade, as oferendas da vossa família; e, aos que participam agora dos sagrados dons, concedei chegar à sua plenitude. Por Cristo, nosso Senhor.",
+    "comunhao": "Saciados pelo dom que nos salva, imploramos, Senhor, a vossa misericórdia, a fim de que, pelo mesmo sacramento que nos dais como alimento neste mundo, nos leveis a participar da vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 49, 1-6",
+        "titulo": "Leitura do Livro do Profeta Isaías",
+        "texto": "1Nações marinhas, ouvi-me, povos distantes, prestai atenção: o Senhor chamou-me antes de eu nascer, desde o ventre de minha mãe ele tinha na mente o meu nome; 2fez de minha palavra uma espada afiada, protegeu-me à sombra de sua mão e fez de mim uma flecha aguçada, escondida em sua aljava, 3e disse-me: “Tu és o meu Servo, Israel, em quem serei glorificado”. 4E eu disse: “Trabalhei em vão, gastei minhas forças sem fruto, inutilmente; entretanto o Senhor me fará justiça e o meu Deus me dará recompensa”. 5E agora diz-me o Senhor – ele que me preparou desde o nascimento para ser seu Servo – que eu recupere Jacó para ele e faça Israel unir-se a ele; aos olhos do Senhor esta é a minha glória.6Disse ele: “Não basta seres meu Servo para restaurar as tribos de Jacó e reconduzir os remanescentes de Israel: eu te farei luz das nações, para que minha salvação chegue até aos confins da terra”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 70",
+        "refrao": "Minha boca anunciará vossa justiça.",
+        "texto": "— Eu procuro meu refúgio em vós, Senhor: que eu não seja envergonhado para sempre! Porque sois justo, defendei-me e libertai-me! Escutai a minha voz, vinde salvar-me!\n— Sede uma rocha protetora para mim, um abrigo bem seguro que me salve! Porque sois a minha força e meu amparo, o meu refúgio, proteção e segurança! Libertai-me, ó meu Deus, das mãos do ímpio.\n— Porque sois, ó Senhor Deus, minha esperança, em vós confio desde a minha juventude! Sois meu apoio desde antes que eu nascesse, desde o seio maternal, o meu amparo.\n— Minha boca anunciará todos os dias vossa justiça e vossas graças incontáveis. Vós me ensinastes desde a minha juventude, e até hoje canto as vossas maravilhas."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 13, 21-33. 36-38",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, estando à mesa com seus discípulos, 21Jesus ficou profundamente comovido e testemunhou: “Em verdade, em verdade vos digo, um de vós me entregará”. 22Desconcertados, os discípulos olhavam uns para os outros, pois não sabiam de quem Jesus estava falando.\n23Um deles, a quem Jesus amava, estava recostado ao lado de Jesus. 24Simão Pedro fez-lhe um sinal para que ele procurasse saber de quem Jesus estava falando. 25Então, o discípulo, reclinando-se sobre o peito de Jesus, perguntou-lhe: “Senhor, quem é?”\n26Jesus respondeu: “É aquele a quem eu der o pedaço de pão passado no molho”. Então Jesus molhou um pedaço de pão e deu-o a Judas, filho de Simão Iscariotes. 27Depois do pedaço de pão, Satanás entrou em Judas. Então Jesus lhe disse: “O que tens a fazer, executa-o depressa”.\n28Nenhum dos presentes compreendeu por que Jesus lhe disse isso. 29Como Judas guardava a bolsa, alguns pensavam que Jesus lhe queria dizer: “Compra o que precisamos para a festa”, ou que desse alguma coisa aos pobres. 30Depois de receber o pedaço de pão, Judas saiu imediatamente. Era noite.\n31Depois que Judas saiu, disse Jesus: “Agora foi glorificado o Filho do Homem, e Deus foi glorificado nele. 32Se Deus foi glorificado nele, também Deus o glorificará em si mesmo, e o glorificará logo. 33Filhinhos, por pouco tempo estou ainda convosco. Vós me procurareis, e agora vos digo, como eu disse também aos judeus: ‘Para onde eu vou, vós não podeis ir’”.\n36Simão Pedro perguntou: “Senhor, para onde vais?” Jesus respondeu-lhe: “Para onde eu vou, tu não me podes seguir agora, mas me seguirás mais tarde”. 37Pedro disse: “Senhor, por que não posso seguir-te agora? Eu darei a minha vida por ti!” 38Respondeu Jesus: “Darás a tua vida por mim? Em verdade, em verdade te digo: o galo não cantará antes que me tenhas negado três vezes”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Não me entregueis, Senhor, às mãos dos que me perseguem, pois contra mim se levantaram falsas testemunhas, mas volta-se contra eles a sua iniquidade. (Cf. Sl 26, 12)",
+    "comunhao": "Deus não poupou seu próprio Filho, mas o entregou por todos nós. (Rm 8, 32)"
+  }
+}

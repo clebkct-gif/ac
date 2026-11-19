@@ -1,0 +1,40 @@
+{
+  "data": "02/06/2026",
+  "liturgia": "3ª feira da 9ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, cuja providência jamais falha, nós vos pedimos humildemente: afastai de nós o que é nocivo, e concedei-nos tudo o que for útil. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, confiantes em vosso amor de Pai, acorremos com nossos dons ao santo altar. Concedei-nos que, ao celebrarmos os vossos mistérios, sejamos purificados por vossa graça santificadora. Por Cristo, nosso Senhor.",
+    "comunhao": "Governai, Senhor, pelo vosso Espírito os que alimentais com o Corpo e do Sangue do vosso Filho. Dai-nos proclamar nossa fé não somente em palavras, mas também pela verdade de nossas ações, para que mereçamos entrar no reino dos céus. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Pd 3,12-15.17-18",
+        "titulo": "Leitura da Segunda Carta de São Pedro",
+        "texto": "Caríssimos, 12esperais com anseio a vinda do dia de Deus, quando os céus em chama se vão derreter e os elementos, consumidos pelo fogo, se fundirão? 13O que nós esperamos, de acordo com a sua promessa, são novos céus e uma nova terra, onde habitará a justiça. 14Caríssimos, vivendo nesta esperança, esforçai-vos para que ele vos encontre numa vida pura e sem mancha e em paz. 15Considerai também como salvação a longanimidade de nosso Senhor. 17Vós, portanto, bem-amados, sabendo disto com antecedência, precavei-vos, para não suceder que, levados pelo engano destes ímpios, percais a própria firmeza. 18Antes procurai crescer na graça e no conhecimento de nosso Senhor e salvador Jesus Cristo. A ele seja dada a glória, desde agora, até o dia da eternidade. Amém."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 89(90)",
+        "refrao": "Ó Senhor, vós fostes sempre um refúgio para nós!",
+        "texto": "– Já bem antes que as montanhas fossem feitas ou a terra e o mundo se formassem, desde sempre e para sempre vós sois Deus.\n– Vós fazeis voltar ao pó todo mortal quando dizeis: “Voltai ao pó, filhos de Adão!” Pois mil anos para vós são como ontem, qual vigília de uma noite que passou.\n– Pode durar setenta anos nossa vida, os mais fortes talvez cheguem a oitenta; a maior parte é ilusão e sofrimento: passam depressa e também nós assim passamos.\n– Saciai-nos de manhã com vosso amor, e exultaremos de alegria todo o dia! Manifestai a vossa obra a vossos servos e a seus filhos revelai a vossa glória!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 12,13-17",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 13as autoridades mandaram alguns fariseus e alguns partidários de Herodes para apanharem Jesus em alguma palavra. 14Quando chegaram, disseram a Jesus: “Mestre, sabemos que tu és verdadeiro e não dás preferência a ninguém. Com efeito, tu não olhas para as aparências do homem, mas ensinas, com verdade, o caminho de Deus. Dize-nos: é lícito ou não pagar o imposto a César? Devemos pagar ou não?” 15Jesus percebeu a hipocrisia deles e respondeu: “Por que me tentais? Trazei-me uma moeda, para que eu a veja”. 16Eles levaram a moeda, e Jesus perguntou: “De quem é a figura e a inscrição que estão nessa moeda?” Eles responderam: “De César”. 17Então Jesus disse: “Dai, pois, a César o que é de César, e a Deus o que é de Deus”. E eles ficaram admirados com Jesus."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Olhai para mim. Senhor, e tende compaixão, porque sou pobre e estou sozinho. Considerai minha miséria e sofrimento e concedei vosso perdão aos meus pecados. (Cf. Sl 24.16.18)",
+    "comunhao": "Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! (Cf. Sl 16,6)"
+  }
+}

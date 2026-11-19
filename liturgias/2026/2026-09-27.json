@@ -1,0 +1,46 @@
+{
+  "data": "27/09/2026",
+  "liturgia": "26º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, que mostrais vosso poder sobretudo no perdão e na misericórdia, derramai em nós a vossa graça, para que, correndo ao encontro das vossas promessas, mereçamos participar dos bens celestes. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei-nos, Deus de misericórdia, que vos agrade esta nossa oblação e que ela nos abra a fonte de toda bênção. Por Cristo, nosso Senhor.",
+    "comunhao": "Fazei, Senhor, que este sacramento celeste renove inteiramente a nossa vida, para que, anunciando a morte de Cristo, possamos participar de sua herança gloriosa. Ele, que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ez 18,25-28",
+        "titulo": "Leitura da Profecia de Ezequiel",
+        "texto": "Assim diz o Senhor: 25“Vós andais dizendo: ‘A conduta do Senhor não é correta’. Ouvi, vós da casa de Israel: é a minha conduta que não é correta ou, antes, é a vossa conduta que não é correta? 26Quando um justo se desvia da justiça, pratica o mal e morre, é por causa do mal praticado que ele morre. 27Quando um ímpio se arrepende da maldade que praticou e observa o direito e a justiça, conserva a própria vida. 28Arrependendo-se de todos os seus pecados, com certeza viverá; não morrerá”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 24(25)",
+        "refrao": "Recordai, Senhor meu Deus, vossa ternura e compaixão!",
+        "texto": "– Mostrai-me, ó Senhor, vossos caminhos e fazei-me conhecer a vossa estrada! Vossa verdade me oriente e me conduza, porque sois o Deus da minha salvação; em vós espero, ó Senhor, todos os dias!\n– Recordai, Senhor meu Deus, vossa ternura e a vossa compaixão, que são eternas! Não recordeis os meus pecados quando jovem nem vos lembreis de minhas faltas e delitos! De mim lembrai-vos, porque sois misericórdia e sois bondade sem limites, ó Senhor!\n– O Senhor é piedade e retidão e reconduz ao bom caminho os pecadores. Ele dirige os humildes na justiça e aos pobres ele ensina o seu caminho."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Fl 2,1-11 ou 1-5",
+        "titulo": "Leitura da carta de São Paulo aos Filipenses",
+        "texto": "[Irmãos, 1se existe consolação na vida em Cristo, se existe alento no mútuo amor, se existe comunhão no Espírito, se existe ternura e compaixão, 2tornai então completa a minha alegria: aspirai à mesma coisa, unidos no mesmo amor; vivei em harmonia, procurando a unidade. 3Nada façais por competição ou vanglória, mas, com humildade, cada um julgue que o outro é mais importante 4e não cuide somente do que é seu, mas também do que é do outro. 5Tende entre vós o mesmo sentimento que existe em Cristo Jesus.] 6Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, 7mas esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano, 8humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz. 9Por isso, Deus o exaltou acima de tudo e lhe deu o nome que está acima de todo nome. 10Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra 11e toda língua proclame: “Jesus Cristo é o Senhor”, para a glória de Deus Pai."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 21,28-32",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, Jesus disse aos sacerdotes e anciãos do povo: 28“Que vos parece? Um homem tinha dois filhos. Dirigindo-se ao primeiro, ele disse: ‘Filho, vai trabalhar hoje na vinha!’ 29O filho respondeu: ‘Não quero’. Mas depois mudou de opinião e foi. 30O pai dirigiu-se ao outro filho e disse a mesma coisa. Este respondeu: ‘Sim, senhor, eu vou’. Mas não foi. 31Qual dos dois fez a vontade do pai?” Os sumos sacerdotes e os anciãos do povo responderam: “O primeiro”. Então Jesus lhes disse: “Em verdade vos digo que os cobradores de impostos e as prostitutas vos precedem no Reino de Deus. 32Porque João veio até vós, num caminho de justiça, e vós não acreditastes nele. Ao contrário, os cobradores de impostos e as prostitutas creram nele. Vós, porém, mesmo vendo isso, não vos arrependestes para crer nele”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Tudo quanto nos fizestes, Senhor, com verdadeira justiça o fizestes, porque pecamos contra vós e não obedecemos a vossos mandamentos; mas dai glória ao vosso nome e tratai-nos conforme a grandeza da vossa misericórdia. (Cf. Dn 3. 31. 29. 30. 43. 42)",
+    "comunhao": "Lembrai-vos, Senhor, da vossa palavra a vosso servo, pela qual me destes esperança; ela me consolou em minha aflição. (Cf. Sl 118, 49-50)"
+  }
+}

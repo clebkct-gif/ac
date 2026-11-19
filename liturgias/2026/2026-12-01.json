@@ -1,0 +1,40 @@
+{
+  "data": "01/12/2026",
+  "liturgia": "3ª feira da 1ª Semana do Advento",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Senhor Deus, sede propício às nossas súplicas, e auxiliai-nos em nossa tribulação. Consolados pela presença do vosso Filho que vem, sejamos purificados da antiga culpa. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, com bondade as nossas humildes preces e oferendas; e como não podemos invocar os nossos méritos, socorrei-nos com o remédio da vossa misericórdia. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos suplicamos, Senhor, que, saciados com o alimento espiritual, pela participação nestes santos mistérios, nos ensineis a apreciar com sabedoria as coisas terrenas e colocar nossas esperanças nos bens eternos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 11,1-10",
+        "titulo": "Leitura do livro do profeta Isaías",
+        "texto": "Naquele dia, 1nascerá uma haste do tronco de Jessé e, a partir da raiz, surgirá o rebento de uma flor. 2Sobre ele repousará o Espírito do Senhor: espírito de sabedoria e discernimento, espírito de conselho e fortaleza, espírito de ciência e temor de Deus; 3no temor do Senhor encontra ele seu prazer. Ele não julgará pelas aparências que vê nem decidirá somente por ouvir dizer, 4mas trará justiça para os humildes e uma ordem justa para os homens pacíficos; fustigará a terra com a força da sua palavra e destruirá o mau com o sopro dos lábios. 5Cingirá a cintura com a correia da justiça e as costas com a faixa da fidelidade. 6O lobo e o cordeiro viverão juntos e o leopardo deitar-se-á ao lado do cabrito; o bezerro e o leão comerão juntos e até mesmo uma criança poderá tangê-los. 7A vaca e o urso pastarão lado a lado, enquanto suas crias descansam juntas; o leão comerá palha como o boi; 8a criança de peito vai brincar em cima do buraco da cobra venenosa; e o menino desmamado não temerá pôr a mão na toca da serpente. 9Não haverá danos nem mortes por todo o meu santo monte: a terra estará tão repleta do saber do Senhor quanto as águas que cobrem o mar. 10Naquele dia, a raiz de Jessé se erguerá como um sinal entre os povos; hão de buscá-la as nações, e gloriosa será a sua morada."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 71(72)",
+        "refrao": "Nos seus dias, a justiça florirá e paz em abundância, para sempre.",
+        "texto": "– Dai ao rei vossos poderes, Senhor Deus, vossa justiça ao descendente da realeza! Com justiça ele governe o vosso povo, com equidade ele julgue os vossos pobres.\n– Nos seus dias, a justiça florirá e grande paz, até que a lua perca o brilho! De mar a mar estenderá o seu domínio, e desde o rio até os confins de toda a terra!\n– Libertará o indigente que suplica e o pobre ao qual ninguém quer ajudar. Terá pena do indigente e do infeliz, e a vida dos humildes salvará.\n– Seja bendito o seu nome para sempre! E que dure como o sol sua memória! Todos os povos serão nele abençoados, todas as gentes cantarão o seu louvor!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 10,21-24",
+        "titulo": "Proclamação do evangelho de Jesus Cristo segundo Lucas",
+        "texto": "21Naquele momento, Jesus exultou no Espírito Santo e disse: “Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e inteligentes e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado. 22Tudo me foi entregue pelo meu Pai. Ninguém conhece quem é o Filho, a não ser o Pai; e ninguém conhece quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar”. 23Jesus voltou-se para os discípulos e disse-lhes em particular: “Felizes os olhos que veem o que vós vedes! 24Pois eu vos digo que muitos profetas e reis quiseram ver o que estais vendo e não puderam ver; quiseram ouvir o que estais ouvindo e não puderam ouvir”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Eis que o Senhor virá e com ele todos os seus santos, e naquele dia brilhará uma grande luz. (Cf. Zc 14,5.7)",
+    "comunhao": "O Senhor, justo juiz, dará a coroa da justiça aos que esperam com amor a sua vinda. (Cf. 2Tm 4,8)"
+  }
+}

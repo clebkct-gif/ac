@@ -1,0 +1,46 @@
+{
+  "data": "20/12/2026",
+  "liturgia": "4º Domingo do Advento",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Infundi, Senhor, a vossa graça em nossos corações para que, conhecendo pela anunciação do anjo e encarnação de Jesus Cristo vosso Filho, cheguemos, por sua paixão e cruz, à glória da ressurreição. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, o mesmo Espírito Santo que com seu poder fecundou o seio de Maria, santifique estas oferendas, colocadas sobre o vosso altar. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus todo-poderoso, tendo recebido o penhor da eterna redenção, nós vos pedimos que, quanto mais se aproxima a festa as salvação, tanto mais cresça o nosso fervor para celebrar dignamente o mistério do Natal do vosso Filho. Que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Sm 7,1-5.8-12.14.16",
+        "titulo": "Leitura do segundo livro de Samuel",
+        "texto": "Tendo-se o rei Davi instalado já em sua casa e tendo-lhe o Senhor dado a paz, livrando-o de todos os seus inimigos, 2ele disse ao profeta Natã: “Vê, eu resido num palácio de cedro, e a arca de Deus está alojada numa tenda!” 3Natã respondeu ao rei: “Vai e faze tudo o que diz o teu coração, pois o Senhor está contigo”. 4Mas, nessa mesma noite, a palavra do Senhor foi dirigida a Natã nestes termos: 5“Vai dizer ao meu servo Davi: ‘Assim fala o Senhor: Porventura és tu que me construirás uma casa para eu habitar? 8Fui eu que te tirei do pastoreio, do meio das ovelhas, para que fosses o chefe do meu povo, Israel. 9Estive contigo em toda parte por onde andaste e exterminei diante de ti todos os teus inimigos, fazendo o teu nome tão célebre como o dos homens mais famosos da terra. 10Vou preparar um lugar para o meu povo, Israel: eu o implantarei, de modo que possa morar lá sem jamais ser inquietado. Os homens violentos não tornarão a oprimi-lo como outrora, 11no tempo em que eu estabelecia juízes sobre o meu povo, Israel. Concedo-te uma vida tranquila, livrando-te de todos os teus inimigos. E o Senhor te anuncia que te fará uma casa. 12Quando chegar o fim dos teus dias e repousares com teus pais, então suscitarei, depois de ti, um filho teu e confirmarei a sua realeza. 14Eu serei para ele um pai e ele será para mim um filho. 16Tua casa e teu reino serão estáveis para sempre diante de mim, e teu trono será firme para sempre’”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 88(89)",
+        "refrao": "Ó Senhor, eu cantarei eternamente o vosso amor!",
+        "texto": "– Ó Senhor, eu cantarei eternamente o vosso amor, de geração em geração eu cantarei vossa verdade! Porque dissestes: “O amor é garantido para sempre!” E a vossa lealdade é tão firme como os céus.\n– “Eu firmei uma aliança com meu servo, meu eleito, e eu fiz um juramento a Davi, meu servidor. Para sempre, no teu trono, firmarei tua linhagem, de geração em geração garantirei o teu reinado!\n– Ele, então, me invocará: ‘Ó Senhor, vós sois meu Pai, sois meu Deus, sois meu rochedo onde encontro a salvação!’ Guardarei eternamente para ele a minha graça e com ele firmarei minha aliança indissolúvel.”"
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Rm 16,25-27",
+        "titulo": "Leitura da carta de são Paulo aos Romanos",
+        "texto": "Irmãos, 25glória seja dada àquele que tem o poder de vos confirmar na fidelidade ao meu evangelho e à pregação de Jesus Cristo, de acordo com a revelação do mistério mantido em sigilo desde sempre. 26Agora esse mistério foi manifestado e, mediante as Escrituras proféticas, conforme determinação do Deus eterno, foi levado ao conhecimento de todas as nações, para trazê-las à obediência da fé. 27A ele, o único Deus, o sábio, por meio de Jesus Cristo, a glória pelos séculos dos séculos. Amém!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 1,26-38",
+        "titulo": "Proclamação do evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 26o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré, 27a uma virgem, prometida em casamento a um homem chamado José. Ele era descendente de Davi, e o nome da virgem era Maria. 28O anjo entrou onde ela estava e disse: “Alegra-te, cheia de graça, o Senhor está contigo!” 29Maria ficou perturbada com essas palavras e começou a pensar qual seria o significado da saudação. 30O anjo, então, disse-lhe: “Não tenhas medo, Maria, porque encontraste graça diante de Deus. 31Eis que conceberás e darás à luz um filho, a quem porás o nome de Jesus. 32Ele será grande, será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de seu pai Davi. 33Ele reinará para sempre sobre os descendentes de Jacó, e o seu reino não terá fim”. 34Maria perguntou ao anjo: “Como acontecerá isso se eu não conheço homem algum?” 35O anjo respondeu: “O Espírito virá sobre ti, e o poder do Altíssimo te cobrirá com sua sombra. Por isso, o menino que vai nascer será chamado santo, Filho de Deus. 36Também Isabel, tua parenta, concebeu um filho na velhice. Este já é o sexto mês daquela que era considerada estéril, 37porque para Deus nada é impossível”. 38Maria, então, disse: “Eis aqui a serva do Senhor; faça-se em mim segundo a tua palavra!” E o anjo retirou-se."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Céus, deixai cair o orvalho, as nuvens façam chover o justo; abra-se a terra, deixe germinar o Salvador! (Cf. Is 45, 8)",
+    "comunhao": "Eis que uma virgem conceberá e dará à luz um filho; e lhe porá o nome de Emanuel. (Is 7, 14)"
+  }
+}

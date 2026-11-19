@@ -1,0 +1,40 @@
+{
+  "data": "30/07/2026",
+  "liturgia": "5ª feira da 17ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, amparo dos que em vós esperam, sem vós nada tem valor, nada é santo. Multiplicai em nós a vossa misericórdia para que, conduzidos por vós usemos agora de tal modo os bens temporais que possamos aderir desde já aos bens eternos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, nós vos pedimos, os dons que recebemos de vossa generosidade e agora vos apresentamos, para que estes santos mistérios, pelo poder da vossa graça nos santifiquem na vida presente e nos conduzam à felicidade eterna. Por Cristo, nosso Senhor.",
+    "comunhao": "Recebemos, Senhor, o divino sacramento, memorial perpétuo da paixão do vosso Filho. Concedei, nós vos pedimos, que sirva para nossa salvação o que ele mesmo nos deixou em seu inefável amor. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 18, 1-6",
+        "titulo": "Leitura do Livro do Profeta Jeremias",
+        "texto": "1Palavra dirigida a Jeremias, da parte do Senhor: 2“Levanta-te e vai à casa do oleiro, e ali te farei ouvir minhas palavras”. 3Fui à casa do oleiro, e eis que ele estava trabalhando ao torno; 4quando o vaso que moldava com barro se avariava em suas mãos, ei-lo de novo a fazer com esse material um outro vaso, conforme melhor lhe parecesse aos olhos. 5Fez-se em mim a palavra do Senhor: 6“Acaso não posso fazer convosco como este oleiro, casa de Israel? diz o Senhor. Como é o barro na mão do oleiro, assim sois vós em minha mão, casa de Israel”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 145",
+        "refrao": "Feliz quem se apoia no Deus de Jacó!",
+        "texto": "— Bendize, minh’alma, ao Senhor! Bendirei ao Senhor toda a vida, cantarei ao meu Deus sem cessar!\n— Não ponhais vossa fé nos que mandam, não há homem que possa salvar. Ao faltar-lhe o respiro ele volta para a terra de onde saiu; nesse dia seus planos perecem.\n— É feliz todo homem que busca seu auxílio no Deus de Jacó, e que põe no Senhor a esperança. O Senhor fez o céu e a terra, fez o mar e o que neles existe"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 13,47-53",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus à multidão: 47“O reino dos céus é ainda como uma rede lançada ao mar e que apanha peixes de todo tipo. 48Quando está cheia, os pescadores puxam a rede para a praia, sentam-se e recolhem os peixes bons em cestos e jogam fora os que não prestam. 49Assim acontecerá no fim dos tempos: os anjos virão para separar os homens maus dos que são justos 50e lançarão os maus na fornalha de fogo. E aí haverá choro e ranger de dentes. 51Compreendestes tudo isso?” Eles responderam: “Sim”. 52Então Jesus acrescentou: “Assim, pois, todo mestre da lei que se torna discípulo do reino dos céus é como um pai de família que tira do seu tesouro coisas novas e velhas”. 53Quando Jesus terminou de contar essas parábolas, partiu dali."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Deus habita em seu santuário, reúne os fiéis em sua casa; ele mesmo dá vigor e força a seu povo. (Cf. Sl 67, 6-7. 36)",
+    "comunhao": "Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores! (Cf. Sl 102, 2)"
+  }
+}

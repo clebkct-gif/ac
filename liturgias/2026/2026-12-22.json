@@ -1,0 +1,40 @@
+{
+  "data": "22/12/2026",
+  "liturgia": "3ª feira da 4ª Semana do Advento",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Ó Deus, vendo o ser humano entregue à morte, quisestes salvá-lo pela vinda do vosso Filho Unigênito; fazei que, ao proclamarmos humildemente o mistério da encarnação, mereçamos entrar em comunhão com o Redentor. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, confiantes em vossa bondade, acorremos com nossos dons ao santo altar, para que, ao celebrarmos os vossos mistérios, sejamos purificados por vossa graça. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, que a comunhão no vosso sacramento nos dê forças para caminharmos com boas obras ao encontro do Salvador que se aproxima, e para merecermos o prêmio da felicidade eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Sm 1,24-28",
+        "titulo": "Leitura do primeiro livro de Samuel",
+        "texto": "Naqueles dias, 24Ana, logo que o desmamou, levou consigo Samuel à casa do Senhor, em Silo, e mais um novilho de três anos, três arrobas de farinha e um odre de vinho. O menino, porém, era ainda uma criança. 25Depois de sacrificarem o novilho, apresentaram o menino a Eli. 26E Ana disse-lhe: “Ouve, meu senhor, por tua vida, eu sou a mulher que esteve aqui orando ao Senhor, na tua presença. 27Eis o menino por quem eu pedi, e o Senhor ouviu a minha súplica. 28Portanto, eu também o ofereço ao Senhor, a fim de que só a ele sirva em todos os dias da sua vida”. E adoraram o Senhor."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 1Sm 2",
+        "refrao": "Meu coração exultou no meu Senhor, salvador.",
+        "texto": "– Exulta no Senhor meu coração, e se eleva a minha fronte no meu Deus. Minha boca desafia os meus rivais porque me alegro com a vossa salvação.\n– O arco dos fortes foi dobrado, foi quebrado, mas os fracos se vestiram de vigor. Os saciados se empregaram por um pão, mas os pobres e os famintos se fartaram. Muitas vezes deu à luz a que era estéril, mas a mãe de muitos filhos definhou.\n– É o Senhor quem dá a morte e dá a vida, faz descer à sepultura e faz voltar; é o Senhor quem faz o pobre e faz o rico, é o Senhor quem nos humilha e nos exalta.\n– O Senhor ergue do pó o homem fraco, e do lixo ele retira o indigente, para fazê-los assentar-se com os nobres num lugar de muita honra e distinção."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 1,46-56",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 46Maria disse: “A minha alma engrandece o Senhor, 47e o meu espírito se alegra em Deus, meu salvador, 48porque olhou para a humildade de sua serva. Doravante todas as gerações me chamarão bem-aventurada, 49porque o Todo-poderoso fez grandes coisas em meu favor. O seu nome é santo, 50e sua misericórdia se estende, de geração em geração, a todos os que o temem. 51Ele mostrou a força de seu braço: dispersou os soberbos de coração. 52Derrubou do trono os poderosos e elevou os humildes. 53Encheu de bens os famintos e despediu os ricos de mãos vazias. 54Socorreu Israel, seu servo, lembrando-se de sua misericórdia, 55conforme prometera aos nossos pais, em favor de Abraão e de sua descendência para sempre”. 56Maria ficou três meses com Isabel; depois voltou para casa."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Ó portas, levantai vossos frontões! Elevai-vos bem mais alto, antigas portas, a fim de que o Rei da glória possa entrar. (Cf. Sl 23,7)",
+    "comunhao": "A minha alma engrandece o Senhor, porque o Poderoso fez em mim maravilhas. (Cf. Lc 1,46.49)"
+  }
+}

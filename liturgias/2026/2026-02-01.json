@@ -1,0 +1,46 @@
+{
+  "data": "01/02/2026",
+  "liturgia": "4º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Concedei-nos, Senhor nosso Deus, adorar-vos de coração sincero e amar todas as pessoas com verdadeira caridade. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Apresentamos, Senhor, no vosso altar os dons do nosso serviço. Acolhei-os com bondade e transformai-os em sacramento da nossa redenção. Por Cristo, nosso Senhor.",
+    "comunhao": "Alimentados com o sacramento da nossa redenção, nós vos pedimos, Senhor, que, com este auxílio de salvação eterna, cresça sempre mais a verdadeira fé. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Sf 2,3; 3,12-13",
+        "titulo": "Leitura da Profecia de Sofonias",
+        "texto": "3Buscai o Senhor, humildes da terra, que pondes em prática seus preceitos; praticai a justiça, procurai a humildade; achareis talvez um refúgio no dia da cólera do Senhor. 3,12E deixarei entre vós um punhado de homens humildes e pobres. E no nome do Senhor porá sua esperança o resto de Israel. 13Eles não cometerão iniquidades nem falarão mentiras; não se encontrará em sua boca uma língua enganadora; serão apascentados e repousarão, e ninguém os molestará."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "1Cor 1,26-31",
+        "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+        "texto": "26Considerai vós mesmos, irmãos, como fostes chamados por Deus. Pois entre vós não há muitos sábios de sabedoria humana, nem muitos poderosos, nem muitos nobres. 27Na verdade, Deus escolheu o que o mundo considera como estúpido para assim confundir os sábios; Deus escolheu o que o mundo considera como fraco para assim confundir o que é forte; 28Deus escolheu o que para o mundo é sem importância e desprezado, o que não tem nenhuma serventia, para assim mostrar a inutilidade do que é considerado importante, 29para que ninguém possa gloriar-se diante dele. 30É graças a ele que vós estais em Cristo Jesus, o qual se tornou para nós, da parte de Deus: sabedoria, justiça, santificação e libertação, 31para que, como está escrito, “quem se gloria, glorie-se no Senhor”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 145(146)",
+        "refrao": "Felizes os pobres em espírito, porque deles é o Reino dos Céus.",
+        "texto": "– O Senhor é fiel para sempre, faz justiça aos que são oprimidos; ele dá alimento aos famintos, é o Senhor quem liberta os cativos.\n– O Senhor abre os olhos aos cegos, o Senhor faz erguer-se o caído; o Senhor ama aquele que é justo, é o Senhor quem protege o estrangeiro.\n– Ele ampara a viúva e o órfão, mas confunde os caminhos dos maus. O Senhor reinará para sempre! Ó Sião, o teu Deus reinará para sempre e por todos os séculos!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 5,1-12",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 1vendo Jesus as multidões, subiu ao monte e sentou-se. Os discípulos aproximaram-se, 2e Jesus começou a ensiná-los: 3“Bem-aventurados os pobres em espírito, porque deles é o Reino dos Céus. 4Bem-aventurados os aflitos, porque serão consolados. 5Bem-aventurados os mansos, porque possuirão a terra. 6Bem-aventurados os que têm fome e sede de justiça, porque serão saciados. 7Bem-aventurados os misericordiosos, porque alcançarão misericórdia. 8Bem-aventurados os puros de coração, porque verão a Deus. 9Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus. 10Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o Reino dos Céus. 11Bem-aventurados sois vós quando vos injuriarem e perseguirem e, mentindo, disserem todo tipo de mal contra vós por causa de mim. 12Alegrai-vos e exultai, porque será grande a vossa recompensa nos céus."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Salvai-nos, Senhor nosso Deus, e do meio das nações nos congregai, para ao vosso nome agradecer e para termos nossa glória em vos louvar! (Cf. Sl 105, 47)",
+    "comunhao": "Mostrai serena a vossa face ao vosso servo e salvai-me pela vossa compaixão. Não serei confundido, Senhor, porque vos invoquei. (Cf. Sl 30, 17-18)"
+  }
+}

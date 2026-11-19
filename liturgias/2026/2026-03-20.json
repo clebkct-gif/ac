@@ -1,0 +1,40 @@
+{
+  "data": "20/03/2026",
+  "liturgia": "6ª feira da 4ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Ó Deus, que preparastes para a nossa fraqueza os auxílios necessários à nossa renovação, dai-nos recebê-los com alegria e vê-los frutificar em nossa vida. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus todo poderoso, fazei que este sacrifício nos santifique com o seu admirável poder e nos faça chegar, de coração purificado, às festas pascais, fonte da nossa salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, que nos fizestes passar da antiga para a nova aliança, fazei que este sacramento celeste nos liberte da velha condição do pecado e nos renove com uma vida santa. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Sb 2, 1a. 12-22",
+        "titulo": "Leitura do Livro da Sabedoria",
+        "texto": "1aDizem entre si, os ímpios, em seus falsos raciocínios: 12“Armemos ciladas ao justo, porque sua presença nos incomoda: ele se opõe ao nosso modo de agir, repreende em nós as transgressões da lei e nos reprova as faltas contra a nossa disciplina. 13Ele declara possuir o conhecimento de Deus e chama-se ‘filho de Deus’. 14Tornou-se uma censura aos nossos pensamentos e só o vê-lo nos é insuportável; 15sua vida é muito diferente da dos outros, e seus caminhos são imutáveis. 16Somos comparados por ele à moeda falsa e foge de nossos caminhos como de impurezas; proclama feliz a sorte final dos justos e gloria-se de ter a Deus por pai. 17Vejamos, pois, se é verdade o que ele diz, e comprovemos o que vai acontecer com ele. 18Se, de fato, o justo é ‘filho de Deus’, Deus o defenderá e o livrará das mãos dos seus inimigos. 19Vamos pô-lo à prova com ofensas e torturas, para ver a sua serenidade e provar a sua paciência; 20vamos condená-lo à morte vergonhosa, porque, de acordo com suas palavras, virá alguém em seu socorro”. 21Tais são os pensamentos dos ímpios, mas enganam-se; pois a malícia os torna cegos, 22não conhecem os segredos de Deus, não esperam recompensa para a santidade e não dão valor ao prêmio reservado às vidas puras."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 33",
+        "refrao": "Do coração atribulado está perto o Senhor.",
+        "texto": "— O Senhor volta a sua face contra os maus, para da terra apagar sua lembrança. Clamam os justos, e o Senhor bondoso escuta e de todas as angústias os liberta. \n— Do coração atribulado ele está perto e conforta os de espírito abatido. Muitos males se abatem sobre os justos, mas o Senhor de todos eles os liberta. \n— Mesmo os seus ossos ele os guarda e os protege, e nenhum deles haverá de se quebrar. Mas o Senhor liberta a vida dos seus servos, e castigado não será quem nele espera."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 7, 1-2. 10. 25-30",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, 1Jesus andava percorrendo a Galileia. Evitava andar pela Judeia, porque os judeus procuravam matá-lo. 2Entretanto, aproximava-se a festa judaica das Tendas. 10Quando seus irmãos já tinham subido, então também ele subiu para a festa, não publicamente mas sim, como que às escondidas. 25Alguns habitantes de Jerusalém disseram então: “Não é este a quem procuram matar? 26Eis que fala em público e nada lhe dizem. Será que, na verdade, as autoridades reconheceram que ele é o Messias? 27Mas este, nós sabemos donde é. O Cristo, quando vier, ninguém saberá donde ele é”.\n28Em alta voz, Jesus ensinava no Templo, dizendo: “Vós me conheceis e sabeis de onde sou; eu não vim por mim mesmo, mas o que me enviou é fidedigno. A esse, não o conheceis, 29mas eu o conheço, porque venho da parte dele, e ele foi quem me enviou”. 30Então, queriam prendê-lo, mas ninguém pôs a mão nele, porque ainda não tinha chegado a sua hora."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Por vosso nome, salvai-me, Senhor; e dai-me a vossa justiça! Ó meu Deus, atendei a minha prece e escutai as palavras que eu digo! (Cf. Sl 53, 3-4)",
+    "comunhao": "Em Cristo, pelo seu sangue, nós somos libertados. Nele, as nossas faltas são perdoadas, segundo a riqueza da sua graça. (Ef 1, 7)"
+  }
+}

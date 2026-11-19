@@ -1,0 +1,40 @@
+{
+  "data": "29/09/2026",
+  "liturgia": "Santos Miguel, Gabriel e Rafael, Arcanjos, Festa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que organizais de modo admirável o ministério dos anjos e dos homens, concedei-nos, benigno, que sejamos protegidos na terra por aqueles que, no céu, estão sempre junto de vos para vos servir. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e rema, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, nós vos apresentamos, com nossas humildes preces, estas oferendas de louvor; fazei que, levadas pelo ministério dos anjos à vossa presença, sejam recebidas com agrado e obtenham para nós a salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Alimentados pelo pão celeste, nós vos pedimos, Senhor, que, fortificados com seu vigor, sigamos com firmeza no caminho da salvação sob a fiel custódia dos anjos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Dn 7,9-10.13-14",
+        "titulo": "Leitura da Profecia de Daniel",
+        "texto": "9Eu continuava olhando, até que foram colocados uns tronos, e um ancião de muitos dias aí tomou lugar. Sua veste era branca como neve e os cabelos da cabeça, como lã pura; seu trono eram chamas de fogo, e as rodas do trono, como fogo em brasa. 10Derramava-se aí um rio de fogo que nascia diante dele; serviam-no milhares de milhares, e milhões de milhões assistiam-no ao trono; foi instalado o tribunal, e os livros foram abertos. 13Continuei insistindo na visão noturna, e eis que, entre as nuvens do céu, vinha um como filho de homem, aproximando-se do Ancião de muitos dias, e foi conduzido à sua presença. 14Foram-lhe dados poder, glória e realeza, e todos os povos, nações e línguas o serviam: seu poder é um poder eterno que não lhe será tirado, e seu reino, um reino que não se dissolverá."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 137(138)",
+        "refrao": "Perante os vossos anjos, vou cantar-vos, ó Senhor!",
+        "texto": "– Ó Senhor, de coração eu vos dou graças, porque ouvistes as palavras dos meus lábios! Perante os vossos anjos vou cantar-vos e ante o vosso templo vou prostrar-me.\n– Eu agradeço vosso amor, vossa verdade, porque fizestes muito mais que prometestes; naquele dia em que gritei, vós me escutastes e aumentastes o vigor da minha alma.\n– Os reis de toda a terra hão de louvar-vos quando ouvirem, ó Senhor, vossa promessa. Hão de cantar vossos caminhos e dirão: “Como a glória do Senhor é grandiosa!”"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 1,47-51",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João",
+        "texto": "Naquele tempo, 47Jesus viu Natanael, que vinha para ele, e comentou: “Aí vem um israelita de verdade, um homem sem falsidade”. 48Natanael perguntou: “De onde me conheces?” Jesus respondeu: “Antes que Filipe te chamasse, enquanto estavas debaixo da figueira, eu te vi”. 49Natanael respondeu: “Rabi, tu és o Filho de Deus, tu és o rei de Israel”. 50Jesus disse: “Tu crês porque te disse: ‘Eu te vi debaixo da figueira’? Coisas maiores que essa verás!” 51E Jesus continuou: “Em verdade, em verdade, eu vos digo, vereis o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do Homem”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Bendizei ao Senhor, todos os seus Anjos, poderosos executores de suas ordens, sempre prontos para ouvir a sua voz. (Cf Sl 102.20)",
+    "comunhao": "Ó Senhor, de coração eu vos dou graças, perante os vossos Anjos vou cantar-vos, ó meu Deus! (Cf. Sl 137,1)"
+  }
+}

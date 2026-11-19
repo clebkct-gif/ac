@@ -1,0 +1,40 @@
+{
+  "data": "18/06/2026",
+  "liturgia": "5ª feira da 11ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, força daqueles que em vós esperam, sede favorável ao nosso apelo e, como nada podemos em nossa fraqueza, dai-nos sempre o socorro da vossa graça, para que possamos querer e agir conforme a vossa vontade, seguindo os vossos mandamentos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, com estes dons alimentais nossa vida e a renovais pelo sacramento. Concedei, nós vos pedimos, que nunca falte este auxílio ao nosso corpo e à nossa alma. Por Cristo, nosso Senhor.",
+    "comunhao": "Fazei, Senhor, que a sagrada comunhão nos vossos mistérios, sinal da nossa união convosco, realize a unidade na vossa Igreja. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Eclo 48, 1-15",
+        "titulo": "Leitura do Livro do Eclesiástico",
+        "texto": "1O profeta Elias surgiu como um fogo, e sua palavra queimava como uma tocha. 2Fez vir a fome sobre eles e, no seu zelo, reduziu-os a pouca gente. 3Pela palavra do Senhor fechou o céu e de lá fez cair fogo por três vezes. 4Ó Elias, como te tornaste glorioso por teus prodígios! Quem poderia gloriar-se de ser semelhante a ti? 5Tu, que levantaste um homem da morte e dos abismos, pela palavra do Senhor; 6tu, que precipitaste reis na ruína e fizeste cair do leito homens ilustres; 7tu, que ouviste censuras no Sinai e decretos de vingança no Horeb. 8Tu ungiste reis, para tirar vingança, e profetas, para te sucederem; 9tu foste arrebatado num turbilhão de fogo, um carro de cavalos também de fogo, 10tu, nas ameaças para os tempos futuros, foste designado para acalmar a ira do Senhor antes do furor, para reconduzir o coração do pai ao filho, e restabelecer as tribos de Jacó.,11Felizes os que te viram, e os que adormeceram na tua amizade! 12Nós também, com certeza, viveremos; mas, após a morte, não será tal o nosso nome. 13Apenas Elias foi envolvido no turbilhão, Eliseu ficou repleto do seu espírito. Durante a vida não temeu príncipe algum, e ninguém o superou em poder. 14Nada havia acima de suas forças, e, até já morto, seu corpo profetizou. 15Durante a vida realizou prodígios e, mesmo na morte, suas obras foram maravilhosas."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 96",
+        "refrao": "Ó justos, alegrai-vos no Senhor!",
+        "texto": "— Deus é Rei! Exulte a terra de alegria, e as ilhas numerosas rejubilem! Treva e nuvem o rodeiam no seu trono, que se apoia na justiça e no direito.\n— Vai um fogo caminhando à sua frente e devora ao redor seus inimigos. Seus relâmpagos clareiam toda a terra; toda a terra ao contemplá-los estremece.\n— As montanhas se derretem como cera ante a face do Senhor de toda a terra; e assim proclama o céu sua justiça, todos os povos podem ver a sua glória.\n— “Os que adoram as estátuas se envergonhem e os que põem a sua glória nos seus ídolos; aos pés de Deus vêm se prostrar todos os deuses!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 6, 7-15",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 7“Quando orardes, não useis muitas palavras, como fazem os pagãos. Eles pensam que serão ouvidos por força das muitas palavras.\n8Não sejais como eles, pois vosso Pai sabe do que precisais, muito antes que vós o peçais.9Vós deveis rezar assim: Pai nosso que estás nos céus, santificado seja o teu nome; 10venha o teu Reino; seja feita a tua vontade, assim na terra como nos céus. 11O pão nosso de cada dia dá-nos hoje. 12Perdoa as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido. 13E não nos deixes cair em tentação, mas livra-nos do mal.\n14De fato, se vós perdoardes aos homens as faltas que eles cometeram, vosso Pai que está nos céus também vos perdoará. 15Mas, se vós não perdoardes aos homens, vosso Pai também não perdoará as faltas que vós cometestes”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Escutai, Senhor, a voz do meu apelo. Sede meu amparo; não me rejeiteis, nem me abandoneis, o Deus meu Salvador. (Cf. Sl 26,7.9)",
+    "comunhao": "Ao Senhor eu peço apenas uma coisa, e só isto que eu desejo: habitar no santuário do Senhor por toda a minha vida. Pai santo, guarda-os em teu nome, aqueles que me deste, para que sejam um como nos, diz o Senhor. (Cf Sl 26.4)"
+  }
+}

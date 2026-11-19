@@ -1,0 +1,40 @@
+{
+  "data": "07/09/2026",
+  "liturgia": "2ª feira da 23ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, olhai com bondade os que redimistes e adotastes como filhos e filhas, e concedei aos que creem no Cristo a verdadeira liberdade e a herança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, fonte da verdadeira piedade e da paz, concedei que vos honremos dignamente nesta celebração e, pela fiel participação nos sagrados mistérios, sejam reforçados os laços que nos unem. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, que alimentais e fortaleceis vossos fiéis com o pão da Palavra e da Eucaristia, concedei-nos desfrutar de tal modo destes dons do vosso amado Filho, que mereçamos para sempre viver em comunhão com ele. Que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Cor 5, 1-8",
+        "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+        "texto": "Irmãos, 1é voz geral que está acontecendo, entre vós, um caso de imoralidade; e de imoralidade tal que nem entre os pagãos costuma acontecer: um dentre vós está convivendo com a própria madrasta. 2No entanto, estais inchados de orgulho, ao invés de vestirdes luto, a fim de que fosse tirado do meio de vós aquele que assim procede?,3Pois bem, embora ausente de corpo, mas presente em espírito, eu julguei, como se estivesse aí entre vós, esse tal que tem procedido assim: 4Em nome do Senhor Jesus — estando vós e eu espiritualmente reunidos com o poder do Senhor nosso, Jesus —, 5entregamos tal homem a Satanás, para a ruína da carne, a fim de que o espírito seja salvo, no dia do Senhor. 6Vós vos gloriais sem razão! Acaso ignorais que um pouco de fermento leveda a massa toda?,7Lançai fora o fermento velho, para que sejais uma massa nova, já que deveis ser sem fermento. Pois o nosso cordeiro pascal, Cristo, já está imolado. 8Assim, celebremos a festa, não com velho fermento, nem com fermento de maldade ou de perversidade, mas com os pães ázimos de pureza e de verdade."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 5",
+        "refrao": "Na vossa justiça guiai-me, Senhor!",
+        "texto": "— Não sois um Deus a quem agrade a iniquidade, não pode o mau morar convosco; nem os ímpios poderão permanecer perante os vossos olhos.\n— Detestais o que pratica a iniquidade e destruís o mentiroso. Ó Senhor, abominais o sanguinário, o perverso e enganador.\n— Mas exulte de alegria todo aquele que em vós se refugia; sob a vossa proteção se regozijem, os que amam vosso nome!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 6, 6-11",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Aconteceu num dia de sábado que 6Jesus entrou na sinagoga, e começou a ensinar. Aí havia um homem cuja mão direita era seca. 7Os mestres da Lei e os fariseus o observavam, para verem se Jesus iria curá-lo em dia de sábado, e assim encontrarem motivo para acusá-lo. 8Jesus, porém, conhecendo seus pensamentos, disse ao homem da mão seca: “Levanta-te, e fica aqui no meio”. Ele se levantou, e ficou de pé. 9Disse-lhes Jesus: “Eu vos pergunto: O que é permitido fazer no sábado: o bem ou o mal, salvar uma vida ou deixar que se perca?”10Então Jesus olhou para todos os que estavam ao seu redor, e disse ao homem: “Estende a tua mão”. O homem assim o fez e sua mão ficou curada. 11Eles ficaram com muita raiva, e começaram a discutir entre si sobre o que poderiam fazer contra Jesus."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vós sois justo, na verdade, ó Senhor, e os vossos julgamentos são corretos. Conforme o vosso amor, Senhor, tratai-me. (Cf. Sl 118, 137. 124)",
+    "comunhao": "Assim como a corça suspira pelas águas correntes, suspira igualmente minh'alma por vós, ó meu Deus! Minha alma tem sede de Deus e deseja o Deus vivo. (Cf. Sl 41, 2-3)"
+  }
+}

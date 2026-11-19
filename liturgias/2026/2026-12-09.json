@@ -1,0 +1,40 @@
+{
+  "data": "09/12/2026",
+  "liturgia": "4ª feira da 2ª Semana do Advento",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Ó Deus todo-poderoso, que nos mandais preparar o caminho para o Cristo Senhor, fazei que, confortados pela presença do divino médico, nenhuma fraqueza possa abater-nos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Possamos, Senhor, oferecer-vos sem cessar este nosso sacrifício, para que, ao celebrarmos o sacramento que nos destes, realizem-se em nós as maravilhas da salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Imploramos, Senhor, vossa clemência, para que estes divinos auxílios nos purifiquem dos pecados e nos preparem para as festas que se aproximam. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 40,25-31",
+        "titulo": "Leitura do livro do profeta Isaías",
+        "texto": "″Com quem haveis de me comparar, e a quem seria eu igual?”, fala o Santo. 26Levantai os olhos para o alto e vede: quem criou tudo isso? Aquele que expressa em números o exército das estrelas e a cada uma chama pelo nome: tal é a grandeza e força e poder de Deus, que nenhuma delas falta à chamada. 27Então, por que dizes, Jacó, e por que falas, Israel: “Minha vida ocultou-se da vista do Senhor e meu julgamento escapa ao do meu Deus”? 28Acaso ignoras ou não ouviste? O Senhor é o Deus eterno que criou os confins da terra; ele não falha nem se cansa, insondável é sua sabedoria; 29ele dá coragem ao desvalido e aumenta o vigor do mais fraco. 30Cansam-se as crianças e param, os jovens tropeçam e caem, 31mas os que esperam no Senhor renovam suas forças, criam asas como as águias, correm sem se cansar, caminham sem parar."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 102(103)",
+        "refrao": "Bendize, ó minha alma, ao Senhor.",
+        "texto": "– Bendize, ó minha alma, ao Senhor, e todo o meu ser, seu santo nome! Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores!\n– Pois ele te perdoa toda culpa e cura toda a tua enfermidade; da sepultura ele salva a tua vida e te cerca de carinho e compaixão.\n– O Senhor é indulgente, é favorável, é paciente, é bondoso e compassivo. Não nos trata como exigem nossas faltas nem nos pune em proporção às nossas culpas."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 11,28-30",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, tomou Jesus a palavra e disse: 28″Vinde a mim todos vós que estais cansados e fatigados sob o peso dos vossos fardos, e eu vos darei descanso. 29Tomai sobre vós o meu jugo e aprendei de mim, porque sou manso e humilde de coração, e vós encontrareis descanso. 30Pois o meu jugo é suave e o meu fardo é leve”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor vai chegar e não tardará: há de iluminar o que as trevas ocultam e se manifestará a todos os povos. (Cf. Hab 2, 3; 1Cor 4, 5)",
+    "comunhao": "Eis que vem o Senhor com seu poder e iluminará os olhos de seus servos. (Cf. Is 40, 10; 34, 5)"
+  }
+}

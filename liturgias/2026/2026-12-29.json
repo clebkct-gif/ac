@@ -1,0 +1,40 @@
+{
+  "data": "29/12/2026",
+  "liturgia": "5º Dia na Oitava de Natal",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus invisível e todo-poderoso, que dissipastes as trevas do mundo com a vinda da vossa luz, volvei para nós o vosso olhar sereno, a f im de que proclamemos dignamente a maravilha do nascimento do vosso Filho Unigênito. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, as nossas oferendas nesta admirável troca de dons, para que, oferecendo-vos o que nos destes, mereçamos acolher-vos em nós. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, ó Deus todo-poderoso, que a nossa vida seja sempre sustentada pela força dos vossos santos mistérios. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Jo 2,3-11",
+        "titulo": "Leitura da primeira carta de são João",
+        "texto": "Caríssimos, 3para saber que conhecemos Jesus, vejamos se guardamos os seus mandamentos. 4Quem diz: “Eu conheço a Deus”, mas não guarda os seus mandamentos, é mentiroso, e a verdade não está nele. 5Naquele, porém, que guarda a sua palavra, o amor de Deus é plenamente realizado. O critério para saber se estamos com Jesus é este: 6quem diz que permanece nele deve também proceder como ele procedeu. 7Caríssimos, não vos comunico um mandamento novo, mas um mandamento antigo, que recebestes desde o início; este mandamento antigo é a palavra que ouvistes. 8No entanto, o que vos escrevo é um mandamento novo – que é verdadeiro nele e em vós –, pois que as trevas passam e já brilha a luz verdadeira. 9Aquele que diz estar na luz, mas odeia o seu irmão, ainda está nas trevas. 10O que ama o seu irmão permanece na luz e não corre perigo de tropeçar. 11Mas o que odeia o seu irmão está nas trevas, caminha nas trevas e não sabe aonde vai, porque as trevas ofuscaram os seus olhos."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 95(96)",
+        "refrao": "O céu se rejubile e exulte a terra!",
+        "texto": "– Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! Cantai e bendizei seu santo nome!\n– Dia após dia anunciai sua salvação, manifestai a sua glória entre as nações e, entre os povos do universo, seus prodígios!\n– Foi o Senhor e nosso Deus quem fez os céus: diante dele vão a glória e a majestade, e o seu templo, que beleza e esplendor!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 2,22-35",
+        "titulo": "Proclamação do evangelho de Jesus Cristo segundo Lucas",
+        "texto": "22Quando se completaram os dias para a purificação da mãe e do filho, conforme a lei de Moisés, Maria e José levaram Jesus a Jerusalém a fim de apresentá-lo ao Senhor. 23Conforme está escrito na lei do Senhor: “Todo primogênito do sexo masculino deve ser consagrado ao Senhor”. 24Foram também oferecer o sacrifício – um par de rolas ou dois pombinhos –, como está ordenado na lei do Senhor. 25Em Jerusalém havia um homem chamado Simeão, o qual era justo e piedoso e esperava a consolação do povo de Israel. O Espírito Santo estava com ele 26e lhe havia anunciado que não morreria antes de ver o Messias que vem do Senhor. 27Movido pelo Espírito, Simeão veio ao templo. Quando os pais trouxeram o menino Jesus para cumprir o que a lei ordenava, 28Simeão tomou o menino nos braços e bendisse a Deus: 29“Agora, Senhor, conforme a tua promessa, podes deixar teu servo partir em paz; 30porque meus olhos viram a tua salvação, 31que preparaste diante de todos os povos: 32luz para iluminar as nações e glória do teu povo Israel”. 33O pai e a mãe de Jesus estavam admirados com o que diziam a respeito dele. 34Simeão os abençoou e disse a Maria, a mãe de Jesus: “Este menino vai ser causa tanto de queda como de reerguimento para muitos em Israel. Ele será um sinal de contradição. 35Assim serão revelados os pensamentos de muitos corações. Quanto a ti, uma espada te traspassará a alma”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Pois Deus amou tanto o mundo, que deu o seu Filho Unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna. (Cf. Jo 3,16)",
+    "comunhao": "Pela bondade e compaixão de nosso Deus, que sobre nós fará brilhar o Sol nascente. (Cf Lc 1,78)"
+  }
+}

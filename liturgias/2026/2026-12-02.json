@@ -1,0 +1,40 @@
+{
+  "data": "02/12/2026",
+  "liturgia": "4ª feira da 1ª Semana do Advento",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Senhor Deus, preparai os nossos corações com a vossa força, para que o vosso Filho, o Cristo que vem, nos encontre dignos do banquete da vida eterna e mereçamos receber o alimento celeste, por ele mesmo servido. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Possamos, Senhor, oferecer-vos sem cessar este nosso sacrifício, para que, ao celebrarmos o sacramento que nos destes, realizem-se em nós as maravilhas da salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Imploramos, Senhor, vossa clemência para que estes divinos auxílios nos purifiquem dos pecados e nos preparem para as festas que se aproximam. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 25, 6-10a",
+        "titulo": "Leitura do Livro do Profeta Isaías",
+        "texto": "Naquele dia, 6o Senhor dos exércitos dará neste monte, para todos os povos, um banquete de ricas iguarias, regado com vinho puro, servido de pratos deliciosos e dos mais finos vinhos. 7Ele removerá, neste monte, a ponta da cadeia que ligava todos os povos, a teia em que tinha envolvido todas as nações. 8O Senhor Deus eliminará para sempre a morte e enxugará as lágrimas de todas as faces e acabará com a desonra do seu povo em toda a terra; o Senhor o disse. 9Naquele dia, se dirá: “Este é o nosso Deus, esperamos nele, até que nos salvou; este é o Senhor, nele temos confiado: vamos alegrar-nos e exultar por nos ter salvo”. 10aE a mão do Senhor repousará sobre este monte."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 22(23)",
+        "refrao": "Na casa do Senhor habitarei pelos tempos infinitos.",
+        "texto": "— O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha, e restaura as minhas forças.\n— Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei. Estais comigo com bastão e com cajado, eles me dão a segurança!\n— Preparais à minha frente uma mesa, bem à vista do inimigo; com óleo vós ungis minha cabeça e o meu cálice transborda.\n— Felicidade e todo bem hão de seguir-me, por toda a minha vida; e, na casa do Senhor, habitarei pelos tempos infinitos"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 15, 29-37",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 29Jesus foi para as margens do mar da Galileia, subiu a montanha, e sentou-se. 30Numerosas multidões aproximaram-se dele, levando consigo coxos, aleijados, cegos, mudos, e muitos outros doentes. Então os colocaram aos pés de Jesus. E ele os curou. 31O povo ficou admirado, quando viu os mudos falando, os aleijados sendo curados, os coxos andando e os cegos enxergando. E glorificaram o Deus de Israel.32Jesus chamou seus discípulos e disse: “Tenho compaixão da multidão, porque já faz três dias que está comigo, e nada tem para comer. Não quero mandá-los embora com fome, para que não desmaiem pelo caminho”.33Os discípulos disseram: “Onde vamos buscar, neste deserto, tantos pães para saciar tão grande multidão?” 34Jesus perguntou: “Quantos pães tendes?” Eles responderam: “Sete, e alguns peixinhos”. 35E Jesus mandou que a multidão se sentasse pelo chão. 36Depois pegou os sete pães e os peixes, deu graças, partiu-os, e os dava aos discípulos, e os discípulos, às multidões. 37Todos comeram, e ficaram satisfeitos; e encheram sete cestos com os pedaços que sobraram."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor vai chegar e não tardará: há de iluminar o que as trevas ocultam e se manifestará a todos os povos. (Cf. Hab 2, 3; 1Cor 4, 5)",
+    "comunhao": "Eis que vem o Senhor com seu poder e iluminará os olhos de seus servos. (Cf. Is 40,10; 35,5)"
+  }
+}
