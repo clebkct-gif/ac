@@ -1,0 +1,40 @@
+{
+  "data": "07/07/2026",
+  "liturgia": "3ª feira da 14ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, pela humilhação do vosso Filho reerguestes o mundo decaído, dai-nos uma santa alegria, para que, livres da servidão do pecado, cheguemos à felicidade eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Fazei, Senhor, que este sacrifício celebrado em honra do vosso nome, nos purifique e nos leve, cada vez mais, a viver a vida do vosso reino. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor, que, enriquecidos por essa tão grande dádiva, possamos colher os frutos da salvação sem jamais cessar vosso louvor. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Os 8, 4-7. 11-13",
+        "titulo": "Leitura da Profecia de Oseias",
+        "texto": "Assim fala o Senhor: 4“Eles constituíram reis sem minha vontade; constituíram príncipes sem meu conhecimento; sua prata e seu ouro serviram para fazer ídolos e para sua perdição. 5Teu bezerro, ó Samaria, foi jogado ao chão; minha cólera inflamou-se contra eles. Até quando ficarão sem purificar-se? 6Esse bezerro provém de Israel; um artesão fabricou-o, isso não é um deus; será feito em pedaços esse bezerro de Samaria. 7Semeiam ventos, colherão tempestades; se não há espiga, o grão não dará farinha; e, mesmo que dê, estranhos a comerão. 11Efraim ergueu muitos altares em expiação do pecado, mas seus altares resultaram-lhe em pecado. 12Eu lhes deixei, por escrito, grande número de preceitos, mas estes foram considerados coisa que não lhes toca. 13Gostam de oferecer sacrifícios, imolam carnes e comem; mas o Senhor não os recebe. Antes, o Senhor lembra seus pecados e castiga suas culpas: eles deverão voltar para o Egito”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 113B",
+        "refrao": "Confia, Israel, no Senhor!",
+        "texto": "— É nos céus que está o nosso Deus, ele faz tudo aquilo que quer. São os deuses pagãos ouro e prata, todos eles são obras humanas.\n— Têm boca e não podem falar, têm olhos e não podem ver; têm nariz e não podem cheirar, tendo ouvidos, não podem ouvir.\n— Têm mãos e não podem pegar, têm pés e não podem andar. Como eles serão seus autores, que os fabricam e neles confiam.\n— Confia, Israel, no Senhor. Ele é teu auxílio e escudo! Confia, Aarão, no Senhor. Ele é teu auxílio e escudo"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 9,32-38",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 32apresentaram a Jesus um homem mudo, que estava possuído pelo demônio. 33Quando o demônio foi expulso, o mudo começou a falar. As multidões ficaram admiradas e diziam: “Nunca se viu coisa igual em Israel”. 34Os fariseus, porém, diziam: “É pelo chefe dos demônios que ele expulsa os demônios”. 35Jesus percorria todas as cidades e povoados, ensinando em suas sinagogas, pregando o evangelho do reino e curando todo tipo de doença e enfermidade. 36Vendo Jesus as multidões, compadeceu-se delas, porque estavam cansadas e abatidas como ovelhas que não têm pastor. Então disse a seus discípulos: 37“A messe é grande, mas os trabalhadores são poucos. 38Pedi, pois, ao dono da messe que envie trabalhadores para a sua colheita!”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Recebemos, Senhor, vossa misericórdia no  meio do vosso templo. Como vosso nome, ó Deus, assim vosso louvor ressoa até os confins da terra; vossa destra está cheia de justiça. (Cf Sl 47,10-11)",
+    "comunhao": "Vinde a mim todos vós que  estais cansados e fatigados, e eu vos darei descanso, diz o Senhor. (Cf. Mt 11,28)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "27/05/2026",
+  "liturgia": "4ª feira da 8ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Fazei, Senhor, que os acontecimentos deste mundo decorram na paz que desejais, e vossa Igreja voz possa servir alegre e tranquila. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, que nos dais o que oferecemos, e aceitais nossa oferta como um gesto de amor, fazei que os vossos dons, nossa única riqueza, frutifiquem para nós em prêmio eterno. Por Cristo, nosso Senhor.",
+    "comunhao": "Saciados pelo dom que nos salva, imploramos, Senhor, a vossa misericórdia, e pedimos que, pelo mesmo sacramento no qual nos alimentais neste mundo, nos leveis benigno a participar da vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Pd 1, 18-25",
+        "titulo": "Leitura da Primeira Carta de São Pedro",
+        "texto": "Caríssimos,18sabeis que fostes resgatadosda vida fútil herdada de vossos pais,não por meio de coisas perecíveis,como a prata ou o ouro,19mas pelo precioso sangue de Cristo,como de um cordeiro sem mancha nem defeito.20Antes da criação do mundo, ele foi destinado para isso,e neste final dos tempos, ele apareceu,por amor de vós.21Por ele é que alcançastes a fé em Deus.Deus o ressuscitou dos mortos e lhe deu a glória,e assim, a vossa fé e esperança estão em Deus.,22Pela obediência à verdade, purificastes as vossas almas,para praticar um amor fraterno sem fingimento.Amai-vos, pois, uns aos outros,de coração e com ardor.23Nascestes de novo,não de uma semente corruptível, mas incorruptível,mediante a palavra de Deus, viva e permanente.24Com efeito,\"toda carne é como erva,e toda a sua glória como a flor da erva;secou-se a erva, cai a sua flor. 25Mas a palavra do Senhor permanece para sempre\".Ora, esta palavra é a que vos foi anunciada no Evangelho."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 147",
+        "refrao": "Glorifica o Senhor, Jerusalém!",
+        "texto": "— Glorifica o Senhor, Jerusalém! Ó Sião, canta louvores ao teu Deus! Pois reforçou com segurança as tuas portas, e os teus filhos em teu seio abençoou; \n— a paz em teus limites garantiu e te dá como alimento a flor do trigo. Ele envia suas ordens para a terra, e a palavra que ele diz corre veloz. \n— Anuncia a Jacó sua palavra, seus preceitos, suas leis a Israel. Nenhum povo recebeu tanto carinho, a nenhum outro revelou os seus preceitos"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mc 10, 32-45",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Marcos",
+        "texto": "Naquele tempo,32os discípulos estavam a caminho, subindo para Jerusalém. Jesus ia na frente. Os discípulos estavam espantados, e aqueles que iam atrás estavam com medo. Jesus chamou de novo os Doze à parte e começou a dizer-lhes o que estava para acontecer com ele:33“Eis que estamos subindo para Jerusalém, e o Filho do Homem vai ser entregue aos sumos sacerdotes e aos doutores da Lei. Eles o condenarão à morte e o entregarão aos pagãos.34Vão zombar dele, cuspir nele, vão torturá-lo e matá-lo. E depois de três dias ele ressuscitará”.35Tiago e João, filhos de Zebedeu, foram a Jesus e lhe disseram: “Mestre, queremos que faças por nós o que vamos pedir”.36Ele perguntou: “O que quereis que eu vos faça?”37Eles responderam: “Deixa-nos sentar um à tua direita e outro à tua esquerda, quando estiveres na tua glória!”38Jesus então lhes disse: “Vós não sabeis o que pedis. Por acaso podeis beber o cálice que eu vou beber? Podeis ser batizados com o batismo com que vou ser batizado?”39Eles responderam: “Podemos”. E ele lhes disse: “Vós bebereis o cálice que eu devo beber, e sereis batizados com o batismo com que eu devo ser batizado.40Mas não depende de mim conceder o lugar à minha direita ou à minha esquerda. É para aqueles a quem foi reservado”.41Quando os outros dez discípulos ouviram isso, indignaram-se com Tiago e João.42Jesus os chamou e disse: “Vós sabeis que os chefes das nações as oprimem e os grandes as tiranizam.43Mas, entre vós, não deve ser assim: quem quiser ser grande, seja vosso servo;44e quem quiser ser o primeiro, seja o escravo de todos.45Porque o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida como resgate para muitos”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor tornou-se meu protetor e me conduziu para um lugar espaçoso; ele me salvou, porque me ama. (Cf. Sl 17,19-20)",
+    "comunhao": "Cantarei ao Senhor pelo bem que ele me fez, entoarei salmos ao nome do Senhor, o Altíssimo (Cf. Sl 12, 6)"
+  }
+}

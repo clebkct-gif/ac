@@ -1,0 +1,40 @@
+{
+  "data": "31/10/2026",
+  "liturgia": "Sábado da 30ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, aumentai em nós a fé, a esperança e a caridade e, para merecermos alcançar o que prometeis, fazei-nos amar o que ordenais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Olhai benigno, nós vos pedimos, Senhor, os dons que vos apresentamos, e nossa celebração seja, antes de tudo, para a vossa glória. Por Cristo, nosso Senhor.",
+    "comunhao": "Os vossos sacramentos, Senhor, realizem o que significam, a fim de que um dia possamos entrar em plena posse do mistério que agora em ritos celebramos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Fl 1,18-26",
+        "titulo": "Leitura da carta de São Paulo aos Filipenses",
+        "texto": "Irmãos, 18de qualquer maneira, com segundas intenções ou com sinceridade, Cristo é anunciado. E eu me alegro com isso e sempre me alegrarei. 19Pois eu sei que isso resultará na minha salvação graças à vossa oração e à assistência do Espírito de Jesus Cristo. 20Segundo a minha viva expectativa e a minha esperança, não terei de corar de vergonha. Se a minha firmeza continuar total, como sempre, então Cristo vai ser glorificado no meu corpo, seja pela minha vida, seja pela minha morte. 21Pois, para mim, o viver é Cristo e o morrer é lucro. 22Entretanto, se o viver na carne significa que meu trabalho será frutuoso, neste caso não sei o que escolher. 23Sinto-me atraído para os dois lados: tenho o desejo de partir, para estar com Cristo – o que para mim seria de longe o melhor -, 24mas para vós é mais necessário que eu continue minha vida neste mundo. 25Por isso, sei com certeza que vou ficar e continuar com vós todos, para que possais progredir e alegrar-vos na fé. 26Assim, com a minha volta para junto de vós, vai aumentar ainda a razão de vos gloriardes em Cristo Jesus."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 41(42)",
+        "refrao": "Minha alma tem sede de Deus, do Deus vivo!",
+        "texto": "– Assim como a corça suspira pelas águas correntes, suspira igualmente minha alma por vós, ó meu Deus!\n– Minha alma tem sede de Deus e deseja o Deus vivo. Quando terei a alegria de ver a face de Deus?\n– Peregrino e feliz caminhando para a casa de Deus, entre gritos, louvor e alegria da multidão jubilosa."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 14,1.7-11¬¬",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "1Aconteceu que, num dia de sábado, Jesus foi comer na casa de um dos chefes dos fariseus. E eles o observavam. 7Jesus notou como os convidados escolhiam os primeiros lugares. Então, contou-lhes uma parábola: 8“Quando tu fores convidado para uma festa de casamento, não ocupes o primeiro lugar. Pode ser que tenha sido convidado alguém mais importante do que tu, 9e o dono da casa, que convidou os dois, venha te dizer: ‘Dá o lugar a ele’. Então tu ficarás envergonhado e irás ocupar o último lugar. 10Mas, quando tu fores convidado, vai sentar-te no último lugar. Assim, quando chegar quem te convidou, te dirá: ‘Amigo, vem mais para cima’. E isso vai ser uma honra para ti diante de todos os convidados. 11Porque quem se eleva será humilhado, e quem se humilha será elevado”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Exulte o coração que busca a Deus! Procurai o Senhor Deus e seu poder, buscai constantemente a sua face. (Cf. SI 104, 3-4)",
+    "comunhao": "Nós nos alegraremos na vossa salvação e no nome do nosso Deus exultaremos. (Cf. Sl 19, 6)"
+  }
+}

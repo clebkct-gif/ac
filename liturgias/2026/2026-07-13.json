@@ -1,0 +1,40 @@
+{
+  "data": "13/07/2026",
+  "liturgia": "2ª feira da 15ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, que mostrais a luz da vossa verdade aos que erram, para retornarem ao bom caminho, dai aos que professam a fé, rejeitar o que não convém ao cristão e abraçar tudo o que é digno deste nome. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Olhai, Senhor, os dons da Igreja em oração e concedei que os fiéis que os recebem possam crescer em santidade. Por Cristo, nosso Senhor.",
+    "comunhao": "Alimentados pelos vossos dons, nós vos pedimos, Senhor, que cresçam em nós os frutos da nossa salvação cada vez que celebramos este mistério. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 1, 10-17",
+        "titulo": "Leitura do Livro do Profeta Isaías",
+        "texto": "10Ouvi a palavra do Senhor, magistrados de Sodoma, prestai ouvidos ao ensinamento do nosso Deus, povo de Gomorra. 11Que me importa a abundância de vossos sacrifícios? — diz o Senhor. Estou farto de holocaustos de carneiros e de gordura de animais cevados; do sangue de touros, de cordeiros e de bodes, não me agrado. 12Quando entrais para vos apresentar diante de mim, quem vos pediu para pisardes os meus átrios? 13Não continueis a trazer oferendas vazias! O incenso é para mim uma abominação! Não suporto lua nova, sábado, convocação de assembleia: iniquidade com reunião solene! 14Vossas luas novas e vossas solenidades, eu as detesto! Elas são para mim um peso, estou cansado de suportá-las. 15Quando estendeis as vossas mãos, escondo de vós os meus olhos. Ainda que multipliqueis a oração, eu não ouço: Vossas mãos estão cheias de sangue! 16Lavai-vos, purificai-vos. Tirai a maldade de vossas ações de minha frente. Deixai de fazer o mal! 17Aprendei a fazer o bem! Procurai o direito, corrigi o opressor. Julgai a causa do órfão, defendei a viúva."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 49",
+        "refrao": "A todo homem que procede retamente, eu mostrarei a salvação que vem de Deus.",
+        "texto": "— Eu não venho censurar teus sacrifícios, pois sempre estão perante mim teus holocaustos; não preciso dos novilhos de tua casa nem dos carneiros que estão nos teus rebanhos.\n— Como ousas repetir os meus preceitos e trazer minha Aliança em tua boca? Tu que odiaste minhas leis e meus conselhos e deste as costas às palavras dos meus lábios!\n— Diante disso que fizeste, eu calarei? Acaso pensas que eu sou igual a ti? É disso que te acuso e repreendo e manifesto essas coisas aos teus olhos.\n— Quem me oferece um sacrifício de louvor, este sim é o que me honra de verdade. A todo homem que procede retamente, eu mostrarei a salvação que vem de Deus”"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 10,34-11,1",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 34“Não penseis que vim trazer paz à terra; não vim trazer a paz, mas sim a espada. 35De fato, vim separar o filho de seu pai, a filha de sua mãe, a nora de sua sogra. 36E os inimigos do homem serão os seus próprios familiares. 37Quem ama seu pai ou sua mãe mais do que a mim não é digno de mim. Quem ama seu filho ou sua filha mais do que a mim não é digno de mim. 38Quem não toma a sua cruz e não me segue não é digno de mim. 39Quem procura conservar a sua vida vai perdê-la. E quem perde a sua vida por causa de mim vai encontrá-la. 40Quem vos recebe, a mim recebe; e quem me recebe, recebe aquele que me enviou. 41Quem recebe um profeta, por ser profeta, receberá a recompensa de profeta. E quem recebe um justo, por ser justo, receberá a recompensa de justo. 42Quem der ainda que seja apenas um copo de água fresca a um desses pequeninos, por ser meu discípulo, em verdade vos digo, não perderá a sua recompensa”. 11,1Quando Jesus acabou de dar essas instruções aos doze discípulos, partiu daí a fim de ensinar e pregar nas cidades deles."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Contemplarei, justificado, a vossa face; e ficarei saciado quando se manifestar vossa glória. (Cf. Sl 16, 15)",
+    "comunhao": "O pássaro encontra abrigo e a andorinha um ninho para pôr os seus filhotes: os vossos altares, Senhor do universo, meu rei e meu Deus!Felizes os que habitam em vossa casa: sem cessar vos louvarão. (Cf. Sl 83, 4-5)"
+  }
+}

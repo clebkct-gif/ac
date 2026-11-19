@@ -1,0 +1,40 @@
+{
+  "data": "05/05/2026",
+  "liturgia": "3ª feira da 5ª Semana da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, na ressurreição de Cristo vós nos renovais para a vida eterna; dai ao vosso povo constância na fé e na esperança, para que jamais duvide do cumprimento das promessas que fizestes. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, os dons da vossa Igreja em festa e concedei o fruto da eterna alegria a quem destes motivo de tão grande júbilo. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, olhai com bondade o vosso povo e fazei chegar à incorruptível ressurreição da carne aqueles que renovastes pelos sacramentos da vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 14, 19-28",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Naqueles dias, 19de Antioquia e Icônio chegaram judeus que convenceram as multidões. Então apedrejaram Paulo e arrastaram-no para fora da cidade, pensando que ele estivesse morto. 20Mas, enquanto os discípulos o rodeavam, Paulo levantou-se e entrou na cidade. No dia seguinte, partiu para Derbe com Barnabé. 21Depois de terem pregado o Evangelho naquela cidade e feito muitos discípulos, voltaram para Listra, Icônio e Antioquia. 22Encorajando os discípulos, eles os exortavam a permanecerem firmes na fé, dizendo-lhes: “É preciso que passemos por muitos sofrimentos para entrar no Reino de Deus”. 23Os apóstolos designaram presbíteros para cada comunidade. Com orações e jejuns, eles os confiavam ao Senhor, em quem haviam acreditado. 24Em seguida, atravessando a Pisídia, chegaram à Panfília. 25Anunciaram a palavra em Perge, e depois desceram para Atália. 26Dali embarcaram para Antioquia, de onde tinham saído, entregues à graça de Deus, para o trabalho que haviam realizado. 27Chegando ali, reuniram a comunidade. Contaram-lhe tudo o que Deus fizera por meio deles e como havia aberto a porta da fé para os pagãos. 28E passaram então algum tempo com os discípulos."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 144",
+        "refrao": "Ó Senhor, vossos amigos anunciem vosso Reino glorioso.",
+        "texto": "— Que vossas obras, ó Senhor, vos glorifiquem, e os vossos santos com louvores vos bendigam! Narrem a glória e o esplendor do vosso reino e saibam proclamar vosso poder! \n— Para espalhar vossos prodígios entre os homens e o fulgor de vosso reino esplendoroso. O vosso reino é um reino para sempre, vosso poder, de geração em geração. \n— Que a minha boca cante a glória do Senhor e que bendiga todo ser seu nome santo desde agora, para sempre e pelos séculos."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 14, 27-31a",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, disse Jesus a seus discípulos: 27“Deixo-vos a paz, a minha paz vos dou; mas não a dou como o mundo. Não se perturbe nem se intimide o vosso coração. 28Ouvistes que eu vos disse: ‘Vou, mas voltarei a vós’. Se me amásseis, ficaríeis alegres porque vou para o Pai, pois o Pai é maior do que eu. 29Disse-vos isto, agora, antes que aconteça, para que, quando acontecer, vós acrediteis.\n30Já não falarei muito convosco, pois o chefe deste mundo vem. Ele não tem poder sobre mim, 31amas, para que o mundo reconheça que eu amo o Pai, eu procedo conforme o Pai me ordenou”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Louvai o nosso Deus, todos os seus servos e todos os que o temeis, pequenos e grandes, pois chegou a salvação, o poder, o reino do nosso Deus e a autoridade do seu Cristo, aleluia. (Cf. Ap 19, 5; 12, 10)",
+    "comunhao": "Se morremos com Cristo, cremos que também viveremos com ele, aleluia! (Rm 6, 8)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "17/10/2026",
+  "liturgia": "Santo Inácio de Antioquia, bispo e mártir, Memória",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus eterno e todo-poderoso, ornais o sagrado corpo da vossa Igreja com o testemunho dos santos mártires; fazei que o glorioso martírio de Santo Inácio de Antioquia, que hoje celebramos, assim como mereceu para ele o esplendor eterno, alcance para nós vossa constante proteção. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, recebei com agrado o sacrifício de nossa devoção, assim como acolhestes Santo Inácio de Antioquia, trigo de Cristo, que, triturado pelos tormentos do martírio, se tornou pão sem mistura. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, sejamos revigorados pelo pão celeste que recebemos na celebração do martírio de Santo Inácio de Antioquia, para que não tenhamos apenas o nome de cristãos, mas o sejamos de fato pelas nossas obras. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ef 1,15-23",
+        "titulo": "Leitura da carta de São Paulo aos Efésios",
+        "texto": "Irmãos, 15desde que soube da vossa fé no Senhor Jesus e do vosso amor para com todos os santos, 16não cesso de dar graças a vosso respeito quando me lembro de vós em minhas orações. 17Que o Deus de nosso Senhor Jesus Cristo, o Pai a quem pertence a glória, vos dê um espírito de sabedoria que vo-lo revele e faça verdadeiramente conhecer. 18Que ele abra o vosso coração à sua luz, para que saibais qual a esperança que o seu chamamento vos dá, qual a riqueza da glória que está na vossa herança com os santos 19e que imenso poder ele exerceu em favor de nós que cremos, de acordo com a sua ação e força onipotente. 20Ele manifestou sua força em Cristo quando o ressuscitou dos mortos e o fez sentar-se à sua direita nos céus, 21bem acima de toda autoridade, poder, potência, soberania ou qualquer título que se possa nomear não somente neste mundo, mas ainda no mundo futuro. 22Sim, ele pôs tudo sob os seus pés e fez dele, que está acima de tudo, a cabeça da Igreja, 23que é o seu corpo, a plenitude daquele que possui a plenitude universal."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 8",
+        "refrao": "Vós destes o domínio ao vosso Filho sobre tudo o que criastes.",
+        "texto": "– Ó Senhor nosso Deus, como é grande vosso nome por todo o universo! Desdobrastes nos céus vossa glória com grandeza, esplendor, majestade. O perfeito louvor vos é dado pelos lábios dos mais pequeninos.\n– Contemplando estes céus que plasmastes e formastes com dedos de artista; vendo a lua e estrelas brilhantes, perguntamos: “Senhor, que é o homem, para dele assim vos lembrardes e o tratardes com tanto carinho?”\n– Pouco abaixo de Deus o fizestes, coroando-o de glória e esplendor; vós lhe destes poder sobre tudo, vossas obras aos pés lhe pusestes."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 12,8-12",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 8“Todo aquele que der testemunho de mim diante dos homens, o Filho do Homem também dará testemunho dele diante dos anjos de Deus. 9Mas aquele que me renegar diante dos homens será negado diante dos anjos de Deus. 10Todo aquele que disser alguma coisa contra o Filho do Homem será perdoado. Mas quem blasfemar contra o Espírito Santo não será perdoado. 11Quando vos conduzirem diante das sinagogas, magistrados e autoridades, não fiqueis preocupados em como ou com que vos defendereis ou com o que direis. 12Pois nessa hora o Espírito Santo vos ensinará o que deveis dizer”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Com Cristo estou pregado na cruz; eu vivo, mas já não sou eu: é Cristo que vive em mim; vivo na fé no Filho de Deus, que me amou e se entregou por mim. (Cf. Gl 2, 19-20)",
+    "comunhao": "Eu sou trigo de Cristo, serei moído pelos dentes das feras, para tornar-me um pão sem mistura."
+  }
+}

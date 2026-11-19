@@ -1,0 +1,40 @@
+{
+  "data": "23/05/2026",
+  "liturgia": "Sábado da 7ª Semana da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus todo-poderoso, nós vos pedimos que, com vossa ajuda generosa, conservemos, em nossa vida e em nossos costumes, o que celebramos nas festas pascais que estamos para encerrar. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, nós vos pedimos: o Espírito Santo, que vem, prepare nossos corações para os divinos sacramentos, pois ele mesmo é a remissão de todos os pecados. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, atendei compassivo as nossas preces e, como nos conduzistes da antiga à nova aliança, sejamos renovados pela santificação dos nossos corações, passando da condição de pecado a uma vida nova. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 28, 16-20. 30-31",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "16Quando entramos em Roma, Paulo recebeu permissão para morar em casa particular, com um soldado que o vigiava. 17Três dias depois, Paulo convocou os líderes dos judeus. Quando estavam reunidos, falou-lhes: “Irmãos, eu não fiz nada contra o nosso povo, nem contra as tradições de nossos antepassados. No entanto, vim de Jerusalém como prisioneiro e, assim, fui entregue às mãos dos romanos. 18Interrogado por eles no tribunal e não havendo nada em mim que merecesse a morte, eles queriam me soltar. 19Mas os judeus se opuseram e eu fui obrigado a apelar para César, sem nenhuma intenção de acusar minha nação. 20É, por isso, que eu pedi para ver-vos e falar-vos, pois estou carregando estas algemas exatamente por causa da esperança de Israel”. 30Paulo morou dois anos numa casa alugada. Ele recebia todos os que o procuravam, 31pregando o Reino de Deus. Com toda a coragem e sem obstáculos, ele ensinava as coisas que se referiam ao Senhor Jesus Cristo."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 10",
+        "refrao": "Ó Senhor, quem tem reto coração há de ver a vossa face.",
+        "texto": "— Deus está no templo santo, e no céu tem o seu trono; volta os olhos para o mundo, seu olhar penetra os homens. \n— Examina o justo e o ímpio, e detesta o que ama o mal. Porque justo é nosso Deus, o Senhor ama a justiça. Quem tem reto coração há de ver a sua face."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 21, 20-25",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, 20Pedro virou-se e viu atrás de si aquele outro discípulo que Jesus amava, o mesmo que se reclinara sobre o peito de Jesus durante a ceia e lhe perguntara: “Senhor, quem é que te vai entregar?” 21Quando Pedro viu aquele discípulo, perguntou a Jesus: “Senhor, o que vai ser deste?” 22Jesus respondeu: “Se eu quero que ele permaneça até que eu venha, o que te importa isso? Tu, segue-me!” 23Então, correu entre os discípulos a notícia de que aquele discípulo não morreria. Jesus não disse que ele não morreria, mas apenas: “Se eu quero que ele permaneça até que eu venha, que te importa?” 24Este é o discípulo que dá testemunho dessas coisas e que as escreveu; e sabemos que o seu testemunho é verdadeiro. 25Jesus fez ainda muitas outras coisas, mas, se fossem escritas todas, penso que não caberiam no mundo os livros que deveriam ser escritos."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Os discípulos perseveraram na oração em comum, junto com algumas mulheres entre as quais Maria, mãe de Jesus, e com os irmãos de Jesus, aleluia. (Cf. At 1,14)",
+    "comunhao": "O Espírito Santo me glorificará, porque receberá do que é meu e vo-lo anunciará, diz o Senhor, aleluia. (Cf. Jo 16.14)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "24/07/2026",
+  "liturgia": "6ª feira da 16ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Senhor, sede propício a vossos fiéis, e, benigno, multiplicai neles os dons da vossa graça, para que, fervorosos na fé, esperança e caridade, perseverem sempre vigilantes na observância dos vossos mandamentos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, no único sacrifício da cruz levastes à plenitude os diversos sacrifícios da antiga lei. Aceitai esta oblação das mãos dos vossos fiéis e santificai-a, com a mesma bênção que destes à oferta de Abel, a fim de que sirva para a salvação de todos o que cada um trouxe em vossa honra. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor misericordioso, permanecei junto ao vosso povo e fazei passar da antiga para a nova vida aqueles que iniciastes nos mistérios do céu. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 3,14-17",
+        "titulo": "Leitura do Livro do profeta Jeremias",
+        "texto": "14“Convertei-vos, filhos, que vos tendes afastado de mim, diz o Senhor, pois eu sou vosso Senhor; vou tomar-vos, um de uma cidade e dois de uma família, e vos reconduzirei a Sião; 15eu vos darei pastores segundo o meu coração, que vos apascentarão com clarividência e sabedoria. 16Quando vos tiverdes multiplicado e crescerdes na terra, naqueles dias, diz o Senhor, não se falará mais da ‘arca da aliança do Senhor’; ela não virá à memória de ninguém, não se lembrarão dela, não a procurarão nem fabricarão outra. 17Naquele tempo, chamarão Jerusalém Trono do Senhor, em torno dela se reunirão, em nome do Senhor, todos os povos; eles não se deixarão mais levar pelas inclinações de um coração mau”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Jr 31, 10-13",
+        "refrao": "O Senhor nos guardará qual pastor a seu rebanho.",
+        "texto": "— Ouvi, nações, a palavra do Senhor e anunciai-a nas ilhas mais distantes: “Quem dispersou Israel, vai congregá-lo, e o guardará qual pastor a seu rebanho!”\n— Pois, na verdade, o Senhor remiu Jacó e o libertou do poder do prepotente. Voltarão para o monte de Sião, entre brados e cantos de alegria afluirão para as bênçãos do Senhor:\n— Então a virgem dançará alegremente, também o jovem e o velho exultarão; mudarei em alegria o seu luto, serei consolo e conforto após a guerra."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 13,18-23",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 18“Ouvi a parábola do semeador: 19todo aquele que ouve a palavra do reino e não a compreende, vem o maligno e rouba o que foi semeado em seu coração. Este é o que foi semeado à beira do caminho. 20A semente que caiu em terreno pedregoso é aquele que ouve a palavra e logo a recebe com alegria; 21mas ele não tem raiz em si mesmo, é de momento: quando chega o sofrimento ou a perseguição por causa da palavra, ele desiste logo. 22A semente que caiu no meio dos espinhos é aquele que ouve a palavra, mas as preocupações do mundo e a ilusão da riqueza sufocam a palavra, e ele não dá fruto. 23A semente que caiu em boa terra é aquele que ouve a palavra e a compreende. Esse produz fruto. Um dá cem, outro sessenta e outro trinta”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Quem me protege e me ampara é meu Deus; é o Senhor quem sustenta minha vida. Quero ofertar-vos o meu sacrifício de coração e com muita alegria (Cf. Sl 53, 6. 8)",
+    "comunhao": "O Senhor bom e clemente nos deixou o memorial de suas grandes maravilhas. Ele dá o alimento aos que o temem. (Cf. Sl 110, 4-5)"
+  }
+}

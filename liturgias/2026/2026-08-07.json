@@ -1,0 +1,40 @@
+{
+  "data": "07/08/2026",
+  "liturgia": "6ª feira da 18ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Assisti, Senhor, os vossos fiéis e cumulai com vossa inesgotável bondade, aqueles que vos imploram e se gloriam de vos ter como criador e guia, restaurando para eles a vossa criação e conservando-a renovada. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Nós vos pedimos, Senhor de bondade, santificai estes donse, aceitando a oblação do sacrifício espiritual, fazei de nós mesmos uma eterna oferenda para vós. Por Cristo, nosso Senhor.",
+    "comunhao": "Acompanhai, Senhor, com vossa constante proteção aqueles que restaurais com os dons do céu e, como não cessais de protegê-los, concedei que se tornem dignos da eterna redenção. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Na 2, 1. 3; 3, 1-3. 6-7",
+        "titulo": "Leitura da Profecia de Naum",
+        "texto": "2 1“Eis sobre os montes os passos de um mensageiro, que anuncia a paz. Ó Judá, celebra tuas festas, cumpre tuas promessas: nunca mais Belial pisará teu solo; ele foi aniquilado. 3O Senhor há de restaurar a grandeza de Jacó, assim como a grandeza de Israel, pois os ladrões os saquearam e devastaram suas videiras. 3, 1Ai de ti, cidade sanguinária, cheia de imposturas, cheia de espoliação e de incessante rapinagem. 2Estalo de chicotes, fragor de rodas, cavalos relinchando, ringir de carros impetuosos, cavaleiros à carga, 3espadas brilhando e lanças reluzentes, trucidados sem conta, mortos aos montes; cadáveres sem fim, tropeça-se sobre os corpos. 6Farei cair sobre ti tuas abominações, e te lançarei em rosto merecidos insultos; de ti farei um exemplo. 7Assim, todos os que te virem, fugirão para longe, dizendo: ‘Nínive está em ruínas! Quem terá compaixão dela? Onde achar quem a console?’”"
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Dt 32, 35-41",
+        "refrao": "Sou eu que tiro a vida, sou eu quem faz viver!",
+        "texto": "— Já vem o dia em que serão arruinados e o seu destino se apressa em chegar. Porque o Senhor fará justiça ao seu povo e salvará todos aqueles que o servem.\n— Saibam todos que eu sou, somente eu, e não existe outro Deus além de mim: quem mata e faz viver, sou eu somente, sou eu que firo e eu que torno a curar.\n— Se eu afiar a minha espada reluzente e com as minhas próprias mãos fizer justiça, dos adversários todos hei de me vingar e vou retribuir aos que odeiam"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 16, 24-28",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 24Jesus disse aos discípulos: “Se alguém quer me seguir, renuncie a si mesmo, tome a sua cruz e me siga. 25Pois quem quiser salvar a sua vida vai perdê-la; e quem perder a sua vida por causa de mim, vai encontrá-la.26De fato, de que adianta ao homem ganhar o mundo inteiro mas perder a sua vida? O que poderá alguém dar em troca de sua vida? 27Porque o Filho do Homem virá na glória do seu Pai, com os seus anjos, e então retribuirá a cada um de acordo com a sua conduta. 28Em verdade vos digo: Alguns daqueles que estão aqui não morrerão antes de verem o Filho do Homem vindo com o seu Reino”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vinde ó Deus em meu auxílio, apressai-vos, ó Senhor, em socorrer-me. Sois meu Deus libertador e meu auxílio. Não tardeis em socorrer-me, ó Senhor! (Cf. Sl 69, 2. 6)",
+    "comunhao": "Vós nos destes, Senhor, o pão do Céu, que contém toda delícia e suave sabor. (Cf. Sb 16, 20)"
+  }
+}

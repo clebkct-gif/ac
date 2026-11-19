@@ -1,0 +1,40 @@
+{
+  "data": "23/11/2026",
+  "liturgia": "2ª feira da 34ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Levantai, Senhor, nós vos pedimos, o ânimo dos vossos fiéis, para que, fazendo frutificar com solicitude a obra da salvação, recebam maiores auxílios de vossa paternal bondade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, os sagrados dons que mandastes oferecer ao vosso nome; e, para que eles nos tornem agradáveis aos olhos da vossa paternal bondade, fazei-nos sempre obedecer a vossos mandamentos. Por Cristo, nosso Senhor.",
+    "comunhao": "Deus todo-poderoso, nós vos pedimos, não permitais que se separem de vós aqueles a quem concedeis a alegria de participar da vossa vida. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ap 14, 1-3. 4b-5",
+        "titulo": "Leitura do Livro do Apocalipse de São João",
+        "texto": "Eu, João, 1tive esta visão: O Cordeiro estava de pé sobre o monte Sião. Com ele, os cento e quarenta e quatro mil que tinham a fronte marcada com o nome dele e o nome do seu Pai. 2Ouvi uma voz que vinha do céu; parecia o barulho de águas torrenciais e o estrondo de um forte trovão. O ruído que ouvi era como o som de músicos tocando harpa. 3Estavam diante do trono, diante dos quatro Seres vivos e dos Anciãos, e cantavam um cântico novo. Era um cântico que ninguém podia aprender; só os cento e quarenta e quatro mil marcados, que foram resgatados da terra. 4bEles seguem o Cordeiro aonde quer que vá. Foram resgatados do meio dos homens, como primeira oferta a Deus e ao Cordeiro. 5Na sua boca nunca foi encontrada mentira. São íntegros!"
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 23(24)",
+        "refrao": "É assim a geração dos que buscam vossa face, ó Senhor, Deus de Israel.",
+        "texto": "— Ao Senhor pertence a terra e o que ela encerra, o mundo inteiro com os seres que o povoam; porque ele a tornou firme sobre os mares, e sobre as águas a mantém inabalável.\n— “Quem subirá até o monte do Senhor, quem ficará em sua santa habitação?” “Quem tem mãos puras e inocente coração, quem não dirige sua mente para o crime.\n— Sobre este desce a bênção do Senhor e a recompensa de seu Deus e Salvador”. “É assim a geração dos que o procuram, e do Deus de Israel buscam a face”"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 21,1-4",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 1Jesus ergueu os olhos e viu pessoas ricas depositando ofertas no tesouro do Templo. 2Viu também uma pobre viúva que depositou duas pequenas moedas. 3Diante disto, ele disse: “Em verdade vos digo que essa pobre viúva ofertou mais do que todos. 4Pois todos eles depositaram, como oferta feita a Deus, aquilo que lhes sobrava. Mas a viúva, na sua pobreza, ofertou tudo quanto tinha para viver”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "É de paz que o Senhor vai falar a seu povo e seus fiéis, e aos que a ele se converterem. (Cf. Sl 84, 9)",
+    "comunhao": "Cantai louvores ao Senhor, todas as gentes, pois comprovado é seu amor para conosco. (Cf. Sl 116, 1. 2)"
+  }
+}

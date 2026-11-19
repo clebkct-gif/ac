@@ -1,0 +1,46 @@
+{
+  "data": "15/11/2026",
+  "liturgia": "33º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Senhor nosso Deus, concedei-nos a graça de sempre nos alegrar em vosso serviço, porque só alcançaremos duradoura e plena felicidade sendo fiéis a vós, criador de todos os bens. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Nós vos pedimos, Senhor, concedei que a oferenda colocada sob vosso divino olhar nos obtenha a graça de vos servir e alcançar um dia a eternidade feliz. Por Cristo, nosso Senhor.",
+    "comunhao": "Alimentados, Senhor, com os dons deste sagrado mistério, nós vos pedimos humildemente que nos faça crescer na caridade a Eucaristia que vosso Filho nos mandou celebrar em sua memória. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Pr 31,10-13.19-20.30-31",
+        "titulo": "Leitura do livro dos Provérbios",
+        "texto": "10Uma mulher forte, quem a encontrará? Ela vale muito mais do que as joias. 11Seu marido confia nela plenamente e não terá falta de recursos. 12Ela lhe dá só alegria e nenhum desgosto, todos os dias de sua vida. 13Procura lã e linho, e com habilidade trabalham as suas mãos. 19Estende a mão para a roca, e seus dedos seguram o fuso. 20Abre suas mãos ao necessitado e estende suas mãos ao pobre. 30O encanto é enganador e a beleza é passageira; a mulher que teme ao Senhor, essa, sim, merece louvor. 31Proclamem o êxito de suas mãos, e na praça louvem-na as suas obras!"
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 127(128)",
+        "refrao": "Felizes os que temem o Senhor e trilham seus caminhos!",
+        "texto": "– Feliz és tu se temes o Senhor e trilhas seus caminhos! Do trabalho de tuas mãos hás de viver, serás feliz, tudo irá bem!\n– A tua esposa é uma videira bem fecunda no coração da tua casa; os teus filhos são rebentos de oliveira ao redor de tua mesa.\n– Será assim abençoado todo homem que teme o Senhor. O Senhor te abençoe de Sião cada dia de tua vida.\n–"
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "1Ts 5,1-6",
+        "titulo": "Leitura da primeira carta de São Paulo aos Tessalonicenses",
+        "texto": "1Quanto ao tempo e à hora, meus irmãos, não há por que vos escrever. 2Vós mesmos sabeis perfeitamente que o dia do Senhor virá como ladrão, de noite. 3Quando as pessoas disserem: “Paz e segurança!”, então de repente sobrevirá a destruição, como as dores de parto sobre a mulher grávida. E não poderão escapar. 4Mas vós, meus irmãos, não estais nas trevas, de modo que esse dia vos surpreenda como um ladrão. 5Todos vós sois filhos da luz e filhos do dia. Não somos da noite nem das trevas. 6Portanto, não durmamos, como os outros, mas sejamos vigilantes e sóbrios."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 25,14-30",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "[Naquele tempo, Jesus contou esta parábola a seus discípulos: 14“Um homem ia viajar para o estrangeiro. Chamou seus empregados e lhes entregou seus bens. 15A um deu cinco talentos, a outro deu dois e ao terceiro, um; a cada qual de acordo com a sua capacidade. Em seguida viajou.] 16O empregado que havia recebido cinco talentos saiu logo, trabalhou com eles e lucrou outros cinco. 17Do mesmo modo, o que havia recebido dois lucrou outros dois. 18Mas aquele que havia recebido um só saiu, cavou um buraco na terra e escondeu o dinheiro do seu patrão. [19Depois de muito tempo, o patrão voltou e foi acertar contas com os empregados. 20O empregado que havia recebido cinco talentos entregou-lhe mais cinco, dizendo: ‘Senhor, tu me entregaste cinco talentos. Aqui estão mais cinco que lucrei’. 21O patrão lhe disse: ‘Muito bem, servo bom e fiel! Como foste fiel na administração de tão pouco, eu te confiarei muito mais. Vem participar da minha alegria!’] 22Chegou também o que havia recebido dois talentos e disse: ‘Senhor, tu me entregaste dois talentos. Aqui estão mais dois que lucrei’. 23O patrão lhe disse: ‘Muito bem, servo bom e fiel! Como foste fiel na administração de tão pouco, eu te confiarei muito mais. Vem participar da minha alegria!’ 24Por fim, chegou aquele que havia recebido um talento e disse: ‘Senhor, sei que és um homem severo, pois colhes onde não plantaste e ceifas onde não semeaste. 25Por isso fiquei com medo e escondi o teu talento no chão. Aqui tens o que te pertence’. 26O patrão lhe respondeu: ‘Servo mau e preguiçoso! Tu sabias que eu colho onde não plantei e ceifo onde não semeei? 27Então devias ter depositado meu dinheiro no banco, para que, ao voltar, eu recebesse com juros o que me pertence’. 28Em seguida, o patrão ordenou: ‘Tirai dele o talento e dai-o àquele que tem dez! 29Porque a todo aquele que tem será dado mais, e terá em abundância, mas daquele que não tem, até o que tem lhe será tirado. 30Quanto a este servo inútil, jogai-o lá fora, na escuridão. Aí haverá choro e ranger de dentes!'”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Meus pensamentos são de paz e não de aflição, diz o Senhor. Vós me invocareis e hei de escutar-vos, e de todos os lugares reconduzirei vossos cativos. (Cf. Jr 29, 11. 12. 14)",
+    "comunhao": "Para mim só há um bem: é estar com Deus é colocar o meu refúgio no Senhor. (Cf. Sl 72, 28)"
+  }
+}

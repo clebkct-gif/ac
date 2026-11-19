@@ -1,0 +1,40 @@
+{
+  "data": "05/03/2026",
+  "liturgia": "5ª feira da 2ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Ó Deus, que amais e restaurais a inocência, orientai para vós os corações dos vossos filhos e filhas, para que, no fervor do vosso Espírito que receberam, sejamos firmes na fé e eficientes nas obras. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, por este sacrifício santificai nossa Quaresma, de modo que sua observância externa possa frutificar em nossos corações. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, que este sacrifício continue a agir em nós e seja confirmado pelas nossas ações. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 17, 5-10",
+        "titulo": "Leitura do Livro do Profeta Jeremias",
+        "texto": "5Isto diz o Senhor: “Maldito o homem que confia no homem e faz consistir sua força na carne humana, enquanto o seu coração se afasta do Senhor; 6como os cardos no deserto, ele não vê chegar a floração, prefere vegetar na secura do ermo, em região salobra e desabitada. 7Bendito o homem que confia no Senhor, cuja esperança é o Senhor; 8é como a árvore plantada junto às águas, que estende as raízes em busca de umidade, por isso não teme a chegada do calor: sua folhagem mantém-se verde, não sofre míngua em tempo de seca e nunca deixa de dar frutos. 9Em tudo é enganador o coração, e isto é incurável; quem poderá conhecê-lo? 10Eu sou o Senhor, que perscruto o coração e provo os sentimentos, que dou a cada qual conforme o seu proceder e conforme o fruto de suas obras”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 1",
+        "refrao": "É feliz quem a Deus se confia!",
+        "texto": "— Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados, nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar. \n— Eis que ele é semelhante a uma árvore, que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar. \n— Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 16, 19-31",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, disse Jesus aos fariseus: 19“Havia um homem rico, que se vestia com roupas finas e elegantes e fazia festas esplêndidas todos os dias.\n20Um pobre, chamado Lázaro, cheio de feridas, estava no chão, à porta do rico. 21Ele queria matar a fome com as sobras que caíam da mesa do rico. E, além disso, vinham os cachorros lamber suas feridas.\n22Quando o pobre morreu, os anjos levaram-no para junto de Abraão. Morreu também o rico e foi enterrado. 23Na região dos mortos, no meio dos tormentos, o rico levantou os olhos e viu de longe a Abraão, com Lázaro ao seu lado. 24Então gritou: ‘Pai Abraão, tem piedade de mim! Manda Lázaro molhar a ponta do dedo para me refrescar a língua, porque sofro muito nestas chamas’.\n25Mas Abraão respondeu: ‘Filho, lembra-te que tu recebeste teus bens durante a vida e Lázaro, por sua vez, os males. Agora, porém, ele encontra aqui consolo e tu és atormentado. 26E, além disso, há um grande abismo entre nós: por mais que alguém desejasse, não poderia passar daqui para junto de vós, e nem os daí poderiam atravessar até nós’.\n27O rico insistiu: ‘Pai, eu te suplico, manda Lázaro à casa do meu pai, 28porque eu tenho cinco irmãos. Manda preveni-los, para que não venham também eles para este lugar de tormento’. 29Mas Abraão respondeu: ‘Eles têm Moisés e os Profetas, que os escutem!’\n30O rico insistiu: ‘Não, Pai Abraão, mas se um dos mortos for até eles, certamente vão se converter’. 31Mas Abraão lhe disse: ‘Se não escutam a Moisés, nem aos Profetas, eles não acreditarão, mesmo que alguém ressuscite dos mortos”’."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Provai-me, ó Deus, e conhecei meus pensamentos: vede se ando pela vereda do mal e conduzi-me no caminho da eternidade. (Cf. Sl 138, 23-24)",
+    "comunhao": "Felizes aqueles cuja vida é pura, que andam na lei do Senhor! (Cf. Sl 118, 1)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "15/05/2026",
+  "liturgia": "6ª feira da 6ª Semana da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Escutai, Senhor, nossas preces, para que a promessa feita com a glorificação do vosso Verbo chegue à plenitude em toda parte pela pregação do Evangelho, e vossos filhos adotivos obtenham o que anunciou a Testemunha da Verdade, nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, aceitai compassivo as oferendas da vossa família e concedei que, sob o auxílio de vossa proteção, não percamos os dons que nos destes e alcancemos os bens eternos. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor: guardai em vosso constante amor os que salvastes, para que, redimidos pela paixão do vosso Filho, se alegrem com a sua ressurreição. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 18, 9-18",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Estando Paulo em Corinto, 9uma noite, o Senhor disse-lhe em visão: “Não tenhas medo; continua a falar e não te cales, 10porque eu estou contigo. Ninguém te porá a mão para fazer mal. Nesta cidade há um povo numeroso que me pertence”. 11Assim Paulo ficou um ano e meio entre eles, ensinando-lhes a Palavra de Deus. 12Na época em que Galião era procônsul na Acaia, os judeus insurgiram-se em massa contra Paulo e levaram-no diante do tribunal, 13dizendo: “Este homem induz o povo a adorar a Deus de modo contrário à Lei”.,14Paulo ia tomar a palavra, quando Galião falou aos judeus, dizendo: “Judeus, se fosse por causa de um delito ou de uma ação criminosa, seria justo que eu atendesse a vossa queixa. 15Mas, como é questão de palavras, de nomes e da vossa Lei, tratai disso vós mesmos. Eu não quero ser juiz nessas coisas”. 16E Galião mandou-os sair do tribunal.,17Então todos agarraram Sóstenes, o chefe da sinagoga, e espancaram-no diante do tribunal. E Galião nem se incomodou com isso. 18Paulo permaneceu ainda vários dias em Corinto. Despedindo-se dos irmãos, embarcou para a Síria, em companhia de Priscila e Áquila. Em Cencréia, Paulo rapou a cabeça, pois tinha feito uma promessa."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 46",
+        "refrao": "O Senhor é o grande Rei de toda a terra.",
+        "texto": "— Povos todos do universo, batei palmas, gritai a Deus aclamações de alegria! Porque sublime é o Senhor, o Deus Altíssimo, o soberano que domina toda a terra. \n— Os povos sujeitou ao nosso jugo e colocou muitas nações aos nossos pés. Foi ele que escolheu a nossa herança, a glória de Jacó, seu bem-amado. \n— Por entre aclamações Deus se elevou, o Senhor subiu ao toque da trombeta. Salmodiai ao nosso Deus ao som da harpa, salmodiai ao som da harpa ao nosso Rei"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 16, 20-23a",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 20“Em verdade, em verdade vos digo: Vós chorareis e vos lamentareis, mas o mundo se alegrará; vós ficareis tristes, mas a vossa tristeza se transformará em alegria. 21A mulher, quando deve dar à luz, fica angustiada porque chegou a sua hora; mas, depois que a criança nasceu, ela já não se lembra dos sofrimentos, por causa da alegria de um homem ter vindo ao mundo.22Também vós agora sentis tristeza, mas eu hei de ver-vos novamente e o vosso coração se alegrará, e ninguém vos poderá tirar a vossa alegria. 23aNaquele dia, não me perguntareis mais nada”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vós nos redimistes, Senhor, pelo vosso sangue de todas as raças, línguas, povos e nações, e fizestes de nós um reino e sacerdotes para nosso Deus, aleluia. (Cf. Ap 5,9-10)",
+    "comunhao": "O Cristo Senhor foi entregue por causa de nossos pecados e foi ressuscitado para nossa justificação, aleluia. (Cf. Rm 4,25)"
+  }
+}

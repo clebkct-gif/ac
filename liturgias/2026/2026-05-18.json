@@ -1,0 +1,40 @@
+{
+  "data": "18/05/2026",
+  "liturgia": "2ª feira da 7ª Semana da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Senhor, venha sobre nós a força do Espírito Santo, para que, com firmeza de coração, possamos acolher vossa vontade e testemunhá-la por uma vida santa. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, o sacrifício imaculado nos purifique, e dê aos nossos corações o vigor da graça do alto. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, nós vos pedimos, permanecei com misericórdia junto ao vosso povo e fazei passar da antiga para a nova vida aqueles que iniciastes nos mistérios celestes. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 19, 1-8",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "1Enquanto Apolo estava em Corinto, Paulo atravessou as regiões montanhosas e chegou a Éfeso. Aí encontrou alguns discípulos e perguntou-lhes: 2“Vós recebestes o Espírito Santo quando abraçastes a fé?” Eles responderam: “Nem sequer ouvimos dizer que existe o Espírito Santo!”,3Então Paulo perguntou: “Que batismo vós recebestes?” Eles responderam: “O batismo de João”. 4Paulo disse-lhes: “João administrava um batismo de conversão, dizendo ao povo que acreditasse naquele que viria depois dele, isto é, em Jesus”. 5Tendo ouvido isso, eles foram batizados no nome do Senhor Jesus.,6Paulo impôs-lhes as mãos e sobre eles desceu o Espírito Santo. Começaram então a falar em línguas e a profetizar. 7Ao todo, eram uns doze homens. 8Paulo foi então à sinagoga e, durante três meses, falava com toda convicção, discutindo e procurando convencer os ouvintes sobre o Reino de Deus."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 67",
+        "refrao": "Reinos da terra, cantai ao Senhor.",
+        "texto": "— Eis que Deus se põe de pé, e os inimigos se dispersam! Fogem longe de sua face os que odeiam o Senhor! Como a fumaça se dissipa, assim também os dissipais, como a cera se derrete, ao contato com o fogo, assim pereçam os iníquos ante a face do Senhor! \n— Mas os justos se alegram na presença do Senhor; rejubilam satisfeitos e exultam de alegria! Cantai a Deus, a Deus louvai, cantai um salmo a seu nome! O seu nome é Senhor: exultai diante dele! \n— Dos órfãos ele é pai, e das viúvas protetor; é assim o nosso Deus em sua santa habitação. É o Senhor quem dá abrigo, dá um lar aos deserdados, quem liberta os prisioneiros e os sacia com fartura"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 16, 29-33",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, 29os discípulos disseram a Jesus: “Eis, agora falas claramente e não usas mais figuras. 30Agora sabemos que conheces tudo e que não precisas que alguém te interrogue. Por isto cremos que vieste da parte de Deus”. 31Jesus respondeu: “Credes agora? 32Eis que vem a hora – e já chegou – em que vos dispersareis, cada um para seu lado, e me deixareis só. Mas eu não estou só porque o Pai está comigo. 33Disse-vos estas coisas para que tenhais paz em mim. No mundo, tereis tribulações. Mas, tende coragem! Eu venci o mundo!”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Recebereis o poder do Espírito Santo que descerá sobre vós para serdes minhas testemunhas até os confins terra aleluia. (Cf. At 1,8)",
+    "comunhao": "Não vos deixarei órfãos, diz o Senhor: virei de novo a vós, e vosso coração se alegrará, aleluia. ((Cf Jo 14.18; 16.22))"
+  }
+}

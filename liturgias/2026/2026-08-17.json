@@ -1,0 +1,40 @@
+{
+  "data": "17/08/2026",
+  "liturgia": "2ª feira da 20ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, preparastes para quem vos ama bens que nossos olhos não podem ver; acendei em nossos corações a chama da caridade para que, amando-vos em tudo e acima de tudo, corramos ao encontro das vossas promessas que superam todo desejo. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, nós vos apresentamos as nossas oferendas e trocamos convosco os nossos dons: oferecendo-vos o que nos destes, esperamos receber-vos em nós. Por Cristo, nosso Senhor.",
+    "comunhao": "Unidos a Cristo por este sacramento, humildemente imploramos vossa clemência, Senhor, para que, a ele configurados na terra, mereçamos participar de sua glória no céu. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ez 24, 15-24",
+        "titulo": "Leitura da Profecia de Ezequiel",
+        "texto": "15A palavra do Senhor foi-me dirigida nestes termos: 16“Filho do homem, vou tirar de ti, por um mal súbito, o encanto de teus olhos. Mas não deverás lamentar-te nem chorar ou derramar lágrimas. 17Geme em silêncio, sem fazer o luto dos mortos. Põe o turbante na cabeça, calça as sandálias nos pés, sem encobrir a barba, nem comer o pão dos enlutados”. 18Eu tinha falado ao povo pela manhã, e à tarde minha esposa morreu. Na manhã seguinte, fiz como me foi ordenado. 19Então o povo perguntou-me: “Não nos vais explicar o que têm a ver conosco as coisas que tu fazes?” 20Eu respondi-lhes: “A palavra do Senhor foi-me dirigida nestes termos: 21Fala à casa de Israel: Assim diz o Senhor Deus: Vou profanar o meu santuário, o objeto do vosso orgulho, o encanto de vossos olhos, o alento de vossas vidas. Os filhos e as filhas que lá deixastes, tombarão pela espada. 22E fareis assim como eu fiz: Não cobrireis a barba, nem comereis o pão dos enlutados, 23levareis o turbante na cabeça, as sandálias nos pés, sem vos lamentar nem chorar. Definhareis por causa de vossas próprias culpas, gemendo uns para os outros. 24Ezequiel servirá para vós como sinal: Fareis exatamente o que ele fez; quando isso acontecer, sabereis que eu sou o Senhor Deus”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Dt 32, 18-21",
+        "refrao": "Esqueceram o Deus que os gerou.",
+        "texto": "— Da Rocha que te deu à luz, te esqueceste, do Deus que te gerou, não te lembraste. Vendo isto, o Senhor os desprezou, aborrecido com seus filhos e suas filhas.\n— E disse: “Esconderei deles meu rosto e verei, então, o fim que eles terão, pois, tornaram-se um povo pervertido, são filhos que não têm fidelidade.\n— Com deuses falsos provocaram minha ira, com ídolos vazios me irritaram; vou provocá-los por aqueles que nem são um povo, através de gente louca hei de irritá-los."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 19,16-22",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 16alguém aproximou-se de Jesus e disse: “Mestre, o que devo fazer de bom para possuir a vida eterna?” 17Jesus respondeu: “Por que tu me perguntas sobre o que é bom? Um só é o bom. Se tu queres entrar na vida, observa os mandamentos”. 18O homem perguntou: “Quais mandamentos?” Jesus respondeu: “Não matarás, não cometerás adultério, não roubarás, não levantarás falso testemunho, 19honra teu pai e tua mãe e ama teu próximo como a ti mesmo”. 20O jovem disse a Jesus: “Tenho observado todas essas coisas. O que ainda me falta?” 21Jesus respondeu: “Se tu queres ser perfeito, vai, vende tudo o que tens, dá o dinheiro aos pobres e terás um tesouro no céu. Depois, vem e segue-me”. 22Quando ouviu isso, o jovem foi embora cheio de tristeza, porque era muito rico."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Olhai, ó Deus, que sois a nossa proteção, vede a face do eleito, vosso Ungido! Na verdade, um só dia em vosso templo vale mais do que milhares fora dele! (Cf. Sl 83, 10-11)",
+    "comunhao": "No Senhor se encontra toda graça e copiosa redenção. (Cf. Sl 129, 7)"
+  }
+}

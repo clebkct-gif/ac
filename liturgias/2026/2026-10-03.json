@@ -1,0 +1,40 @@
+{
+  "data": "03/10/2026",
+  "liturgia": "Santos André de Soveral e Ambrósio Francisco Ferro, presbíteros, Mateus Moreira e companheiros, mártires, Memória",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, concedestes admirável constância no martírio aos Santos André e Ambrósio, presbíteros, Mateus Moreira e seus companheiros leigos; fazei que o seu testemunho de fé fortaleça as nossas comunidades e estimule a ação missionária de vossa Igreja. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Pai santo, aceitai as oferendas que vos apresentamos na comemoração dos Protomártires do Brasil, e a nós, vossos servos e servas, concedei a graça de permanecer firmes na confissão do vosso nome. Por Cristo, nosso Senhor.",
+    "comunhao": "Recebemos, ó Deus, os dons celestes, alegrando-nos pela festa de hoje. Assim como anunciamos nesta Eucaristia a morte do vosso Filho, possamos participar, com os santos mártires, de sua ressurreição e de sua glória. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jó 42,1-3.5-6.12-16",
+        "titulo": "Leitura do livro de Jó",
+        "texto": "1Jó respondeu ao Senhor, dizendo: 2“Reconheço que podes tudo e que para ti nenhum pensamento é oculto. 3Quem é esse que ofusca a Providência, sem nada entender? Falei, pois, de coisas que não entendia, de maravilhas que ultrapassam a minha compreensão. 5Conhecia o Senhor apenas por ouvir falar, mas, agora, eu o vejo com meus olhos. 6Por isso me retrato e faço penitência no pó e na cinza”. 12O Senhor abençoou a Jó no fim de sua vida mais do que no princípio; ele possuía agora catorze mil ovelhas, seis mil camelos, mil juntas de bois e mil jumentas. 13Teve outros sete filhos e três filhas: 14a primeira chamava-se Rola, a segunda Cássia e a terceira Azeviche. 15Não havia em toda a terra mulheres mais belas que as filhas de Jó. Seu pai lhes destinou uma parte da herança entre os seus irmãos. 16Depois desses acontecimentos, Jó viveu cento e quarenta anos e viu seus filhos e os filhos de seus filhos até a quarta geração. E Jó morreu velho e repleto de anos."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 118(119)",
+        "refrao": "Fazei brilhar vosso semblante ao vosso servo e ensinai-me vossas leis e mandamentos.",
+        "texto": "– Dai-me bom senso, retidão, sabedoria, pois tenho fé nos vossos santos mandamentos!\n– Para mim foi muito bom ser humilhado, porque assim eu aprendi vossa vontade!\n– Sei que os vossos julgamentos são corretos, e com justiça me provastes, ó Senhor!\n– Porque mandastes, tudo existe até agora; todas as coisas, ó Senhor, vos obedecem!\n– Sou vosso servo: concedei-me inteligência, para que eu possa compreender vossa aliança!\n– Vossa palavra, ao revelar-se, me ilumina, ela dá sabedoria aos pequeninos."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 10,17-24",
+        "titulo": "Proclamação do evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 17os setenta e dois voltaram muito contentes, dizendo: “Senhor, até os demônios nos obedeceram por causa do teu nome”. 18Jesus respondeu: “Eu vi satanás cair do céu como um relâmpago. 19Eu vos dei o poder de pisar em cima de cobras e escorpiões e sobre toda a força do inimigo. E nada vos poderá fazer mal. 20Contudo, não vos alegreis porque os espíritos vos obedecem. Antes, ficai alegres porque vossos nomes estão escritos no céu”. 21Naquele momento, Jesus exultou no Espírito Santo e disse: “Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste essas coisas aos sábios e inteligentes e as revelaste aos pequeninos. Sim, Pai, porque assim foi do teu agrado. 22Tudo me foi entregue pelo meu Pai. Ninguém conhece quem é o Filho, a não ser o Pai; e ninguém conhece quem é o Pai, a não ser o Filho e aquele a quem o Filho o quiser revelar”. 23Jesus voltou-se para os discípulos e disse-lhes em particular: “Felizes os olhos que veem o que vós vedes! 24Pois eu vos digo que muitos profetas e reis quiseram ver o que estais vendo e não puderam ver; quiseram ouvir o que estais ouvindo e não puderam ouvir”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Esses são os que vieram da grande tribulação. Lavaram e alvejaram as suas roupas no sangue do Cordeiro. (Cf. Ap 7,14)",
+    "comunhao": "Se o grão de trigo que cai na terra não morre, ele continua só um grão de trigo; mas se morre, então produz muito fruto. (Cf. Jo 12,24)"
+  }
+}

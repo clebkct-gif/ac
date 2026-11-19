@@ -1,0 +1,40 @@
+{
+  "data": "01/05/2026",
+  "liturgia": "6ª feira da 4ª Semana da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, autor da nossa liberdade e da nossa salvação, ouvi os que vos suplicam e concedei aos redimidos pela efusão do sangue do vosso Filho viver por vós e alegrar-se com a vossa constante proteção. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, aceitai compassivo as oferendas da vossa família e concedei que, sob o auxílio de vossa proteção, não percamos os dons que nos destes e alcancemos os bens eternos. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor: guardai em vosso constante amor os que salvastes, para que, redimidos pela paixão do vosso Filho, se alegrem com a sua ressurreição. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 13, 26-33",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Naqueles dias, tendo chegado a Antioquia da Pisídia, Paulo disse na sinagoga: 26“Irmãos, descendentes de Abraão, e todos vós que temeis a Deus, a nós foi enviada esta mensagem de salvação. 27Os habitantes de Jerusalém e seus chefes não reconheceram a Jesus e, ao condená-lo, cumpriram as profecias que se leem todos os sábados. 28Embora não encontrassem nenhum motivo para a sua condenação, pediram a Pilatos que fosse morto. 29Depois de realizarem tudo o que a Escritura diz a respeito de Jesus, eles o tiraram da cruz e o colocaram num túmulo. 30Mas Deus o ressuscitou dos mortos 31e, durante muitos dias, ele foi visto por aqueles que o acompanharam desde a Galileia até Jerusalém. Agora eles são testemunhas de Jesus diante do povo. 32Por isso, nós vos anunciamos este Evangelho: a promessa que Deus fez aos antepassados, 33ele a cumpriu para nós, seus filhos, quando ressuscitou Jesus, como está escrito no salmo segundo: ʽTu és o meu filho, eu hoje te gereiʼ”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 2",
+        "refrao": "Tu és meu Filho, e eu hoje te gerei!",
+        "texto": "— “Fui eu mesmo que escolhi este meu Rei e em Sião, meu monte santo, o consagrei!” O decreto do Senhor promulgarei, foi assim que me falou o Senhor Deus: “Tu és meu Filho, e eu hoje te gerei!” \n— Podes pedir-me, e em resposta eu te darei por tua herança os povos todos e as nações, e há de ser a terra inteira o teu domínio. Com cetro férreo haverás de dominá-los, e quebrá-los como um vaso de argila! \n— E agora, poderosos, entendei; soberanos, aprendei esta lição: Com temor servi a Deus, rendei-lhe glória e prestai-lhe homenagem com respeito!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 14, 1-6",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, disse Jesus a seus discípulos: 1“Não se perturbe o vosso coração. Tendes fé em Deus, tende fé em mim também. 2Na casa de meu Pai há muitas moradas. Se assim não fosse, eu vos teria dito. Vou preparar um lugar para vós, 3e quando eu tiver ido preparar-vos um lugar, voltarei e vos levarei comigo, a fim de que onde eu estiver estejais também vós. 4E para onde eu vou, vós conheceis o caminho”.\n5Tomé disse a Jesus: “Senhor, nós não sabemos para onde vais. Como podemos conhecer o caminho?” 6Jesus respondeu: “Eu sou o Caminho, a Verdade e a Vida. Ninguém vai ao Pai senão por mim”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vós nos redimistes, Senhor, pelo vosso sangue, de todas as raças, línguas, povos e nações, e fizestes de nós um reino e sacerdotes para nosso Deus, aleluia. (Cf. Ap 5, 9-10)",
+    "comunhao": "O Cristo Senhor foi entregue por causa de nossos pecados e foi ressuscitado para nossa justificação, aleluia. (Rm 4, 25)"
+  }
+}

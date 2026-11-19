@@ -1,0 +1,46 @@
+{
+  "data": "26/07/2026",
+  "liturgia": "17º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, amparo dos que em vós esperam, sem vós nada tem valor, nada é santo. Multiplicai em nós a vossa misericórdia para que, conduzidos por vós usemos agora de tal modo os bens temporais que possamos aderir desde já aos bens eternos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, nós vos pedimos, os dons que recebemos de vossa generosidade e agora vos apresentamos, para que estes santos mistérios, pelo poder da vossa graça nos santifiquem na vida presente e nos conduzam à felicidade eterna. Por Cristo, nosso Senhor.",
+    "comunhao": "Recebemos, Senhor, o divino sacramento, memorial perpétuo da paixão do vosso Filho. Concedei, nós vos pedimos, que sirva para nossa salvação o que ele mesmo nos deixou em seu inefável amor. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Rs 3,5.7-12",
+        "titulo": "Leitura do primeiro livro dos Reis",
+        "texto": "Naqueles dias, 5em Gabaon, o Senhor apareceu a Salomão em sonho, durante a noite, e lhe disse: “Pede o que desejas e eu te darei”. 7E Salomão disse: “Senhor meu Deus, tu fizeste reinar o teu servo em lugar de Davi, meu pai. Mas eu não passo de um adolescente, que não sabe ainda como governar. 8Além disso, teu servo está no meio do teu povo eleito, povo tão numeroso, que não se pode contar ou calcular. 9Dá, pois, ao teu servo um coração compreensivo, capaz de governar o teu povo e de discernir entre o bem e o mal. Do contrário, quem poderá governar este teu povo tão numeroso?” 10Essa oração de Salomão agradou ao Senhor. 11E Deus disse a Salomão: “Já que pediste esses dons e não pediste para ti longos anos de vida, nem riquezas, nem a morte de teus inimigos, mas sim sabedoria para praticar a justiça, 12vou satisfazer o teu pedido; dou-te um coração sábio e inteligente, como nunca houve outro igual antes de ti nem haverá depois de ti”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 118(119)",
+        "refrao": "Como eu amo, Senhor, a vossa lei, vossa palavra!",
+        "texto": "– É esta a parte que escolhi por minha herança: observar vossas palavras, ó Senhor! A lei de vossa boca, para mim, vale mais do que milhões em ouro e prata.\n– Vosso amor seja um consolo para mim, conforme a vosso servo prometestes. Venha a mim o vosso amor e viverei, porque tenho em vossa lei o meu prazer!\n– Por isso amo os mandamentos que nos destes mais que o ouro, muito mais que o ouro fino! Por isso eu sigo bem direito as vossas leis, detesto todos os caminhos da mentira.\n– Maravilhosos são os vossos testemunhos, eis por que meu coração os observa! Vossa palavra, ao revelar-se, me ilumina, ela dá sabedoria aos pequeninos."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Rm 8,28-30",
+        "titulo": "Leitura da carta de São Paulo aos Romanos",
+        "texto": "Irmãos, 28sabemos que tudo contribui para o bem daqueles que amam a Deus, daqueles que são chamados para a salvação, de acordo com o projeto de Deus. 29Pois aqueles que Deus contemplou com seu amor desde sempre, a esses ele predestinou a serem conformes à imagem de seu Filho, para que este seja o primogênito numa multidão de irmãos. 30E aqueles que Deus predestinou, também os chamou. E aos que chamou, também os tornou justos; e aos que tornou justos, também os glorificou."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 13,44-52",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus a seus discípulos: 44“O reino dos céus é como um tesouro escondido no campo. Um homem o encontra e o mantém escondido. Cheio de alegria, ele vai, vende todos os seus bens e compra aquele campo. 45O reino dos céus também é como um comprador que procura pérolas preciosas. 46Quando encontra uma pérola de grande valor, ele vai, vende todos os seus bens e compra aquela pérola.\n47O reino dos céus é ainda como uma rede lançada ao mar e que apanha peixes de todo tipo. 48Quando está cheia, os pescadores puxam a rede para a praia, sentam-se e recolhem os peixes bons em cestos e jogam fora os que não prestam. 49Assim acontecerá no fim dos tempos: os anjos virão para separar os homens maus dos que são justos 50e lançarão os maus na fornalha de fogo. E aí haverá choro e ranger de dentes. 51Compreendestes tudo isso?” Eles responderam: “Sim”. 52Então Jesus acrescentou: “Assim, pois, todo mestre da lei que se torna discípulo do reino dos céus é como um pai de família que tira do seu tesouro coisas novas e velhas”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Deus habita em seu santuário, reúne os fiéis em sua casa; ele mesmo dá vigor e força a seu povo. (Cf. Sl 67, 6-7. 36)",
+    "comunhao": "Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores! (Cf. Sl 102, 2)"
+  }
+}

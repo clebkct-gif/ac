@@ -1,0 +1,46 @@
+{
+  "data": "24/06/2026",
+  "liturgia": "Natividade de São João Batista, Solenidade",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que suscitastes São João Batista, a fim de preparar para o Cristo um povo perfeito, concedei ao vosso povo a graça das alegrias espirituais e dirigi os corações de todos os fiéis pelo caminho da salvação e da paz. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acorremos, Senhor, ao vosso altar com a abundância dos nossos dons, celebrando com a devida honra o nascimento de São João Batista, que anunciou a vinda do Salvador e o mostrou presente no mundo. Ele, que vive e reina pelos séculos dos séculos.",
+    "comunhao": "Refeitos pelo banquete do Cordeiro celestial, na alegria da festa do nascimento de São João Batista, que a vossa Igreja reconheça, naquele cuja vinda iminente João anunciou, o autor de nossa regeneração. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 49, 1-6",
+        "titulo": "Leitura do Livro do Profeta Isaías",
+        "texto": "Nações marinhas, ouvi-me, povos distantes, prestai atenção: o Senhor chamou-me antes de eu nascer, desde o ventre de minha mãe ele tinha na mente o meu nome; 2fez de minha palavra uma espada afiada, protegeu-me à sombra de sua mão e fez de mim uma flecha aguçada, escondida em sua aljava, 3e disse-me: “Tu és o meu Servo, Israel, em quem serei glorificado”. 4E eu disse: “Trabalhei em vão, gastei minhas forças sem fruto, inutilmente; entretanto o Senhor me fará justiça e o meu Deus me dará recompensa”. 5E agora diz-me o Senhor – ele que me preparou desde o nascimento para ser seu Servo – que eu recupere Jacó para ele e faça Israel unir-se a ele; aos olhos do Senhor esta é a minha glória. 6Disse ele: “Não basta seres meu Servo para restaurar as tribos de Jacó e reconduzir os remanescentes de Israel: eu te farei luz das nações, para que minha salvação chegue até aos confins da terra”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 138",
+        "refrao": "Eu vos louvo e vos dou graças, ó Senhor, porque de modo admirável me formastes!",
+        "texto": "— Senhor, vós me sondais e conheceis, sabeis quando me sento ou me levanto; de longe penetrais meus pensamentos; percebeis quando me deito e quando eu ando, os meus caminhos vos são todos conhecidos.\n— Fostes vós que me formastes as entranhas, e no seio de minha mãe vós me tecestes. Eu vos louvo e vos dou graças, ó Senhor, porque de modo admirável me formastes!\n— Até o mais íntimo, Senhor, me conheceis; nenhuma sequer de minhas fibras ignoráveis, quando eu era modelado ocultamente, era formado nas entranhas subterrâneas"
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "At 13, 22-26",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Naqueles dias, Paulo disse: 22“Deus fez surgir Davi como rei e assim testemunhou a seu respeito: ‘Encontrei Davi, filho de Jessé, homem segundo o meu coração, que vai fazer em tudo a minha vontade’. 23Conforme prometera, da descendência de Davi Deus fez surgir para Israel um Salvador, que é Jesus.,24Antes que ele chegasse, João pregou um batismo de conversão para todo o povo de Israel. 25Estando para terminar sua missão, João declarou: ‘Eu não sou aquele que pensais que eu seja! Mas vede: depois de mim vem aquele, do qual nem mereço desamarrar as sandálias’. 26Irmãos, descendentes de Abraão, e todos vós que temeis a Deus, a nós foi enviada esta mensagem de salvação”."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 1, 57-66. 80",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Completou-se o tempo da gravidez de Isabel, e ela deu à luz um filho. 58Os vizinhos e parentes ouviram dizer como o Senhor tinha sido misericordioso para com Isabel, e alegraram-se com ela. 59No oitavo dia, foram circuncidar o menino, e queriam dar-lhe o nome de seu pai, Zacarias. 60A mãe, porém, disse: “Não! Ele vai chamar-se João”.61Os outros disseram: “Não existe nenhum parente teu com esse nome!” 62Então fizeram sinais ao pai, perguntando como ele queria que o menino se chamasse. 63Zacarias pediu uma tabuinha, e escreveu: “João é o seu nome”. E todos ficaram admirados. 64No mesmo instante, a boca de Zacarias se abriu, sua língua se soltou, e ele começou a louvar a Deus. 65Todos os vizinhos ficaram com medo, e a notícia espalhou-se por toda a região montanhosa da Judeia. 66E todos os que ouviam a notícia, ficavam pensando: “O que virá a ser este menino?” De fato, a mão do Senhor estava com ele. 80E o menino crescia e se fortalecia em espírito. Ele vivia nos lugares desertos, até ao dia em que se apresentou publicamente a Israel."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Surgiu um homem enviado por Deus; seu nome era João. Ele veio dar testemunho da luz e preparar para o Senhor um povo bem-disposto. (Cf. Jo 1,6-7; Lc 1,17)",
+    "comunhao": "Pela bondade e compaixão de nosso Deus, que sobre nós fará brilhar o Sol nascente. (Cf. Lc 1,78)"
+  }
+}

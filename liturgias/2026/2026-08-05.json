@@ -1,0 +1,40 @@
+{
+  "data": "05/08/2026",
+  "liturgia": "4ª feira da 18ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Assisti, Senhor, os vossos fiéis e cumulai com vossa inesgotável bondade, aqueles que vos imploram e se gloriam de vos ter como criador e guia, restaurando para eles a vossa criação e conservando-a renovada. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Nós vos pedimos, Senhor de bondade, santificai estes dons e, aceitando a oblação do sacrifício espiritual, fazei de nós mesmos uma eterna oferenda para vós. Por Cristo, nosso Senhor.",
+    "comunhao": "Acompanhai, Senhor, com vossa constante proteção aqueles que restaurais com os dons do céu e, como não cessais de protegê-los, concedei que se tornem dignos da eterna redenção. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 31, 1-7",
+        "titulo": "Leitura do Livro do Profeta Jeremias",
+        "texto": "1“Naquele tempo, diz o Senhor, serei Deus para todas as tribos de Israel, e elas serão meu povo”. 2Isto diz o Senhor: “Encontrou perdão no deserto o povo que escapara à espada; Israel encaminha-se para o seu descanso”. 3O Senhor apareceu-me de longe: “Amei-te com amor eterno e te atraí com a misericórdia. 4De novo te edificarei, serás reedificada, ó jovem nação de Israel; de novo teus tambores ornarão as praças e sairás entre grupos de dançantes. 5Hás de plantar vinhas nos montes de Samaria; os cultivadores hão de plantar e também colher. 6Virá o dia em que gritarão os guardas no monte Efraim: ‘Levantai-vos, vamos a Sião, vamos ao Senhor, nosso Deus’. 7Isto diz o Senhor: Exultai de alegria por Jacó, aclamai a primeira das nações; tocai, cantai e dizei: ‘Salva, Senhor, teu povo, o resto de Israel’”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Jr 31, 10-13",
+        "refrao": "O Senhor nos guardará qual pastor a seu rebanho.",
+        "texto": "— Ouvi, nações, a palavra do Senhor e anunciai-a nas ilhas mais distantes: “Quem dispersou Israel, vai congregá-lo, e o guardará qual pastor a seu rebanho!”\n— Pois, na verdade, o Senhor remiu Jacó e o libertou do poder do prepotente. Voltarão para o monte de Sião, entre brados e cantos de alegria afluirão para as bênçãos do Senhor.\n— Então a virgem dançará alegremente, também o jovem e o velho exultarão; mudarei em alegria o seu luto, serei consolo e conforto após a guerra"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 15, 21-28",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 21Jesus retirou-se para a região de Tiro e Sidônia. 22Eis que uma mulher cananeia, vindo daquela região, pôs-se a gritar: “Senhor, filho de Davi, tem piedade de mim: minha filha está cruelmente atormentada por um demônio!” 23Mas, Jesus não lhe respondeu palavra alguma. Então seus discípulos aproximaram-se e lhe pediram: “Manda embora essa mulher, pois ela vem gritando atrás de nós”.24Jesus respondeu: “Eu fui enviado somente às ovelhas perdidas da casa de Israel”. 25Mas, a mulher, aproximando-se, prostrou-se diante de Jesus, e começou a implorar: “Senhor, socorre-me!” 26Jesus lhe disse: “Não fica bem tirar o pão dos filhos para jogá-lo aos cachorrinhos”. 27A mulher insistiu: “É verdade, Senhor; mas os cachorrinhos também comem as migalhas que caem da mesa de seus donos!” 28Diante disso, Jesus lhe disse: “Mulher, grande é a tua fé! Seja feito como tu queres!” E desde aquele momento sua filha ficou curada."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vinde ó Deus em meu auxílio, apressai-vos, ó Senhor, em socorrer-me. Sois meu Deus libertador e meu auxílio. Não tardeis em socorrer-me, ó Senhor! (Cf. Sl 69, 2. 6)",
+    "comunhao": "Vós nos destes, Senhor, o pão do Céu, que contém toda delícia e suave sabor. (Cf. Sb 16, 20)"
+  }
+}

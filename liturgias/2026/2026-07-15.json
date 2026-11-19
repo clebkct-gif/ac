@@ -1,0 +1,40 @@
+{
+  "data": "15/07/2026",
+  "liturgia": "São Boaventura, bispo e doutor da Igreja, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus todo-poderoso, concedei que, na celebração da memória do bispo São Boaventura, aproveitemos a riqueza dos seus ensinamentos e imitemos sempre sua ardente caridade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, possa agradar-vos o sacrifício oferecido com alegria na festa de São Boaventura; fazei que, por sua exortação, também nós nos entreguemos totalmente ao vosso louvor. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, instruí pelo Cristo Mestre aqueles que alimentais com o Cristo, pão da vida, para que, na celebração da festa de São Boaventura, aprendam a vossa verdade e a realizem pela caridade. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 10, 5-7. 13-16",
+        "titulo": "Leitura do Livro do Profeta Isaías",
+        "texto": "Assim fala o Senhor: 5“Ai de Assur, vara de minha cólera, bastão em minhas mãos, instrumento de minha indignação! 6Eu o envio contra uma nação ímpia e ordeno-lhe, contra um povo que me excita à ira, que o submeta à pilhagem e ao saque, que o calque aos pés como lama nas ruas. 7Mas ele assim não pensava, seu propósito não era esse; pelo contrário, sua intenção era esmagar e exterminar não poucas nações. 13Pois diz o rei da Assíria: ‘Realizei isso pela força da minha mão e com minha sagacidade, pois tenho experiência; aboli as fronteiras dos povos, saqueei seus tesouros, e derrubei de golpe os ocupantes de altos postos; 14minha mão empalmou como um ninho a riqueza dos povos; e como se apanha uma ninhada de ovos, assim ajuntei eu os povos da terra, e não houve quem batesse asa ou abrisse o bico e desse um pio’. 15Mas acaso gloria-se o machado, em detrimento do lenhador que com ele corta? Ou se exalta a serra contra o serrador que a maneja? Como se a vara movesse quem a levanta e um bastão erguesse aquele que não é madeira. 16Por isso, enviará o Dominador, Senhor dos exércitos, contra aqueles fortes guerreiros o raquitismo; e abalará sua glória com convulsões que queimam como fogo”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 93(94)",
+        "refrao": "O Senhor não rejeita o seu povo.",
+        "texto": "– Eis que oprimem, Senhor, vosso povo e humilham a vossa herança; estrangeiro e viúva trucidam, e assassinam o pobre e o órfão!\n– Eles dizem: “O Senhor não nos vê e o Deus de Jacó não percebe!” Entendei, ó estultos do povo; insensatos, quando é que vereis?\n– O que fez o ouvido não ouve? Quem os olhos formou não verá? Quem educa as nações não castiga? Quem os homens ensina não sabe?\n– O Senhor não rejeita o seu povo e não pode esquecer sua herança: voltarão a juízo as sentenças; quem é reto andará na justiça."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 11, 25-27",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "25Naquele tempo, Jesus pôs-se a dizer: “Eu te louvo, ó Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e entendidos e as revelaste aos pequeninos. 26Sim, Pai, porque assim foi do teu agrado. 27Tudo me foi entregue por meu Pai, e ninguém conhece o Filho, senão o Pai, e ninguém conhece o Pai, senão o Filho e aquele a quem o Filho o quiser revelar”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Visitarei minhas ovelhas, diz o Senhor, e suscitarei um pastor que as apascentará. (Cf. Ez 34,11.23-24)",
+    "comunhao": "Não fostes vós que me escolhestes, diz o Senhor, fui eu que vos escolhi e vos designei para irdes e produzirdes fruto e para que o vosso fruto permaneça. (Cf. Jo 15,16)"
+  }
+}

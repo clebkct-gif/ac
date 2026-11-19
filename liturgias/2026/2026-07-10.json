@@ -1,0 +1,40 @@
+{
+  "data": "10/07/2026",
+  "liturgia": "6ª feira da 14ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, pela humilhação do vosso Filho reerguestes o mundo decaído, dai-nos uma santa alegria, para que, livres da servidão do pecado, cheguemos à felicidade eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Fazei, Senhor, que este sacrifício celebrado em honra do vosso nome, nos purifique e nos leve, cada vez mais, a viver a vida do vosso reino. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor, que, enriquecidos por essa tão grande dádiva, possamos colher os frutos da salvação sem jamais cessar vosso louvor. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Os 14, 2-10",
+        "titulo": "Leitura da Profecia de Oseias",
+        "texto": "Assim fala o Senhor: 2“Volta, Israel, para o Senhor, teu Deus, porque estavas caído em teu pecado. 3Vós todos, encontrai palavras e voltai para o Senhor; dizei-lhe: ʽLivra-nos de todo o mal e aceita este bem que oferecemos; o fruto de nossos lábios. 4A Assíria não nos salvará; não queremos montar nossos cavalos, não chamaremos mais ‘Deuses nossos’ a produtos de nossas mãos; em ti encontrará o órfão misericórdiaʼ. 5“Hei de curar sua perversidade e me será fácil amá-los, deles afastou-se a minha cólera. 6Serei como orvalho para Israel; ele florescerá como o lírio e lançará raízes como plantas do Líbano. 7Seus ramos hão de estender-se; será seu esplendor como o da oliveira, e seu perfume como o do Líbano. 8Voltarão a sentar-se à minha sombra e a cultivar o trigo, e florescerão como a videira, cuja fama se iguala à do vinho do Líbano. 9Que tem ainda Efraim a ver com ídolos? Sou eu que o atendo e que olho por ele. Sou como o cipreste sempre verde: de mim procede o teu fruto. 10Compreenda estas palavras o homem sábio, reflita sobre elas o bom entendedor! São retos os caminhos do Senhor e, por eles, andarão os justos, enquanto os maus ali tropeçam e caem”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 50",
+        "refrao": "Minha boca anunciará vosso louvor!",
+        "texto": "— Tende piedade, ó meu Deus, misericórdia! Na imensidão de vosso amor, purificai-me! Lavai-me todo inteiro do pecado, e apagai completamente a minha culpa!\n— Mas vós amais os corações que são sinceros, na intimidade me ensinais sabedoria. Aspergi-me e serei puro do pecado, e mais branco do que a neve ficarei.\n— Criai em mim um coração que seja puro, dai-me de novo um espírito decidido. Ó Senhor, não me afasteis de vossa face, nem retireis de mim o vosso Santo Espírito!\n— Dai-me de novo a alegria de ser salvo e confirmai-me com espírito generoso! Abri meus lábios, ó Senhor, para cantar, e minha boca anunciará vosso louvor!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 10, 16-23",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 16“Eis que eu vos envio como ovelhas no meio de lobos. Sede, portanto, prudentes como as serpentes e simples como as pombas. 17Cuidado com os homens, porque eles vos entregarão aos tribunais e vos açoitarão nas suas sinagogas.18Vós sereis levados diante de governadores e reis, por minha causa, para dar testemunho diante deles e das nações. 19Quando vos entregarem, não fiqueis preocupados como falar ou o que dizer. Então naquele momento vos será indicado o que deveis dizer. 20Com efeito, não sereis vós que havereis de falar, mas sim o Espírito do vosso Pai é que falará através de vós.21O irmão entregará à morte o próprio irmão; o pai entregará o filho; os filhos se levantarão contra seus pais, e os matarão. 22Vós sereis odiados por todos, por causa do meu nome. Mas quem perseverar até o fim, esse será salvo. 23Quando vos perseguirem numa cidade, fugi para outra. Em verdade vos digo, vós não acabareis de percorrer as cidades de Israel, antes que venha o Filho do Homem”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Recebemos, Senhor, vossa misericórdia no  meio do vosso templo. Como vosso nome, ó Deus, assim vosso louvor ressoa até os confins da terra; vossa destra está cheia de justiça. (Cf Sl 47,10-11)",
+    "comunhao": "Provai e vede quão suave é o Senhor. Feliz o homem que tem nele o seu refúgio! (Cf Sl 33,9)"
+  }
+}

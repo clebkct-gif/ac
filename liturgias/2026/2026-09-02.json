@@ -1,0 +1,40 @@
+{
+  "data": "02/09/2026",
+  "liturgia": "4ª feira da 22ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus onipotente, fonte de todo dom perfeito, semeai em nossos corações o amor ao vosso nome e, estreitando os laços que nos unem convosco, fazei crescer em nós o que é bom e guardai com amorosa solicitude o que nos destes. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Este santo sacrifício, Senhor, nos traga a perene bênção da salvação e vosso poder leve à plenitude o que celebramos no sacramento. Por Cristo, nosso Senhor.",
+    "comunhao": "Revigorados pelo pão da mesa celeste nós vos pedimos, Senhor, que este alimento da caridade fortifique os nossos corações e nos leve a vos servir nos irmãos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Cor 3,1-9",
+        "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+        "texto": "1Irmãos, não pude falar-vos como a pessoas espirituais. Tive que vos falar como a pessoas carnais, como a crianças na vida em Cristo. 2Pude oferecer-vos somente leite, não alimento sólido, pois ainda não éreis capazes de tomá-lo. E nem atualmente sois capazes de receber alimento sólido, 3visto que ainda sois carnais. As rivalidades e rixas que existem aí, no meio de vós, acaso não mostram que sois carnais e que procedeis de acordo com os impulsos naturais? 4Quando um declara: “Eu sou de Paulo”, e outro: “Eu sou de Apolo”, não estais procedendo como pessoas simplesmente naturais? 5Pois o que é Apolo? O que é Paulo? Não passam de servidores, pelos quais chegastes à fé. E cada um deles exerce seu serviço segundo o dom recebido de Deus. 6Eu plantei, Apolo regou, mas Deus é que fazia crescer. 7De modo que nem o que planta nem o que rega são, propriamente, importantes. Quem é importante é aquele que faz crescer: Deus. 8Aquele que planta e aquele que rega formam uma unidade, mas cada um receberá o seu próprio salário, proporcional ao seu trabalho. 9Com efeito, nós somos cooperadores de Deus, e vós sois lavoura de Deus, construção de Deus."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 32(33)",
+        "refrao": "Feliz o povo que o Senhor escolheu por sua herança!",
+        "texto": "– Feliz o povo cujo Deus é o Senhor, e a nação que escolheu por sua herança! Dos altos céus o Senhor olha e observa; ele se inclina para olhar todos os homens.\n– Ele contempla do lugar onde reside e vê a todos os que habitam sobre a terra. Ele formou o coração de cada um e por todos os seus atos se interessa.\n– No Senhor nós esperamos confiantes, porque ele é nosso auxílio e proteção! Por isso o nosso coração se alegra nele, seu santo nome é nossa única esperança."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 4,38-44",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 38Jesus saiu da sinagoga e entrou na casa de Simão. A sogra de Simão estava sofrendo com febre alta, e pediram a Jesus em favor dela. 39Inclinando-se sobre ela, Jesus ameaçou a febre, e a febre a deixou. Imediatamente, ela se levantou e começou a servi-los. 40Ao pôr do sol, todos os que tinham doentes atingidos por diversos males os levaram a Jesus. Jesus colocava as mãos em cada um deles e os curava. 41De muitas pessoas também saíam demônios, gritando: “Tu és o Filho de Deus”. Jesus os ameaçava e não os deixava falar, porque sabiam que ele era o Messias. 42Ao raiar do dia, Jesus saiu e foi para um lugar deserto. As multidões o procuravam e, indo até ele, tentavam impedi-lo de que os deixasse. 43Mas Jesus disse: “Eu devo anunciar a Boa-nova do Reino de Deus também a outras cidades, porque para isso é que eu fui enviado”. 44E pregava nas sinagogas da Judeia."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Piedade de mim, ó Senhor, porque clamo por vós todo o dia! Ó Senhor, vós sois bom e clemente, sois perdão para quem vos invoca. (Cf. Sl 85, 3. 5)",
+    "comunhao": "Como é grande, ó Senhor, a riqueza da vossa bondade, que reservais para aqueles que vos temem. (Cf. Sl 30, 20)"
+  }
+}

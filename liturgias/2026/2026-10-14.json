@@ -1,0 +1,40 @@
+{
+  "data": "14/10/2026",
+  "liturgia": "4ª feira da 28ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Nós vos pedimos, Senhor, que vossa graça nos preceda e acompanhe e nos torne atentos para perseverar na prática do bem. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, as preces dos fiéis com a oblação do sacrifício, para que possamos, por este serviço da nossa piedosa devoção, alcançar a glória do céu. Por Cristo, nosso Senhor.",
+    "comunhao": "Deus todo-poderoso, nós vos pedimos humildemente: assim como nos alimentais com o sacramento do Corpo e Sangue de Cristo, fazei-nos participar da natureza divina. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Gl 5,18-25",
+        "titulo": "Leitura da carta de São Paulo aos Gálatas",
+        "texto": "Irmãos, 18se sois conduzidos pelo Espírito, então não estais sob o jugo da Lei. 19São bem conhecidas as obras da carne: fornicação, libertinagem, devassidão, 20idolatria, feitiçaria, inimizades, contendas, ciúmes, iras, intrigas, discórdias, facções, 21invejas, bebedeiras, orgias e coisas semelhantes a essas. Eu vos previno, como, aliás, já o fiz: os que praticam essas coisas não herdarão o Reino de Deus. 22Porém, o fruto do Espírito é: caridade, alegria, paz, longanimidade, benignidade, bondade, lealdade, 23mansidão, continência. Contra essas coisas não existe Lei. 24Os que pertencem a Jesus Cristo crucificaram a carne com suas paixões e seus maus desejos. 25Se vivemos pelo Espírito, procedamos também segundo o Espírito, corretamente."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 1",
+        "refrao": "Senhor, quem vos seguir terá a luz da vida!",
+        "texto": "– Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar.\n– Eis que ele é semelhante a uma árvore que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar.\n– Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 11,42-46",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, disse o Senhor: 42“Ai de vós, fariseus, porque pagais o dízimo da hortelã, da arruda e de todas as outras ervas, mas deixais de lado a justiça e o amor de Deus. Vós deveríeis praticar isso sem deixar de lado aquilo. 43Ai de vós, fariseus, porque gostais do lugar de honra nas sinagogas e de serdes cumprimentados nas praças públicas. 44Ai de vós, porque sois como túmulos que não se veem, sobre os quais os homens andam sem saber”. 45Um mestre da Lei tomou a palavra e disse: “Mestre, falando assim, insultas-nos também a nós!” 46Jesus respondeu: “Ai de vós também, mestres da Lei, porque colocais sobre os homens cargas insuportáveis e vós mesmos não tocais nessas cargas nem com um só dedo”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Se levardes em conta, Senhor, nossas faltas, quem haverá de subsistir? Mas em vós se encontra o perdão. (Cf. Sl 129, 3-4)",
+    "comunhao": "Os ricos empobrecem e passam fome, mas nada falta aos que procuram o Senhor. (Cf. Sl 33, 11)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "17/11/2026",
+  "liturgia": "Santa Isabel da Hungria, religiosa, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que destes a Santa Isabel da Hungria o dom de reconhecer e venerar o Cristo nos pobres, concedei-nos, por sua intercessão, servir os necessitados e aflitos com incansável caridade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Recebei, Senhor, os dons do vosso povo e concedei a nós, que recordamos a obra da imensa caridade do vosso Filho, ser confirmados, a exemplo de Santa Isabel da Hungria, no amor a vós e ao próximo. Por Cristo, nosso Senhor.",
+    "comunhao": "Revigorados por estes sagrados mistérios, concedei nos, Senhor, seguir o exemplo de Santa Isabel da Hungria, que vos serviu com filial constância e se dedicou ao vosso povo com imensa caridade. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ap 3,1-6.14-22",
+        "titulo": "Leitura do livro do Apocalipse de São João",
+        "texto": "Eu, João, ouvi o Senhor que me dizia: 1“Escreve ao anjo da Igreja que está em Sardes: Assim fala aquele que tem os sete espíritos de Deus e as sete estrelas: Conheço a tua conduta. Tens fama de estar vivo, mas estás morto. 2Acorda! Reaviva o que te resta e que estava para se apagar! Pois não acho suficiente aos olhos do meu Deus aquilo que estás fazendo. 3Lembra-te daquilo que tens aprendido e ouvido. Observa-o! Converte-te! Se não estiveres vigilante, eu virei como um ladrão, sem que tu saibas em que hora te vou surpreender! 4Todavia, aí em Sardes existem algumas pessoas que não sujaram a roupa. Estas vão andar comigo, vestidas de branco, pois merecem isso. 5O vencedor vestirá a roupa branca, e não apagarei o seu nome do livro da vida, mas o apresentarei diante de meu Pai e de seus anjos. 6Quem tem ouvidos ouça o que o Espírito diz às Igrejas. 14Escreve ao anjo da Igreja que está em Laodiceia: Assim fala o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus: 15Conheço a tua conduta. Não és frio nem quente. Oxalá fosses frio ou quente! 16Mas, porque és morno, nem frio nem quente, estou para vomitar-te de minha boca. 17Tu dizes: ‘Sou rico e abastado e não careço de nada’, em vez de reconhecer que tu és infeliz, miserável, pobre, cego e nu! 18Dou-te um conselho: compra de mim ouro purificado no fogo, para ficares rico, e vestes brancas, para vestires e não aparecer a tua nudez vergonhosa; e compra também um colírio para curar os teus olhos, para que enxergues. 19Eu repreendo e educo os que eu amo. Esforça-te, pois, e converte-te. 20Eis que estou à porta e bato; se alguém ouvir minha voz e abrir a porta, eu entrarei na sua casa e tomaremos a refeição, eu com ele e ele comigo. 21Ao vencedor farei sentar-se comigo no meu trono, como também eu venci e estou sentado com meu Pai no seu trono. 22Quem tem ouvidos ouça o que o Espírito diz às Igrejas”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 14(15)",
+        "refrao": "Ao vencedor, dar-lhe-ei o direito de sentar-se comigo no meu trono.",
+        "texto": "– “Senhor, quem morará em vossa casa?” É aquele que caminha sem pecado e pratica a justiça fielmente; que pensa a verdade no seu íntimo e não solta em calúnias sua língua.\n– Que em nada prejudica o seu irmão nem cobre de insultos seu vizinho; que não dá valor algum ao homem ímpio, mas honra os que respeitam o Senhor.\n– Não empresta o seu dinheiro com usura nem se deixa subornar contra o inocente. Jamais vacilará quem vive assim!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 19,1-10",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 1Jesus tinha entrado em Jericó e estava atravessando a cidade. 2Havia ali um homem chamado Zaqueu, que era chefe dos cobradores de impostos e muito rico. 3Zaqueu procurava ver quem era Jesus, mas não conseguia por causa da multidão, pois era muito baixo. 4Então ele correu à frente e subiu numa figueira para ver Jesus, que devia passar por ali. 5Quando Jesus chegou ao lugar, olhou para cima e disse: “Zaqueu, desce depressa! Hoje eu devo ficar na tua casa”. 6Ele desceu depressa e recebeu Jesus com alegria. 7Ao ver isso, todos começaram a murmurar, dizendo: “Ele foi hospedar-se na casa de um pecador!” 8Zaqueu ficou de pé e disse ao Senhor: “Senhor, eu dou a metade dos meus bens aos pobres e, se defraudei alguém, vou devolver quatro vezes mais”. 9Jesus lhe disse: “Hoje a salvação entrou nesta casa, porque também este homem é um filho de Abraão. 10Com efeito, o Filho do Homem veio procurar e salvar o que estava perdido”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vinde, benditos do meu Pai, diz o Senhor. Estava doente e me visitastes. Em verdade vos digo: todas as vezes que fizestes isso a um destes pequeninos que são meus irmãos, foi a mim que o fizestes. (Cf. Mt 25,34.36.40)",
+    "comunhao": "Ninguém tem maior amor do que aquele que dá a vida por seus amigos. (Cf Jo 15,13)"
+  }
+}

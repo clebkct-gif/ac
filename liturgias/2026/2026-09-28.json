@@ -1,0 +1,40 @@
+{
+  "data": "28/09/2026",
+  "liturgia": "2ª feira da 26ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, que mostrais vosso poder sobretudo no perdão e na misericórdia, derramai em nós a vossa graça, para que, correndo ao encontro das vossas promessas, mereçamos participar dos bens celestes. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei-nos, Deus de misericórdia, que vos agrade esta nossa oblação e que ela nos abra a fonte de toda bênção. Por Cristo, nosso Senhor.",
+    "comunhao": "Fazei, Senhor, que este sacramento celeste renove inteiramente a nossa vida, para que, anunciando a morte de Cristo, possamos participar de sua herança gloriosa. Ele, que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jó 1,6-22",
+        "titulo": "Leitura do Livro de Jó",
+        "texto": "6Um dia, foram os filhos de Deus apresentar-se ao Senhor; entre eles também satanás. 7O Senhor, então, disse a satanás: “Donde vens?” “Venho de dar umas voltas pela terra”, respondeu ele. 8O Senhor disse-lhe: “Reparaste no meu servo Jó? Na terra não há outro igual: é um homem íntegro e correto, teme a Deus e afasta-se do mal”. 9Satanás respondeu ao Senhor: “Mas será por nada que Jó teme a Deus? 10Porventura não levantaste um muro de proteção ao redor dele, de sua casa e de todos os seus bens? Tu abençoaste tudo o que ele fez, e seus rebanhos cobrem toda a região. 11Mas estende a mão e toca em todos os seus bens; e eu garanto que ele te lançará maldições no rosto!” 12Então o Senhor disse a satanás: “Pois bem, de tudo o que ele possui podes dispor, mas não estendas a mão contra ele”. E satanás saiu da presença do Senhor. 13Ora, num dia em que os filhos e filhas de Jó comiam e bebiam vinho na casa do irmão mais velho, 14um mensageiro veio dizer a Jó: “Estavam os bois lavrando e as mulas pastando a seu lado 15quando, de repente, apareceram os sabeus e roubaram tudo, passando os criados ao fio da espada. Só eu consegui escapar para trazer-te a notícia”. 16Estava ainda falando quando chegou outro e disse: “Caiu do céu o fogo de Deus e matou ovelhas e pastores, reduzindo-os a cinza. Só eu consegui escapar para trazer-te a notícia”. 17Este ainda falava quando chegou outro e disse: “Os caldeus, divididos em três bandos, lançaram-se sobre os camelos e levaram-nos consigo, depois de passarem os criados ao fio da espada. Só eu consegui escapar para trazer-te a notícia”. 18Este ainda falava quando chegou outro e disse: “Teus filhos e tuas filhas estavam comendo e bebendo vinho na casa do irmão mais velho 19quando um furacão se levantou das bandas do deserto e se lançou contra os quatro cantos da casa, que desabou sobre os jovens e os matou. Só eu consegui escapar para trazer-te a notícia”. 20Então, Jó levantou-se, rasgou o manto, rapou a cabeça, caiu por terra e, prostrado, disse: 21“Nu eu saí do ventre de minha mãe e nu voltarei para lá. O Senhor deu, o Senhor tirou; como foi do agrado do Senhor, assim foi feito. Bendito seja o nome do Senhor!” 22Apesar de tudo isso, Jó não cometeu pecado nem se revoltou contra Deus."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 16(17)",
+        "refrao": "Inclinai o vosso ouvido e escutai-me!",
+        "texto": "– Ó Senhor, ouvi a minha justa causa, escutai-me e atendei o meu clamor! Inclinai o vosso ouvido à minha prece, pois não existe falsidade nos meus lábios!\n– De vossa face é que me venha o julgamento, pois vossos olhos sabem ver o que é justo. Provai meu coração durante a noite, visitai-o, examinai-o pelo fogo, mas em mim não achareis iniquidade.\n– Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! Mostrai-me vosso amor maravilhoso, vós que salvais e libertais do inimigo quem procura a proteção junto de vós."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 9,46-50",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 46houve entre os discípulos uma discussão para saber qual deles seria o maior. 47Jesus sabia o que estavam pensando. Pegou então uma criança, colocou-a junto de si 48e disse-lhes: “Quem receber esta criança em meu nome estará recebendo a mim. E quem me receber estará recebendo aquele que me enviou. Pois aquele que entre todos vós for o menor, esse é o maior”. 49João disse a Jesus: “Mestre, vimos um homem que expulsa demônios em teu nome. Mas nós lho proibimos, porque não anda conosco”. 50Jesus disse-lhe: “Não o proibais, pois quem não está contra vós está a vosso favor”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Tudo quanto nos fizestes, Senhor, com verdadeira justiça o fizestes, porque pecamos contra vós e não obedecemos a vossos mandamentos; mas dai glória ao vosso nome e tratai-nos conforme a grandeza da vossa misericórdia. (Cf. Dn 3. 31. 29. 30. 43. 42)",
+    "comunhao": "Lembrai-vos, Senhor, da vossa palavra a vosso servo, pela qual me destes esperança; ela me consolou em minha aflição. (Cf. Sl 118, 49-50)"
+  }
+}

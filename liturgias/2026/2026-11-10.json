@@ -1,0 +1,40 @@
+{
+  "data": "10/11/2026",
+  "liturgia": "São Leão Magno, papa e doutor da Igreja, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, jamais permitis que as forças do mal prevaleçam contra a vossa Igreja, fundada sobre a rocha inabalável dos Apóstolos; concedei lhe, pela intercessão do papa São Leão Magno, permanecer firme na vossa verdade e gozar de paz para sempre. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, pelas oferendas que apresentamos, iluminai benigno a vossa Igreja, para que o vosso rebanho cresça por toda parte, e os pastores, por vós guiados, sejam agradáveis aos vossos olhos. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, governai com bondade a vossa Igreja, alimentada nesta santa ceia, para que, conduzida por vossa mão poderosa, cresça na liberdade e permaneça firme na integridade da fé. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Tt 2,1-8.11-14",
+        "titulo": "Leitura da carta de São Paulo a Tito",
+        "texto": "Caríssimo, 1o teu ensino seja conforme à sã doutrina. 2Os mais velhos sejam sóbrios, ponderados, prudentes, fortes na fé, na caridade, na paciência. 3Assim também as mulheres idosas observem uma conduta santa, não sejam caluniadoras nem escravas do vinho, mas mestras do bem. 4Saibam ensinar as jovens a amarem seus maridos, a cuidarem dos filhos, 5a serem prudentes, castas, boas donas de casa, dóceis para os maridos, bondosas, para que a palavra de Deus não seja difamada. 6Exorta igualmente os jovens a serem moderados 7e mostra-te em tudo exemplo de boas obras, de integridade na doutrina, de ponderação, 8de palavra sã e irrepreensível, para que os adversários se confundam, não tendo nada de mal para dizer de nós. 11Pois a graça de Deus se manifestou, trazendo salvação para todos os homens. 12Ela nos ensina a abandonar a impiedade e as paixões mundanas e a viver neste mundo com equilíbrio, justiça e piedade, 13aguardando a feliz esperança e a manifestação da glória do nosso grande Deus e salvador, Jesus Cristo. 14Ele se entregou por nós para nos resgatar de toda maldade e purificar para si um povo que lhe pertença e que se dedique a praticar o bem."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 36(37)",
+        "refrao": "A salvação de quem é justo vem de Deus!",
+        "texto": "– Confia no Senhor e faze o bem, e sobre a terra habitarás em segurança. Coloca no Senhor tua alegria, e ele dará o que pedir teu coração.\n– O Senhor cuida da vida dos honestos, e sua herança permanece eternamente. É o Senhor quem firma os passos dos mortais e dirige o caminhar dos que lhe agradam.\n– Afasta-te do mal e faze o bem, e terás tua morada para sempre. Os justos herdarão a nova terra e nela habitarão eternamente."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 17,7-10",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, disse Jesus: 7“Se algum de vós tem um empregado que trabalha a terra ou cuida dos animais, por acaso vai dizer-lhe, quando ele volta do campo: ‘Vem depressa para a mesa’? 8Pelo contrário, não vai dizer ao empregado: ‘Prepara-me o jantar, cinge-te e serve-me, enquanto eu como e bebo; depois disso tu poderás comer e beber’? 9Será que vai agradecer ao empregado, porque fez o que lhe havia mandado? 10Assim também vós, quando tiverdes feito tudo o que vos mandaram, dizei: ‘Somos servos inúteis; fizemos o que devíamos fazer'”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor firmou com ele uma aliança de paz e o colocou à frente do seu povo a fim de ser sacerdote para sempre. (Cf. Eclo 45,30)",
+    "comunhao": "Simão Pedro disse a Jesus: Tu és o Cristo, o Filho do Deus vivo. Jesus então declarou: Tu és Pedro, e sobre esta pedra construirei a minha Igreja. (Cf. Mt 16,16.18)"
+  }
+}

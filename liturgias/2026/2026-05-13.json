@@ -1,0 +1,40 @@
+{
+  "data": "13/05/2026",
+  "liturgia": "4ª feira da 6ª Semana da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Senhor, como celebramos solenemente o mistério da ressurreição do vosso Filho, concedei que mereçamos também alegrar-nos com todos os santos quando ele vier em sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, pelo venerável intercâmbio deste sacrifício nos fizestes participar de vossa única e suprema divindade;concedei, nós vos pedimos, que, conhecendo a vossa verdade, a testemunhemos pela prática das boas obras. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, nós vos pedimos, permanecei com misericórdia junto ao vosso povo e fazei passar da antiga para a nova vida aqueles que iniciastes nos mistérios celestes. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 17, 15. 22–18, 1",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Naqueles dias, 17, 15os que conduziram Paulo, levaram-no até Atenas. De lá, voltando, transmitiram a Silas e Timóteo a ordem de que fossem ter com ele o mais cedo possível. E partiram.,22De pé, no meio do Areópago, Paulo disse: “Homens atenienses, em tudo eu vejo que vós sois extremamente religiosos. 23Com efeito, passando e observando os vossos lugares de culto, encontrei também um altar com esta inscrição: ‘Ao Deus desconhecido’. Pois bem, esse Deus que vós adorais sem conhecer é exatamente aquele que eu vos anuncio. 24O Deus que fez o mundo e tudo o que nele existe, sendo Senhor do céu e da terra, ele não habita em santuários feitos por mãos humanas. 25Também não é servido por mãos humanas, como se precisasse de alguma coisa; pois é ele que dá a todos vida, respiração e tudo o mais.,26De um só homem ele fez toda a raça humana para habitar sobre toda a face da terra, tendo fixado os tempos previamente estabelecidos e os limites de sua habitação. 27Assim fez, para que buscassem a Deus e para ver se o descobririam, ainda que às apalpadelas. Ele não está longe de cada um de nós, 28pois nele vivemos, nos movemos e existimos, como disseram alguns dentre vossos poetas: ‘Somos da raça do próprio Deus’.,29Sendo, portanto, da raça de Deus, não devemos pensar que a divindade seja semelhante a ouro, prata ou pedra, trabalhados pela arte e imaginação do homem. 30Mas Deus, sem levar em conta os tempos da ignorância, agora anuncia aos homens que todos e em todo lugar se arrependam, 31pois ele estabeleceu um dia em que irá julgar o mundo com justiça, por meio do homem que designou, diante de todos, oferecendo uma garantia, ao ressuscitá-lo dos mortos”.,32Quando ouviram falar da ressurreição dos mortos, alguns caçoavam, e outros diziam: “Nós te ouviremos falar disso em outra ocasião”. 33Assim Paulo saiu do meio deles. 34Alguns, porém, uniram-se a ele e abraçaram a fé. Entre eles estava também Dionísio, o areopagita, uma mulher chamada Dâmaris e outros com eles. 18, 1Paulo deixou Atenas e foi para Corinto."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 148",
+        "refrao": "Da vossa glória estão cheios o céu e a terra.",
+        "texto": "— Louvai o Senhor Deus nos altos céus, louvai-o no excelso firmamento! Louvai-o, anjos seus, todos louvai-o, louvai-o, legiões celestiais! \n— Reis da terra, povos todos, bendizei-o, e vós, príncipes e todos os juízes; e vós, jovens, e vós, moças e rapazes, anciãos e criancinhas, bendizei-o! \n— Louvem o nome do Senhor, louvem-no todos, porque somente o seu nome é excelso! A majestade e esplendor de sua glória ultrapassam em grandeza o céu e a terra. \n— Ele exaltou seu povo eleito em poderio; ele é o motivo de louvor para os seus santos. É um hino para os filhos de Israel, este povo que ele ama e lhe pertence"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 16, 12-15",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 12“Tenho ainda muitas coisas a dizer-vos, mas não sois capazes de as compreender agora. 13Quando, porém, vier o Espírito da Verdade, ele vos conduzirá à plena verdade. Pois ele não falará por si mesmo, mas dirá tudo o que tiver ouvido; e até as coisas futuras vos anunciará.14Ele me glorificará, porque receberá do que é meu e vo-lo anunciará. 15Tudo o que o Pai possui é meu. Por isso, disse que o que ele receberá e vos anunciará, é meu”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Eu vos louvarei, Senhor, entre os povos, e anunciarei vosso nome aos meus irmãos, aleluia. (Cf. Sl 17,50; 21,23)",
+    "comunhao": "Assim diz o Senhor: Eu vos escolhi do mundo e vos destinei para irdes e produzirdes fruto e o vosso fruto permaneça, aleluia. (Cf. Jo 15,16.19)"
+  }
+}

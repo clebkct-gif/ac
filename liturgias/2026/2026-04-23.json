@@ -1,0 +1,40 @@
+{
+  "data": "23/04/2026",
+  "liturgia": "5ª feira da 3ª Semana da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, nestes dias em que nos fizestes conhecer toda a riqueza da vossa misericórdia, derramai-a sobre nós com maior generosidade, para tornar mais firmes em vossa verdade aqueles que libertastes das trevas do erro. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, pelo venerável intercâmbio deste sacrifício nos fizestes participar de vossa única e suprema divindade; concedei, nós vos pedimos, que conhecendo a vossa verdade a testemunhemos pela prática das boas obras. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, nós vos pedimos, permanecei com misericórdia junto ao vosso povo e fazei passar da antiga para a nova vida aqueles que iniciastes nos mistérios celestes. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 8, 26-40",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Naqueles dias, 26um anjo do Senhor falou a Filipe, dizendo: “Prepara-te e vai para o sul, no caminho que desce de Jerusalém a Gaza. O caminho é deserto”. Filipe levantou-se e foi. 27Nisso apareceu um eunuco etíope, ministro de Candace, rainha da Etiópia, e administrador geral do seu tesouro, que tinha ido em peregrinação a Jerusalém. 28Ele estava voltando para casa e vinha sentado no seu carro, lendo o profeta Isaías. 29Então o Espírito disse a Filipe: “Aproxima-te desse carro e acompanha-o”. 30Filipe correu, ouviu o eunuco ler o profeta Isaías e perguntou: “Tu compreendes o que estás lendo?”,31O eunuco respondeu: “Como posso, se ninguém mo explica?”,Então convidou Filipe a subir e a sentar-se junto a ele. 32A passagem da Escritura que o eunuco estava lendo era esta: “Ele foi levado como ovelha ao matadouro; e qual um cordeiro diante do seu tosquiador, ele emudeceu e não abriu a boca. 33Eles o humilharam e lhe negaram justiça; e seus descendentes, quem os poderá enumerar? Pois sua vida foi arrancada da terra”. 34E o eunuco disse a Filipe: “Peço que me expliques de quem o profeta está dizendo isso. Ele fala de si mesmo ou se refere a algum outro?” 35Então Filipe começou a falar e, partindo dessa passagem da Escritura, anunciou Jesus ao eunuco. 36Eles prosseguiram o caminho e chegaram a um lugar onde havia água. 37Então o eunuco disse a Filipe: “Aqui temos água. O que impede que eu seja batizado?”,38O eunuco mandou parar o carro. Os dois desceram para a água e Filipe batizou o eunuco. 39Quando saíram da água, o Espírito do Senhor arrebatou Filipe. O eunuco não o viu mais e prosseguiu sua viagem, cheio de alegria. 40Filipe foi parar em Azoto. E, passando adiante, evangelizava todas as cidades até chegar a Cesareia."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 65",
+        "refrao": "Aclamai o Senhor Deus, ó terra inteira.",
+        "texto": "— Nações, glorificai ao nosso Deus, anunciai em alta voz o seu louvor! É ele quem dá vida à nossa vida, e não permite que vacilem nossos pés. \n— Todos vós que a Deus temeis, vinde escutar: vou contar-vos todo bem que ele me fez! Quando a ele o meu grito se elevou, já havia gratidão em minha boca! \n— Bendito seja o Senhor Deus que me escutou, não rejeitou minha oração e meu clamor, nem afastou longe de mim o seu amor!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 6, 44-51",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, disse Jesus à multidão: 44“Ninguém pode vir a mim, se o Pai que me enviou não o atrai. E eu o ressuscitarei no último dia. 45Está escrito nos Profetas: ‘Todos serão discípulos de Deus’. Ora, todo aquele que escutou o Pai e por ele foi instruído, vem a mim. 46Não que alguém já tenha visto o Pai. Só aquele que vem de junto de Deus viu o Pai. 47Em verdade, em verdade vos digo, quem crê possui a vida eterna.\n48Eu sou o pão da vida. 49Os vossos pais comeram o maná no deserto e, no entanto, morreram. 50Eis aqui o pão que desce do céu: quem dele comer, nunca morrerá. 51Eu sou o pão vivo descido do céu. Quem comer deste pão viverá eternamente. E o pão que eu darei é a minha carne dada para a vida do mundo”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Cantemos ao Senhor, pois fez brilhar a sua glória. O Senhor é minha força e meu canto, ele foi para mim a salvação, aleluia. (Cf. Ex 15, 1-2)",
+    "comunhao": "Cristo morreu por todos, para que os vivos não vivam mais para si mesmos, mas para aquele que por eles morreu e ressuscitou, aleluia. (2Cor 5, 15)"
+  }
+}

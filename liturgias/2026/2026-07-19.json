@@ -1,0 +1,46 @@
+{
+  "data": "19/07/2026",
+  "liturgia": "16º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Senhor, sede propício a vossos fiéis, e, benigno, multiplicai neles os dons da vossa graça, para que, fervorosos na fé, esperança e caridade, perseverem sempre vigilantes na observância dos vossos mandamentos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, no único sacrifício da cruz levastes à plenitude os diversos sacrifícios da antiga lei. Aceitai esta oblação das mãos dos vossos fiéis e santificai-a, com a mesma bênção que destes à oferta de Abel, a fim de que sirva para a salvação de todos o que cada um trouxe em vossa honra. Por Cristo, nosso Senhor.",
+    "comunhao": "Nós vos pedimos, Senhor misericordioso, permanecei junto ao vosso povo e fazei passar da antiga para a nova vida aqueles que iniciastes nos mistérios do céu. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Sb 12,13.16-19",
+        "titulo": "Leitura do Livro da Sabedoria",
+        "texto": "13Não há, além de ti, outro Deus que cuide de todas as coisas e a quem devas mostrar que teu julgamento não foi injusto. 16A tua força é princípio da tua justiça, e o teu domínio sobre todos te faz para com todos indulgente. 17Mostras a tua força a quem não crê na perfeição do teu poder; e nos que te conhecem, castigas o seu atrevimento. 18No entanto, dominando tua própria força, julgas com clemência e nos governas com grande consideração, pois, quando quiseres, está ao teu alcance fazer uso do teu poder. 19Assim procedendo, ensinaste ao teu povo que o justo deve ser humano; e a teus filhos deste a confortadora esperança de que concedes o perdão aos pecadores."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 85(86)",
+        "refrao": "Ó Senhor, vós sois bom, sois clemente e fiel!",
+        "texto": "– Ó Senhor, vós sois bom e clemente, sois perdão para quem vos invoca. Escutai, ó Senhor, minha prece, o lamento da minha oração!\n– As nações que criastes virão adorar e louvar vosso nome. Sois tão grande e fazeis maravilhas: vós somente sois Deus e Senhor!\n– Vós, porém, sois clemente e fiel, sois amor, paciência e perdão. Tende pena e olhai para mim! Confirmai com vigor vosso servo."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Rm 8,26-27",
+        "titulo": "Leitura da carta de São Paulo aos Romanos",
+        "texto": "Irmãos, 26o Espírito vem em socorro da nossa fraqueza. Pois nós não sabemos o que pedir nem como pedir; é o próprio Espírito que intercede em nosso favor com gemidos inefáveis. 27E aquele que penetra o íntimo dos corações sabe qual é a intenção do Espírito. Pois é sempre segundo Deus que o Espírito intercede em favor dos santos."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 13,24-43",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 24Jesus contou outra parábola à multidão: “O Reino dos Céus é como um homem que semeou boa semente no seu campo. 25Enquanto todos dormiam, veio seu inimigo, semeou joio no meio do trigo e foi embora. 26Quando o trigo cresceu e as espigas começaram a se formar, apareceu também o joio. 27Os empregados foram procurar o dono e lhe disseram: ‘Senhor, não semeaste boa semente no teu campo? Donde veio então o joio?’ 28O dono respondeu: ‘Foi algum inimigo que fez isso’. Os empregados lhe perguntaram: ‘Queres que vamos arrancar o joio?’ 29O dono respondeu: ‘Não! Pode acontecer que, arrancando o joio, arranqueis também o trigo. 30Deixai crescer um e outro até a colheita! E, no tempo da colheita, direi aos que cortam o trigo: arrancai primeiro o joio e amarrai-o em feixes para ser queimado! Recolhei, porém, o trigo no meu celeiro!'”\n31Jesus contou-lhes outra parábola: “O Reino dos Céus é como uma semente de mostarda que um homem pega e semeia no seu campo. 32Embora ela seja a menor de todas as sementes, quando cresce, fica maior do que as outras plantas. E torna-se uma árvore, de modo que os pássaros vêm e fazem ninhos em seus ramos”. 33Jesus contou-lhes ainda outra parábola: “O Reino dos Céus é como o fermento que uma mulher pega e mistura com três porções de farinha, até que tudo fique fermentado”. 34Tudo isso Jesus falava em parábolas às multidões. Nada lhes falava sem usar parábolas, 35para se cumprir o que foi dito pelo profeta: “Abrirei a boca para falar em parábolas; vou proclamar coisas escondidas desde a criação do mundo”. 36Então Jesus deixou as multidões e foi para casa. Seus discípulos aproximaram-se dele e disseram: “Explica-nos a parábola do joio!” 37Jesus respondeu: “Aquele que semeia a boa semente é o Filho do Homem. 38O campo é o mundo. A boa semente são os que pertencem ao Reino. O joio são os que pertencem ao maligno. 39O inimigo que semeou o joio é o diabo. A colheita é o fim dos tempos. Os ceifeiros são os anjos. 40Como o joio é recolhido e queimado ao fogo, assim também acontecerá no fim dos tempos: 41o Filho do Homem enviará os seus anjos e eles retirarão do seu Reino todos os que fazem outros pecar e os que praticam o mal; 42e depois os lançarão na fornalha de fogo. Aí haverá choro e ranger de dentes. 43Então os justos brilharão como o sol no Reino de seu Pai. Quem tem ouvidos ouça”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Quem me protege e me ampara é meu Deus; é o Senhor quem sustenta minha vida. Quero ofertar-vos o meu sacrifício de coração e com muita alegria (Cf. Sl 53, 6. 8)",
+    "comunhao": "O Senhor bom e clemente nos deixouo memorial de suas grandes maravilhas. Ele dá o alimento aos que o temem. (Cf. Sl 110, 4-5)"
+  }
+}

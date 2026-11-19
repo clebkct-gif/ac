@@ -1,0 +1,40 @@
+{
+  "data": "07/05/2026",
+  "liturgia": "5ª feira da 5ª Semana da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, que nos destes no bispo Santo Atanásio um exímio defensor da divindade do vosso Filho, concedei-nos benigno que, alegrando-nos com sua doutrina e proteção, possamos conhecer-vos sempre melhor e vos amar cada vez mais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Olhai, Senhor, os dons que vos apresentamos na comemoração de Santo Atanásio; concedei àqueles que professam a fé autêntica chegarem à salvação pelo testemunho da verdade. Por Cristo, nosso Senhor.",
+    "comunhao": "Concedei-nos, Deus todo-poderoso, que a verdadeira divindade do vosso Filho, que professamos firmemente com Santo Atanásio, nos vivifique e nos proteja pela recepção deste sacramento. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 15, 7-21",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Naqueles dias, 7depois de longa discussão, Pedro levantou-se e falou aos apóstolos e anciãos: “Irmãos, vós sabeis que, desde os primeiros dias, Deus me escolheu, do vosso meio, para que os pagãos ouvissem de minha boca a palavra do Evangelho e acreditassem. 8Ora, Deus, que conhece os corações, testemunhou a favor deles, dando-lhes o Espírito Santo como o deu a nós. 9E não fez nenhuma distinção entre nós e eles, purificando o coração deles mediante a fé. 10Então, por que vós agora colocais Deus à prova, querendo impor aos discípulos um jugo que nem nossos pais e nem nós mesmos tivemos força para suportar? 11Ao contrário, é pela graça do Senhor Jesus que acreditamos ser salvos, exatamente como eles”.,12Houve então um grande silêncio em toda a assembleia. Depois disso, ouviram Barnabé e Paulo contar todos os sinais e prodígios que Deus havia realizado, por meio deles, entre os pagãos. 13Quando Barnabé e Paulo terminaram de falar, Tiago tomou a palavra e disse: “Irmãos, ouvi-me: 14Simão acaba de nos lembrar como, desde o começo, Deus se dignou tomar homens das nações pagãs para formar um povo dedicado ao seu Nome. 15Isso concorda com as palavras dos profetas, pois está escrito: 16ʽDepois disso, eu voltarei e reconstruirei a tenda de Davi que havia caído; reconstruirei as ruínas que ficaram e a reerguerei, 17a fim de que o resto dos homens procure o Senhor com todas as nações que foram consagradas ao meu Nome. É o que diz o Senhor, que fez estas coisas, 18conhecidas há muito tempo’.,19Por isso, sou do parecer que devemos parar de importunar os pagãos que se convertem a Deus. 20Vamos somente prescrever que eles evitem o que está contaminado pelos ídolos, as uniões ilegítimas, comer carne de animal sufocado e o uso do sangue. 21Com efeito, desde os tempos antigos, em cada cidade, Moisés tem os seus pregadores, que o leem todos os sábados nas sinagogas”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 95",
+        "refrao": "Anunciai as maravilhas do Senhor entre todas as nações.",
+        "texto": "— Cantai ao Senhor Deus um canto novo, cantai ao Senhor Deus, ó terra inteira! Cantai e bendizei seu santo nome! \n— Dia após dia anunciai sua salvação, manifestai a sua glória entre as nações, e entre os povos do universo seus prodígios! \n— Publicai entre as nações: “Reina o Senhor!” Ele firmou o universo inabalável pois os povos ele julga com justiça"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 15, 9-11",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, disse Jesus a seus discípulos: 9“Como meu Pai me amou, assim também eu vos amei. Permanecei no meu amor. 10Se guardardes os meus mandamentos, permanecereis no meu amor, assim como eu guardei os mandamentos do meu Pai e permaneço no seu amor. 11Eu vos disse isto, para que a minha alegria esteja em vós e a vossa alegria seja plena”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Cantemos ao Senhor, pois fez brilhar a sua glória. O Senhor é minha força e meu canto, ele foi para mim a salvação, aleluia. (Cf. Ex 15,1-2)",
+    "comunhao": "Cristo morreu por todos, para que os vivos não vivam mais para si mesmos, mas para aquele que por eles morreu e ressuscitou, aleluia. (2Cor 5.15)"
+  }
+}

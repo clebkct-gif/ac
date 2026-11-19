@@ -1,0 +1,40 @@
+{
+  "data": "03/11/2026",
+  "liturgia": "3ª feira da 31ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus de poder e misericórdia, que concedeis a vossos filhos e filhas o dom de vos servir como devem, fazei que corramos livremente ao encontro das vossas promessas. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Seja este sacrifício para vós, Senhor, uma oferenda pura e, para nós, fonte generosa de vossa santa misericórdia. Por Cristo, nosso Senhor.",
+    "comunhao": "Cresça em nós, Senhor, a ação da vossa graça, para que, refeitos pelos vossos sacramentos, sejamos preparados para alcançar o que prometem. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Fl 2, 5-11",
+        "titulo": "Leitura da Carta de São Paulo aos Filipenses",
+        "texto": "Irmãos, 5tende entre vós o mesmo sentimento que existe em Cristo Jesus. 6Jesus Cristo, existindo em condição divina, não fez do ser igual a Deus uma usurpação, 7mas ele esvaziou-se a si mesmo, assumindo a condição de escravo e tornando-se igual aos homens. Encontrado com aspecto humano, 8humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz. 9Por isso, Deus o exaltou acima de tudo e lhe deu o Nome que está acima de todo nome. 10Assim, ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, 11e toda língua proclame: “Jesus Cristo é o Senhor” – para a glória de Deus Pai."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 21",
+        "refrao": "Ó Senhor, sois meu louvor em meio à grande assembleia!",
+        "texto": "— Cumpro meus votos ante aqueles que vos temem! Vossos pobres vão comer e saciar-se, e os que procuram o Senhor o louvarão: “Seus corações tenham a vida para sempre!”\n— Lembrem-se disso os confins de toda a terra, para que voltem ao Senhor e se convertam, e se prostrem, adorando, diante dele, todos os povos e as famílias das nações. Pois ao Senhor é que pertence a realeza; ele domina sobre todas as nações. Somente a ele adorarão os poderosos.\n— Toda a minha descendência há de servi-lo; às futuras gerações anunciará o poder e a justiça do Senhor; ao povo novo que há de vir, ela dirá: “Eis a obra que o Senhor realizou!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 14, 15-24",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 15um homem que estava à mesa disse a Jesus: “Feliz aquele que come o pão no Reino de Deus!” 16Jesus respondeu: “Um homem deu um grande banquete e convidou muitas pessoas. 17Na hora do banquete, mandou seu empregado dizer aos convidados: ‘Vinde, pois tudo está pronto’. 18Mas todos, um a um, começaram a dar desculpas. O primeiro disse: ‘Comprei um campo, e preciso ir vê-lo. Peço-te que aceites minhas desculpas’. 19Um outro disse: ‘Comprei cinco juntas de bois, e vou experimentá-las. Peço-te que aceites minhas desculpas’. 20Um terceiro disse: ‘Acabo de me casar e, por isso, não posso ir’. 21O empregado voltou e contou tudo ao patrão. Então o dono da casa ficou muito zangado e disse ao empregado: ‘Sai depressa pelas praças e ruas da cidade. Traze para cá os pobres, os aleijados, os cegos e os coxos’. 22O empregado disse: ‘Senhor, o que tu mandaste fazer foi feito, e ainda há lugar’. 23O patrão disse ao empregado: ‘Sai pelas estradas e atalhos, e obriga as pessoas a virem aqui, para que minha casa fique cheia’. 24Pois eu vos digo: nenhum daqueles que foram convidados provará do meu banquete’”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Não me abandoneis, Senhor, meu Deus, nem fiqueis longe de mim! Vinde em meu auxílio, ó Senhor, força da minha salvação! (Cf. Sl 37, 22-23)",
+    "comunhao": "Vós me ensinastes o caminho para a vida, junto a vós, Senhor, felicidade sem limites. (Cf. Sl 15, 11)"
+  }
+}

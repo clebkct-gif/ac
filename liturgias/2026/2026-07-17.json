@@ -1,0 +1,40 @@
+{
+  "data": "17/07/2026",
+  "liturgia": "Bem-aventurado Inácio de Azevedo, presbítero, e companheiros, mártires, Memória",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, que escolhestes Inácio de Azevedo e seus companheiros para regarem com seu sangue as primeiras sementes do Evangelho lançadas na Terra de Santa Cruz, concedei-nos, para vossa maior glória, professar constantemente a fé que recebemos de nossos antepassados. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, ó Deus, as nossas oferendas e fazei que sejamos fortalecidos pelo mesmo sacrifício que sustentou no martírio o Bem-aventurado Inácio de Azevedo e seus companheiros. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, tendo participado, do mistério pascal à mesa da Eucaristia, fazei-nos fiéis ao vosso serviço, a exemplo dos quarenta mártires que deram a sua vida por vós. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 38, 1-6. 21-22. 7-8",
+        "titulo": "Leitura do Livro do Profeta Isaías",
+        "texto": "1Naqueles dias, Ezequias foi acometido de uma doença mortal. Foi visitá-lo o profeta Isaías, filho de Amós, e disse-lhe: “Isto diz o Senhor: Arruma as coisas de tua casa, pois vais morrer e não viverás”. 2Então Ezequias virou o rosto contra a parede e orou ao Senhor, dizendo: 3“Peço-te, Senhor, te lembres de que tenho caminhado em tua presença, com fidelidade e probidade de coração, e tenho praticado o bem aos teus olhos”. Ezequias prorrompeu num grande choro. 4A palavra do Senhor foi dirigida a Isaías: 5“Vai dizer a Ezequias: Isto diz o Senhor, Deus de Davi, teu pai: ‘Ouvi a tua oração, vi as tuas lágrimas; eis que vou acrescentar à tua vida mais quinze anos, 6vou libertar-te das mãos do rei da Assíria, junto com esta cidade, que ponho sob minha proteção’”. 21Então, Isaías ordenou que fizessem uma cataplasma de massa de figos e a aplicassem sobre a ferida, que ele ficaria bom. 22Perguntou Ezequias: “E qual é o sinal de que hei de subir à casa do Senhor?” 7“Este é o sinal que terás do Senhor, de que ele cumprirá a promessa que fez: 8Eis que farei recuar dez graus a sombra dos graus que já desceu no relógio solar de Acaz”. De fato, a marca do sol recuara dez graus dos que ela tinha descido."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Is 38, 10-12. 16",
+        "refrao": "Vós livrastes minha vida do sepulcro, a fim de eu não deixar de existir.",
+        "texto": "— Eu dizia: “É necessário que eu me vá no apogeu de minha vida e de meus dias; para a mansão triste dos mortos descerei, sem viver o que me resta dos meus anos”.\n— Eu dizia: “Não verei o Senhor Deus sobre a terra dos viventes nunca mais; nunca mais verei um homem neste mundo!”\n— Minha morada foi à força arrebatada, desarmada como a tenda de um pastor. Qual tecelão, eu ia tecendo a minha vida, mas agora foi cortada a sua trama.\n— Ó Senhor, meu coração em vós espera; por vós há de viver o meu espírito, curai-me e conservai a minha vida"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 12,1-8",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, 1Jesus passou no meio de uma plantação num dia de sábado. Seus discípulos tinham fome e começaram a apanhar espigas para comer. 2Vendo isso, os fariseus disseram-lhe: “Olha, os teus discípulos estão fazendo o que não é permitido fazer em dia de sábado!” 3Jesus respondeu-lhes: “Nunca lestes o que fez Davi quando ele e seus companheiros sentiram fome? 4Como entrou na casa de Deus e todos comeram os pães da oferenda, que nem a ele nem aos seus companheiros era permitido comer, mas unicamente aos sacerdotes? 5Ou nunca lestes na lei que, em dia de sábado, no templo, os sacerdotes violam o sábado sem contrair culpa alguma? 6Ora, eu vos digo, aqui está quem é maior do que o templo. 7Se tivésseis compreendido o que significa: ‘Quero a misericórdia e não o sacrifício’, não teríeis condenado os inocentes. 8De fato, o Filho do homem é senhor do sábado”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Ao nome de Jesus, todo joelho se dobre no céu, na terra e abaixo da terra, e toda língua proclame: Jesus Cristo é o Senhor, para a glória de Deus Pai. (Fl 2, 10-11)",
+    "comunhao": "Se o grão de trigo que cai na terra não morre, fica só; mas, se morre, produz muito fruto. (Cf. Jo 12, 24)"
+  }
+}

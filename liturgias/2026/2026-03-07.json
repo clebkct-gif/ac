@@ -1,0 +1,40 @@
+{
+  "data": "07/03/2026",
+  "liturgia": "Sábado da 2ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Ó Deus, que pela vossa graça já nos dais na terra participar dos bens do céu, guiai-nos de tal modo nesta vida, que possamos chegar à luz em que habitais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, por este sacramento venham até nós os frutos da redenção; que eles sempre nos afastem dos excessos humanos e nos conduzam aos dons da salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, o divino sacramento que recebemos penetre o íntimo do nosso coração e nos faça participar da sua força. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Mq 7, 14-15. 18-20",
+        "titulo": "Leitura da Profecia de Mi­queias",
+        "texto": "14Apascenta o teu povo com o cajado da autoridade, o rebanho de tua propriedade, os habitantes dispersos pela mata e pelos campos cultivados; que eles desfrutem a terra de Basã e de Galaad, como nos velhos tempos. 15E, como foi nos dias em que nos fizeste sair do Egito, faze-nos ver novos prodígios. 18Qual Deus existe, como tu, que apagas a iniquidade e esqueces o pecado daqueles que são resto de tua propriedade? Ele não guarda rancor para sempre, o que ama é a misericórdia. 19Voltará a compadecer-se de nós, esquecerá nossas iniquidades e lançará ao fundo do mar todos os nossos pecados.20Tu manterás fidelidade a Jacó e terás compaixão de Abraão, como juraste a nossos pais, desde tempos remotos."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 102",
+        "refrao": "O Senhor é indulgente e favorável.",
+        "texto": "— Bendize, ó minha alma, ao Senhor, e todo o meu ser, seu santo nome! Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores! \n— Pois ele te perdoa toda culpa, e cura toda a tua enfermidade; da sepultura ele salva a tua vida e te cerca de carinho e compaixão; \n— Não fica sempre repetindo as suas queixas, nem guarda eternamente o seu rancor. Não nos trata como exigem nossas faltas, nem nos pune em proporção às nossas culpas. \n— Quanto os céus por sobre a terra se elevam, tanto é grande o seu amor aos que o temem; quanto dista o nascente do poente, tanto afasta para longe nossos crimes."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 15, 1-3. 11-32",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 1os publi­canos e pecadores aproximavam-se de Jesus para o escutar. 2Os fariseus, porém, e os mestres da Lei criticavam Jesus: “Este homem acolhe os pecadores e faz refeição com eles”.\n3Então Jesus contou-lhes esta parábola: 11“Um homem tinha dois filhos. 12O filho mais novo disse ao pai: ‘Pai, dá-me a parte da herança que me cabe’. E o pai dividiu os bens entre eles. 13Poucos dias depois, o filho mais novo juntou o que era seu e partiu para um lugar distante. E ali esbanjou tudo numa vida desenfreada.\n14Quando tinha gasto tudo o que possuía, houve uma grande fome naquela região, e ele começou a passar necessidade. 15Então foi pedir trabalho a um homem do lugar, que o mandou para seu campo cuidar dos porcos. 16O rapaz queira matar a fome com a comida que os porcos comiam, mas nem isto lhe davam.\n17Então caiu em si e disse: ‘Quantos empregados do meu pai têm pão com fartura, e eu aqui, morrendo de fome’. 18Vou-me embora, vou voltar para meu pai e dizer-lhe: ‘Pai, pequei contra Deus e contra ti; 19já não mereço ser chamado teu filho. Trata-me como a um dos teus empregados’.\n20Então ele partiu e voltou para seu pai. Quando ainda estava longe, seu pai o avistou e sentiu compaixão. Correu-lhe ao encontro, abraçou-o e cobriu-o de beijos. 21O filho, então, lhe disse: ‘Pai, pequei contra Deus e contra ti. Já não mereço ser chamado teu filho’.\n22Mas o pai disse aos empregados: ‘Trazei depressa a melhor túnica para vestir meu filho. E colocai um anel no seu dedo e sandálias nos pés. 23Trazei um novilho gordo e matai-o. Vamos fazer um banquete. 24Porque este meu filho estava morto e tornou a viver; estava perdido e foi encontrado’. E começaram a festa.\n25O filho mais velho estava no campo. Ao voltar, já perto de casa, ouviu música e barulho de dança. 26Então chamou um dos criados e perguntou o que estava acontecendo. 27O criado respondeu: ‘É teu irmão que voltou. Teu pai matou o novilho gordo, porque o recuperou com saúde’.\n28Mas ele ficou com raiva e não queria entrar. O pai, saindo, insistia com ele. 29Ele, porém, respondeu ao pai: ‘Eu trabalho para ti há tantos anos, jamais desobedeci a qualquer ordem tua. E tu nunca me deste um cabrito para eu festejar com meus amigos. 30Quando chegou esse teu filho, que esbanjou teus bens com prostitutas, matas para ele o novilho cevado’.\n31Então o pai lhe disse: ‘Filho, tu estás sempre comigo, e tudo o que é meu é teu. 32Mas era preciso festejar e alegrar-nos, porque este teu irmão estava morto e tornou a viver; estava perdido, e foi encontrado”’."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Misericórdia e piedade é o Senhor, ele é amor, é paciência, é compaixão. O Senhor é muito bom para com todos, sua ternura abraça toda criatura. (Cf. Sl 144, 8-9)",
+    "comunhao": "Filho, era preciso festejar e alegrar-nos, porque este teu irmão estava morto e tornou a viver, estava perdido e foi encontrado. (Cf. Lc 15, 32)"
+  }
+}

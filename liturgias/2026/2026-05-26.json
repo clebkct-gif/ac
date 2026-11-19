@@ -1,0 +1,40 @@
+{
+  "data": "26/05/2026",
+  "liturgia": "São Filipe Néri, presbítero, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Concedei-nos, Deus de misericórdia, que possamos saborear em toda a nossa vida os frutos do mistério que celebramos na Páscoa. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Aceitai, Senhor, os dons da vossa Igreja em festa e concedei o fruto da eterna alegria a quem destes motivo de tão grande júbilo. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, olhai com bondade o vosso povo e fazei chegar à incorruptível ressurreição da carne aqueles que renovastes pelos sacramentos da vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Pd 1,10-16",
+        "titulo": "Leitura da Primeira Carta de São Pedro",
+        "texto": "Caríssimos, 10esta salvação tem sido objeto das investigações e meditações dos profetas. Eles profetizaram a respeito da graça que vos estava destinada. 11Procuraram saber a que época e a que circunstâncias se referia o Espírito de Cristo, que estava neles, ao anunciar com antecedência os sofrimentos de Cristo e a glória consequente. 12Foi-lhes revelado que, não para si mesmos, mas para vós, estavam ministrando essas coisas, que agora são anunciadas a vós por aqueles que vos pregam o evangelho em virtude do Espírito Santo, enviado do céu; revelações essas que até os anjos desejam contemplar! 13Por isso, aprontai a vossa mente; sede sóbrios e colocai toda a vossa esperança na graça que vos será oferecida na revelação de Jesus Cristo. 14Como filhos obedientes, não modeleis a vossa vida de acordo com as paixões de antigamente, do tempo da vossa ignorância. 15Antes, como é santo aquele que vos chamou, tornai-vos santos, também vós, em todo o vosso proceder. 16Pois está na Escritura: “Sede santos, porque eu sou santo”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 97(98)",
+        "refrao": "O Senhor fez conhecer seu poder salvador perante as nações.",
+        "texto": "– Cantai ao Senhor Deus um canto novo, porque ele fez prodígios! Sua mão e o seu braço forte e santo alcançaram-lhe a vitória.\n– O Senhor fez conhecer a salvação, e às nações, sua justiça; recordou o seu amor sempre fiel pela casa de Israel.\n– Os confins do universo contemplaram a salvação do nosso Deus. Aclamai o Senhor Deus, ó terra inteira, alegrai-vos e exultai!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 10,28-31",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 28começou Pedro a dizer a Jesus: “Eis que nós deixamos tudo e te seguimos”. 29Respondeu Jesus: “Em verdade vos digo, quem tiver deixado casa, irmãos, irmãs, mãe, pai, filhos, campos, por causa de mim e do evangelho, 30receberá cem vezes mais agora, durante esta vida – casa, irmãos, irmãs, mães, filhos e campos, com perseguições –, e, no mundo futuro, a vida eterna. 31Muitos que agora são os primeiros serão os últimos. E muitos que agora são os últimos serão os primeiros”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O amor de Deus foi derramado em nossos corações pelo seu Espírito que habita em nós (Cf.Rm 5,5)",
+    "comunhao": "Como meu Pai me amou, assim também eu vos amei. Permanecei no meu amor, diz o Senhor. (Cf. Jo 15,9)"
+  }
+}

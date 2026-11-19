@@ -1,0 +1,40 @@
+{
+  "data": "28/10/2026",
+  "liturgia": "Santos Simão e Judas, Apóstolos, Festa",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, pelos santos Apóstolos, nos fizestes chegar ao conhecimento do vosso nome; concedei benigno, pela intercessão de São Simão e São Judas, que a vossa Igreja não cesse de crescer com o aumento dos povos que creem em vós. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Festejando a perene glória dos Santos apóstolos Simão e Judas, acolhei, Senhor, as nossas preces e fazei-nos celebrar dignamente os santos mistérios. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, tendo recebido o vosso sacramento, movidos pelo Espírito Santo, nós vos pedimos humildemente que a celebração do martírio dos apóstolos Simão e Judas nos conserve no vosso amor. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ef 2,19-22",
+        "titulo": "Leitura da carta de São Paulo aos Efésios",
+        "texto": "Irmãos, 19já não sois mais estrangeiros nem migrantes, mas concidadãos dos santos. Sois da família de Deus. 20Vós fostes integrados no edifício que tem como fundamento os apóstolos e os profetas e o próprio Jesus Cristo como pedra principal. 21É nele que toda a construção se ajusta e se eleva para formar um templo santo no Senhor. 22E vós também sois integrados nessa construção, para vos tornardes morada de Deus pelo Espírito."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 18(19A)",
+        "refrao": "Seu som ressoa e se espalha em toda a terra.",
+        "texto": "– Os céus proclamam a glória do Senhor, e o firmamento, a obra de suas mãos; o dia ao dia transmite essa mensagem, a noite à noite publica essa notícia.\n– Não são discursos nem frases ou palavras, nem são vozes que possam ser ouvidas; seu som ressoa e se espalha em toda a terra, chega aos confins do universo a sua voz."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 6,12-19",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "12Naqueles dias, Jesus foi à montanha para rezar. E passou a noite toda em oração a Deus. 13Ao amanhecer, chamou seus discípulos e escolheu doze dentre eles, aos quais deu o nome de apóstolos: 14Simão, a quem impôs o nome de Pedro, e seu irmão André; Tiago e João; Filipe e Bartolomeu; 15Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelota; 16Judas, filho de Tiago, e Judas Iscariotes, aquele que se tornou traidor. 17Jesus desceu da montanha com eles e parou num lugar plano. Ali estavam muitos dos seus discípulos e grande multidão de gente de toda a Judeia e de Jerusalém, do litoral de Tiro e Sidônia. 18Vieram para ouvir Jesus e serem curados de suas doenças. E aqueles que estavam atormentados por espíritos maus também foram curados. 19A multidão toda procurava tocar em Jesus, porque uma força saía dele e curava a todos."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Estes são homens santos que o Senhor escolheu com verdadeiro amor; deu-lhes a glória eterna.",
+    "comunhao": "Se alguém me ama, guardará a minha palavra, diz o Senhor; meu Pai o amará, e nós viremos e faremos nele a nossa morada. (Cf. Jo 14, 23)"
+  }
+}

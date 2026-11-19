@@ -1,0 +1,40 @@
+{
+  "data": "22/10/2026",
+  "liturgia": "5ª feira da 29ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, tornai-nos dispostos a obedecer sempre à vossa vontade e a vos servir de coração sincero. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei-nos, Senhor, nós vos pedimos, que possamos, com liberdade de coração, servir ao vosso altar para que vossa graça nos purifique e nos renovem estes mistérios que celebramos em vossa honra. Por Cristo, nosso Senhor.",
+    "comunhao": "Concedei-nos, Senhor, colher os frutos da participação da Eucaristia, para que, auxiliados pelos bens temporais, possamos conhecer as riquezas do vosso Reino. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ef 3,14-21",
+        "titulo": "Leitura da carta de São Paulo aos Efésios",
+        "texto": "Irmãos, 14eu dobro os joelhos diante do Pai, 15de quem toda e qualquer família recebe seu nome no céu e sobre a terra. 16Que ele vos conceda, segundo a riqueza da sua glória, serdes robustecidos, por seu Espírito, quanto ao homem interior; 17que ele faça habitar, pela fé, Cristo em vossos corações; que estejais enraizados e fundados no amor. 18Tereis assim a capacidade de compreender, com todos os santos, qual a largura, o comprimento, a altura, a profundidade, 19e de conhecer o amor de Cristo, que ultrapassa todo conhecimento, a fim de que sejais cumulados até receber toda a plenitude de Deus. 20Àquele que tudo pode realizar superabundantemente, e muito mais do que nós pedimos ou concebemos, e cujo poder atua em nós, 21a ele a glória, na Igreja e em Jesus Cristo, por todas as gerações, para sempre. Amém."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 32(33)",
+        "refrao": "Transborda em toda a terra a bondade do Senhor!",
+        "texto": "– Ó justos, alegrai-vos no Senhor! Aos retos fica bem glorificá-lo. Dai graças ao Senhor ao som da harpa, na lira de dez cordas celebrai-o!\n– Pois reta é a Palavra do Senhor, e tudo o que ele faz merece fé. Deus ama o direito e a justiça, transborda em toda a terra a sua graça.\n– Mas os desígnios do Senhor são para sempre, e os pensamentos que ele traz no coração, de geração em geração, vão perdurar. Feliz o povo cujo Deus é o Senhor e a nação que o escolheu por sua herança!\n– Mas o Senhor pousa o olhar sobre os que o temem e que confiam, esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 12,49-53",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 49“Eu vim para lançar fogo sobre a terra e como gostaria que já estivesse aceso! 50Devo receber um batismo e como estou ansioso até que isso se cumpra! 51Vós pensais que eu vim trazer a paz sobre a terra? Pelo contrário, eu vos digo, vim trazer divisão. 52Pois daqui em diante, numa família de cinco pessoas, três ficarão divididas contra duas e duas contra três; 53ficarão divididos o pai contra o filho e o filho contra o pai, a mãe contra a filha e a filha contra a mãe, a sogra contra a nora e a nora contra a sogra”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! Protegei-me qual dos olhos a pupila e abrigai-me à sombra de vossas asas. (Cf. Sl 16, 6. 8)",
+    "comunhao": "O Senhor pousa o olhar sobre os que o temem e que confiam esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria. (Cf. Sl 32, 18-19)"
+  }
+}

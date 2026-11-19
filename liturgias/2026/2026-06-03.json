@@ -1,0 +1,40 @@
+{
+  "data": "03/06/2026",
+  "liturgia": "São Carlos Lwanga e companheiros mártires, Memória",
+  "cor": "Vermelho",
+  "oracoes": {
+    "coleta": "Ó Deus, que fizestes do sangue dos mártires semente de novos cristãos, concedei benigno que o campo da vossa Igreja, regado pelo sangue de São Carlos Lwanga e seus companheiros, produza para vós sempre mais abundante colheita. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Nós vos apresentamos, Senhor, estas oferendas e vos suplicamos humildemente: como destes a vossos santos mártires a força de preferir a morte ao pecado, assim, fazei-nos inteiramente dedicados ao serviço do vosso altar. Por Cristo, nosso Senhor.",
+    "comunhao": "Participamos, Senhor, dos divinos mistérios, comemorando a vitória dos vossos santos mártires; os mesmos sacramentos que lhes deram a coragem para superar os tormentos nos concedam, em meio às adversidades, a constância na fé e na caridade. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "2Tm 1,1-3.6-12",
+        "titulo": "Início da Segunda Carta de São Paulo a Timóteo",
+        "texto": "1Paulo, apóstolo de Jesus Cristo pelo desígnio de Deus referente à promessa de vida que temos em Cristo Jesus, 2a Timóteo, meu querido filho: graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor! 3Dou graças a Deus – a quem sirvo com a consciência pura, como aprendi dos meus antepassados – quando me lembro de ti, dia e noite, nas minhas orações. 6Por este motivo, exorto-te a reavivar a chama do dom de Deus que recebeste pela imposição das minhas mãos. 7Pois Deus não nos deu um espírito de timidez, mas de fortaleza, de amor e sobriedade. 8Não te envergonhes do testemunho de nosso Senhor nem de mim, seu prisioneiro, mas sofre comigo pelo evangelho, fortificado pelo poder de Deus. 9Deus nos salvou e nos chamou com uma vocação santa, não devido às nossas obras, mas em virtude do seu desígnio e da sua graça, que nos foi dada em Cristo Jesus desde toda a eternidade. 10Essa graça foi revelada agora, pela manifestação de nosso salvador, Jesus Cristo. Ele não só destruiu a morte, como também fez brilhar a vida e a imortalidade por meio do evangelho, 11do qual fui constituído anunciador, apóstolo e mestre. 12Esta é a causa pela qual estou sofrendo, mas não me envergonho, porque sei em quem coloquei a minha fé. E tenho a certeza de que ele é capaz de guardar aquilo que me foi confiado até o grande dia."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 122(123)",
+        "refrao": "Ó Senhor, para vós eu levanto meus olhos.",
+        "texto": "– Eu levanto os meus olhos para vós, que habitais nos altos céus. Como os olhos dos escravos estão fitos nas mãos do seu senhor.\n– Como os olhos das escravas estão fitos nas mãos de sua senhora, assim os nossos olhos, no Senhor, até de nós ter piedade."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 12,18-27",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Naquele tempo, 18vieram ter com Jesus alguns saduceus, os quais afirmam que não existe ressurreição, e lhe propuseram este caso: 19“Mestre, Moisés deu-nos esta prescrição: se morrer o irmão de alguém e deixar a esposa sem filhos, o irmão desse homem deve casar-se com a viúva, a fim de garantir a descendência de seu irmão. 20Ora, havia sete irmãos; o mais velho casou-se e morreu sem deixar descendência. 21O segundo casou-se com a viúva e morreu sem deixar descendência. E a mesma coisa aconteceu com o terceiro. 22E nenhum dos sete deixou descendência. Por último, morreu também a mulher. 23Na ressurreição, quando eles ressuscitarem, de quem será ela mulher? Por que os sete se casaram com ela!” 24Jesus respondeu: “Acaso vós não estais enganados, por não conhecerdes as Escrituras nem o poder de Deus? 25Com efeito, quando os mortos ressuscitarem, os homens e as mulheres não se casarão, pois serão como os anjos do céu. 26Quanto ao fato da ressurreição dos mortos, não lestes no livro de Moisés, na passagem da sarça ardente, como Deus lhe falou: ‘Eu sou o Deus de Abraão, o Deus de Isaac e o Deus de Jacó’? 27Ora, ele não é Deus de mortos, mas de vivos! Vós estais muito enganados”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Como ouro na fornalha o Senhor provou os eleitos e aceitou-os como ofertas de holocausto; no tempo certo Deus se lembrará deles porque seus escolhidos receberão a graça e a paz. (Cf. Sb 3.6-7 9)",
+    "comunhao": "É sentida por demais pelo Senhor a morte dos seus santos, seus amigos (Cf. Sl 115,15)"
+  }
+}

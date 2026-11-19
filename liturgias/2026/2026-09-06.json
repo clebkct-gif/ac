@@ -1,0 +1,46 @@
+{
+  "data": "06/09/2026",
+  "liturgia": "23º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, olhai com bondade os que redimistes e adotastes como filhos e filhas, e concedei aos que creem no Cristo a verdadeira liberdade e a herança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, fonte da verdadeira piedade e da paz, concedei que vos honremos dignamente nesta celebração e, pela fiel participação nos sagrados mistérios, sejam reforçados os laços que nos unem. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, que alimentais e fortaleceis vossos fiéis com o pão da Palavra e da Eucaristia, concedei-nos desfrutar de tal modo destes dons do vosso amado Filho, que mereçamos para sempre viver em comunhão com ele. Que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ez 33,7-9",
+        "titulo": "Leitura da Profecia de Ezequiel",
+        "texto": "Assim diz o Senhor: 7“Quanto a ti, filho do homem, eu te estabeleci como vigia para a casa de Israel. Logo que ouvires alguma palavra de minha boca, tu os deves advertir em meu nome. 8Se eu disser ao ímpio que ele vai morrer, e tu não lhe falares, advertindo-o a respeito de sua conduta, o ímpio vai morrer por própria culpa, mas eu te pedirei contas da sua morte. 9Mas, se advertires o ímpio a respeito de sua conduta, para que se arrependa, e ele não se arrepender, o ímpio morrerá por própria culpa, porém tu salvarás tua vida”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 94(95)",
+        "refrao": "Não fecheis o coração; ouvi hoje a voz de Deus!",
+        "texto": "– Vinde, exultemos de alegria no Senhor, aclamemos o rochedo que nos salva! Ao seu encontro caminhemos com louvores e, com cantos de alegria, o celebremos!\n– Vinde, adoremos e prostremo-nos por terra, e ajoelhemos ante o Deus que nos criou! Porque ele é o nosso Deus, nosso pastor, e nós somos o seu povo e seu rebanho, as ovelhas que conduz com sua mão.\n– Oxalá ouvísseis hoje a sua voz: “Não fecheis os corações como em Meriba, como em Massa, no deserto, aquele dia, em que outrora vossos pais me provocaram, apesar de terem visto as minhas obras”."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Rm 13,8-10",
+        "titulo": "Leitura da carta de São Paulo aos Romanos",
+        "texto": "Irmãos, 8não fiqueis devendo nada a ninguém, a não ser o amor mútuo, pois quem ama o próximo está cumprindo a Lei. 9De fato, os mandamentos: “Não cometerás adultério”, “não matarás”, ”não roubarás”, “não cobiçarás” e qualquer outro mandamento se resumem neste: “Amarás ao teu próximo como a ti mesmo”. 10O amor não faz nenhum mal contra o próximo. Portanto, o amor é o cumprimento perfeito da Lei."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 18,15-20",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, Jesus disse a seus discípulos: 15“Se o teu irmão pecar contra ti, vai corrigi-lo, mas em particular, a sós contigo! Se ele te ouvir, tu ganhaste o teu irmão. 16Se ele não te ouvir, toma contigo mais uma ou duas pessoas, para que toda a questão seja decidida sob a palavra de duas ou três testemunhas. 17Se ele não vos der ouvido, dize-o à Igreja. Se nem mesmo à Igreja ele ouvir, seja tratado como se fosse um pagão ou um pecador público. 18Em verdade vos digo, tudo o que ligardes na terra será ligado no céu, e tudo o que desligardes na terra será desligado no céu. 19De novo, eu vos digo: se dois de vós estiverem de acordo na terra sobre qualquer coisa que quiserem pedir, isso lhes será concedido por meu Pai que está nos céus. 20Pois, onde dois ou três estiverem reunidos em meu nome, eu estou aí, no meio deles”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vós sois justo, na verdade, ó Senhor, e os vossos julgamentos são corretos. Conforme o vosso amor, Senhor, tratai-me. (Cf. Sl 118, 137. 124)",
+    "comunhao": "Assim como a corça suspira pelas águas correntes, suspira igualmente minh'alma por vós, ó meu Deus! Minha alma tem sede de Deus e deseja o Deus vivo. (Cf. Sl 41, 2-3)"
+  }
+}

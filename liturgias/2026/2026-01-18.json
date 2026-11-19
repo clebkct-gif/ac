@@ -1,0 +1,46 @@
+{
+  "data": "18/01/2026",
+  "liturgia": "2º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, que governais o céu e a terra, escutai clemente as súplicas do vosso povo e dai ao nosso tempo a vossa paz. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei-nos, Senhor, a graça de participar dignamente destes mistérios, pois todas as vezes que celebramos o memorial do sacrifício do vosso Filho, realiza-se em nós a obra da redenção. Por Cristo, nosso Senhor.",
+    "comunhao": "Infundi em nós, Senhor, o Espírito do vosso amor, e fazei que vivam sempre unidos os que saciastes com o único pão do céu. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Is 49,3.5-6",
+        "titulo": "Leitura do Livro do profeta Isaías",
+        "texto": "3O Senhor me disse: “Tu és o meu servo, Israel, em quem serei glorificado”. 5E, agora, diz-me o Senhor – ele que me preparou desde o nascimento para ser seu servo – que eu recupere Jacó para ele e faça Israel unir-se a ele; aos olhos do Senhor, esta é a minha glória. 6Disse ele: “Não basta seres meu servo para restaurar as tribos de Jacó e reconduzir os remanescentes de Israel: eu te farei luz das nações, para que minha salvação chegue até os confins da terra”."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "1Cor 1,1-3",
+        "titulo": "Início da Primeira Carta de São Paulo aos Coríntios",
+        "texto": "1Paulo, chamado a ser apóstolo de Jesus Cristo por vontade de Deus, e o irmão Sóstenes 2à Igreja de Deus que está em Corinto: aos que foram santificados em Cristo Jesus, chamados a ser santos junto com todos os que, em qualquer lugar, invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso. 3Para vós, graça e paz da parte de Deus, nosso Pai, e do Senhor Jesus Cristo."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 39(40)",
+        "refrao": "Eu disse: eis que venho, Senhor, com prazer faço a vossa vontade!",
+        "texto": "– Esperando, esperei no Senhor, e, inclinando-se, ouviu meu clamor. Canto novo ele pôs em meus lábios, um poema em louvor ao Senhor.\n– Sacrifício e oblação não quisestes, mas abristes, Senhor, meus ouvidos. Não pedistes ofertas nem vítimas, holocaustos por nossos pecados.\n– E então eu vos disse: “Eis que venho!” Sobre mim está escrito no livro: “Com prazer faço a vossa vontade, guardo em meu coração vossa lei!”\n– Boas-novas de vossa justiça anunciei numa grande assembleia; vós sabeis: não fechei os meus lábios!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 1,29-34",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João",
+        "texto": "Naquele tempo, 29João viu Jesus aproximar-se dele e disse: “Eis o Cordeiro de Deus, que tira o pecado do mundo. 30Dele é que eu disse: ‘Depois de mim vem um homem que passou à minha frente, porque existia antes de mim’. 31Também eu não o conhecia, mas, se eu vim batizar com água, foi para que ele fosse manifestado a Israel”. 32E João deu testemunho, dizendo: “Eu vi o Espírito descer, como uma pomba do céu, e permanecer sobre ele. 33Também eu não o conhecia, mas aquele que me enviou a batizar com água me disse: ‘Aquele sobre quem vires o Espírito descer e permanecer, este é quem batiza com o Espírito Santo’. 34Eu vi e dou testemunho, este é o Filho de Deus!”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Toda a terra vos adore com respeito, e proclame o louvor do vosso nome, ó Altíssimo. (Cf. Sl 65, 4)",
+    "comunhao": "Preparastes à minha frente uma mesa, o meu cálice transborda! (Cf. Sl 22, 5)"
+  }
+}

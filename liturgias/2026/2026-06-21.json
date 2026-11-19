@@ -1,0 +1,46 @@
+{
+  "data": "21/06/2026",
+  "liturgia": "12º Domingo do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Concedei-nos, Senhor, a graça de sempre temer e amar vosso santo nome, pois nunca cessais de conduzir os que firmais solidamente no vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, nós vos pedimos, este sacrifício de louvor e de reconciliação e fazei que, por ele purificados, vos ofereçamos o afeto de um coração que vos agrade. Por Cristo, nosso Senhor.",
+    "comunhao": "Renovados pelo alimento do precioso Corpo e Sangue do vosso Filho, imploramos vossa misericórdia, Senhor: dai-nos receber um dia, resgatados para sempre, a salvação que celebramos fielmente. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 20,10-13",
+        "titulo": "Leitura do Livro do profeta Jeremias",
+        "texto": "10Eu ouvi as injúrias de tantos homens e os vi espalhando o medo em redor: “Denunciai-o, denunciemo-lo”. Todos os amigos observavam minhas falhas: “Talvez ele cometa um engano, e nós poderemos apanhá-lo e desforrar-nos dele”. 11Mas o Senhor está ao meu lado como forte guerreiro; por isso, os que me perseguem cairão vencidos. Por não terem tido êxito, eles se cobrirão de vergonha. Eterna infâmia, que nunca se apaga! 12Ó Senhor dos exércitos, que provas o homem justo e vês os sentimentos do coração, rogo-te me faças ver tua vingança sobre eles; pois eu te declarei a minha causa. 13Cantai ao Senhor, louvai o Senhor, pois ele salvou a vida de um pobre homem das mãos dos maus."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 68(69)",
+        "refrao": "Atendei-me, ó Senhor, pelo vosso imenso amor!",
+        "texto": "– Por vossa causa é que sofri tantos insultos, e o meu rosto se cobriu de confusão; eu me tornei como um estranho a meus irmãos, como estrangeiro para os filhos de minha mãe. Pois meu zelo e meu amor por vossa casa me devoram como fogo abrasador.\n– Por isso elevo para vós minha oração neste tempo favorável, Senhor Deus! Respondei-me pelo vosso imenso amor, pela vossa salvação que nunca falha! Senhor, ouvi-me, pois suave é vossa graça, ponde os olhos sobre mim com grande amor!\n– Humildes, vede isto e alegrai-vos: o vosso coração reviverá se procurardes o Senhor continuamente! Pois nosso Deus atende à prece dos seus pobres e não despreza o clamor de seus cativos. Que céus e terra glorifiquem o Senhor com o mar e todo ser que neles vive!"
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Rm 5,12-15",
+        "titulo": "Leitura da carta de São Paulo aos Romanos",
+        "texto": "Irmãos, 12o pecado entrou no mundo por um só homem. Através do pecado, entrou a morte. E a morte passou para todos os homens, porque todos pecaram. 13Na realidade, antes de ser dada a lei, já havia pecado no mundo. Mas o pecado não pode ser imputado quando não há lei. 14No entanto, a morte reinou, desde Adão até Moisés, mesmo sobre os que não pecaram como Adão, o qual era a figura provisória daquele que devia vir. 15Mas isso não quer dizer que o dom da graça de Deus seja comparável à falta de Adão! A transgressão de um só levou a multidão humana à morte, mas foi de modo bem superior que a graça de Deus, ou seja, o dom gratuito concedido através de um só homem, Jesus Cristo, se derramou em abundância sobre todos."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 10,26-33",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus a seus apóstolos: 26“Não tenhais medo dos homens, pois nada há de encoberto que não seja revelado e nada há de escondido que não seja conhecido. 27O que vos digo na escuridão, dizei-o à luz do dia; o que escutais ao pé do ouvido, proclamai-o sobre os telhados! 28Não tenhais medo daqueles que matam o corpo, mas não podem matar a alma! Pelo contrário, temei aquele que pode destruir a alma e o corpo no inferno! 29Não se vendem dois pardais por algumas moedas? No entanto, nenhum deles cai no chão sem o consentimento do vosso Pai. 30Quanto a vós, até os cabelos da vossa cabeça estão todos contados. 31Não tenhais medo! Vós valeis mais do que muitos pardais. 32Portanto, todo aquele que se declarar a meu favor diante dos homens, também eu me declararei em favor dele diante do meu Pai que está nos céus. 33Aquele, porém, que me negar diante dos homens, também eu o negarei diante do meu Pai que está nos céus”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor é a força do seu povo, é a fortaleza de salvação do seu Ungido. Salvai vosso povo, Senhor, abençoai vossa herança e governai-a pelos séculos. (Cf. Sl 27,8-9)",
+    "comunhao": "Os olhos de todos esperam em vós, Senhor, e vós lhes dais alimento no tempo oportuno. Eu sou o bom Pastor. Eu dou minha vida pelas ovelhas, diz o Senhor. (Cf. Sl 144,15 Ou: Jo 10,11.15)"
+  }
+}

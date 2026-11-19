@@ -1,0 +1,40 @@
+{
+  "data": "04/09/2026",
+  "liturgia": "6ª feira da 22ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus onipotente, fonte de todo dom perfeito, semeai em nossos corações o amor ao vosso nome e, estreitando os laços que nos unem convosco, fazei crescer em nós o que é bom e guardai com amorosa solicitude o que nos destes. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Este santo sacrifício, Senhor, nos traga a perene bênção da salvação e vosso poder leve à plenitude o que celebramos no sacramento. Por Cristo, nosso Senhor.",
+    "comunhao": "Revigorados pelo pão da mesa celeste nós vos pedimos, Senhor, que este alimento da caridade fortifique os nossos corações e nos leve a vos servir nos irmãos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Cor 4,1-5",
+        "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+        "texto": "Irmãos, 1que todo o mundo nos considere como servidores de Cristo e administradores dos mistérios de Deus. 2A esse respeito, o que se exige dos administradores é que sejam fiéis. 3Quanto a mim, pouco me importa ser julgado por vós ou por algum tribunal humano. Nem eu me julgo a mim mesmo. 4É verdade que a minha consciência não me acusa de nada. Mas não é por isso que eu posso ser considerado justo. 5Quem me julga é o Senhor. Portanto, não queirais julgar antes do tempo. Aguardai que o Senhor venha. Ele iluminará o que estiver escondido nas trevas e manifestará os projetos dos corações. Então, cada um receberá de Deus o louvor que tiver merecido."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 36(37)",
+        "refrao": "A salvação de quem é justo vem de Deus.",
+        "texto": "– Confia no Senhor e faze o bem, e sobre a terra habitarás em segurança. Coloca no Senhor tua alegria, e ele dará o que pedir teu coração.\n– Deixa aos cuidados do Senhor o teu destino; confia nele, e com certeza ele agirá. Fará brilhar tua inocência como a luz, e o teu direito, como o sol do meio-dia.\n– Afasta-te do mal e faze o bem, e terás tua morada para sempre. Porque o Senhor Deus ama a justiça, e jamais ele abandona os seus amigos.\n– A salvação dos piedosos vem de Deus; ele os protege nos momentos de aflição. O Senhor lhes dá ajuda e os liberta, defende-os e protege-os contra os ímpios, e os guarda porque nele confiaram."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 5,33-39",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 33os fariseus e os mestres da Lei disseram a Jesus: “Os discípulos de João, e também os discípulos dos fariseus, jejuam com frequência e fazem orações. Mas os teus discípulos comem e bebem”. 34Jesus, porém, lhes disse: “Os convidados de um casamento podem fazer jejum enquanto o noivo está com eles? 35Mas dias virão em que o noivo será tirado do meio deles. Então, naqueles dias, eles jejuarão”. 36Jesus contou-lhes ainda uma parábola: “Ninguém tira retalho de roupa nova para fazer remendo em roupa velha; senão vai rasgar a roupa nova, e o retalho novo não combinará com a roupa velha. 37Ninguém coloca vinho novo em odres velhos; porque, senão, o vinho novo arrebenta os odres velhos e se derrama, e os odres se perdem. 38Vinho novo deve ser colocado em odres novos. 39E ninguém, depois de beber vinho velho, deseja vinho novo, porque diz: o velho é melhor”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Piedade de mim, ó Senhor, porque clamo por vós todo o dia! Ó Senhor, vós sois bom e clemente, sois perdão para quem vos invoca. (Cf. Sl 85, 3. 5)",
+    "comunhao": "Como é grande, ó Senhor, a riqueza da vossa bondade, que reservais para aqueles que vos temem. (Cf. Sl 30, 20)"
+  }
+}

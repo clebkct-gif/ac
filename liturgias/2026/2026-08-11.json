@@ -1,0 +1,40 @@
+{
+  "data": "11/08/2026",
+  "liturgia": "Santa Clara, virgem, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, na vossa misericórdia, atraístes Santa Clara ao amor da pobreza; concedei-nos, por sua intercessão, que, seguindo o Cristo com um coração de pobre, mereçamos chegar a contemplar-vos no reino celeste. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, proclamando-vos admirável na santa virgem Clara, humildemente vos pedimos: como vos foram agradáveis os méritos da sua vida, assim vos agrade o serviço do nosso culto. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor nosso Deus, saciados pela participação nos divinos mistérios, fazei que, a exemplo de santa N., nos esforcemos por servir unicamente a vós, trazendo em nosso corpo os sinais dos sofrimentos de Jesus. Que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ez 2, 8-3, 4",
+        "titulo": "Leitura da Profecia de Ezequiel",
+        "texto": "Assim fala o Senhor: 2, 8“Quanto a ti, Filho do homem, escuta o que eu te digo: Não sejas rebelde como esse bando de rebeldes. Abre a boca e come o que eu te vou dar”. 9Eu olhei e vi uma mão estendida para mim e, na mão, um livro enrolado. Desenrolou-o diante de mim; estava escrito na frente e no verso e nele havia cantos fúnebres, lamentações e ais. 3, 1Ele me disse: “Filho do homem, come o que tens diante de ti! Come este rolo e vai falar aos filhos de Israel”. 2Eu abri a boca, e ele fez-me comer o rolo. 3Depois disse-me: “Filho do homem, alimenta teu ventre e sacia as entranhas com este rolo que eu te dou”. Eu o comi, e era doce como mel em minha boca. 4Ele disse-me então: “Filho do homem, vai! Dirige-te à casa de Israel e fala-lhes com as minhas palavras”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 118(119)",
+        "refrao": "Como é doce ao paladar vossa palavra, ó Senhor!",
+        "texto": "– Seguindo vossa lei, me rejubilo muito mais do que em todas as riquezas.\n– Minha alegria é a vossa aliança, meus conselheiros são os vossos mandamentos.\n– A lei de vossa boca, para mim, vale mais do que milhões em ouro e prata.\n– Como é doce ao paladar vossa palavra, muito mais doce do que o mel na minha boca!\n– Vossa palavra é minha herança para sempre, porque ela é que me alegra o coração!\n– Abro a boca e aspiro largamente, pois estou ávido de vossos mandamentos."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 18, 1-5. 10. 12-14",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 1os discípulos aproximaram-se de Jesus e perguntaram: “Quem é o maior no Reino dos Céus?” 2Jesus chamou uma criança, colocou-a no meio deles 3e disse: “Em verdade vos digo, se não vos converterdes, e não vos tornardes como crianças, não entrareis no Reino dos Céus. 4Quem se faz pequeno como esta criança, esse é o maior no Reino dos Céus. 5E quem recebe em meu nome uma criança como esta é a mim que recebe.10Não desprezeis nenhum desses pequeninos, pois eu vos digo que os seus anjos nos céus veem sem cessar a face do meu Pai que está nos céus. 12Que vos parece? Se um homem tem cem ovelhas, e uma delas se perde, não deixa ele as noventa e nove nas montanhas, para procurar aquela que se perdeu? 13Em verdade vos digo, se ele a encontrar, ficará mais feliz com ela, do que com as noventa e nove que não se perderam. 14Do mesmo modo, o Pai que está nos céus não deseja que se perca nenhum desses pequeninos”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Esta é uma das virgens sábias e prudentes, que foi ao encontro de Cristo com sua lâmpada acesa.",
+    "comunhao": "Eis, o Noivo está chegando: ide ao encontro do Cristo Senhor (Cf. Mt 25, 6)"
+  }
+}

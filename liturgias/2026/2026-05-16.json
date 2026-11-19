@@ -1,0 +1,40 @@
+{
+  "data": "16/05/2026",
+  "liturgia": "Sábado da 6ª Semana da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Nós vos pedimos, Senhor: inspirai nossos corações à prática de boas obras, para que, buscando sempre o que é melhor, vivamos constantemente o mistério pascal. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, nós vos pedimos, santificai com benevolência estes dons e, aceitando a oblação do sacrifício espiritual, fazei de nós uma eterna oferenda para vós. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, alimentados com os dons deste sagrado mistério, humildemente vos pedimos: a Eucaristia que vosso Filho nos mandou celebrar em sua memória nos faça crescer no amor. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 18, 23-28",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "23Paulo permaneceu algum tempo em Antioquia. Em seguida, partiu de novo, percorrendo sucessivamente as regiões da Galácia e da Frígia, fortalecendo todos os discípulos. 24Chegou a Éfeso um judeu chamado Apolo, natural de Alexandria. Era homem eloquente, versado nas Escrituras.,25Fora instruído no caminho do Senhor e, com muito entusiasmo, falava e ensinava com exatidão a respeito de Jesus, embora só conhecesse o batismo de João. 26Então, ele começou a falar com muita convicção na sinagoga. Ao escutá-lo, Priscila e Áquila tomaram-no consigo e, com mais exatidão, expuseram-lhe o caminho de Deus.,27Como ele estava querendo passar para a Acaia, os irmãos apoiaram-no e escreveram aos discípulos para que o acolhessem bem. Pela graça de Deus, a presença de Apolo aí foi muito útil aos fiéis. 28Com efeito, ele refutava vigorosamente os judeus em público, demonstrando pelas Escrituras que Jesus é o Messias."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 46",
+        "refrao": "O Senhor é o grande Rei de toda a terra.",
+        "texto": "— Povos todos do universo, batei palmas, gritai a Deus aclamações de alegria! Porque sublime é o Senhor, o Deus Altíssimo, o soberano que domina toda a terra. \n— Porque Deus é o grande Rei de toda a terra, ao som da harpa acompanhai os seus louvores! Deus reina sobre todas as nações, está sentado no seu trono glorioso. \n— Os chefes das nações se reuniram com o povo do Deus santo de Abraão, pois só Deus é realmente o Altíssimo, e os poderosos desta terra lhe pertencem"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 16, 23b-28",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 23b“Em verdade, em verdade vos digo: se pedirdes ao Pai alguma coisa em meu nome, ele vo-la dará. 24Até agora nada pedistes em meu nome; pedi, e recebereis; para que a vossa alegria seja completa.25Disse-vos estas coisas em linguagem figurativa. Vem a hora em que não vos falarei mais em figuras, mas claramente vos falarei do Pai. 26Naquele dia pedireis em meu nome, e não vos digo que vou pedir ao Pai por vós, 27pois o próprio Pai vos ama, porque vós me amastes e acreditastes que eu vim da parte de Deus. 28Eu saí do Pai e vim ao mundo; e novamente parto do mundo e vou para o Pai”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Povo adquirido por Deus, anunciai os grandes feitos daquele que vos chamou das trevas à sua luz maravilhosa, aleluia. (Cf. 1Pd 2, 9)",
+    "comunhao": "Pai, aqueles que me destes estejam comigo, onde eu estou, para que contemplem a minha glória, a glória que me destes, aleluia. (Cf. Jo 17, 24)"
+  }
+}

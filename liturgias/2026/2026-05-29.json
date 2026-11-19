@@ -1,0 +1,40 @@
+{
+  "data": "29/05/2026",
+  "liturgia": "6ª feira da 8ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Fazei, Senhor, que os acontecimentos deste mundo decorram na paz que desejais, e vossa Igreja voz possa servir alegre e tranquila. Por Nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, que nos dais o que oferecemos, e aceitais nossa oferta como um gesto de amor, fazei que os vossos dons, nossa única riqueza, frutifiquem para nós em prêmio eterno. Por Cristo, nosso Senhor.",
+    "comunhao": "Saciados pelo dom que nos salva, imploramos, Senhor, a vossa misericórdia, e pedimos que, pelo mesmo sacramento no qual nos alimentais neste mundo, nos leveis benigno a participar da vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Pd 4,7-13",
+        "titulo": "Leitura da Primeira Carta de São Pedro",
+        "texto": "Caríssimos, 7o fim de todas as coisas está próximo. Vivei com inteligência e vigiai, dados à oração. 8Sobretudo, cultivai o amor mútuo, com todo o ardor, porque o amor cobre uma multidão de pecados. 9Sede hospitaleiros uns com os outros, sem reclamações. 10Como bons administradores da multiforme graça de Deus, cada um coloque à disposição dos outros o dom que recebeu. 11Se alguém tem o dom de falar, proceda como com palavras de Deus. Se alguém tem o dom do serviço, exerça-o como capacidade proporcionada por Deus, a fim de que, em todas as coisas, Deus seja glorificado em virtude de Jesus Cristo, a quem pertencem a glória e o poder, pelos séculos dos séculos. Amém. 12Caríssimos, não estranheis o fogo da provação que alastra entre vós, como se alguma coisa de estranho vos estivesse acontecendo. 13Alegrai-vos por participar dos sofrimentos de Cristo, para que possais também exultar de alegria na revelação da sua glória."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 95(96)",
+        "refrao": "O Senhor vem julgar nossa terra.",
+        "texto": "– Publicai entre as nações: “Reina o Senhor!” Ele firmou o universo inabalável, e os povos ele julga com justiça.\n– O céu se rejubile e exulte a terra, aplauda o mar com o que vive em suas águas; os campos com seus frutos rejubilem, e exultem as florestas e as matas.\n– Na presença do Senhor, pois ele vem, porque vem para julgar a terra inteira. Governará o mundo todo com justiça e os povos julgará com lealdade."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mc 11,11-26",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Marcos",
+        "texto": "Tendo sido aclamado pela multidão, 11Jesus entrou no templo, em Jerusalém, e observou tudo. Mas, como já era tarde, saiu para Betânia com os doze. 12No dia seguinte, quando saíam de Betânia, Jesus teve fome. 13De longe, ele viu uma figueira coberta de folhas e foi até lá ver se encontrava algum fruto. Quando chegou perto, encontrou somente folhas, pois não era tempo de figos. 14Então Jesus disse à figueira: “Que ninguém mais coma de teus frutos”. E os discípulos escutaram o que ele disse. 15Chegaram a Jerusalém. Jesus entrou no templo e começou a expulsar os que vendiam e os que compravam no templo. Derrubou as mesas dos cambistas e as cadeiras dos vendedores de pombas. 16Ele não deixava ninguém carregar nada através do templo. 17E ensinava o povo, dizendo: “Não está escrito: ‘Minha casa será chamada casa de oração para todos os povos’? No entanto, vós fizestes dela uma toca de ladrões”. 18Os sumos sacerdotes e os mestres da lei ouviram isso e começaram a procurar uma maneira de o matar. Mas tinham medo de Jesus, porque a multidão estava maravilhada com o ensinamento dele. 19Ao entardecer, Jesus e os discípulos saíram da cidade. 20Na manhã seguinte, quando passavam, Jesus e os discípulos viram que a figueira tinha secado até a raiz. 21Pedro lembrou-se e disse a Jesus: “Olha, mestre, a figueira que amaldiçoaste secou”. 22Jesus lhes disse: “Tende fé em Deus. 23Em verdade vos digo, se alguém disser a esta montanha: ‘Levanta-te e atira-te no mar’, e não duvidar no seu coração, mas acreditar que isso vai acontecer, assim acontecerá. 24Por isso vos digo, tudo o que pedirdes na oração, acreditai que já o recebestes, e assim será. 25Quando estiverdes rezando, perdoai tudo o que tiverdes contra alguém, para que vosso Pai que está nos céus também perdoe os vossos pecados”.[26]"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Senhor tornou-se meu protetor e me conduziu para um lugar espaçoso; ele me salvou, porque me ama. (Cf. Sl 17,19-20)",
+    "comunhao": "Cantarei ao Senhor pelo bem que ele me fez, entoarei salmos ao nome do Senhor, o Altíssimo (Cf. Sl 12, 6)"
+  }
+}

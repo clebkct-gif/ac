@@ -1,0 +1,46 @@
+{
+  "data": "31/05/2026",
+  "liturgia": "Santíssima Trindade, Solenidade",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus, nosso Pai, enviando ao mundo a Palavra da verdade e o Espírito santificador, revelastes o vosso admirável mistério. Concedei-nos, na profissão da verdadeira fé, reconhecer a glória da Trindade e adorar a Unidade na sua onipotência. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor nosso Deus, nós vos pedimos, santificai, pela invocação do vosso nome, esta nossa humilde oferenda, e, por meio dela, tornai-nos uma dádiva perene para vós. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor nosso Deus, proclamando nossa fé na Trindade eterna e santa e na sua indivisível Unidade, nós vos pedimos que a comunhão neste sacramento nos sirva para a saúde do corpo e da alma. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ex 34,4-6.8-9",
+        "titulo": "Leitura do Livro do Êxodo",
+        "texto": "Naqueles dias, 4Moisés levantou-se, quando ainda era noite, e subiu ao monte Sinai, como o Senhor lhe havia mandado, levando consigo as duas tábuas de pedra. 5O Senhor desceu na nuvem e permaneceu com Moisés, e este invocou o nome do Senhor. 6Enquanto o Senhor passava diante dele, Moisés gritou: “Senhor, Senhor! Deus misericordioso e clemente, paciente, rico em bondade e fiel”. 8Imediatamente, Moisés curvou-se até o chão 9e, prostrado por terra, disse: “Senhor, se é verdade que gozo de teu favor, peço-te, caminha conosco; embora este seja um povo de cabeça dura, perdoa nossas culpas e nossos pecados e acolhe-nos como propriedade tua”."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "2Cor 13,11-13",
+        "titulo": "Leitura da Segunda Carta de São Paulo aos Coríntios",
+        "texto": "11Irmãos, alegrai-vos, trabalhai no vosso aperfeiçoamento, encorajai-vos, cultivai a concórdia, vivei em paz, e o Deus do amor e da paz estará convosco. 12Saudai-vos uns aos outros com o beijo santo. Todos os santos vos saúdam. 13A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo estejam com todos vós."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl (Dn 3)",
+        "refrao": "A vós louvor, honra e glória eternamente!",
+        "texto": "–\n– Sede bendito, Senhor Deus de nossos pais.\n– Sede bendito, nome santo e glorioso.\n– No templo santo onde refulge a vossa glória.\n– E em vosso trono de poder vitorioso.\n– Sede bendito, que sondais as profundezas.\n– E superior aos querubins vos assentais.\n– Sede bendito no celeste firmamento."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 3,16-18",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João",
+        "texto": "16Deus amou tanto o mundo, que deu o seu Filho unigênito, para que não morra todo o que nele crer, mas tenha a vida eterna. 17De fato, Deus não enviou o seu Filho ao mundo para condenar o mundo, mas para que o mundo seja salvo por ele. 18Quem nele crê não é condenado, mas quem não crê já está condenado, porque não acreditou no nome do Filho unigênito."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Bendito seja Deus Pai e seu Filho unigênito, com o Espírito Santo, porque nos mostrou a sua misericórdia.",
+    "comunhao": "Porque sois filhos, Deus enviou aos nossos corações o Espírito do seu Filho, que clama: Abá, ó Pai! (Cf. Gl 4,6)"
+  }
+}

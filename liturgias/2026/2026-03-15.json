@@ -1,0 +1,46 @@
+{
+  "data": "15/03/2026",
+  "liturgia": "4º Domingo da Quaresma",
+  "cor": "Rosa",
+  "oracoes": {
+    "coleta": "Ó Deus, que por vossa Palavra realizais de modo admirável a reconciliação do gênero humano, concedei ao povo cristão correr ao encontro das festas que se aproximam, cheio de fervor e exultando de fé. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor, apresentamos com alegria estes dons, remédio de eterna salvação, pedindo suplicantes que os veneremos dignamente e os santifiqueis para a salvação do mundo. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, luz de todo ser humano que vem a este mundo, iluminai nossos corações com o esplendor da vossa graça, para pensarmos sempre o que vos agrada e amar-vos de todo o coração. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Sm 16,1.6-7.10-13",
+        "titulo": "Leitura do primeiro livro de Samuel",
+        "texto": "Naqueles dias, o Senhor disse a Samuel: 1“Enche o chifre de óleo e vem para que eu te envie à casa de Jessé de Belém, pois escolhi um rei para mim entre os seus filhos”. 6Assim que chegou, Samuel viu a Eliab e disse consigo: “Certamente é este o ungido do Senhor!” 7Mas o Senhor disse-lhe: “Não olhes para a sua aparência nem para a sua grande estatura, porque eu o rejeitei. Não julgo segundo os critérios do homem: o homem vê as aparências, mas o Senhor olha o coração”. 10Jessé fez vir seus sete filhos à presença de Samuel, mas Samuel disse: “O Senhor não escolheu a nenhum deles”. 11E acrescentou: “Estão aqui todos os teus filhos?” Jessé respondeu: “Resta ainda o mais novo, que está apascentando as ovelhas”. E Samuel ordenou a Jessé: “Manda buscá-lo, pois não nos sentaremos à mesa enquanto ele não chegar”. 12Jessé mandou buscá-lo. Era Davi, ruivo, de belos olhos e de formosa aparência. E o Senhor disse: “Levanta-te, unge-o: é este!” 13Samuel tomou o chifre com óleo e ungiu a Davi na presença de seus irmãos. E a partir daquele dia o espírito do Senhor se apoderou de Davi."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "Ef 5,8-14",
+        "titulo": "Leitura da carta de São Paulo aos Efésios",
+        "texto": "Irmãos, 8outrora éreis trevas, mas agora sois luz no Senhor. Vivei como filhos da luz. 9E o fruto da luz chama-se bondade, justiça, verdade. 10Discerni o que agrada ao Senhor. 11Não vos associeis às obras das trevas, que não levam a nada; antes, desmascarai-as. 12O que essa gente faz em segredo, tem vergonha até de dizê-lo. 13Mas tudo que é condenável torna-se manifesto pela luz; e tudo o que é manifesto é luz. 14É por isso que se diz: “Desperta, tu que dormes, levanta-te dentre os mortos e sobre ti Cristo resplandecerá”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 22(23)",
+        "refrao": "O Senhor é o pastor que me conduz; não me falta coisa alguma.",
+        "texto": "– O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha e restaura as minhas forças.\n– Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei. Estais comigo com bastão e com cajado, eles me dão a segurança! ­­- R.\n– Preparais à minha frente uma mesa, bem à vista do inimigo; com óleo vós ungis minha cabeça, e o meu cálice transborda.\n– Felicidade e todo bem hão de seguir-me por toda a minha vida; e na casa do Senhor habitarei pelos tempos infinitos."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 9,1-41 ou 1.6-9.13-17.34-38",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João",
+        "texto": "[Naquele tempo, 1ao passar, Jesus viu um homem cego de nascença.] 2Os discípulos perguntaram a Jesus: “Mestre, quem pecou para que nascesse cego: ele ou os seus pais?” 3Jesus respondeu: “Nem ele nem seus pais pecaram, mas isso serve para que as obras de Deus se manifestem nele. 4É necessário que nós realizemos as obras daquele que me enviou, enquanto é dia. Vem a noite, em que ninguém pode trabalhar. 5Enquanto estou no mundo, eu sou a luz do mundo”. 6Dito isso, [Jesus cuspiu no chão, fez lama com a saliva e colocou-a sobre os olhos do cego. 7E disse-lhe: “Vai lavar-te na piscina de Siloé” (que quer dizer “Enviado”). O cego foi, lavou-se e voltou enxergando. 8Os vizinhos e os que costumavam ver o cego – pois ele era mendigo – diziam: “Não é aquele que ficava pedindo esmola?” 9Uns diziam: “Sim, é ele!” Outros afirmavam: “Não é ele, mas alguém parecido com ele”. Ele, porém, dizia: “Sou eu mesmo!”] 10Então lhe perguntaram: “Como é que se abriram os teus olhos?” 11Ele respondeu: “Aquele homem chamado Jesus fez lama, colocou-a nos meus olhos e disse-me: ‘Vai a Siloé e lava-te’. Então fui, lavei-me e comecei a ver”. 12Perguntaram-lhe: “Onde está ele?” Respondeu: “Não sei”. [13Levaram então aos fariseus o homem que tinha sido cego. 14Ora, era sábado o dia em que Jesus tinha feito lama e aberto os olhos do cego. 15Novamente, então, lhe perguntaram os fariseus como tinha recuperado a vista. Respondeu-lhes: “Colocou lama sobre meus olhos, fui lavar-me e agora vejo!” 16Disseram, então, alguns dos fariseus: “Esse homem não vem de Deus, pois não guarda o sábado”. Mas outros diziam: “Como pode um pecador fazer tais sinais?” 17E havia divergência entre eles. Perguntaram outra vez ao cego: “E tu, que dizes daquele que te abriu os olhos?” Respondeu: “É um profeta”.] 18Então os judeus não acreditaram que ele tinha sido cego e que tinha recuperado a vista. Chamaram os pais dele 19e perguntaram-lhes: “Este é o vosso filho, que dizeis ter nascido cego? Como é que ele agora está enxergando?” 20Os seus pais disseram: “Sabemos que este é nosso filho e que nasceu cego. 21Como agora está enxergando, isso não sabemos. E quem lhe abriu os olhos também não sabemos. Interrogai-o, ele é maior de idade, ele pode falar por si mesmo”. 22Os seus pais disseram isso porque tinham medo das autoridades judaicas. De fato, os judeus já tinham combinado expulsar da comunidade quem declarasse que Jesus era o Messias. 23Foi por isso que seus pais disseram: “É maior de idade. Interrogai-o a ele”. 24Então, os judeus chamaram de novo o homem que tinha sido cego. Disseram-lhe: “Dá glória a Deus! Nós sabemos que esse homem é um pecador”. 25Então ele respondeu: “Se ele é pecador, não sei. Só sei que eu era cego e agora vejo”. 26Perguntaram-lhe então: “Que é que ele te fez? Como te abriu os olhos?” 27Respondeu ele: “Eu já vos disse, e não escutastes. Por que quereis ouvir de novo? Por acaso quereis tornar-vos discípulos dele?” 28Então, insultaram-no, dizendo: “Tu, sim, és discípulo dele! Nós somos discípulos de Moisés. 29Nós sabemos que Deus falou a Moisés, mas esse não sabemos de onde é”. 30Respondeu-lhes o homem: “Espantoso! Vós não sabeis de onde ele é? No entanto, ele abriu-me os olhos! 31Sabemos que Deus não escuta os pecadores, mas escuta aquele que é piedoso e que faz a sua vontade. 32Jamais se ouviu dizer que alguém tenha aberto os olhos a um cego de nascença. 33Se esse homem não viesse de Deus, não poderia fazer nada”. [34Os fariseus disseram-lhe: “Tu nasceste todo em pecado e estás nos ensinando?” E expulsaram-no da comunidade. 35Jesus soube que o tinham expulsado. Encontrando-o, perguntou-lhe: “Acreditas no Filho do Homem?” 36Respondeu ele: “Quem é, Senhor, para que eu creia nele?” 37Jesus disse: “Tu o estás vendo; é aquele que está falando contigo”. Exclamou ele: 38“Eu creio, Senhor!” E prostrou-se diante de Jesus.] 39Então, Jesus disse: “Eu vim a este mundo para exercer um julgamento, a fim de que os que não veem vejam e os que veem se tornem cegos”. 40Alguns fariseus, que estavam com ele, ouviram isso e lhe disseram: “Porventura também nós somos cegos?” 41Respondeu-lhes Jesus: “Se fôsseis cegos, não teríeis culpa; mas como dizeis ‘nós vemos’, o vosso pecado permanece”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Alegra-te, Jerusalém! Reuni-vos, vós todos que a amais! Cheios de júbilo, exultai de alegria, vós que estais tristes, e sereis saciados nas fontes da vossa consolação. (Cf. Is 66, 10-11)",
+    "comunhao": "Jerusalém, cidade bem edificada, num conjunto harmonioso; para lá sobem as tribos de Israel, as tribos do Senhor, para louvar o nome do Senhor. (Cf. Sl 121, 3-4)"
+  }
+}

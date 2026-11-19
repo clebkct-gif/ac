@@ -1,0 +1,40 @@
+{
+  "data": "09/09/2026",
+  "liturgia": "4ª feira da 23ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, olhai com bondade os que redimistes e adotastes como filhos e filhas, e concedei aos que creem no Cristo a verdadeira liberdade e a herança eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, fonte da verdadeira piedade e da paz, concedei que vos honremos dignamente nesta celebração e, pela fiel participação nos sagrados mistérios, sejam reforçados os laços que nos unem. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, que alimentais e fortaleceis vossos fiéis com o pão da Palavra e da Eucaristia, concedei-nos desfrutar de tal modo destes dons do vosso amado Filho, que mereçamos para sempre viver em comunhão com ele. Que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Cor 7,25-31",
+        "titulo": "Leitura da Primeira Carta de São Paulo aos Coríntios",
+        "texto": "Irmãos, 25a respeito das pessoas solteiras, não tenho nenhum mandamento do Senhor. Mas, como alguém que, por misericórdia de Deus, merece confiança, dou uma opinião: 26penso que, em razão das angústias presentes, é vantajoso não se casar, é bom cada qual estar assim. 27Estás ligado a uma mulher? Não procures desligar-te. Não estás ligado a nenhuma mulher? Não procures ligar-te. 28Se, porém, casares, não pecas. E se a virgem se casar, não peca. Mas as pessoas casadas terão as tribulações da vida matrimonial; e eu gostaria de poupar-vos isso. 29Eu digo, irmãos, o tempo está abreviado. Então, que, doravante, os que têm mulher vivam como se não tivessem mulher; 30e os que choram, como se não chorassem, e os que estão alegres, como se não estivessem alegres, e os que fazem compras, como se não possuíssem coisa alguma; 31e os que usam do mundo, como se dele não estivessem gozando. Pois a figura deste mundo passa."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 44(45)",
+        "refrao": "Escutai, minha filha, olhai, ouvi isto!",
+        "texto": "– Escutai, minha filha, olhai, ouvi isto: “Esquecei vosso povo e a casa paterna! Que o rei se encante com vossa beleza! Prestai-lhe homenagem: é vosso Senhor!\n– Majestosa, a princesa real vem chegando, vestida de ricos brocados de ouro. Em vestes vistosas ao rei se dirige, e as virgens amigas lhe formam cortejo.\n– Entre cantos de festa e com grande alegria, ingressam, então, no palácio real”. Deixareis vossos pais, mas tereis muitos filhos; fareis deles os reis soberanos da terra."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 6,20-26",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 20Jesus, levantando os olhos para os seus discípulos, disse: “Bem-aventurados vós, os pobres, porque vosso é o Reino de Deus! 21Bem-aventurados vós, que agora tendes fome, porque sereis saciados! Bem-aventurados vós, que agora chorais, porque havereis de rir! 22Bem-aventurados sereis quando os homens vos odiarem, vos expulsarem, vos insultarem e amaldiçoarem o vosso nome por causa do Filho do Homem! 23Alegrai-vos, nesse dia, e exultai, pois será grande a vossa recompensa no céu; porque era assim que os antepassados deles tratavam os profetas. 24Mas ai de vós, ricos, porque já tendes vossa consolação! 25Ai de vós, que agora tendes fartura, porque passareis fome! Ai de vós, que agora rides, porque tereis luto e lágrimas! 26Ai de vós quando todos vos elogiam! Era assim que os antepassados deles tratavam os falsos profetas”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Vós sois justo, na verdade, ó Senhor, e os vossos julgamentos são corretos. Conforme o vosso amor, Senhor, tratai-me. (Cf. Sl 118, 137. 124)",
+    "comunhao": "Assim como a corça suspira pelas águas correntes, suspira igualmente minh'alma por vós, ó meu Deus! Minha alma tem sede de Deus e deseja o Deus vivo. (Cf. Sl 41, 2-3)"
+  }
+}

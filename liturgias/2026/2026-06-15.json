@@ -1,0 +1,40 @@
+{
+  "data": "15/06/2026",
+  "liturgia": "2ª feira da 11ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, força daqueles que em vós esperam, sede favorável ao nosso apelo e, como nada podemos em nossa fraqueza, dai-nos sempre o socorro da vossa graça, para que possamos querer e agir conforme a vossa vontade, seguindo os vossos mandamentos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, com estes dons alimentais nossa vida e a renovais pelo sacramento. Concedei, nós vos pedimos, que nunca falte este auxílio ao nosso corpo e à nossa alma. Por Cristo, nosso Senhor.",
+    "comunhao": "Fazei, Senhor, que a sagrada comunhão nos vossos mistérios, sinal da nossa união convosco, realize a unidade na vossa Igreja. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "1Rs 21,1-16",
+        "titulo": "Leitura do primeiro livro dos Reis",
+        "texto": "Naquele tempo, 1Nabot de Jezrael possuía uma vinha em Jezrael, ao lado do palácio de Acab, rei de Samaria. 2Acab falou a Nabot: “Cede-me a tua vinha, para que eu a transforme numa horta, pois está perto da minha casa. Em troca eu te darei uma vinha melhor ou, se preferires, pagarei em dinheiro o seu valor”. 3Mas Nabot respondeu a Acab: “O Senhor me livre de te ceder a herança de meus pais”. 4Acab voltou para casa aborrecido e irritado por causa desta resposta que lhe deu Nabot de Jezrael: “Não te cederei a herança de meus pais”. Deitou-se na cama, com o rosto voltado para a parede, e não quis comer nada. 5Sua mulher, Jezabel, aproximou-se dele e disse-lhe: “Por que estás triste e não queres comer?” 6Ele respondeu: “Porque eu conversei com Nabot de Jezrael e lhe fiz a proposta de me ceder a sua vinha pelo seu preço em dinheiro ou, se preferisse, eu lhe daria em troca outra vinha. Mas ele respondeu que não me cede a vinha”. 7Então, sua mulher, Jezabel, disse-lhe: “Bela figura de rei de Israel estás fazendo! Levanta-te, toma alimento e fica de bom humor, pois eu te darei a vinha de Nabot de Jezrael”. 8Ela escreveu então cartas em nome de Acab, selou-as com o selo real e enviou-as aos anciãos e nobres da cidade de Nabot. 9Nas cartas estava escrito o seguinte: “Proclamai um jejum e fazei Nabot sentar-se entre os primeiros do povo, 10e subornai dois homens perversos contra ele, que deem este testemunho: ‘Tu amaldiçoaste a Deus e ao rei!’ Levai-o depois para fora e apedrejai-o até que morra”. 11Os homens da cidade, anciãos e nobres concidadãos de Nabot, fizeram conforme a ordem recebida de Jezabel, como estava escrito nas cartas que lhes tinha enviado. 12Proclamaram um jejum e fizeram Nabot sentar-se entre os primeiros do povo. 13Chegaram os dois homens perversos, sentaram-se diante dele e testemunharam contra Nabot diante de toda a assembleia, dizendo: “Nabot amaldiçoou a Deus e ao rei”. Em virtude disso, levaram-no para fora da cidade e mataram-no a pedradas. 14Depois mandaram a notícia a Jezabel: “Nabot foi apedrejado e morto”. 15Ao saber que Nabot tinha sido apedrejado e estava morto, Jezabel disse a Acab: “Levanta-te e toma posse da vinha que Nabot de Jezrael não te quis ceder por seu preço em dinheiro, pois Nabot já não vive; está morto”. 16Quando Acab soube que Nabot estava morto, levantou-se para descer até a vinha de Nabot de Jezrael e dela tomar posse."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 5",
+        "refrao": "Atendei o meu gemido, ó Senhor!",
+        "texto": "– Escutai, ó Senhor Deus, minhas palavras, atendei o meu gemido! Ficai atento ao clamor da minha prece, ó meu rei e meu Senhor!\n– Não sois um Deus a quem agrade a iniquidade, não pode o mau morar convosco; nem os ímpios poderão permanecer perante os vossos olhos.\n– Detestais o que pratica a iniquidade e destruís o mentiroso. Ó Senhor, abominais o sanguinário, o perverso e enganador."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 5,38-42",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus aos seus discípulos: 38“Ouvistes o que foi dito: ‘Olho por olho e dente por dente!’ 39Eu, porém, vos digo, não enfrenteis quem é malvado! Pelo contrário, se alguém te dá um tapa na face direita, oferece-lhe também a esquerda! 40Se alguém quiser abrir um processo para tomar a tua túnica, dá-lhe também o manto! 41Se alguém te forçar a andar um quilômetro, caminha dois com ele! 42Dá a quem te pedir e não vires as costas a quem te pede emprestado”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Escutai, Senhor, a voz do meu apelo. Sede meu amparo; não me rejeiteis, nem me abandoneis, o Deus meu Salvador. (Cf. Sl 26,7.9)",
+    "comunhao": "Ao Senhor eu peço apenas uma coisa, e só isto que eu desejo: habitar no santuário do Senhor por toda a minha vida. Pai santo, guarda-os em teu nome, aqueles que me deste, para que sejam um como nos, diz o Senhor. (Cf Sl 26.4)"
+  }
+}

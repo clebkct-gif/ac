@@ -1,0 +1,46 @@
+{
+  "data": "22/11/2026",
+  "liturgia": "Nosso Senhor Jesus Cristo, Rei do Universo, Solenidade",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, que quisestes restaurar todas as coisas em vosso amado Filho, Rei do universo, concedei benigno que todas as criaturas, libertas da escravidão, sirvam à vossa majestade e vos glorifiquem sem cessar. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Oferecendo-vos, Senhor, o sacrifício que reconcilia a humanidade convosco, pedimos humildemente que vosso Filho conceda a todos os povos os dons da unidade e da paz. Ele, que vive e reina pelos séculos dos séculos.",
+    "comunhao": "Saciados com o alimento da imortalidade, nós vos pedimos, Senhor, que, gloriando-nos de obedecer aos mandamentos de Cristo, Rei do universo, possamos viver com ele eternamente no reino dos céus. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ez 34,11-12.15-17",
+        "titulo": "Leitura da profecia de Ezequiel",
+        "texto": "Assim diz o Senhor Deus: “Vede! Eu mesmo vou procurar minhas ovelhas e tomar conta delas. 12Como o pastor toma conta do rebanho, de dia, quando se encontra no meio das ovelhas dispersas, assim vou cuidar de minhas ovelhas e vou resgatá-las de todos os lugares em que foram dispersadas num dia de nuvens e escuridão. 15Eu mesmo vou apascentar as minhas ovelhas e fazê-las repousar – oráculo do Senhor Deus. 16Vou procurar a ovelha perdida, reconduzir a extraviada, enfaixar a da perna quebrada, fortalecer a doente e vigiar a ovelha gorda e forte. Vou apascentá-las conforme o direito. 17Quanto a vós, minhas ovelhas – assim diz o Senhor Deus –, eu farei justiça entre uma ovelha e outra, entre carneiros e bodes”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 22(23)",
+        "refrao": "O Senhor é o pastor que me conduz; não me falta coisa alguma.",
+        "texto": "– Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha e restaura as minhas forças.\n– Preparais à minha frente uma mesa, bem à vista do inimigo, e com óleo vós ungis minha cabeça; o meu cálice transborda.\n– Felicidade e todo bem hão de seguir-me por toda a minha vida; e na casa do Senhor habitarei pelos tempos infinitos."
+      }
+    ],
+    "segundaLeitura": [
+      {
+        "referencia": "1Cor 15,20-26.28",
+        "titulo": "Leitura da primeira carta de São Paulo aos Coríntios",
+        "texto": "Irmãos, 20na realidade, Cristo ressuscitou dos mortos como primícias dos que morreram. 21Com efeito, por um homem veio a morte e é também por um homem que vem a ressurreição dos mortos. 22Como em Adão todos morrem, assim também em Cristo todos reviverão. 23Porém cada qual segundo uma ordem determinada: em primeiro lugar, Cristo, como primícias; depois, os que pertencem a Cristo, por ocasião da sua vinda. 24A seguir, será o fim, quando ele entregar a realeza a Deus Pai, depois de destruir todo principado e todo poder e força. 25Pois é preciso que ele reine até que todos os seus inimigos estejam debaixo de seus pés. 26O último inimigo a ser destruído é a morte. 28E, quando todas as coisas estiverem submetidas a ele, então o próprio Filho se submeterá àquele que lhe submeteu todas as coisas, para que Deus seja tudo em todos."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Mt 25,31-46",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Mateus",
+        "texto": "Naquele tempo, disse Jesus a seus discípulos: 31“Quando o Filho do Homem vier em sua glória, acompanhado de todos os anjos, então se assentará em seu trono glorioso. 32Todos os povos da terra serão reunidos diante dele, e ele separará uns dos outros, assim como o pastor separa as ovelhas dos cabritos. 33E colocará as ovelhas à sua direita e os cabritos à sua esquerda. 34Então o Rei dirá aos que estiverem à sua direita: ‘Vinde, benditos de meu Pai! Recebei como herança o Reino que meu Pai vos preparou desde a criação do mundo! 35Pois eu estava com fome e me destes de comer; eu estava com sede e me destes de beber; eu era estrangeiro e me recebestes em casa; 36eu estava nu e me vestistes; eu estava doente e cuidastes de mim; eu estava na prisão e fostes me visitar’. 37Então os justos lhe perguntarão: ‘Senhor, quando foi que te vimos com fome e te demos de comer? Com sede e te demos de beber? 38Quando foi que te vimos como estrangeiro e te recebemos em casa, e sem roupa e te vestimos? 39Quando foi que te vimos doente ou preso e fomos te visitar?’ 40Então o Rei lhes responderá: ‘Em verdade eu vos digo que, todas as vezes que fizestes isso a um dos menores de meus irmãos, foi a mim que o fizestes!’ 41Depois o Rei dirá aos que estiverem à sua esquerda: ‘Afastai-vos de mim, malditos! Ide para o fogo eterno, preparado para o diabo e para os seus anjos. 42Pois eu estava com fome e não me destes de comer; eu estava com sede e não me destes de beber; 43eu era estrangeiro e não me recebestes em casa; eu estava nu e não me vestistes; eu estava doente e na prisão e não fostes me visitar’. 44E responderão também eles: ‘Senhor, quando foi que te vimos com fome ou com sede, como estrangeiro ou nu, doente ou preso, e não te servimos?’ 45Então o Rei lhes responderá: ‘Em verdade eu vos digo, todas as vezes que não fizestes isso a um desses pequeninos, foi a mim que não o fizestes!’ 46Portanto, estes irão para o castigo eterno, enquanto os justos irão para a vida eterna”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "O Cordeiro imolado é digno de receber o poder, a riqueza, a sabedoria e a força, a honra, a glória e o louvor, a ele glória e poder, pelos séculos dos séculos. (Cf. Ap 5, 12; 1, 6)",
+    "comunhao": "O Senhor em seu trono reinará para sempre; o Senhor abençoará o seu povo na paz. (Cf. Sl 28, 10-11)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "29/06/2026",
+  "liturgia": "2ª feira da 13ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, pela graça da adoção nos tornastes filhos da luz; concedei que não sejamos envolvidos pelas trevas do erro, mas permaneçamos sempre no esplendor da verdade. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Ó Deus, que nos assegurais os frutos dos vossos mistérios, fazei que nosso serviço corresponda à santidade dos vossos dons Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, o Corpo e o Sangue de Jesus Cristo, que oferecemos em sacrifício e recebemos em comunhão, nos transmitam uma vida nova, para que, unidos a vós pela caridade que não passa, possamos produzir frutos que permaneçam. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Am 2, 6-10. 13-16",
+        "titulo": "Leitura da Profecia de Amós",
+        "texto": "6Isto diz o Senhor: “Pelos três crimes de Israel, pelos seus quatro crimes, não retirarei a palavra: porque eles vendem o justo por dinheiro e o indigente pelo preço de um par de chinelos; 7pisam, na poeira do chão, a cabeça dos pobres, e impedem o progresso dos humildes; filho e pai vão à mesma mulher, profanando meu santo nome; 8deitando-se junto a qualquer altar, usando roupas que foram entregues em penhor, bebem vinho à custa de pessoas multadas, na casa de Deus. 9Entretanto, eu tinha aniquilado, diante deles, os amorreus, homens espadaúdos como cedros e robustos como carvalhos, destruindo-lhes os frutos na ramada e arrancando-lhes as raízes. 10Fui eu que vos fiz sair da terra do Egito e vos guiei pelo deserto, durante quarenta anos, para ocupardes a terra dos amorreus. 13Pois bem, eu vos calcarei aos pés, como calca o chão a carroça carregada de feixes; 14o mais ágil não conseguirá fugir, o mais forte não achará força, o valente não salvará a vida; 15o arqueiro não resistirá de pé, o corredor veloz não terá pernas para escapar, nem se salvará o cavaleiro; 16o mais corajoso dentre os corajosos fugirá nu, naquele dia”, diz o Senhor."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 49(50)",
+        "refrao": "Entendei isto, todos vós que esqueceis o Senhor Deus!",
+        "texto": "– “Como ousas repetir os meus preceitos e trazer minha aliança em tua boca? Tu que odiaste minhas leis e meus conselhos e deste as costas às palavras dos meus lábios!\n– Quando vias um ladrão, tu o seguias e te juntavas ao convívio dos adúlteros. Tua boca se abriu para a maldade e tua língua maquinava a falsidade.\n– Assentado, difamavas teu irmão, e ao filho de tua mãe injuriavas. Diante disso que fizeste, eu calarei? Acaso pensas que eu sou igual a ti? É disso que te acuso e repreendo e manifesto essas coisas aos teus olhos.\n– Entendei isto, todos vós que esqueceis Deus, para que eu não arrebate a vossa vida, sem que haja mais ninguém para salvar-vos! Quem me oferece um sacrifício de louvor, este, sim, é que me honra de verdade. A todo homem que procede retamente eu mostrarei a salvação que vem de Deus.”"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Mt 8, 18-22",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Mateus",
+        "texto": "Naquele tempo, 18vendo uma multidão ao seu redor, Jesus mandou passar para a outra margem do lago. 19Então um mestre da Lei aproximou-se e disse: “Mestre, eu te seguirei aonde quer que tu vás”. 20Jesus lhe respondeu: “As raposas têm suas tocas e as aves dos céus têm seus ninhos; mas o Filho do Homem não tem onde reclinar a cabeça”. 21Um outro dos discípulos disse a Jesus: “Senhor, permite-me que primeiro eu vá sepultar meu pai”. 22Mas Jesus lhe respondeu: “Segue-me, e deixa que os mortos sepultem os seus mortos”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Povos todos do universo, batei palmas, gritai a  Deus aclamações de alegria. (Cf. Sl 46,2)",
+    "comunhao": "Bendize, ó minha alma, ao Senhor, não te esqueças de nenhum de seus favores! (Cf. Sl 102,1)"
+  }
+}

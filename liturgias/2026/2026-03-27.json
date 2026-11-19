@@ -1,0 +1,40 @@
+{
+  "data": "27/03/2026",
+  "liturgia": "6ª feira da 5ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Perdoai, Senhor, as faltas do vosso povo e, na vossa bondade, desfazei os laços dos pecados que em nossa fraqueza cometemos. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei, ó Deus de misericórdia, que mereçamos sempre servir dignamente o vosso altar e, pela participação assídua nesse sacrifício, alcançar a salvação. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, sejamos sempre protegidos pelo sacrifício que recebemos; que ele afaste sempre de nós tudo o que é nocivo. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jr 20,10-13",
+        "titulo": "Leitura do Livro do profeta Jeremias",
+        "texto": "10Eu ouvi as injúrias de tantos homens e os vi espalhando o medo em redor: “Denunciai-o, denunciemo-lo”. Todos os amigos observavam minhas falhas: “Talvez ele cometa um engano, e nós poderemos apanhá-lo e desforrar-nos dele”. 11Mas o Senhor está ao meu lado como forte guerreiro; por isso, os que me perseguem cairão vencidos. Por não terem tido êxito, eles se cobrirão de vergonha. Eterna infâmia, que nunca se apaga! 12Ó Senhor dos exércitos, que provas o homem justo e vês os sentimentos do coração, rogo-te me faças ver tua vingança sobre eles; pois eu te declarei a minha causa. 13Cantai ao Senhor, louvai o Senhor, pois ele salvou a vida de um pobre homem das mãos dos maus."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 17(18)",
+        "refrao": "Ao Senhor eu invoquei na minha angústia, e ele escutou a minha voz.",
+        "texto": "— Eu vos amo, ó Senhor! Sois minha força, minha rocha, meu refúgio e salvador!\n— Ó meu Deus, sois o rochedo que me abriga, † minha força e poderosa salvação, sois meu escudo e proteção: em vós espero! Invocarei o meu Senhor: a ele a glória! E dos meus perseguidores serei salvo!\n— Ondas da morte me envolveram totalmente, e as torrentes da maldade me aterraram; os laços do abismo me amarraram, e a própria morte me prendeu em suas redes.\n— Ao Senhor eu invoquei na minha angústia e elevei o meu clamor para o meu Deus; de seu templo ele escutou a minha voz, e chegou a seus ouvidos o meu grito."
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 10,31-42",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João",
+        "texto": "Naquele tempo, 31os judeus pegaram pedras para apedrejar Jesus. 32E ele lhes disse: “Por ordem do Pai, mostrei-vos muitas obras boas. Por qual delas me quereis apedrejar?” 33Os judeus responderam: “Não queremos te apedrejar por causa das obras boas, mas por causa de blasfêmia, porque, sendo apenas um homem, tu te fazes Deus!” 34Jesus disse: “Acaso não está escrito na vossa lei: ‘Eu disse: vós sois deuses’? 35Ora, ninguém pode anular a Escritura: se a lei chama deuses as pessoas às quais se dirigiu a palavra de Deus, 36por que então me acusais de blasfêmia quando eu digo que sou Filho de Deus, eu, a quem o Pai consagrou e enviou ao mundo? 37Se não faço as obras do meu Pai, não acrediteis em mim. 38Mas, se eu as faço, mesmo que não queirais acreditar em mim, acreditai nas minhas obras, para que saibais e reconheçais que o Pai está em mim e eu no Pai”. 39Outra vez procuravam prender Jesus, mas ele escapou das mãos deles. 40Jesus passou para o outro lado do Jordão e foi para o lugar onde, antes, João tinha batizado. E permaneceu ali. 41Muitos foram ter com ele e diziam: “João não realizou nenhum sinal, mas tudo o que ele disse a respeito deste homem é verdade”. 42E muitos, ali, acreditaram nele."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Tende piedade, estou sofrendo. Libertaime do inimigo e do opressor! Não serei confundido, Senhor, porque vos invoquei. (Cf. Sl 30,10.16.18)",
+    "comunhao": "Jesus carregou nossos pecados em seu próprio corpo, sobre o lenho da cruz, a fim de que, mortos para os pecados, vivamos para a justiça. Por suas chagas fomos curados. (Cf. 1 Pd 2,24)"
+  }
+}

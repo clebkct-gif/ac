@@ -1,0 +1,40 @@
+{
+  "data": "26/09/2026",
+  "liturgia": "Sábado da 25ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Ó Deus, que resumistes toda a sagrada lei no amor a vós e ao próximo, concedei-nos que, observando os vossos mandamentos, mereçamos chegar à vida eterna. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei benigno, Senhor, nós vos pedimos, as oferendas do vosso povo, para que alcancemos pelos celestes sacramentos o que professamos filialmente pela fé. Por Cristo, nosso Senhor.",
+    "comunhao": "Sustentai, Senhor de bondade, com vosso constante auxílio, os que reconfortais com os vossos sacramentos, para podermos colher os frutos da redenção na liturgia e na vida. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ecl 11, 9-12, 8",
+        "titulo": "Leitura do Livro do Eclesiastes",
+        "texto": "11, 9Alegra-te, jovem, na tua adolescência, e que o teu coração repouse no bem nos dias da tua juventude; segue as aspirações do teu coração e os desejos dos teus olhos; fica sabendo, porém, que de tudo isso Deus te pedirá contas. 10Tira a tristeza do teu coração, e afasta a malícia do teu corpo, pois a adolescência e a juventude são vaidade.12, 1Lembra-te do teu Criador nos dias da juventude, antes que venham os dias da desgraça e cheguem os anos dos quais dirás: “Não sinto prazer neles”; 2 — antes que se obscureçam o sol, a luz, a lua e as estrelas, e voltem as nuvens depois da chuva; 3quando os guardas da casa começarem a tremer, e se curvarem os homens robustos; quando as poucas mulheres cessarem de moer, e ficarem turvas as vistas das que olham pelas janelas 4e se fecharem as portas que dão para a rua; quando enfraquecer o ruído do moinho, e os homens se levantarem ao canto dos pássaros, e silenciarem as vozes das canções, 5e houver medo das alturas e sobressaltos no caminho, enquanto a amendoeira floresce, o gafanhoto se arrasta e a alcaparra perde o seu gosto, porque o homem se encaminha para a morada eterna, e os que choram já rondam pelas ruas; 6— antes que se rompa o cordão de prata e se despedace a taça de ouro, a jarra se parta na fonte, a roldana se arrebente no poço, 7— antes que volte o pó à terra, de onde veio, e o sopro de vida volte a Deus que o concedeu. 8Vaidade das vaidades, diz o Eclesiastes, tudo é vaidade."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 89",
+        "refrao": "Ó Senhor, vós fostes sempre um refúgio para nós.",
+        "texto": "— Vós fazeis voltar ao pó todo mortal, quando dizeis: “Voltai ao pó, filhos de Adão!” Pois mil anos para vós são como ontem, qual vigília de uma noite que passou.\n— Eles passam como o sono da manhã, são iguais à erva verde pelos campos: de manhã ela floresce vicejante, mas à tarde é cortada e logo seca.\n— Ensinai-nos a contar os nossos dias, e dai ao nosso coração sabedoria! Senhor, voltai-vos! Até quando tardareis? Tende piedade e compaixão de vossos servos!\n— Saciai-nos de manhã com vosso amor, e exultaremos de alegria todo o dia! Que a bondade do Senhor e nosso Deus repouse sobre nós e nos conduza! Tornai fecundo, ó Senhor, nosso trabalho"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 9, 43b-45",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 43btodos estavam admirados com todas as coisas que Jesus fazia. Então Jesus disse a seus discípulos: 44“Prestai bem atenção às palavras que vou dizer: O Filho do Homem vai ser entregue nas mãos dos homens”. 45Mas os discípulos não compreendiam o que Jesus dizia. O sentido lhes ficava escondido, de modo que não podiam entender; e eles tinham medo de fazer perguntas sobre o assunto."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "A salvação do povo sou eu, diz o Senhor: de qualquer tribulação em que clamarem por mim, eu os ouvirei e serei seu Deus para sempre.",
+    "comunhao": "Os vossos mandamentos vós nos destes, para serem fielmente observados. Que seja bem firme a minha vida em cumprir vossa vontade e vossa lei! (Cf. Sl 118, 4-5)"
+  }
+}

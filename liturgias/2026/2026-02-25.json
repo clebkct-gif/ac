@@ -1,0 +1,40 @@
+{
+  "data": "25/02/2026",
+  "liturgia": "4ª feira da 1ª Semana da Quaresma",
+  "cor": "Roxo",
+  "oracoes": {
+    "coleta": "Considerai, Senhor, com bondade o fervor do vosso povo, para que os que mortificam o corpo pela abstinência, pelo fruto de suas boas ações sejam fortalecidos no espírito. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Apresentamos, Senhor, estes dons que nos destes para oferecer-vos. Assim como os tornais para nós sacramento, sejam também remédio para a vida eterna. Por Cristo, nosso Senhor.",
+    "comunhao": "Ó Deus, que não cessais de nos alimentar com os vossos sacramentos, concedei que a força desta refeição nos conduza à vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jn 3, 1-10",
+        "titulo": "Leitura da Profecia de Jonas",
+        "texto": "1A palavra do Senhor foi dirigida a Jonas, pela segunda vez: 2“Levanta-te e põe-te a caminho da grande cidade de Nínive e anuncia-lhe a mensagem que eu te vou confiar”.\n3Jonas pôs-se a caminho de Nínive, conforme a ordem do Senhor. Ora, Nínive era uma cidade muito grande; eram necessários três dias para ser atravessada. 4Jonas entrou na cidade, percorrendo o caminho de um dia; pregava ao povo, dizendo: “Ainda quarenta dias, e Nínive será destruída”.\n5Os ninivitas acreditaram em Deus; aceitaram fazer jejum, e vestiram sacos, desde o superior ao inferior. 6A pregação chegara aos ouvidos do rei de Nínive; ele levantou-se do trono e pôs de lado o manto real, vestiu-se de saco e sentou-se em cima de cinza.7Em seguida, fez proclamar, em Nínive, como decreto do rei e dos príncipes: “Homens e animais bovinos e ovinos não provarão nada! Não comerão e não beberão água. 8Homens e animais se cobrirão de sacos, e os homens rezarão a Deus com força; cada um deve afastar-se do mau caminho e de suas práticas perversas.\n9Deus talvez volte atrás, para perdoar-nos e aplacar sua ira, e assim não venhamos a perecer”. 10Vendo Deus as suas obras de conversão e que os ninivitas se afastavam do mau caminho, compadeceu-se e suspendeu o mal, que tinha ameaçado fazer-lhes, e não o fez."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 50",
+        "refrao": "Ó Senhor, não desprezeis um coração arrependido!",
+        "texto": "— Tende piedade, ó meu Deus, misericórdia! Na imensidão de vosso amor, purificai-me! Lavai-me todo inteiro do pecado, e apagai completamente a minha culpa!\n— Criai em mim um coração que seja puro, dai-me de novo um espírito decidido. Ó Senhor, não me afasteis de vossa face, nem retireis de mim o vosso Santo Espírito!\n— Pois não são de vosso agrado os sacrifícios, e, se oferto um holocausto, o rejeitais. Meu sacrifício é minha alma penitente, não desprezeis um coração arrependido!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Lc 11, 29-32",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo Lucas",
+        "texto": "Naquele tempo, 29quando as multidões se reuniram em grande quantidade, Jesus começou a dizer: “Esta geração é uma geração má. Ela busca um sinal, mas nenhum sinal lhe será dado, a não ser o sinal de Jonas.\n30Com efeito, assim como Jonas foi um sinal para os ninivitas, assim também será o Filho do Homem para esta geração. 31No dia do julgamento, a rainha do Sul se levantará juntamente com os homens desta geração, e os condenará. Porque ela veio de uma terra distante para ouvir a sabedoria de Salomão. E aqui está quem é maior do que Salomão.\n32No dia do julgamento, os ninivitas se levantarão juntamente com esta geração e a condenarão. Porque eles se converteram quando ouviram a pregação de Jonas. E aqui está quem é maior do que Jonas”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Lembrai-vos, Senhor, de vossas misericórdias e de vosso amor, pois são eternos. Nunca dominem sobre nós os inimigos; libertai-nos, Deus de Israel, de todas as nossas angústias! (Cf. Sl 24,6.2.22)",
+    "comunhao": "Hão de alegrar-se os que em vós esperam, Senhor, exultarão eternamente e neles habitareis. (Cf. Sl 5,12)"
+  }
+}

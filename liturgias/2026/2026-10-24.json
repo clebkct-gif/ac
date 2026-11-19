@@ -1,0 +1,40 @@
+{
+  "data": "24/10/2026",
+  "liturgia": "Sábado da 29ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, tornai-nos dispostos a obedecer sempre à vossa vontade e a vos servir de coração sincero. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei-nos, Senhor, nós vos pedimos, que possamos, com liberdade de coração, servir ao vosso altar para que vossa graça nos purifique e nos renovem estes mistérios que celebramos em vossa honra. Por Cristo, nosso Senhor.",
+    "comunhao": "Concedei-nos, Senhor, colher os frutos da participação da Eucaristia, para que, auxiliados pelos bens temporais, possamos conhecer as riquezas do vosso Reino. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ef 4,7-16",
+        "titulo": "Leitura da carta de São Paulo aos Efésios",
+        "texto": "Irmãos, 7cada um de nós recebeu a graça na medida em que Cristo lha deu. 8Daí esta palavra: “Tendo subido às alturas, ele capturou prisioneiros e distribuiu dons aos homens”. 9“Ele subiu”! Que significa isso, senão que ele desceu também às profundezas da terra? 10Aquele que desceu é o mesmo que subiu mais alto do que todos os céus, a fim de encher o universo. 11E foi ele quem instituiu alguns como apóstolos, outros como profetas, outros ainda como evangelistas, outros, enfim, como pastores e mestres. 12Assim, ele capacitou os santos para o ministério, para edificar o corpo de Cristo, 13até que cheguemos todos juntos à unidade da fé e do conhecimento do Filho de Deus, ao estado do homem perfeito e à estatura de Cristo em sua plenitude. 14Assim, não seremos mais crianças ao sabor das ondas, arrastados por todo vento de doutrina, ludibriados pelos homens e induzidos por sua astúcia ao erro. 15Motivados pelo amor, queremos ater-nos à verdade e crescer em tudo até atingirmos aquele que é a cabeça, Cristo. 16Graças a ele, o corpo, coordenado e bem unido, por meio de todas as articulações que o servem, realiza o seu crescimento, segundo uma atividade à medida de cada membro, para a sua edificação no amor."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 121(122)",
+        "refrao": "Que alegria quando ouvi que me disseram: “Vamos à casa do Senhor!”",
+        "texto": "– Que alegria quando ouvi que me disseram: “Vamos à casa do Senhor!” E agora nossos pés já se detêm, Jerusalém, em tuas portas.\n– Jerusalém, cidade bem edificada num conjunto harmonioso; para lá sobem as tribos de Israel, as tribos do Senhor.\n– Para louvar, segundo a lei de Israel, o nome do Senhor. A sede da justiça lá está e o trono de Davi."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 13,1-9",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "1Naquele tempo, vieram algumas pessoas trazendo notícias a Jesus a respeito dos galileus que Pilatos tinha matado, misturando seu sangue com o dos sacrifícios que ofereciam. 2Jesus lhes respondeu: “Vós pensais que esses galileus eram mais pecadores do que todos os outros galileus por terem sofrido tal coisa? 3Eu vos digo que não. Mas, se vós não vos converterdes, ireis morrer todos do mesmo modo. 4E aqueles dezoito que morreram quando a torre de Siloé caiu sobre eles? Pensais que eram mais culpados do que todos os outros moradores de Jerusalém? 5Eu vos digo que não. Mas, se não vos converterdes, ireis morrer todos do mesmo modo”. 6E Jesus contou esta parábola: “Certo homem tinha uma figueira plantada na sua vinha. Foi até ela procurar figos e não encontrou. 7Então disse ao vinhateiro: ‘Já faz três anos que venho procurando figos nesta figueira e nada encontro. Corta-a! Por que está ela inutilizando a terra?’ 8Ele, porém, respondeu: ‘Senhor, deixa a figueira ainda este ano. Vou cavar em volta dela e colocar adubo. 9Pode ser que venha a dar fruto. Se não der, então tu a cortarás!'”"
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! Protegei-me qual dos olhos a pupila e abrigai-me à sombra de vossas asas. (Cf. Sl 16, 6. 8)",
+    "comunhao": "O Senhor pousa o olhar sobre os que o temem e que confiam esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria. (Cf. Sl 32, 18-19)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "19/05/2026",
+  "liturgia": "3ª feira da 7ª Semana da Páscoa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Deus de poder e misericórdia, nós vos pedimos que o Espírito Santo, vindo habitar em nossos corações, nos transforme em templo de sua glória. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Acolhei, Senhor, as preces dos fiéis com a oblação do sacrifício, para que possamos, por este serviço da nossa piedosa devoção, alcançar a glória do céu. Por Cristo, nosso Senhor.",
+    "comunhao": "Alimentados, Senhor, com os dons deste sagrado mistério, nós vos pedimos humildemente que nos faça crescer na caridade a Eucaristia que vosso Filho nos mandou celebrar em sua memória. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "At 20,17-27",
+        "titulo": "Leitura dos Atos dos Apóstolos",
+        "texto": "Naqueles dias, 17de Mileto, Paulo mandou um recado a Éfeso, convocando os anciãos da Igreja. 18Quando os anciãos chegaram, Paulo disse-lhes: “Vós bem sabeis de que modo me comportei em relação a vós durante todo o tempo, desde o primeiro dia em que cheguei à Ásia. 19Servi ao Senhor com toda a humildade, com lágrimas e no meio das provações que sofri por causa das ciladas dos judeus. 20Nunca deixei de anunciar aquilo que pudesse ser de proveito para vós nem de vos ensinar publicamente e também de casa em casa. 21Insisti com judeus e gregos para que se convertessem a Deus e acreditassem em Jesus, nosso Senhor. 22E agora, prisioneiro do Espírito, vou para Jerusalém sem saber o que aí me acontecerá. 23Sei apenas que, de cidade em cidade, o Espírito Santo me adverte, dizendo que me aguardam cadeias e tribulações. 24Mas de modo nenhum considero a minha vida preciosa para mim mesmo, contanto que eu leve a bom termo a minha carreira e realize o serviço que recebi do Senhor Jesus, ou seja, testemunhar o evangelho da graça de Deus. 25Agora, porém, tenho a certeza de que vós não vereis mais o meu rosto, todos vós entre os quais passei anunciando o reino. 26Portanto, hoje dou testemunho diante de todos vós: eu não sou responsável se algum de vós se perder, 27pois não deixei de vos anunciar todo o projeto de Deus a vosso respeito”."
+      }
+    ],
+    "segundaLeitura": [],
+    "salmo": [
+      {
+        "referencia": "Sl 67(68)",
+        "refrao": "Reinos da terra, cantai ao Senhor.",
+        "texto": "– Derramastes lá do alto uma chuva generosa, e vossa terra, vossa herança, já cansada, renovastes; e ali vosso rebanho encontrou sua morada; com carinho preparastes essa terra para o pobre.\n– Bendito seja Deus, bendito seja cada dia o Deus da nossa salvação, que carrega os nossos fardos! Nosso Deus é um Deus que salva, é um Deus libertador; o Senhor, só o Senhor, nos poderá livrar da morte!"
+      }
+    ],
+    "evangelho": [
+      {
+        "referencia": "Jo 17,1-11",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo João",
+        "texto": "Naquele tempo, 1Jesus ergueu os olhos ao céu e disse: “Pai, chegou a hora. Glorifica o teu Filho, para que o teu Filho te glorifique a ti 2e, porque lhe deste poder sobre todo homem, ele dê a vida eterna a todos aqueles que lhe confiaste. 3Ora, a vida eterna é esta: que eles te conheçam a ti, o único Deus verdadeiro, e àquele que tu enviaste, Jesus Cristo. 4Eu te glorifiquei na terra e levei a termo a obra que me deste para fazer. 5E agora, Pai, glorifica-me junto de ti, com a glória que eu tinha junto de ti antes que o mundo existisse. 6Manifestei o teu nome aos homens que tu me deste do meio do mundo. Eram teus e tu os confiaste a mim, e eles guardaram a tua palavra. 7Agora eles sabem que tudo quanto me deste vem de ti, 8pois dei-lhes as palavras que tu me deste, e eles as acolheram e reconheceram verdadeiramente que eu saí de ti e acreditaram que tu me enviaste. 9Eu te rogo por eles. Não te rogo pelo mundo, mas por aqueles que me deste, porque são teus. 10Tudo o que é meu é teu, e tudo o que é teu é meu. E eu sou glorificado neles. 11Já não estou no mundo, mas eles permanecem no mundo, enquanto eu vou para junto de ti”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Eu sou o Primeiro e o Último, aquele que vive. Estive morto, mas agora estou vivo para sempre, aleluia! (Cf. Ap 1,17-18)",
+    "comunhao": "O Espírito Santo, que o Pai enviará em meu nome, ele vos ensinará tudo e vos recordará tudo o que vos tenho dito, diz o Senhor, aleluia. (Cf. Jo 14,26)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "11/11/2026",
+  "liturgia": "São Martinho de Tours, bispo, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "ó Deus, que fostes glorificado pela vida e pela morte do bispo São Martinho, renovai em nossos corações as maravilhas da vossa graça, de modo que nem a morte nem a vida nos possa separar do vosso amor. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Senhor nosso Deus, santificai estes dons que alegremente vos apresentamos em honra de São Martinho; em meio às alegrias e provações, orientai sempre para vós a nossa vida.Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, alimentados com o sacramento da unidade, dai-nos em tudo perfeita concórdia com a vossa vontade, para que, assim como São Martinho vos foi sempre submisso, também nós nos gloriemos de pertencer verdadeiramente a vós. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Tt 3,1-7",
+        "titulo": "Leitura da carta de São Paulo a Tito",
+        "texto": "Caríssimo, 1admoesta a todos que vivam submissos aos príncipes e às autoridades, que lhes obedeçam e estejam prontos para qualquer boa obra. 2Não injuriem a ninguém, sejam pacíficos, afáveis e deem provas de mansidão para com todos os homens. 3Porque nós outrora éramos insensatos, rebeldes, extraviados, escravos de toda sorte de paixões e prazeres, vivendo na maldade e na inveja, dignos de ódio e odiando uns aos outros. 4Mas um dia manifestou-se a bondade de Deus, nosso salvador, e o seu amor pelos homens: 5ele salvou-nos não por causa dos atos de justiça que tivéssemos praticado, mas por sua misericórdia; quando renascemos e fomos renovados no batismo pelo Espírito Santo, 6que ele derramou abundantemente sobre nós por meio de nosso salvador, Jesus Cristo. 7Justificados, assim, pela sua graça, nos tornamos na esperança herdeiros da vida eterna. -Palavra do Senhor."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 22(23)",
+        "refrao": "O Senhor é o pastor que me conduz, não me falta coisa alguma.",
+        "texto": "– O Senhor é o pastor que me conduz; não me falta coisa alguma. Pelos prados e campinas verdejantes ele me leva a descansar. Para as águas repousantes me encaminha e restaura as minhas forças.\n– Ele me guia no caminho mais seguro, pela honra do seu nome. Mesmo que eu passe pelo vale tenebroso, nenhum mal eu temerei. Estais comigo com bastão e com cajado, eles me dão a segurança!\n– Preparais à minha frente uma mesa, bem à vista do inimigo; com óleo vós ungis minha cabeça, e o meu cálice transborda.\n– Felicidade e todo bem hão de seguir-me, por toda a minha vida; e na casa do Senhor habitarei pelos tempos infinitos."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 17,11-19",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "11Aconteceu que, caminhando para Jerusalém, Jesus passava entre a Samaria e a Galileia. 12Quando estava para entrar num povoado, dez leprosos vieram ao seu encontro. Pararam a distância 13e gritaram: “Jesus, mestre, tem compaixão de nós!” 14Ao vê-los, Jesus disse: “Ide apresentar-vos aos sacerdotes”. Enquanto caminhavam, aconteceu que ficaram curados. 15Um deles, ao perceber que estava curado, voltou glorificando a Deus em alta voz; 16atirou-se aos pés de Jesus com o rosto por terra e lhe agradeceu. E este era um samaritano. 17Então Jesus lhe perguntou: “Não foram dez os curados? E os outros nove, onde estão? 18Não houve quem voltasse para dar glória a Deus, a não ser este estrangeiro?” 19E disse-lhe: “Levanta-te e vai! Tua fé te salvou”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Farei surgir para mim um sacerdote fiel que agirá segundo o meu coração e a minha vontade, diz o Senhor. (Cf. 1Sm 2, 35)",
+    "comunhao": "Em verdade, eu vos digo: tudo o que fizestes a um destes meus irmãos mais pequeninos, foi a mim que o fizestes, diz o Senhor. (Cf. Mt 25, 40)"
+  }
+}

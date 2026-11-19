@@ -1,0 +1,40 @@
+{
+  "data": "19/10/2026",
+  "liturgia": "2ª feira da 29ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, tornai-nos dispostos a obedecer sempre à vossa vontade e a vos servir de coração sincero. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei-nos, Senhor, nós vos pedimos, que possamos, com liberdade de coração, servir ao vosso altar para que vossa graça nos purifique e nos renovem estes mistérios que celebramos em vossa honra. Por Cristo, nosso Senhor.",
+    "comunhao": "Concedei-nos, Senhor, colher os frutos da participação da Eucaristia, para que, auxiliados pelos bens temporais, possamos conhecer as riquezas do vosso Reino. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ef 2,1-10",
+        "titulo": "Leitura da carta de São Paulo aos Efésios",
+        "texto": "Irmãos, 1vós estáveis mortos por causa de vossas faltas e pecados, 2nos quais vivíeis outrora, quando seguíeis o deus deste mundo, o príncipe que reina entre o céu e a terra, o espírito que age agora entre os rebeldes. 3Nós éramos deste número, todos nós. Outrora nos abandonávamos às paixões da carne; satisfazíamos os seus desejos, seguíamos os seus caprichos e éramos, por natureza, como os demais, filhos da ira. 4Mas Deus é rico em misericórdia. Por causa do grande amor com que nos amou, 5quando estávamos mortos por causa das nossas faltas, ele nos deu a vida com Cristo. É por graça que vós sois salvos! 6Deus nos ressuscitou com Cristo e nos fez sentar nos céus em virtude de nossa união com Jesus Cristo. 7Assim, pela bondade que nos demonstrou em Jesus Cristo, Deus quis mostrar, através dos séculos futuros, a incomparável riqueza da sua graça. 8Com efeito, é pela graça que sois salvos, mediante a fé. E isso não vem de vós; é dom de Deus! 9Não vem das obras, para que ninguém se orgulhe. 10Pois é ele quem nos fez; nós fomos criados em Jesus Cristo para as obras boas, que Deus preparou de antemão para que nós as praticássemos."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 99(100)",
+        "refrao": "O Senhor mesmo nos fez e somos seus.",
+        "texto": "– Aclamai o Senhor, ó terra inteira, servi ao Senhor com alegria, ide a ele cantando jubilosos!\n– Sabei que o Senhor, só ele, é Deus, ele mesmo nos fez, e somos seus, nós somos seu povo e seu rebanho.\n– Entrai por suas portas dando graças e em seus átrios com hinos de louvor, dai-lhe graças, seu nome bendizei!\n– Sim, é bom o Senhor e nosso Deus, sua bondade perdura para sempre, seu amor é fiel eternamente!"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 12,13-21",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 13alguém, do meio da multidão, disse a Jesus: “Mestre, dize ao meu irmão que reparta a herança comigo”. 14Jesus respondeu: “Homem, quem me encarregou de julgar ou de dividir vossos bens?” 15E disse-lhes: “Atenção! Tomai cuidado contra todo tipo de ganância, porque, mesmo que alguém tenha muitas coisas, a vida de um homem não consiste na abundância de bens”. 16E contou-lhes uma parábola: “A terra de um homem rico deu uma grande colheita. 17Ele pensava consigo mesmo: ‘O que vou fazer? Não tenho onde guardar minha colheita’. 18Então resolveu: ‘Já sei o que fazer! Vou derrubar meus celeiros e construir maiores; neles vou guardar todo o meu trigo, junto com os meus bens. 19Então poderei dizer a mim mesmo: Meu caro, tu tens uma boa reserva para muitos anos. Descansa, come, bebe, aproveita!’ 20Mas Deus lhe disse: ‘Louco! Ainda nesta noite, pedirão de volta a tua vida. E para quem ficará o que tu acumulaste?’ 21Assim acontece com quem ajunta tesouros para si mesmo, mas não é rico diante de Deus”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Eu vos chamo, ó meu Deus, porque me ouvis, inclinai o vosso ouvido e escutai-me! Protegei-me qual dos olhos a pupila e abrigai-me à sombra de vossas asas. (Cf. Sl 16, 6. 8)",
+    "comunhao": "O Senhor pousa o olhar sobre os que o temem e que confiam esperando em seu amor, para da morte libertar as suas vidas e alimentá-los quando é tempo de penúria. (Cf. Sl 32, 18-19)"
+  }
+}

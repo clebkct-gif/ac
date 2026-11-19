@@ -1,0 +1,40 @@
+{
+  "data": "30/09/2026",
+  "liturgia": "São Jerônimo, presbítero e doutor da Igreja, Memória",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, que destes ao presbítero São Jerônimo um profundo amor pela Sagrada Escritura, concedei que o vosso povoseja alimentado cada vez mais com a vossa palavra e nela encontre a fonte da vida. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Concedei-nos, Senhor, que a exemplo de São Jerônimo, tendo meditado a vossa palavra, sejamos mais solícitos em vos oferecer a oblação que nos salva. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, os sacramentos que alegres recebemos na festa de São Jerônimo despertem nossos corações para que, voltados aos ensinamentos da Sagrada Escritura, conheçamos o caminho a seguir e, seguindo-o, alcancemos a vida eterna. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Jó 9,1-12.14-16",
+        "titulo": "Leitura do Livro de Jó",
+        "texto": "1Jó respondeu a seus amigos e disse: 2“Sei muito bem que é assim: como poderia o homem ser justo diante de Deus? 3Se quisesse disputar com ele, entre mil razões não haverá uma para rebatê-lo. 4Ele é sábio de coração e poderoso em força; quem poderia enfrentá-lo e ficar ileso? 5Ele desloca as montanhas sem que elas percebam e as derruba em sua cólera. 6Ele abala a terra em suas bases e suas colunas vacilam. 7Ele manda ao sol que não brilhe e guarda escondidas as estrelas. 8Sozinho desdobra os céus e caminha sobre as ondas do mar. 9Criou a Ursa e o Órion, as Plêiades e as constelações do Sul. 10Faz prodígios insondáveis, maravilhas sem conta. 11Se passa junto de mim, não o vejo e, quando se afasta, não o percebo. 12Se ele apanha uma presa, quem ousa impedi-lo? Quem pode dizer-lhe: ‘O que está fazendo?’ 14Quem sou eu para replicar-lhe e contra ele escolher meus argumentos? 15Ainda que eu tivesse razão, não poderia replicar e deveria pedir misericórdia ao meu juiz. 16Se eu clamasse e ele me respondesse, não creio que daria atenção à minha voz”."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 87(88)",
+        "refrao": "Chegue a minha oração até a vossa presença!",
+        "texto": "– Clamo a vós, ó Senhor, sem cessar, todo o dia, minhas mãos para vós se levantam em prece. Para os mortos, acaso, faríeis milagres? Poderiam as sombras erguer-se e louvar-vos?\n– No sepulcro haverá quem vos cante o amor e proclame entre os mortos a vossa verdade? Vossas obras serão conhecidas nas trevas, vossa graça, no reino onde tudo se esquece?\n– Quanto a mim, ó Senhor, clamo a vós na aflição, minha prece se eleva até vós desde a aurora. Por que vós, ó Senhor, rejeitais a minha alma? E por que escondeis vossa face de mim?"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 9,57-62",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 57enquanto Jesus e seus discípulos caminhavam, alguém na estrada disse a Jesus: “Eu te seguirei para onde quer que fores”. 58Jesus lhe respondeu: “As raposas têm tocas e os pássaros têm ninhos, mas o Filho do Homem não tem onde repousar a cabeça”. 59Jesus disse a outro: “Segue-me”. Este respondeu: “Deixa-me primeiro ir enterrar meu pai”. 60Jesus respondeu: ”Deixa que os mortos enterrem os seus mortos; mas tu, vai anunciar o Reino de Deus”. 61Um outro ainda lhe disse: ”Eu te seguirei, Senhor, mas deixa-me primeiro despedir-me dos meus familiares”. 62Jesus, porém, respondeu-lhe: “Quem põe a mão no arado e olha para trás não está apto para o Reino de Deus”."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Feliz o homem que medita a lei do Senhor dia e noite sem cessar: dará seu fruto no devido tempo. (Cf. Sl 1, 2-3)",
+    "comunhao": "Senhor Deus, quando encontrei tuas palavras, alimentei-me, elas se tornaram para mim uma delícia e a alegria do coração. (Cf. Jr 15, 16)"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": "26/10/2026",
+  "liturgia": "2ª feira da 30ª Semana do Tempo Comum",
+  "cor": "Verde",
+  "oracoes": {
+    "coleta": "Deus eterno e todo-poderoso, aumentai em nós a fé, a esperança e a caridade e, para merecermos alcançar o que prometeis, fazei-nos amar o que ordenais. Por nosso Senhor Jesus Cristo, vosso Filho, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Olhai benigno, nós vos pedimos, Senhor, os dons que vos apresentamos, e nossa celebração seja, antes de tudo, para a vossa glória. Por Cristo, nosso Senhor.",
+    "comunhao": "Os vossos sacramentos, Senhor, realizem o que significam, a fim de que um dia possamos entrar em plena posse do mistério que agora em ritos celebramos. Por Cristo, nosso Senhor.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ef 4,32-5,8",
+        "titulo": "Leitura da carta de São Paulo aos Efésios",
+        "texto": "Irmãos, 32sede bons uns para com os outros, sede compassivos; perdoai-vos mutuamente, como Deus vos perdoou por meio de Cristo. 5,1Sede imitadores de Deus, como filhos que ele ama. 2Vivei no amor, como Cristo nos amou e se entregou a si mesmo a Deus por nós, em oblação e sacrifício de suave odor. 3A devassidão ou qualquer espécie de impureza ou cobiça sequer sejam mencionadas entre vós, como convém a santos. 4Nada de palavras grosseiras, insensatas ou obscenas, que são inconvenientes; dedicai-vos antes à ação de graças. 5Pois, sabei-o bem, o devasso, o impuro, o avarento – que é um idólatra – são excluídos da herança no Reino de Cristo e de Deus. 6Que ninguém vos engane com palavras vazias. Tudo isso atrai a cólera de Deus sobre os que lhe desobedecem. 7Não sejais seus cúmplices. 8Outrora éreis trevas, mas agora sois luz no Senhor. Vivei como filhos da luz."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 1",
+        "refrao": "Sejamos, pois, imitadores do Senhor, como convém aos amados filhos seus.",
+        "texto": "– Feliz é todo aquele que não anda conforme os conselhos dos perversos; que não entra no caminho dos malvados nem junto aos zombadores vai sentar-se; mas encontra seu prazer na lei de Deus e a medita, dia e noite, sem cessar.\n– Eis que ele é semelhante a uma árvore que à beira da torrente está plantada; ela sempre dá seus frutos a seu tempo, e jamais as suas folhas vão murchar. Eis que tudo o que ele faz vai prosperar.\n– Mas bem outra é a sorte dos perversos. Ao contrário, são iguais à palha seca espalhada e dispersada pelo vento. Pois Deus vigia o caminho dos eleitos, mas a estrada dos malvados leva à morte."
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Lc 13,10-17",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo segundo Lucas",
+        "texto": "Naquele tempo, 10Jesus estava ensinando numa sinagoga em dia de sábado. 11Havia aí uma mulher que, fazia dezoito anos, estava com um espírito que a tornava doente. Era encurvada e incapaz de se endireitar. 12Vendo-a, Jesus chamou-a e lhe disse: “Mulher, estás livre da tua doença”. 13Jesus colocou as mãos sobre ela, e imediatamente a mulher se endireitou e começou a louvar a Deus. 14O chefe da sinagoga ficou furioso, porque Jesus tinha feito uma cura em dia de sábado. E, tomando a palavra, começou a dizer à multidão: “Existem seis dias para trabalhar. Vinde, então, nesses dias para serdes curados, mas não em dia de sábado”. 15O Senhor lhe respondeu: “Hipócritas! Cada um de vós não solta do curral o boi ou o jumento para dar-lhe de beber, mesmo que seja dia de sábado? 16Esta filha de Abraão, que satanás amarrou durante dezoito anos, não deveria ser libertada dessa prisão em dia de sábado?” 17Esta resposta envergonhou todos os inimigos de Jesus. E a multidão inteira se alegrava com as maravilhas que ele fazia."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Exulte o coração que busca a Deus! Procurai o Senhor Deus e seu poder, buscai constantemente a sua face. (Cf. Sl 104, 3-4)",
+    "comunhao": "Nós nos alegraremos na vossa salvação e no nome do nosso Deus exultaremos. (Cf. Sl 19, 6)"
+  }
+}

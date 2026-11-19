@@ -1,0 +1,45 @@
+{
+  "data": "22/07/2026",
+  "liturgia": "Santa Maria Madalena, Festa",
+  "cor": "Branco",
+  "oracoes": {
+    "coleta": "Ó Deus, o vosso Filho Unigênito confiou a Maria Madalena a missão de ser a primeira a anunciar a alegria pascal; concedei, nós vos pedimos, por sua intercessão e exemplo, proclamar que Cristo ressuscitou e contemplá-lo no seu Reino glorioso. Ele, que é Deus, e convosco vive e reina, na unidade do Espírito Santo, por todos os séculos dos séculos.",
+    "oferendas": "Recebei, Senhor, os dons que vos apresentamos na festa de Santa Maria Madalena, cuja demonstração de amor vosso Filho acolheu com misericordiosa bondade. Por Cristo, nosso Senhor.",
+    "comunhao": "Senhor, a sagrada comunhão nos vossos mistérios infunda em nós aquele amor perseverante que levou Santa Maria Madalena a jamais separar-se do Cristo, seu Mestre. Que vive e reina pelos séculos dos séculos.",
+    "extras": []
+  },
+  "leituras": {
+    "primeiraLeitura": [
+      {
+        "referencia": "Ct 3, 1-4a",
+        "titulo": "Leitura do Livro do Cântico dos Cânticos",
+        "texto": "Eis o que diz a noiva: 1“Em meu leito, durante a noite, busquei o amor de minha vida: procurei-o, e não o encontrei. 2Vou levantar-me e percorrer a cidade, procurando pelas ruas e praças, o amor de minha vida: procurei-o, e não o encontrei. 3Encontraram-me os guardas que faziam a ronda pela cidade. ʽVistes porventura o amor de minha vida?ʼ 4aE logo que passei por eles, encontrei o amor de minha vida”."
+      },
+      {
+        "referencia": "2 Co 5, 14-17",
+        "titulo": "Leitura da carta de Paulo aos Coríntios",
+        "texto": "Irmãos, 14o amor de Cristo nos pressiona, pois julgamos que um só morreu por todos, e que, logo, todos morreram. 15De fato, Cristo morreu por todos, para que os vivos não vivam mais para si mesmos, mas para aquele que por eles morreu e ressuscitou. 16Assim, doravante, não conhecemos ninguém conforme a natureza humana. E, se uma vez conhecemos Cristo segundo a carne, agora já não o conhecemos assim. 17Portanto, se alguém está em Cristo, é uma criatura nova. O mundo velho desapareceu. Tudo agora é novo."
+      }
+    ],
+    "salmo": [
+      {
+        "referencia": "Sl 62",
+        "refrao": "A minh’alma tem sede de vós, Senhor!",
+        "texto": "— Sois vós, ó Senhor, o meu Deus! Desde a aurora ansioso vos busco! A minh’alma tem sede de vós, minha carne também vos deseja, como terra sedenta e sem água!\n— Venho, assim, contemplar-vos no templo, para ver vossa glória e poder. Vosso amor vale mais do que a vida: e por isso meus lábios vos louvam.\n— Quero, pois, vos louvar pela vida, e elevar para vós minhas mãos! A minh’alma será saciada, como em grande banquete de festa; cantará a alegria em meus lábios, ao cantar para vós meu louvor!\n— Para mim fostes sempre um socorro; de vossas asas à sombra eu exulto! Minha alma se agarra em vós; com poder vossa mão me sustenta"
+      }
+    ],
+    "segundaLeitura": [],
+    "evangelho": [
+      {
+        "referencia": "Jo 20, 1-2. 11-18",
+        "titulo": "Proclamação do Evangelho de Jesus Cristo ✠ segundo João",
+        "texto": "1No primeiro dia da semana, Maria Madalena foi ao túmulo de Jesus, bem de madrugada, quando ainda estava escuro, e viu que a pedra tinha sido retirada do túmulo. 2Então ela saiu correndo e foi encontrar Simão Pedro e o outro discípulo, aquele que Jesus amava, e lhes disse: “Tiraram o Senhor do túmulo, e não sabemos onde o colocaram”. 11Maria estava do lado de fora do túmulo, chorando. Enquanto chorava, inclinou-se e olhou para dentro do túmulo. 12Viu, então, dois anjos vestidos de branco, sentados onde tinha sido posto o corpo de Jesus, um à cabeceira e outro aos pés. 13Os anjos perguntaram: “Mulher, por que choras?” Ela respondeu: “Levaram o meu Senhor e não sei onde o colocaram”. 14Tendo dito isto, Maria voltou-se para trás e viu Jesus, de pé. Mas não sabia que era Jesus. 15Jesus perguntou-lhe: “Mulher, por que choras? A quem procuras?” Pensando que era o jardineiro, Maria disse: “Senhor, se foste tu que o levaste dize-me onde o colocaste, e eu o irei buscar”. 16Então Jesus disse: “Maria!” Ela voltou-se e exclamou, em hebraico: “Rabunni” (que quer dizer: Mestre). 17Jesus disse: “Não me segures. Ainda não subi para junto do Pai. Mas vai dizer aos meus irmãos: subo para junto do meu Pai e vosso Pai, meu Deus e vosso Deus”. 18Então Maria Madalena foi anunciar aos discípulos: “Eu vi o Senhor”, e contou o que Jesus lhe tinha dito."
+      }
+    ],
+    "extras": []
+  },
+  "antifonas": {
+    "entrada": "Disse o Senhor a Maria Madalena: Vai a meus irmãos e anuncia-lhes: Subo para junto do meu Pai e vosso Pai, meu Deus e vosso Deus. (Cf. Jo 20, 17)",
+    "comunhao": "O amor de Cristo nos pressiona, para que os vivos não vivam para si mesmos, mas para aquele que por eles morreu e ressuscitou. (2 Cor 5, 14-15)"
+  }
+}
