@@ -7,7 +7,7 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&family=Lora:ital,wght@0,500;0,700;1,400&family=Roboto:wght@400;500;700;900&display=swap" rel="stylesheet">
   <script>
     tailwind.config = {
       darkMode: 'class',
@@ -79,6 +79,126 @@
       font-weight: 700;
     }
 
+    /* ================= 3 MODELOS DE CORES (PALETAS VISUAIS) ================= */
+    /* Tema 1: Android Material (Verde Android #3DDC84, Azul Material #4285F4, Fonte Roboto) */
+    body.palette-android {
+      font-family: 'Roboto', system-ui, sans-serif;
+    }
+    body.palette-android #splash-screen {
+      background: linear-gradient(145deg, #0B141A 0%, #10252B 55%, #0D1F18 100%) !important;
+    }
+    body.palette-android #main-app {
+      background-color: #101417;
+      color: #E2E8F0;
+    }
+    body.palette-android:not(.dark-override) header,
+    html.dark body.palette-android header {
+      background-color: rgba(19, 26, 31, 0.96) !important;
+      border-color: #23333D !important;
+    }
+    html:not(.dark) body.palette-android #main-app {
+      background-color: #F1F5F4;
+      color: #0F172A;
+    }
+    body.palette-android .nav-btn.bg-\[\#38BDF8\],
+    body.palette-android button.bg-\[\#38BDF8\] {
+      background-color: #3DDC84 !important;
+      color: #072114 !important;
+    }
+    body.palette-android button.bg-\[\#38BDF8\]:hover {
+      background-color: #5CE69A !important;
+    }
+    body.palette-android .chord-line {
+      color: #3DDC84 !important;
+    }
+    html:not(.dark) body.palette-android .chord-line {
+      color: #0B8043 !important;
+    }
+
+    /* Tema 2: Clássico Bíblia & Dicionário (Pergaminho, Bordô, Dourado Antigo, Serifado) */
+    body.palette-classic {
+      font-family: 'Lora', Georgia, serif;
+    }
+    body.palette-classic #splash-screen {
+      background: linear-gradient(145deg, #1E110E 0%, #2D1814 55%, #1A130F 100%) !important;
+    }
+    html.dark body.palette-classic #main-app {
+      background-color: #181210;
+      color: #F4ECE1;
+    }
+    html.dark body.palette-classic header,
+    html.dark body.palette-classic section > div.bg-white,
+    html.dark body.palette-classic article.bg-white {
+      background-color: #231A17 !important;
+      border-color: #3E2D27 !important;
+    }
+    html:not(.dark) body.palette-classic #main-app {
+      background-color: #FBF6EC;
+      color: #2B1E16;
+    }
+    html:not(.dark) body.palette-classic header,
+    html:not(.dark) body.palette-classic section > div.bg-white,
+    html:not(.dark) body.palette-classic article.bg-white {
+      background-color: #FFFDF8 !important;
+      border-color: #E4D5BE !important;
+    }
+    body.palette-classic .nav-btn.bg-\[\#38BDF8\],
+    body.palette-classic button.bg-\[\#38BDF8\] {
+      background-color: #9E2A2B !important;
+      color: #FFF8EB !important;
+    }
+    body.palette-classic button.bg-\[\#38BDF8\]:hover {
+      background-color: #B83536 !important;
+    }
+    body.palette-classic .chord-line {
+      color: #D4A359 !important;
+    }
+    html:not(.dark) body.palette-classic .chord-line {
+      color: #8C2323 !important;
+    }
+
+    /* Tema 3: Infantil Vivo (Apenas cores alegres e vibrantes: Azul Céu, Amarelo Sol, Coral e Verde Menta — sem formas extras) */
+    body.palette-kids {
+      font-family: 'Inter', system-ui, sans-serif;
+    }
+    body.palette-kids #splash-screen {
+      background: linear-gradient(135deg, #0EA5E9 0%, #2563EB 52%, #10B981 100%) !important;
+    }
+    html.dark body.palette-kids #main-app {
+      background-color: #0B192C;
+      color: #F8FAFC;
+    }
+    html.dark body.palette-kids header,
+    html.dark body.palette-kids section > div.bg-white,
+    html.dark body.palette-kids article.bg-white {
+      background-color: #132743 !important;
+      border-color: #1E3E62 !important;
+    }
+    html:not(.dark) body.palette-kids #main-app {
+      background-color: #EFF8FF;
+      color: #0F172A;
+    }
+    html:not(.dark) body.palette-kids header,
+    html:not(.dark) body.palette-kids section > div.bg-white,
+    html:not(.dark) body.palette-kids article.bg-white {
+      background-color: #FFFFFF !important;
+      border-color: #BAE6FD !important;
+    }
+    body.palette-kids .nav-btn.bg-\[\#38BDF8\],
+    body.palette-kids button.bg-\[\#38BDF8\] {
+      background-color: #FACC15 !important;
+      color: #1E1B4B !important;
+    }
+    body.palette-kids button.bg-\[\#38BDF8\]:hover {
+      background-color: #FDE047 !important;
+    }
+    body.palette-kids .chord-line {
+      color: #FACC15 !important;
+    }
+    html:not(.dark) body.palette-kids .chord-line {
+      color: #E11D48 !important;
+    }
+
     /* Estilos exclusivos para impressão do Roteiro da Missa (Folha A4 limpa) */
     @media print {
       body * {
@@ -123,28 +243,61 @@
   <!-- ==================== 1. TELA INICIAL / SPLASH SCREEN ==================== -->
   <section id="splash-screen" class="fixed inset-0 z-50 flex flex-col items-center justify-between p-6 sm:p-10 bg-gradient-to-br from-slate-950 via-[#1a1016] to-slate-900 text-white overflow-y-auto">
 
-    <!-- Centro: Marca em linha única, Botão Iniciar e Manual Disfarçado por Aba Suspensa -->
-    <div class="flex flex-col items-center text-center my-auto py-4 w-full max-w-4xl">
-      <h1 class="text-2xl sm:text-4xl font-extrabold tracking-tight text-white mb-2 whitespace-nowrap">
+    <!-- Balde de Tinta colorido em espaço livre no canto superior direito da splash screen (sem texto na tela) -->
+    <button id="btn-cycle-palette" onclick="cycleColorPalette()" title="Alternar modelo de cores" aria-label="Alternar modelo de cores" class="fixed top-4 right-4 z-20 p-2.5 rounded-full bg-slate-900/85 hover:bg-slate-800 border border-white/20 shadow-lg transition cursor-pointer flex items-center justify-center">
+      <svg class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke-width="2">
+        <defs>
+          <linearGradient id="paintBucketGrad" x1="2" y1="2" x2="22" y2="22" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#38BDF8"/>
+            <stop offset="50%" stop-color="#FACC15"/>
+            <stop offset="100%" stop-color="#EC4899"/>
+          </linearGradient>
+        </defs>
+        <path stroke="url(#paintBucketGrad)" stroke-linecap="round" stroke-linejoin="round" d="M19 11l-8-8-8.6 8.6a2 2 0 000 2.8l5.2 5.2c.8.8 2 .8 2.8 0L19 11z"/>
+        <path stroke="#3DDC84" stroke-linecap="round" stroke-linejoin="round" d="M5 2l5 5"/>
+        <path stroke="#F5EFE0" stroke-linecap="round" stroke-linejoin="round" d="M2 13h15"/>
+        <path fill="#38BDF8" stroke="#38BDF8" stroke-linecap="round" stroke-linejoin="round" d="M22 20a2 2 0 11-4 0c0-1.6 1.7-2.4 2-4 .3 1.6 2 2.4 2 4z"/>
+      </svg>
+    </button>
+
+    <!-- Topo / Cabeçalho da Tela Inicial -->
+    <div class="w-full max-w-2xl text-center pt-1 pb-2">
+      <h1 class="text-2xl sm:text-4xl font-extrabold tracking-tight text-white mb-1.5 whitespace-nowrap">
         ML – <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#F3E5AB] via-[#D4AF37] to-[#38BDF8]">Música Litúrgica</span>
       </h1>
 
-      <p class="text-[11px] sm:text-xs font-medium tracking-wider uppercase text-[#F3E5AB]/85 mb-6 whitespace-nowrap">
+      <p class="text-[11px] sm:text-xs font-medium tracking-wider uppercase text-[#F3E5AB]/85 whitespace-nowrap">
         Ministério de Música Católica
       </p>
+    </div>
 
-      <!-- Botão Iniciar em formato/ícone de Nota Musical -->
-      <button id="btn-start-app" onclick="startAppExperience()" aria-label="Iniciar aplicativo em tela cheia" class="group relative flex flex-col items-center justify-center w-36 h-36 sm:w-44 sm:h-44 rounded-full bg-gradient-to-b from-[#F3E5AB] via-[#D4AF37] to-[#AA8219] text-slate-950 shadow-2xl transition-all duration-300 note-btn-anim focus:outline-none focus:ring-4 focus:ring-[#D4AF37]/50 cursor-pointer">
-        <span class="absolute inset-1.5 rounded-full border-2 border-slate-950/20 pointer-events-none"></span>
-        <svg class="w-16 h-16 sm:w-20 sm:h-20 text-slate-950 transition-transform duration-300 group-hover:scale-110" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/>
+    <!-- Centro: Símbolo Musical Elaborado e Grade 2 por Linha -->
+    <div class="flex flex-col items-center text-center my-auto py-3 w-full max-w-2xl">
+      <!-- Botão Iniciar: símbolo musical elaborado com animação e brilho dourado (sem círculo e sem texto) -->
+      <button id="btn-start-app" onclick="startAppExperience()" aria-label="Iniciar aplicativo em tela cheia" title="Iniciar aplicativo" class="group relative flex items-center justify-center p-2 note-btn-anim focus:outline-none cursor-pointer">
+        <svg class="w-32 h-32 sm:w-40 sm:h-40 text-[#F3E5AB] group-hover:text-[#D4AF37] transition-transform duration-300 group-hover:scale-105" viewBox="0 0 64 64" fill="none">
+          <defs>
+            <linearGradient id="mlGoldGrad" x1="12" y1="8" x2="52" y2="56" gradientUnits="userSpaceOnUse">
+              <stop offset="0%" stop-color="#FFF4C2"/>
+              <stop offset="50%" stop-color="#F3E5AB"/>
+              <stop offset="100%" stop-color="#D4AF37"/>
+            </linearGradient>
+          </defs>
+          <!-- Pautas musicais sutis atrás da nota -->
+          <path d="M8 22H56M8 28H56M8 34H56M8 40H56" stroke="currentColor" stroke-opacity="0.22" stroke-width="1.4" stroke-linecap="round"/>
+          <!-- Nota dupla/colcheia elaborada -->
+          <path d="M24 44V16L48 11V39" stroke="url(#mlGoldGrad)" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M24 23L48 18" stroke="url(#mlGoldGrad)" stroke-width="4.2" stroke-linecap="round"/>
+          <ellipse cx="18.5" cy="44.5" rx="7.2" ry="5.4" transform="rotate(-18 18.5 44.5)" fill="url(#mlGoldGrad)"/>
+          <ellipse cx="42.5" cy="39.5" rx="7.2" ry="5.4" transform="rotate(-18 42.5 39.5)" fill="url(#mlGoldGrad)"/>
+          <!-- Detalhe de brilho/estrela musical -->
+          <path d="M51 10L52.4 13.6L56 15L52.4 16.4L51 20L49.6 16.4L46 15L49.6 13.6L51 10Z" fill="#FFF4C2"/>
         </svg>
-        <span class="mt-0.5 font-extrabold text-sm sm:text-base tracking-wider uppercase text-slate-950">Iniciar</span>
       </button>
 
-      <!-- Vitrine de Ícones + Nome das Ferramentas (Manual Interativo por Aba Suspensa) -->
-      <div class="mt-7 w-full max-w-3xl">
-        <div id="splash-tools-grid" class="grid grid-cols-4 sm:grid-cols-8 gap-2">
+      <!-- Vitrine de Ícones + Nome das Ferramentas (2 por linha lado a lado) -->
+      <div class="mt-6 w-full max-w-md">
+        <div id="splash-tools-grid" class="grid grid-cols-2 gap-2.5">
           <!-- Renderizado via JS -->
         </div>
 
@@ -179,12 +332,6 @@
     <header class="sticky top-0 z-30 bg-white/90 dark:bg-slate-900/95 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 px-2 sm:px-6 py-2 shadow-sm no-print">
       <div class="max-w-7xl mx-auto flex flex-nowrap items-center justify-between gap-1.5 sm:gap-3 min-w-0">
 
-        <!-- Ícone da Marca -->
-        <div class="flex items-center cursor-pointer shrink-0" onclick="switchTab('overview')" title="Visão Geral">
-          <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-[#38BDF8] to-sky-600 text-slate-950 flex items-center justify-center shadow-md shrink-0">
-            <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>
-          </div>
-        </div>
 
         <!-- Navegação Compacta dos 4 Módulos -->
         <nav class="flex flex-1 items-center gap-0.5 sm:gap-1 bg-slate-100 dark:bg-slate-900 p-1 rounded-xl border border-slate-200 dark:border-slate-800 min-w-0 justify-between sm:justify-center">
@@ -723,15 +870,111 @@
     const STORAGE_KEY = 'ml_musica_liturgica_v1';
 
     const SPLASH_TOOLS_MANUAL = [
-      { id: 'overview', name: 'Visão Geral', subtitle: 'Painel & Backup JSON', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>', desc: 'Resume o total de músicas, missas salvas, arquivos anexados e espaço local usado, com acesso rápido ao backup JSON.', how: 'Como usar: abra após iniciar para conferir a missa em destaque, exportar/importar JSON ou restaurar o repertório inicial.' },
-      { id: 'repertoire', name: 'Repertório', subtitle: 'Cifras, Letras & PDFs', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3"/>', desc: 'Reúne todas as músicas do ministério com busca por título/letra/autor, filtros por momento e tom, e anexo offline de PDF ou imagem.', how: 'Como usar: clique em Nova Música para cadastrar cifra/letra ou anexar partitura, e use Tocar no Palco para abrir na hora.' },
-      { id: 'builder', name: 'Montar Missa', subtitle: 'Roteiro & Impressão', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"/>', desc: 'Organiza os cantos da celebração por momento litúrgico, com cor litúrgica da missa, reordenação, impressão A4 e abertura direta no palco.', how: 'Como usar: escolha ou crie uma missa, adicione cantos em cada momento, ajuste a ordem (↑/↓) e imprima ou abra no Modo Palco.' },
-      { id: 'categories', name: 'Categorias', subtitle: 'Orientação Litúrgica', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>', desc: 'Explica a função de cada momento da Santa Missa e orientações práticas conforme a liturgia para evitar substituições indevidas.', how: 'Como usar: consulte durante o planejamento do repertório e clique em ver músicas da categoria para filtrar o repertório.' },
-      { id: 'stage', name: 'Modo Palco', subtitle: 'Leitura em Tela Cheia', icon: '<path d="M8 5v14l11-7z"/>', desc: 'Exibe a cifra, partitura em imagem ou PDF em tela limpa e de alto contraste para o músico no altar, coro ou teclado.', how: 'Como usar: clique em Modo Palco no topo ou em um canto da missa; use Anterior/Próximo ou as setas do teclado para avançar.' },
-      { id: 'scroll', name: 'Auto-Rolar', subtitle: 'Teleprompter Contínuo', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M19 13l-7 7-7-7m14-8l-7 7-7-7"/>', desc: 'Rola a cifra suavemente na tela enquanto você toca, permitindo ajustar a velocidade sem precisar tocar na tela a toda estrofe.', how: 'Como usar: no Modo Palco, toque em Auto-Rolar (ou Espaço), ajuste o controle de velocidade e use Pausar quando necessário.' },
-      { id: 'transpose', name: 'Transpor & Fonte', subtitle: 'Tom e Tamanho da Letra', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6m0 0v6m0-6h6m-6 0H6"/>', desc: 'Altera o tom das cifras em semitons (-½ Tom / +½ Tom) na hora e ajusta o tamanho da fonte (A- / A+) para leitura à distância.', how: 'Como usar: no Modo Palco, use -½ Tom ou +½ Tom para adaptar ao vocal ou instrumento e A-/A+ para ampliar a letra.' },
-      { id: 'display', name: 'Tela & Tema', subtitle: 'Paisagem e Claro/Escuro', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4"/>', desc: 'Alterna entre tema escuro (ideal para ambientes com pouca luz) ou claro, e solicita tela cheia/paisagem ao iniciar ou pelo botão de tela.', how: 'Como usar: clique no ícone de tela cheia/paisagem ou no botão de tema no canto superior para ajustar à iluminação do local.' }
+      {
+        id: 'overview',
+        name: 'Visão Geral',
+        subtitle: 'Estado Atual & Backup JSON',
+        iconColor: '#38BDF8',
+        icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>',
+        getDesc: (st) => `Estado atual: ${st.songsCount} música(s), ${st.massesCount} missa(s) salva(s) e ${st.filesCount} anexo(s)/link(s) (${st.storageKb} KB no localStorage). Missa em destaque: "${st.currentMassTitle}" com ${st.currentMassItemsCount} canto(s).`,
+        getHow: () => 'Como usar: após iniciar, acompanhe a celebração em destaque, exporte ou importe backup em JSON e restaure os dados iniciais se precisar.'
+      },
+      {
+        id: 'repertoire',
+        name: 'Repertório',
+        subtitle: 'Cifras, Letras & PDFs Offline',
+        iconColor: '#D4AF37',
+        icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3"/>',
+        getDesc: (st) => `Estado atual: ${st.songsCount} canto(s) cadastrado(s) (${st.withLyricsCount} com cifra/letra e ${st.filesCount} com PDF, imagem ou link), prontos para busca por título, letra, autor, momento ou tom.`,
+        getHow: () => 'Como usar: cadastre ou edite músicas com cifra, letra, PDF/imagem ou link externo e abra qualquer canto direto no Modo Palco.'
+      },
+      {
+        id: 'builder',
+        name: 'Montar Missa',
+        subtitle: 'Roteiro, Ordem & Impressão',
+        iconColor: '#22C55E',
+        icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"/>',
+        getDesc: (st) => `Estado atual: ${st.massesCount} missa(s) salva(s). A missa ativa "${st.currentMassTitle}" (cor ${st.currentMassColor}) possui ${st.currentMassItemsCount} canto(s) nos 12 momentos litúrgicos.`,
+        getHow: () => 'Como usar: escolha ou crie uma missa, adicione cantos por momento, ajuste a ordem, imprima em A4 ou abra a celebração no Modo Palco.'
+      },
+      {
+        id: 'categories',
+        name: 'Categorias',
+        subtitle: '12 Momentos & Guia IGMR',
+        iconColor: '#F3E5AB',
+        icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>',
+        getDesc: () => 'Estado atual: 12 momentos litúrgicos organizados em 5 partes da Missa com função litúrgica e orientação pastoral da IGMR.',
+        getHow: () => 'Como usar: consulte a orientação de cada momento e clique para filtrar as músicas correspondentes no Repertório.'
+      },
+      {
+        id: 'stage',
+        name: 'Modo Palco',
+        subtitle: 'Leitura em Tela Cheia',
+        iconColor: '#38BDF8',
+        icon: '<path d="M8 5v14l11-7z"/>',
+        getDesc: (st) => `Estado atual: ${st.stageOpen ? 'aberto' : 'fechado'}, fonte em ${st.fontSize}px e deslocamento em ${st.semitoneOffset > 0 ? '+' + st.semitoneOffset : st.semitoneOffset} semitom(ns).`,
+        getHow: () => 'Como usar: abra pelo botão Palco, na Visão Geral ou em um canto; avance com Anterior/Próximo e toque na cifra para alternar a barra inferior.'
+      },
+      {
+        id: 'scroll',
+        name: 'Auto-Rolar',
+        subtitle: 'Teleprompter & Barra Inferior',
+        iconColor: '#22C55E',
+        icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M19 13l-7 7-7-7m14-8l-7 7-7-7"/>',
+        getDesc: (st) => `Estado atual: ${st.isScrolling ? 'ATIVO' : 'PAUSADO'} na velocidade ${st.scrollSpeed}x. Quando o Auto-Rolar é ativado, as barras superior e inferior se ocultam para ampliar a leitura.`,
+        getHow: () => 'Como usar: toque em Auto-Rolar (ou Espaço) para iniciar e ocultar as barras; para exibir ou ocultar a barra inferior manualmente, toque sobre o texto da cifra ou pause o Auto-Rolar.'
+      },
+      {
+        id: 'transpose',
+        name: 'Transpor & Fonte',
+        subtitle: 'Tom e Tamanho da Letra',
+        iconColor: '#D4AF37',
+        icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6m0 0v6m0-6h6m-6 0H6"/>',
+        getDesc: (st) => `Estado atual: fonte em ${st.fontSize}px e transposição em ${st.semitoneOffset > 0 ? '+' + st.semitoneOffset : st.semitoneOffset} semitom(ns) nas cifras em texto.`,
+        getHow: () => 'Como usar: no Modo Palco, use -½ Tom / +½ Tom para transpor o tom e A- / A+ para ajustar o tamanho da letra.'
+      },
+      {
+        id: 'display',
+        name: 'Tela & Tema',
+        subtitle: 'Tema, Tela Cheia & Orientação',
+        iconColor: '#F5EFE0',
+        icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4"/>',
+        getDesc: (st) => `Estado atual: tema ${st.theme === 'dark' ? 'Escuro' : 'Claro'} e tela ${st.isFullscreen ? 'em Tela Cheia' : 'em janela/padrão'}.`,
+        getHow: () => 'Como usar: alterne entre tema claro/escuro e tela cheia pelos botões no topo do aplicativo.'
+      }
     ];
+
+    function getCurrentAppSnapshot() {
+      const currentMass = typeof getCurrentMass === 'function' ? getCurrentMass() : null;
+      const validItems = currentMass && Array.isArray(currentMass.items)
+        ? currentMass.items.filter(it => appState.songs.some(s => s.id === it.songId))
+        : [];
+      const rawBytes = new Blob([localStorage.getItem(STORAGE_KEY) || '']).size;
+      const storageKb = Math.max(1, Math.round(rawBytes / 1024));
+      const filesCount = appState.songs.filter(s => Boolean(s.fileData) || Boolean(s.link)).length;
+      const withLyricsCount = appState.songs.filter(s => Boolean(s.lyrics && s.lyrics.trim())).length;
+      const colorKey = (currentMass && currentMass.liturgicalColor) || 'verde';
+      const colorObj = LITURGICAL_COLORS[colorKey] || LITURGICAL_COLORS.verde;
+      const stageOverlay = document.getElementById('stage-overlay');
+
+      return {
+        songsCount: appState.songs.length,
+        massesCount: appState.masses.length,
+        filesCount,
+        withLyricsCount,
+        storageKb,
+        currentMassTitle: currentMass ? currentMass.title : 'Nenhuma missa selecionada',
+        currentMassItemsCount: validItems.length,
+        currentMassColor: colorObj.name.split(' ')[0],
+        theme: appState.theme || 'dark',
+        isFullscreen: Boolean(document.fullscreenElement),
+        stageOpen: Boolean(stageOverlay && !stageOverlay.classList.contains('hidden')),
+        isScrolling: Boolean(stageState.isScrolling),
+        scrollSpeed: stageState.scrollSpeed || 3,
+        fontSize: stageState.fontSize || 18,
+        semitoneOffset: stageState.semitoneOffset || 0
+      };
+    }
 
     let activeSplashToolId = null;
 
@@ -740,10 +983,11 @@
       if (!grid) return;
       grid.innerHTML = SPLASH_TOOLS_MANUAL.map(t => {
         const isActive = activeSplashToolId === t.id;
+        const colorHex = t.iconColor || '#38BDF8';
         return `
-          <button type="button" onclick="toggleSplashToolManual('${t.id}')" class="flex flex-col items-center justify-center p-2 rounded-xl border transition cursor-pointer ${isActive ? 'bg-[#D4AF37]/20 border-[#D4AF37] text-[#F3E5AB]' : 'bg-slate-900/70 hover:bg-slate-800/90 border-slate-800 hover:border-[#38BDF8]/50 text-slate-200'}">
-            <svg class="w-4 h-4 mb-1 text-[#38BDF8]" fill="${t.id === 'stage' ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">${t.icon}</svg>
-            <span class="text-[10px] font-bold leading-tight text-center truncate w-full">${t.name}</span>
+          <button type="button" onclick="toggleSplashToolManual('${t.id}')" class="flex items-center justify-start gap-2.5 px-3 py-2.5 rounded-xl border transition cursor-pointer ${isActive ? 'bg-slate-800/95 border-[#D4AF37] text-[#F3E5AB]' : 'bg-slate-900/70 hover:bg-slate-800/90 border-slate-800 text-slate-200'}">
+            <svg class="w-5 h-5 shrink-0" style="color: ${colorHex};" fill="${t.id === 'stage' ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">${t.icon}</svg>
+            <span class="text-xs font-bold leading-tight text-left truncate">${t.name}</span>
           </button>
         `;
       }).join('');
@@ -758,12 +1002,17 @@
       const tool = SPLASH_TOOLS_MANUAL.find(t => t.id === toolId);
       if (!tool || !pop) return;
       activeSplashToolId = toolId;
+      const snap = getCurrentAppSnapshot();
+      const colorHex = tool.iconColor || '#38BDF8';
 
-      document.getElementById('manual-pop-badge').innerHTML = `<svg class="w-4 h-4" fill="${tool.id === 'stage' ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">${tool.icon}</svg>`;
+      document.getElementById('manual-pop-badge').innerHTML = `<svg class="w-4 h-4" style="color: ${colorHex};" fill="${tool.id === 'stage' ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">${tool.icon}</svg>`;
       document.getElementById('manual-pop-title').textContent = tool.name;
       document.getElementById('manual-pop-subtitle').textContent = tool.subtitle;
-      document.getElementById('manual-pop-desc').textContent = tool.desc;
-      document.getElementById('manual-pop-how').textContent = tool.how;
+      document.getElementById('manual-pop-desc').textContent = typeof tool.getDesc === 'function' ? tool.getDesc(snap) : '';
+      document.getElementById('manual-pop-how').textContent = typeof tool.getHow === 'function' ? tool.getHow(snap) : '';
+
+      const artBox = document.getElementById('manual-pop-art');
+      if (artBox) artBox.remove();
 
       pop.classList.remove('hidden');
       renderSplashToolsManual();
@@ -1163,12 +1412,20 @@ Por todos os séculos dos séculos. Amém!`
       }
     ];
 
+    // Modelos de cores disponíveis: Android, Clássico (Bíblia/Dicionário) e Infantil Vivo (apenas cores)
+    const COLOR_PALETTES = [
+      { id: 'android', label: 'Android', desc: 'Cores e fonte Roboto estilo Android Material' },
+      { id: 'classic', label: 'Clássico', desc: 'Tons pergaminho, bordô e dourado estilo Bíblia/Dicionário' },
+      { id: 'kids', label: 'Infantil', desc: 'Cores vivas e alegres (azul céu, amarelo sol e verde)' }
+    ];
+
     // Estado Global do Aplicativo
     let appState = {
       songs: [],
       masses: [],
       currentMassId: null,
-      theme: 'dark'
+      theme: 'dark',
+      palette: 'android'
     };
 
     // Estado temporário do Modal de Música
@@ -1204,11 +1461,13 @@ Por todos os séculos dos séculos. Amém!`
           appState.masses = Array.isArray(parsed.masses) && parsed.masses.length > 0 ? parsed.masses : JSON.parse(JSON.stringify(DEFAULT_MASSES));
           appState.currentMassId = parsed.currentMassId || appState.masses[0].id;
           appState.theme = parsed.theme || 'dark';
+          appState.palette = parsed.palette || 'android';
         } else {
           appState.songs = JSON.parse(JSON.stringify(DEFAULT_SONGS));
           appState.masses = JSON.parse(JSON.stringify(DEFAULT_MASSES));
           appState.currentMassId = appState.masses[0].id;
           appState.theme = 'dark';
+          appState.palette = 'android';
           saveState();
         }
       } catch (err) {
@@ -1216,9 +1475,11 @@ Por todos os séculos dos séculos. Amém!`
         appState.songs = JSON.parse(JSON.stringify(DEFAULT_SONGS));
         appState.masses = JSON.parse(JSON.stringify(DEFAULT_MASSES));
         appState.currentMassId = appState.masses[0].id;
+        appState.palette = 'android';
       }
 
       applyTheme(appState.theme);
+      applyColorPalette(appState.palette);
       renderSplashToolsManual();
       populateMomentSelects();
       refreshAllViews();
@@ -1246,6 +1507,20 @@ Por todos os séculos dos séculos. Amém!`
     function toggleTheme() {
       const next = appState.theme === 'dark' ? 'light' : 'dark';
       applyTheme(next);
+      saveState();
+    }
+
+    function applyColorPalette(paletteId) {
+      const valid = COLOR_PALETTES.find(p => p.id === paletteId) || COLOR_PALETTES[0];
+      appState.palette = valid.id;
+      document.body.classList.remove('palette-android', 'palette-classic', 'palette-kids');
+      document.body.classList.add(`palette-${valid.id}`);
+    }
+
+    function cycleColorPalette() {
+      const idx = COLOR_PALETTES.findIndex(p => p.id === appState.palette);
+      const next = COLOR_PALETTES[(idx + 1) % COLOR_PALETTES.length];
+      applyColorPalette(next.id);
       saveState();
     }
 
@@ -2233,6 +2508,7 @@ Por todos os séculos dos séculos. Amém!`
             <div class="mb-3 pb-2 border-b border-slate-800/80 flex flex-wrap items-center justify-between gap-2 text-xs text-slate-400">
               <span>${song.author ? `Compositor: <strong class="text-slate-200">${escapeHtml(song.author)}</strong>` : ''}</span>
               <span>${song.tempo ? `Andamento: <strong class="text-amber-400">${escapeHtml(song.tempo)}</strong>` : ''}</span>
+              <span class="text-[11px] text-sky-300/90">Toque na cifra para exibir/ocultar barra inferior (Auto-Rolar oculta ao iniciar)</span>
             </div>
             <pre id="stage-lyrics-pre" style="font-size: ${stageState.fontSize}px; line-height: 1.65;" class="w-full font-mono whitespace-pre-wrap break-words text-slate-100">${formattedLyrics}</pre>
           </div>
