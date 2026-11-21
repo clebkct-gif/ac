@@ -221,6 +221,76 @@
         display: none !important;
       }
     }
+
+    /* ==================== APROVEITAMENTO DE ESPAÇO E LEGIBILIDADE (V3.5) ==================== */
+    html {
+      font-size: 16.5px;
+    }
+    @media (min-width: 640px) {
+      html {
+        font-size: 17px;
+      }
+    }
+    body {
+      line-height: 1.45;
+    }
+    #main-app main {
+      padding: 0.35rem 0.4rem !important;
+    }
+    #main-app main > section {
+      gap: 0.45rem !important;
+    }
+    #main-app main .space-y-6 > :not([hidden]) ~ :not([hidden]),
+    #main-app main .space-y-5 > :not([hidden]) ~ :not([hidden]),
+    #main-app main .space-y-4 > :not([hidden]) ~ :not([hidden]),
+    #main-app main .space-y-3 > :not([hidden]) ~ :not([hidden]) {
+      margin-top: 0.45rem !important;
+    }
+    #main-app main .p-6,
+    #main-app main .sm\:p-8,
+    #main-app main .p-5,
+    #main-app main .sm\:p-5,
+    #main-app main .p-4,
+    #main-app main .sm\:p-6 {
+      padding: 0.55rem 0.65rem !important;
+    }
+    #main-app main .p-3,
+    #main-app main .p-3\.5 {
+      padding: 0.4rem 0.5rem !important;
+    }
+    #main-app main .gap-6,
+    #main-app main .gap-5,
+    #main-app main .gap-4,
+    #main-app main .gap-3 {
+      gap: 0.4rem !important;
+    }
+    #main-app main .rounded-2xl {
+      border-radius: 0.65rem !important;
+    }
+    #main-app main .rounded-xl {
+      border-radius: 0.5rem !important;
+    }
+    /* Aproveitamento maior dentro dos cards de categoria (como no print) */
+    #tab-categories .p-5 {
+      padding: 0.5rem 0.6rem !important;
+    }
+    #tab-categories .p-3 {
+      padding: 0.38rem 0.5rem !important;
+    }
+    #tab-categories p,
+    #tab-categories div {
+      font-size: 0.96rem;
+      line-height: 1.4;
+    }
+    #tab-categories h4 {
+      font-size: 1.08rem;
+      margin-bottom: 0.2rem !important;
+    }
+    /* Cifras e textos de leitura no palco ainda mais nítidos e sem margens desperdiçadas */
+    #stage-scroll-container {
+      padding: 0.15rem 0.2rem 4.5rem 0.2rem !important;
+    }
+
   </style>
 </head>
 <body class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 transition-colors duration-200 selection:bg-[#38BDF8]/30">
@@ -971,7 +1041,7 @@
         stageOpen: Boolean(stageOverlay && !stageOverlay.classList.contains('hidden')),
         isScrolling: Boolean(stageState.isScrolling),
         scrollSpeed: stageState.scrollSpeed || 3,
-        fontSize: stageState.fontSize || 18,
+        fontSize: stageState.fontSize || 20,
         semitoneOffset: stageState.semitoneOffset || 0
       };
     }
@@ -1442,7 +1512,7 @@ Por todos os séculos dos séculos. Amém!`
     let stageState = {
       playlist: [], // Array de { momentName, song }
       currentIndex: 0,
-      fontSize: 18,
+      fontSize: 20,
       semitoneOffset: 0,
       isScrolling: false,
       scrollSpeed: 3, // 1 a 10
