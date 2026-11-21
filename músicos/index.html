@@ -1,0 +1,2504 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+  <title>ML – Música Litúrgica</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+            mono: ['JetBrains Mono', 'ui-monospace', 'SFMono-Regular', 'monospace'],
+          },
+          colors: {
+            liturgy: {
+              gold: '#D4AF37',
+              goldLight: '#F3E5AB',
+              goldDark: '#AA8219',
+              wine: '#0F172A',
+              wineLight: '#1E293B',
+              slateDark: '#0F172A',
+              cardDark: '#1E293B',
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    /* Estilos personalizados e utilitários de impressão e rolagem */
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      overflow-x: hidden;
+    }
+
+    /* Barra de rolagem discreta e elegante */
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+    ::-webkit-scrollbar-track {
+      background: rgba(15, 23, 42, 0.1);
+    }
+    ::-webkit-scrollbar-thumb {
+      background: rgba(212, 175, 55, 0.45);
+      border-radius: 9999px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: rgba(212, 175, 55, 0.75);
+    }
+
+    /* Animação suave da nota musical na splash screen */
+    @keyframes floatPulse {
+      0%, 100% { transform: translateY(0px) scale(1); filter: drop-shadow(0 0 18px rgba(212, 175, 55, 0.45)); }
+      50% { transform: translateY(-6px) scale(1.03); filter: drop-shadow(0 0 28px rgba(212, 175, 55, 0.75)); }
+    }
+    .note-btn-anim {
+      animation: floatPulse 3s ease-in-out infinite;
+    }
+    .note-btn-anim:hover {
+      animation: none;
+      transform: scale(1.06);
+      filter: drop-shadow(0 0 32px rgba(212, 175, 55, 0.9));
+    }
+
+    /* Destaque para acordes dentro das cifras */
+    .chord-line {
+      color: #D4AF37;
+      font-weight: 700;
+    }
+    html:not(.dark) .chord-line {
+      color: #0284C7;
+      font-weight: 700;
+    }
+
+    /* Estilos exclusivos para impressão do Roteiro da Missa (Folha A4 limpa) */
+    @media print {
+      body * {
+        visibility: hidden !important;
+      }
+      #print-area, #print-area * {
+        visibility: visible !important;
+      }
+      #print-area {
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+        background: #ffffff !important;
+        color: #111827 !important;
+        padding: 16px !important;
+        display: block !important;
+      }
+      .no-print {
+        display: none !important;
+      }
+    }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 transition-colors duration-200 selection:bg-[#38BDF8]/30">
+
+  <!-- ==================== NOTIFICAÇÃO TOAST (Substitui alert/confirm) ==================== -->
+  <div id="toast-container" class="fixed top-4 right-4 z-[100] flex flex-col gap-2 pointer-events-none max-w-sm w-full px-4 sm:px-0"></div>
+
+  <!-- ==================== MODAL DE CONFIRMAÇÃO PERSONALIZADO ==================== -->
+  <div id="confirm-modal" class="fixed inset-0 z-[95] hidden items-center justify-center bg-black/70 backdrop-blur-sm p-4">
+    <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-2xl max-w-md w-full p-6 shadow-2xl">
+      <h3 id="confirm-title" class="text-lg font-bold text-slate-900 dark:text-white mb-2">Confirmar ação</h3>
+      <p id="confirm-message" class="text-sm text-slate-600 dark:text-slate-300 mb-6 leading-relaxed">Tem certeza que deseja prosseguir?</p>
+      <div class="flex justify-end gap-3">
+        <button id="confirm-cancel-btn" class="px-4 py-2.5 rounded-xl text-sm font-medium bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 transition">Cancelar</button>
+        <button id="confirm-ok-btn" class="px-4 py-2.5 rounded-xl text-sm font-semibold bg-rose-700 hover:bg-rose-600 text-white transition shadow-md">Confirmar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ==================== 1. TELA INICIAL / SPLASH SCREEN ==================== -->
+  <section id="splash-screen" class="fixed inset-0 z-50 flex flex-col items-center justify-between p-6 sm:p-10 bg-gradient-to-br from-slate-950 via-[#1a1016] to-slate-900 text-white overflow-y-auto">
+
+    <!-- Centro: Marca em linha única, Botão Iniciar e Manual Disfarçado por Aba Suspensa -->
+    <div class="flex flex-col items-center text-center my-auto py-4 w-full max-w-4xl">
+      <h1 class="text-2xl sm:text-4xl font-extrabold tracking-tight text-white mb-2 whitespace-nowrap">
+        ML – <span class="text-transparent bg-clip-text bg-gradient-to-r from-[#F3E5AB] via-[#D4AF37] to-[#38BDF8]">Música Litúrgica</span>
+      </h1>
+
+      <p class="text-[11px] sm:text-xs font-medium tracking-wider uppercase text-[#F3E5AB]/85 mb-6 whitespace-nowrap">
+        Ministério de Música Católica
+      </p>
+
+      <!-- Botão Iniciar em formato/ícone de Nota Musical -->
+      <button id="btn-start-app" onclick="startAppExperience()" aria-label="Iniciar aplicativo em tela cheia" class="group relative flex flex-col items-center justify-center w-36 h-36 sm:w-44 sm:h-44 rounded-full bg-gradient-to-b from-[#F3E5AB] via-[#D4AF37] to-[#AA8219] text-slate-950 shadow-2xl transition-all duration-300 note-btn-anim focus:outline-none focus:ring-4 focus:ring-[#D4AF37]/50 cursor-pointer">
+        <span class="absolute inset-1.5 rounded-full border-2 border-slate-950/20 pointer-events-none"></span>
+        <svg class="w-16 h-16 sm:w-20 sm:h-20 text-slate-950 transition-transform duration-300 group-hover:scale-110" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/>
+        </svg>
+        <span class="mt-0.5 font-extrabold text-sm sm:text-base tracking-wider uppercase text-slate-950">Iniciar</span>
+      </button>
+
+      <!-- Vitrine de Ícones + Nome das Ferramentas (Manual Interativo por Aba Suspensa) -->
+      <div class="mt-7 w-full max-w-3xl">
+        <div id="splash-tools-grid" class="grid grid-cols-4 sm:grid-cols-8 gap-2">
+          <!-- Renderizado via JS -->
+        </div>
+
+        <!-- Aba Suspensa do Manual -->
+        <div id="splash-manual-popover" class="hidden mt-3 text-left rounded-2xl bg-slate-900/95 border border-[#D4AF37]/40 p-4 shadow-2xl">
+          <div class="flex items-start justify-between gap-3">
+            <div class="flex items-center gap-2.5">
+              <span id="manual-pop-badge" class="w-8 h-8 rounded-xl bg-[#D4AF37]/15 border border-[#D4AF37]/30 text-[#D4AF37] flex items-center justify-center shrink-0"></span>
+              <div>
+                <h2 id="manual-pop-title" class="text-sm font-extrabold text-white">Ferramenta</h2>
+                <p id="manual-pop-subtitle" class="text-[11px] text-sky-300 font-medium">Uso no ministério</p>
+              </div>
+            </div>
+            <button onclick="closeSplashToolManual()" class="text-slate-400 hover:text-white text-xs px-2 py-1 rounded-lg hover:bg-slate-800 cursor-pointer">✕</button>
+          </div>
+          <p id="manual-pop-desc" class="mt-2.5 text-xs text-slate-300 leading-relaxed"></p>
+          <p id="manual-pop-how" class="mt-2 text-xs text-[#F3E5AB]/90 bg-black/40 border border-slate-800 rounded-xl p-2.5 leading-relaxed"></p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Rodapé Splash -->
+    <div class="text-center text-xs text-slate-500">
+      "Cantar é próprio de quem ama" — Santo Agostinho • Armazenamento 100% Local
+    </div>
+  </section>
+
+  <!-- ==================== 2. APLICAÇÃO PRINCIPAL ==================== -->
+  <div id="main-app" class="hidden min-h-screen flex flex-col">
+    
+    <!-- Cabeçalho Superior Fixo em Linha Única -->
+    <header class="sticky top-0 z-30 bg-white/90 dark:bg-slate-900/95 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 px-2 sm:px-6 py-2 shadow-sm no-print">
+      <div class="max-w-7xl mx-auto flex flex-nowrap items-center justify-between gap-1.5 sm:gap-3 min-w-0">
+
+        <!-- Ícone da Marca -->
+        <div class="flex items-center cursor-pointer shrink-0" onclick="switchTab('overview')" title="Visão Geral">
+          <div class="w-9 h-9 rounded-xl bg-gradient-to-br from-[#38BDF8] to-sky-600 text-slate-950 flex items-center justify-center shadow-md shrink-0">
+            <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>
+          </div>
+        </div>
+
+        <!-- Navegação Compacta dos 4 Módulos -->
+        <nav class="flex flex-1 items-center gap-0.5 sm:gap-1 bg-slate-100 dark:bg-slate-900 p-1 rounded-xl border border-slate-200 dark:border-slate-800 min-w-0 justify-between sm:justify-center">
+          <button data-tab="overview" onclick="switchTab('overview')" class="nav-btn flex-1 sm:flex-initial flex items-center justify-center px-2 sm:px-3 py-1.5 sm:py-2 rounded-lg text-xs font-bold transition whitespace-nowrap min-w-0" title="Visão Geral">
+            <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>
+          </button>
+          <button data-tab="repertoire" onclick="switchTab('repertoire')" class="nav-btn flex-1 sm:flex-initial flex items-center justify-center px-2 sm:px-3 py-1.5 sm:py-2 rounded-lg text-xs font-bold transition whitespace-nowrap min-w-0" title="Repertório">
+            <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3"/></svg>
+          </button>
+          <button data-tab="builder" onclick="switchTab('builder')" class="nav-btn flex-1 sm:flex-initial flex items-center justify-center px-2 sm:px-3 py-1.5 sm:py-2 rounded-lg text-xs font-bold transition whitespace-nowrap min-w-0" title="Montar Missa">
+            <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"/></svg>
+          </button>
+          <button data-tab="categories" onclick="switchTab('categories')" class="nav-btn flex-1 sm:flex-initial flex items-center justify-center px-2 sm:px-3 py-1.5 sm:py-2 rounded-lg text-xs font-bold transition whitespace-nowrap min-w-0" title="Categorias Litúrgicas">
+            <svg class="w-4 h-4 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/></svg>
+          </button>
+        </nav>
+
+        <!-- Controles Utilitários (Palco, Fullscreen, Tema) -->
+        <div class="flex items-center gap-1 sm:gap-1.5 shrink-0">
+          <button onclick="openStageFromCurrentMass()" class="px-2.5 sm:px-3 py-2 rounded-xl bg-[#38BDF8] hover:bg-sky-300 text-slate-950 font-bold text-xs sm:text-sm flex items-center gap-1 shadow-sm transition cursor-pointer whitespace-nowrap" title="Abrir Palco com a Missa Atual">
+            <svg class="w-4 h-4 shrink-0" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+            <span>Palco</span>
+          </button>
+
+          <button onclick="toggleFullscreenLandscape()" class="p-2 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 transition shrink-0" title="Alternar Tela Cheia">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4"/></svg>
+          </button>
+
+          <button onclick="toggleTheme()" class="p-2 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-[#38BDF8] transition shrink-0" title="Alternar Tema Claro/Escuro">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+          </button>
+        </div>
+
+      </div>
+    </header>
+
+    <!-- Área de Conteúdo dos Módulos -->
+    <main class="flex-1 max-w-7xl w-full mx-auto p-4 sm:p-6 space-y-6">
+
+      <!-- ==================== MÓDULO 1: VISÃO GERAL ==================== -->
+      <section id="tab-overview" class="tab-content space-y-6">
+        
+        <!-- Banner de Ação Rápida: Missa Atual -->
+        <div class="relative overflow-hidden rounded-2xl bg-gradient-to-r from-slate-900 via-sky-950 to-slate-900 text-white p-6 sm:p-8 shadow-xl border border-sky-400/30">
+          <div class="relative z-10 flex flex-col lg:flex-row lg:items-center justify-between gap-6">
+            <div class="space-y-2 max-w-2xl">
+              <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#38BDF8]/20 text-[#38BDF8] text-xs font-semibold uppercase tracking-wider">
+                Celebração em Destaque
+              </span>
+              <h2 id="ov-current-mass-title" class="text-2xl sm:text-3xl font-extrabold text-white">Missa Dominical – Tempo Comum</h2>
+              <p id="ov-current-mass-meta" class="text-sm text-[#F5EFE0]/85">0 cantos selecionados • Pronto para o ministério</p>
+            </div>
+
+            <div class="flex flex-wrap items-center gap-3">
+              <button onclick="openStageFromCurrentMass()" class="px-5 py-3.5 rounded-xl bg-[#38BDF8] hover:bg-sky-300 text-slate-950 font-extrabold text-sm sm:text-base flex items-center gap-2 shadow-lg transition transform hover:-translate-y-0.5 cursor-pointer">
+                <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                Tocar Missa Atual (Modo Palco)
+              </button>
+              <button onclick="switchTab('builder')" class="px-4 py-3.5 rounded-xl bg-white/15 hover:bg-white/25 text-white font-semibold text-sm transition cursor-pointer">
+                Editar Roteiro
+              </button>
+            </div>
+          </div>
+          <!-- Nota decorativa de fundo -->
+          <svg class="absolute -right-6 -bottom-8 w-48 h-48 text-white/5 pointer-events-none" fill="currentColor" viewBox="0 0 24 24"><path d="M12 3v10.55c-.59-.34-1.27-.55-2-.55-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4V7h4V3h-6z"/></svg>
+        </div>
+
+        <!-- Cards de Estatísticas -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 shadow-sm">
+            <div class="flex items-center justify-between">
+              <span class="text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400">Total de Músicas</span>
+              <span class="p-2 rounded-lg bg-[#38BDF8]/10 text-sky-700 dark:text-[#38BDF8]">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3"/></svg>
+              </span>
+            </div>
+            <p id="stat-total-songs" class="text-3xl font-extrabold mt-2 text-slate-900 dark:text-white">0</p>
+            <p class="text-xs text-slate-500 mt-1">Cifras, letras e partituras offline</p>
+          </div>
+
+          <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 shadow-sm">
+            <div class="flex items-center justify-between">
+              <span class="text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400">Missas Salvas</span>
+              <span class="p-2 rounded-lg bg-rose-500/10 text-rose-600 dark:text-rose-400">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
+              </span>
+            </div>
+            <p id="stat-total-masses" class="text-3xl font-extrabold mt-2 text-slate-900 dark:text-white">0</p>
+            <p class="text-xs text-slate-500 mt-1">Roteiros prontos para celebrar</p>
+          </div>
+
+          <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 shadow-sm">
+            <div class="flex items-center justify-between">
+              <span class="text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400">Com Partitura / PDF</span>
+              <span class="p-2 rounded-lg bg-emerald-500/10 text-emerald-600 dark:text-emerald-400">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"/></svg>
+              </span>
+            </div>
+            <p id="stat-total-files" class="text-3xl font-extrabold mt-2 text-slate-900 dark:text-white">0</p>
+            <p class="text-xs text-slate-500 mt-1">Arquivos ou links anexados</p>
+          </div>
+
+          <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 shadow-sm">
+            <div class="flex items-center justify-between">
+              <span class="text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400">Uso de Armazenamento</span>
+              <span class="p-2 rounded-lg bg-sky-500/10 text-sky-600 dark:text-sky-400">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4"/></svg>
+              </span>
+            </div>
+            <p id="stat-storage-size" class="text-3xl font-extrabold mt-2 text-slate-900 dark:text-white">0 KB</p>
+            <p class="text-xs text-slate-500 mt-1">Dados locais (localStorage)</p>
+          </div>
+        </div>
+
+        <!-- Distribuição por Momentos Litúrgicos + Atalhos e Backup JSON -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+          
+          <!-- Distribuição por Momentos -->
+          <div class="lg:col-span-2 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm">
+            <div class="flex items-center justify-between mb-4">
+              <h3 class="text-base font-bold text-slate-900 dark:text-white">Distribuição do Repertório por Momento</h3>
+              <button onclick="switchTab('repertoire')" class="text-xs font-semibold text-sky-700 dark:text-[#38BDF8] hover:underline">Ver tudo →</button>
+            </div>
+            <div id="overview-moments-chart" class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              <!-- Preenchido via JS -->
+            </div>
+          </div>
+
+          <!-- Atalhos Rápidos & Backup JSON -->
+          <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6 shadow-sm flex flex-col justify-between space-y-6">
+            <div>
+              <h3 class="text-base font-bold text-slate-900 dark:text-white mb-3">Acesso Rápido</h3>
+              <div class="space-y-2.5">
+                <button onclick="openSongModal()" class="w-full py-3 px-4 rounded-xl bg-[#38BDF8] hover:bg-sky-300 text-slate-950 font-bold text-sm flex items-center justify-center gap-2 transition cursor-pointer">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"/></svg>
+                  Cadastrar Nova Música
+                </button>
+                <button onclick="switchTab('builder'); createNewMassDraft();" class="w-full py-3 px-4 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-800 dark:text-slate-100 font-semibold text-sm flex items-center justify-center gap-2 transition cursor-pointer">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/></svg>
+                  Montar Nova Missa
+                </button>
+              </div>
+            </div>
+
+            <div class="pt-4 border-t border-slate-200 dark:border-slate-800">
+              <h3 class="text-sm font-bold text-slate-900 dark:text-white mb-1">Backup & Segurança Offline</h3>
+              <p class="text-xs text-slate-500 dark:text-slate-400 mb-3">Exporte todo seu repertório e missas em JSON para compartilhar com o grupo.</p>
+              <div class="grid grid-cols-2 gap-2">
+                <button onclick="exportBackupJSON()" class="py-2.5 px-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-semibold text-xs flex items-center justify-center gap-1.5 transition cursor-pointer">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"/></svg>
+                  Exportar JSON
+                </button>
+                <label class="py-2.5 px-3 rounded-xl bg-slate-200 hover:bg-slate-300 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-800 dark:text-slate-200 font-semibold text-xs flex items-center justify-center gap-1.5 transition cursor-pointer">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"/></svg>
+                  Importar JSON
+                  <input type="file" id="import-json-input" accept=".json,application/json" class="hidden" onchange="importBackupJSON(event)" />
+                </label>
+              </div>
+              <button onclick="confirmResetDemoData()" class="mt-2.5 w-full py-2 text-xs text-slate-500 hover:text-rose-500 transition underline">
+                Restaurar repertório inicial de exemplo
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ==================== MÓDULO 2: REPERTÓRIO ==================== -->
+      <section id="tab-repertoire" class="tab-content hidden space-y-5">
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+          <div>
+            <h2 class="text-2xl font-extrabold text-slate-900 dark:text-white">Repertório Litúrgico</h2>
+            <p class="text-sm text-slate-500 dark:text-slate-400">Gerencie cifras, letras, partituras em PDF ou imagens para uso offline.</p>
+          </div>
+          <button onclick="openSongModal()" class="px-4 py-3 rounded-xl bg-[#38BDF8] hover:bg-sky-300 text-slate-950 font-bold text-sm flex items-center justify-center gap-2 shadow-md transition cursor-pointer shrink-0">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"/></svg>
+            Nova Música
+          </button>
+        </div>
+
+        <!-- Barra de Pesquisa e Filtros -->
+        <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 shadow-sm grid grid-cols-1 md:grid-cols-12 gap-3">
+          <div class="md:col-span-5 relative">
+            <svg class="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+            <input type="text" id="rep-search" oninput="renderRepertoire()" placeholder="Buscar por título, letra ou autor..." class="w-full pl-10 pr-4 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-[#38BDF8]" />
+          </div>
+
+          <div class="md:col-span-4">
+            <select id="rep-filter-moment" onchange="renderRepertoire()" class="w-full px-3.5 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-[#38BDF8]">
+              <option value="">Todos os Momentos Litúrgicos</option>
+            </select>
+          </div>
+
+          <div class="md:col-span-3">
+            <select id="rep-filter-key" onchange="renderRepertoire()" class="w-full px-3.5 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-[#38BDF8]">
+              <option value="">Todos os Tons</option>
+              <option value="C">C (Dó)</option>
+              <option value="Cm">Cm (Dó menor)</option>
+              <option value="D">D (Ré)</option>
+              <option value="Dm">Dm (Ré menor)</option>
+              <option value="E">E (Mi)</option>
+              <option value="Em">Em (Mi menor)</option>
+              <option value="F">F (Fá)</option>
+              <option value="F#m">F#m (Fá# menor)</option>
+              <option value="G">G (Sol)</option>
+              <option value="Gm">Gm (Sol menor)</option>
+              <option value="A">A (Lá)</option>
+              <option value="Am">Am (Lá menor)</option>
+              <option value="B">B (Si)</option>
+              <option value="Bm">Bm (Si menor)</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Lista de Músicas -->
+        <div id="repertoire-grid" class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
+          <!-- Cards gerados via JS -->
+        </div>
+      </section>
+
+      <!-- ==================== MÓDULO 3: MONTAR MISSA ==================== -->
+      <section id="tab-builder" class="tab-content hidden space-y-6">
+        
+        <!-- Cabeçalho do Montador -->
+        <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-4">
+          <div>
+            <h2 class="text-2xl font-extrabold text-slate-900 dark:text-white">Montar Roteiro da Missa</h2>
+            <p class="text-sm text-slate-500 dark:text-slate-400">Selecione os cantos na ordem litúrgica, salve, imprima ou inicie no Modo Palco.</p>
+          </div>
+
+          <div class="flex flex-wrap items-center gap-2">
+            <select id="saved-masses-select" onchange="loadSelectedMass(this.value)" class="px-3.5 py-2.5 rounded-xl bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-700 text-sm font-medium focus:outline-none focus:ring-2 focus:ring-[#38BDF8] max-w-xs">
+              <!-- Opções de missas salvas -->
+            </select>
+            <button onclick="createNewMassDraft()" class="px-3.5 py-2.5 rounded-xl bg-slate-200 hover:bg-slate-300 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-800 dark:text-slate-100 text-xs sm:text-sm font-semibold transition cursor-pointer">
+              + Nova Missa
+            </button>
+            <button onclick="deleteCurrentMass()" class="p-2.5 rounded-xl bg-rose-500/10 hover:bg-rose-500/20 text-rose-600 dark:text-rose-400 transition cursor-pointer" title="Excluir esta missa">
+              <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg>
+            </button>
+          </div>
+        </div>
+
+        <!-- Metadados da Celebração -->
+        <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 shadow-sm grid grid-cols-1 md:grid-cols-12 gap-4">
+          <div class="md:col-span-5">
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-1">Título da Celebração</label>
+            <input type="text" id="mass-title-input" oninput="updateMassMeta()" placeholder="Ex: Domingo de Ramos - 19h" class="w-full px-3.5 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm font-semibold focus:outline-none focus:ring-2 focus:ring-[#38BDF8]" />
+          </div>
+          <div class="md:col-span-3">
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-1">Data</label>
+            <input type="date" id="mass-date-input" onchange="updateMassMeta()" class="w-full px-3.5 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-[#38BDF8]" />
+          </div>
+          <div class="md:col-span-2">
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-1">Cor Litúrgica</label>
+            <select id="mass-color-select" onchange="updateMassMeta()" class="w-full px-3 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs font-bold focus:outline-none focus:ring-2 focus:ring-[#D4AF37]">
+              <option value="verde">Verde</option>
+              <option value="roxo">Roxo</option>
+              <option value="branco">Branco</option>
+              <option value="vermelho">Vermelho</option>
+              <option value="rosa">Rosa</option>
+            </select>
+          </div>
+          <div class="md:col-span-2">
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-1">Observações</label>
+            <input type="text" id="mass-notes-input" oninput="updateMassMeta()" placeholder="Ex: Sem Glória" class="w-full px-3 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-[#38BDF8]" />
+          </div>
+        </div>
+
+        <!-- Barra de Ações da Missa -->
+        <div class="flex flex-wrap items-center justify-between gap-3 bg-[#38BDF8]/10 border border-sky-400/35 rounded-2xl p-4">
+          <div class="flex items-center gap-2 text-sm font-semibold text-amber-800 dark:text-[#38BDF8]">
+            <svg class="w-5 h-5 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+            <span id="mass-song-counter">0 músicas no roteiro</span>
+          </div>
+
+          <div class="flex flex-wrap items-center gap-2.5">
+            <button onclick="saveMassExplicitly()" class="px-4 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-semibold text-xs sm:text-sm flex items-center gap-1.5 shadow-sm transition cursor-pointer">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg>
+              Salvar Roteiro
+            </button>
+            <button onclick="printCurrentMass()" class="px-4 py-2.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-white font-semibold text-xs sm:text-sm flex items-center gap-1.5 shadow-sm transition cursor-pointer">
+              <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"/></svg>
+              Imprimir Roteiro
+            </button>
+            <button onclick="openStageFromCurrentMass()" class="px-5 py-2.5 rounded-xl bg-[#38BDF8] hover:bg-sky-300 text-slate-950 font-extrabold text-xs sm:text-sm flex items-center gap-1.5 shadow-md transition cursor-pointer">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+              Abrir no Modo Palco (Tocar Missa)
+            </button>
+          </div>
+        </div>
+
+        <!-- Lista dos Momentos Litúrgicos da Missa -->
+        <div id="mass-moments-container" class="space-y-4">
+          <!-- Renderizado via JS -->
+        </div>
+      </section>
+
+      <!-- ==================== MÓDULO 4: CATEGORIAS LITÚRGICAS ==================== -->
+      <section id="tab-categories" class="tab-content hidden space-y-6">
+        <div>
+          <h2 class="text-2xl font-extrabold text-slate-900 dark:text-white">Categorias e Momentos da Santa Missa</h2>
+          <p class="text-sm text-slate-500 dark:text-slate-400">Guia litúrgico baseado na Instrução Geral do Missal Romano (IGMR) para orientar a escolha dos cantos.</p>
+        </div>
+
+        <div id="categories-list" class="space-y-6">
+          <!-- Renderizado via JS -->
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- ==================== MODAL: CADASTRAR / EDITAR MÚSICA ==================== -->
+  <div id="song-modal" class="fixed inset-0 z-50 hidden items-center justify-center bg-black/75 backdrop-blur-sm p-3 sm:p-6 overflow-y-auto">
+    <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-2xl max-w-3xl w-full p-5 sm:p-6 shadow-2xl my-auto max-h-[92vh] overflow-y-auto">
+      <div class="flex items-center justify-between pb-4 border-b border-slate-200 dark:border-slate-800">
+        <h3 id="song-modal-title" class="text-xl font-extrabold text-slate-900 dark:text-white">Cadastrar Nova Música</h3>
+        <button onclick="closeSongModal()" class="p-2 rounded-xl text-slate-400 hover:text-slate-700 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 transition">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/></svg>
+        </button>
+      </div>
+
+      <form id="song-form" onsubmit="saveSongForm(event)" class="mt-4 space-y-4">
+        <input type="hidden" id="song-id" />
+
+        <div class="grid grid-cols-1 sm:grid-cols-12 gap-4">
+          <div class="sm:col-span-7">
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-1">Título do Canto *</label>
+            <input type="text" id="song-title" required placeholder="Ex: Eis-me aqui, Senhor" class="w-full px-3.5 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-[#38BDF8]" />
+          </div>
+          <div class="sm:col-span-5">
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-1">Autor / Compositor</label>
+            <input type="text" id="song-author" placeholder="Ex: Pe. José Weber / Ir. Miria" class="w-full px-3.5 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-[#38BDF8]" />
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-12 gap-4">
+          <div class="sm:col-span-6">
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-1">Momento Litúrgico Sugerido *</label>
+            <select id="song-moment" required class="w-full px-3.5 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-[#38BDF8]">
+              <!-- Preenchido via JS -->
+            </select>
+          </div>
+          <div class="sm:col-span-3">
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-1">Tom Musical</label>
+            <input type="text" id="song-key" placeholder="Ex: G, Dm, F#m" class="w-full px-3.5 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm font-mono focus:outline-none focus:ring-2 focus:ring-[#38BDF8]" />
+          </div>
+          <div class="sm:col-span-3">
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400 mb-1">Andamento / BPM</label>
+            <input type="text" id="song-tempo" placeholder="Ex: Moderado / 75" class="w-full px-3.5 py-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-[#38BDF8]" />
+          </div>
+        </div>
+
+        <!-- Anexo de Arquivo Offline (PDF ou Imagem) + Link Externo -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 p-4 rounded-xl bg-slate-50 dark:bg-slate-800/60 border border-slate-200 dark:border-slate-700">
+          <div>
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-600 dark:text-slate-300 mb-1">
+              Partitura / PDF / Imagem Offline
+            </label>
+            <input type="file" id="song-file-input" accept="application/pdf,image/*" onchange="handleSongFileUpload(event)" class="block w-full text-xs text-slate-500 file:mr-3 file:py-2 file:px-3 file:rounded-lg file:border-0 file:text-xs file:font-semibold file:bg-[#38BDF8] file:text-slate-950 hover:file:bg-[#38BDF8] cursor-pointer" />
+            <div id="song-file-status" class="mt-1.5 text-xs text-slate-500 dark:text-slate-400 flex items-center justify-between">
+              <span>Nenhum arquivo anexado (máx. ~2.5MB recomendado).</span>
+            </div>
+          </div>
+
+          <div>
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-600 dark:text-slate-300 mb-1">
+              Link Externo (PDF Online / Áudio / Vídeo)
+            </label>
+            <input type="url" id="song-link" placeholder="https://..." class="w-full px-3 py-2 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-xs focus:outline-none focus:ring-2 focus:ring-[#38BDF8]" />
+            <p class="mt-1 text-[11px] text-slate-500">Opcional: referência para ensaio ou PDF hospedado.</p>
+          </div>
+        </div>
+
+        <!-- Campo de Cifra / Letra -->
+        <div>
+          <div class="flex items-center justify-between mb-1">
+            <label class="block text-xs font-semibold uppercase tracking-wider text-slate-500 dark:text-slate-400">Letra e Cifra (Texto Formatado)</label>
+            <span class="text-[11px] text-slate-400">Linhas com acordes são destacadas automaticamente</span>
+          </div>
+          <textarea id="song-lyrics" rows="9" placeholder="Cole ou digite aqui a cifra e a letra do canto...&#10;&#10;G             D/F#        Em&#10;Eis-me aqui, Senhor! Eis-me aqui, Senhor!&#10;C             Am          D&#10;Pra fazer Tua vontade, pra viver no Teu amor..." class="w-full p-3.5 rounded-xl bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-700 font-mono text-xs sm:text-sm leading-relaxed focus:outline-none focus:ring-2 focus:ring-[#38BDF8]"></textarea>
+        </div>
+
+        <div class="flex justify-end gap-3 pt-3 border-t border-slate-200 dark:border-slate-800">
+          <button type="button" onclick="closeSongModal()" class="px-4 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 text-sm font-semibold transition">Cancelar</button>
+          <button type="submit" class="px-5 py-2.5 rounded-xl bg-[#38BDF8] hover:bg-sky-300 text-slate-950 text-sm font-extrabold shadow-md transition cursor-pointer">Salvar Música</button>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- ==================== MODAL: SELECIONAR MÚSICA PARA MOMENTO DA MISSA ==================== -->
+  <div id="picker-modal" class="fixed inset-0 z-50 hidden items-center justify-center bg-black/75 backdrop-blur-sm p-4">
+    <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-2xl max-w-2xl w-full p-5 sm:p-6 shadow-2xl max-h-[88vh] flex flex-col">
+      <div class="flex items-center justify-between pb-3 border-b border-slate-200 dark:border-slate-800">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-sky-700 dark:text-[#38BDF8]">Adicionar Canto</span>
+          <h3 id="picker-moment-title" class="text-lg font-extrabold text-slate-900 dark:text-white">Momento Litúrgico</h3>
+        </div>
+        <button onclick="closePickerModal()" class="p-2 rounded-xl text-slate-400 hover:text-slate-700 dark:hover:text-white hover:bg-slate-100 dark:hover:bg-slate-800 transition">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/></svg>
+        </button>
+      </div>
+
+      <div class="my-3 flex flex-col sm:flex-row gap-2">
+        <input type="text" id="picker-search" oninput="renderPickerList()" placeholder="Pesquisar música no repertório..." class="flex-1 px-3.5 py-2 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-sm focus:outline-none focus:ring-2 focus:ring-[#38BDF8]" />
+        <label class="inline-flex items-center gap-2 text-xs font-medium text-slate-600 dark:text-slate-300 px-3 py-2 rounded-xl bg-slate-100 dark:bg-slate-800 cursor-pointer select-none">
+          <input type="checkbox" id="picker-filter-suggested" checked onchange="renderPickerList()" class="rounded text-amber-500 focus:ring-[#38BDF8]" />
+          Apenas sugeridas para este momento
+        </label>
+      </div>
+
+      <div id="picker-songs-list" class="flex-1 overflow-y-auto space-y-2 pr-1">
+        <!-- Lista gerada via JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ==================== 3. MODO PALCO / TELEPROMPTER & LEITOR OFFLINE ==================== -->
+  <div id="stage-overlay" class="fixed inset-0 z-[80] hidden flex-col bg-slate-950 text-slate-100 select-none">
+    
+    <!-- Barra Superior do Modo Palco -->
+    <div id="stage-top-bar" class="bg-slate-900 border-b border-slate-800 px-3 sm:px-5 py-2.5 flex items-center justify-between gap-2 shrink-0 transition-all duration-200">
+      <div class="flex items-center gap-2 sm:gap-3 min-w-0">
+        <button onclick="closeStageMode()" class="px-3 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-200 text-xs sm:text-sm font-bold flex items-center gap-1.5 transition shrink-0 cursor-pointer">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+          <span>Sair do Palco</span>
+        </button>
+
+        <div class="min-w-0">
+          <div class="flex items-center gap-2">
+            <span id="stage-moment-badge" class="px-2 py-0.5 rounded-md bg-[#38BDF8]/20 text-[#38BDF8] text-[11px] font-bold uppercase tracking-wider truncate">
+              Momento
+            </span>
+            <span id="stage-track-counter" class="text-xs text-slate-400 font-mono">1/1</span>
+          </div>
+          <h2 id="stage-song-title" class="text-base sm:text-xl font-extrabold text-white truncate">Título da Música</h2>
+        </div>
+      </div>
+
+      <!-- Controles de Fonte / Transposição / Playlist -->
+      <div class="flex items-center gap-1.5 sm:gap-2 shrink-0">
+        <!-- Transposição Rápida -->
+        <div id="stage-transpose-controls" class="hidden md:flex items-center bg-slate-800 rounded-xl p-1 border border-slate-700">
+          <button onclick="transposeStageSong(-1)" class="px-2 py-1 text-xs font-bold hover:bg-slate-700 rounded-lg text-[#38BDF8]" title="Descer meio tom (-1)">-½ Tom</button>
+          <span id="stage-key-display" class="px-2.5 text-xs font-mono font-bold text-white">Tom: G</span>
+          <button onclick="transposeStageSong(1)" class="px-2 py-1 text-xs font-bold hover:bg-slate-700 rounded-lg text-[#38BDF8]" title="Subir meio tom (+1)">+½ Tom</button>
+        </div>
+
+        <!-- Tamanho da Fonte -->
+        <div id="stage-font-controls" class="flex items-center bg-slate-800 rounded-xl p-1 border border-slate-700">
+          <button onclick="changeStageFontSize(-2)" class="px-2.5 py-1 text-xs font-bold hover:bg-slate-700 rounded-lg text-slate-200" title="Diminuir letra">A-</button>
+          <button onclick="changeStageFontSize(2)" class="px-2.5 py-1 text-xs font-bold hover:bg-slate-700 rounded-lg text-slate-200" title="Aumentar letra">A+</button>
+        </div>
+
+        <!-- Botão Abrir Lista da Missa (Gaveta lateral) -->
+        <button onclick="toggleStageDrawer()" class="px-3 py-2 rounded-xl bg-slate-800 hover:bg-slate-700 border border-slate-700 text-[#38BDF8] text-xs sm:text-sm font-bold flex items-center gap-1.5 cursor-pointer">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"/></svg>
+          <span class="hidden sm:inline">Roteiro</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Área Principal do Leitor (Cifra / PDF / Imagem) + Gaveta Lateral -->
+    <div class="relative flex-1 flex overflow-hidden">
+      
+      <!-- Contêiner Rolável do Conteúdo Musical -->
+      <div id="stage-scroll-container" class="flex-1 overflow-y-auto px-0 py-2 pb-28 scroll-smooth">
+        <div id="stage-content-render" class="w-full max-w-none">
+          <!-- Conteúdo dinâmico: Cifra/Letra, Imagem ou PDF -->
+        </div>
+      </div>
+
+      <!-- Gaveta Lateral com a Ordem das Músicas da Missa -->
+      <aside id="stage-drawer" class="hidden w-72 sm:w-80 bg-slate-900 border-l border-slate-800 flex-col h-full shrink-0 z-20">
+        <div class="p-4 border-b border-slate-800 flex items-center justify-between">
+          <h3 class="text-sm font-extrabold uppercase tracking-wider text-amber-400">Ordem da Celebração</h3>
+          <button onclick="toggleStageDrawer()" class="text-slate-400 hover:text-white p-1">✕</button>
+        </div>
+        <div id="stage-playlist-items" class="flex-1 overflow-y-auto p-3 space-y-1.5">
+          <!-- Lista de faixas -->
+        </div>
+      </aside>
+    </div>
+
+    <!-- Barra Inferior Flutuante de Palco: Navegação de Faixa + Teleprompter Auto-Scroll -->
+    <div id="stage-bottom-bar" class="bg-slate-900/95 backdrop-blur-md border-t border-slate-800 px-3 sm:px-6 py-3 shrink-0 transition-all duration-200">
+      <div class="max-w-6xl mx-auto flex flex-wrap items-center justify-between gap-3">
+        
+        <!-- Botão Faixa Anterior -->
+        <button id="stage-prev-btn" onclick="prevStageTrack()" class="px-4 py-3 rounded-xl bg-slate-800 hover:bg-slate-700 disabled:opacity-40 text-white font-bold text-xs sm:text-sm flex items-center gap-2 transition cursor-pointer">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7"/></svg>
+          <span>Anterior</span>
+        </button>
+
+        <!-- Controles de Rolagem Automática (Auto-Scroll) -->
+        <div class="flex items-center gap-2 sm:gap-4 bg-slate-950 border border-slate-800 px-3 sm:px-4 py-2 rounded-2xl">
+          <button id="stage-scroll-toggle" onclick="toggleAutoScroll()" class="px-3.5 py-2 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-extrabold text-xs sm:text-sm flex items-center gap-1.5 shadow transition cursor-pointer">
+            <svg id="scroll-icon-play" class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+            <svg id="scroll-icon-pause" class="w-4 h-4 hidden" fill="currentColor" viewBox="0 0 24 24"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+            <span id="scroll-btn-label">Auto-Rolar</span>
+          </button>
+
+          <div class="flex items-center gap-2">
+            <span class="text-[11px] font-semibold text-slate-400 hidden sm:inline">Velocidade:</span>
+            <input type="range" id="stage-scroll-speed" min="1" max="10" value="3" oninput="updateScrollSpeed(this.value)" class="w-20 sm:w-28 accent-[#38BDF8] cursor-pointer" />
+            <span id="stage-speed-badge" class="text-xs font-mono font-bold text-amber-400 w-6 text-center">3x</span>
+          </div>
+
+          <button onclick="scrollStageToTop()" class="p-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white transition cursor-pointer" title="Voltar ao topo da música">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M5 15l7-7 7 7"/></svg>
+          </button>
+        </div>
+
+        <!-- Botão Próximo Canto -->
+        <button id="stage-next-btn" onclick="nextStageTrack()" class="px-4 py-3 rounded-xl bg-[#38BDF8] hover:bg-sky-300 disabled:opacity-40 text-slate-950 font-extrabold text-xs sm:text-sm flex items-center gap-2 shadow-md transition cursor-pointer">
+          <span>Próximo Canto</span>
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 5l7 7-7 7"/></svg>
+        </button>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- ==================== ÁREA OCULTA PARA IMPRESSÃO A4 ==================== -->
+  <div id="print-area" class="hidden"></div>
+
+  <!-- ==================== JAVASCRIPT COMPLETO ==================== -->
+  <script>
+    /**
+     * =========================================================================
+     * ML – MÚSICA LITÚRGICA | Lógica, Dados Litúrgicos, Storage e Modo Palco
+     * =========================================================================
+     */
+
+    const STORAGE_KEY = 'ml_musica_liturgica_v1';
+
+    const SPLASH_TOOLS_MANUAL = [
+      { id: 'overview', name: 'Visão Geral', subtitle: 'Painel & Backup JSON', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>', desc: 'Resume o total de músicas, missas salvas, arquivos anexados e espaço local usado, com acesso rápido ao backup JSON.', how: 'Como usar: abra após iniciar para conferir a missa em destaque, exportar/importar JSON ou restaurar o repertório inicial.' },
+      { id: 'repertoire', name: 'Repertório', subtitle: 'Cifras, Letras & PDFs', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3"/>', desc: 'Reúne todas as músicas do ministério com busca por título/letra/autor, filtros por momento e tom, e anexo offline de PDF ou imagem.', how: 'Como usar: clique em Nova Música para cadastrar cifra/letra ou anexar partitura, e use Tocar no Palco para abrir na hora.' },
+      { id: 'builder', name: 'Montar Missa', subtitle: 'Roteiro & Impressão', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"/>', desc: 'Organiza os cantos da celebração por momento litúrgico, com cor litúrgica da missa, reordenação, impressão A4 e abertura direta no palco.', how: 'Como usar: escolha ou crie uma missa, adicione cantos em cada momento, ajuste a ordem (↑/↓) e imprima ou abra no Modo Palco.' },
+      { id: 'categories', name: 'Categorias', subtitle: 'Orientação Litúrgica', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>', desc: 'Explica a função de cada momento da Santa Missa e orientações práticas conforme a liturgia para evitar substituições indevidas.', how: 'Como usar: consulte durante o planejamento do repertório e clique em ver músicas da categoria para filtrar o repertório.' },
+      { id: 'stage', name: 'Modo Palco', subtitle: 'Leitura em Tela Cheia', icon: '<path d="M8 5v14l11-7z"/>', desc: 'Exibe a cifra, partitura em imagem ou PDF em tela limpa e de alto contraste para o músico no altar, coro ou teclado.', how: 'Como usar: clique em Modo Palco no topo ou em um canto da missa; use Anterior/Próximo ou as setas do teclado para avançar.' },
+      { id: 'scroll', name: 'Auto-Rolar', subtitle: 'Teleprompter Contínuo', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M19 13l-7 7-7-7m14-8l-7 7-7-7"/>', desc: 'Rola a cifra suavemente na tela enquanto você toca, permitindo ajustar a velocidade sem precisar tocar na tela a toda estrofe.', how: 'Como usar: no Modo Palco, toque em Auto-Rolar (ou Espaço), ajuste o controle de velocidade e use Pausar quando necessário.' },
+      { id: 'transpose', name: 'Transpor & Fonte', subtitle: 'Tom e Tamanho da Letra', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M12 6v6m0 0v6m0-6h6m-6 0H6"/>', desc: 'Altera o tom das cifras em semitons (-½ Tom / +½ Tom) na hora e ajusta o tamanho da fonte (A- / A+) para leitura à distância.', how: 'Como usar: no Modo Palco, use -½ Tom ou +½ Tom para adaptar ao vocal ou instrumento e A-/A+ para ampliar a letra.' },
+      { id: 'display', name: 'Tela & Tema', subtitle: 'Paisagem e Claro/Escuro', icon: '<path stroke-linecap="round" stroke-linejoin="round" d="M4 8V4m0 0h4M4 4l5 5m11-1V4m0 0h-4m4 0l-5 5M4 16v4m0 0h4m-4 0l5-5m11 5l-5-5m5 5v-4m0 4h-4"/>', desc: 'Alterna entre tema escuro (ideal para ambientes com pouca luz) ou claro, e solicita tela cheia/paisagem ao iniciar ou pelo botão de tela.', how: 'Como usar: clique no ícone de tela cheia/paisagem ou no botão de tema no canto superior para ajustar à iluminação do local.' }
+    ];
+
+    let activeSplashToolId = null;
+
+    function renderSplashToolsManual() {
+      const grid = document.getElementById('splash-tools-grid');
+      if (!grid) return;
+      grid.innerHTML = SPLASH_TOOLS_MANUAL.map(t => {
+        const isActive = activeSplashToolId === t.id;
+        return `
+          <button type="button" onclick="toggleSplashToolManual('${t.id}')" class="flex flex-col items-center justify-center p-2 rounded-xl border transition cursor-pointer ${isActive ? 'bg-[#D4AF37]/20 border-[#D4AF37] text-[#F3E5AB]' : 'bg-slate-900/70 hover:bg-slate-800/90 border-slate-800 hover:border-[#38BDF8]/50 text-slate-200'}">
+            <svg class="w-4 h-4 mb-1 text-[#38BDF8]" fill="${t.id === 'stage' ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">${t.icon}</svg>
+            <span class="text-[10px] font-bold leading-tight text-center truncate w-full">${t.name}</span>
+          </button>
+        `;
+      }).join('');
+    }
+
+    function toggleSplashToolManual(toolId) {
+      const pop = document.getElementById('splash-manual-popover');
+      if (activeSplashToolId === toolId) {
+        closeSplashToolManual();
+        return;
+      }
+      const tool = SPLASH_TOOLS_MANUAL.find(t => t.id === toolId);
+      if (!tool || !pop) return;
+      activeSplashToolId = toolId;
+
+      document.getElementById('manual-pop-badge').innerHTML = `<svg class="w-4 h-4" fill="${tool.id === 'stage' ? 'currentColor' : 'none'}" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">${tool.icon}</svg>`;
+      document.getElementById('manual-pop-title').textContent = tool.name;
+      document.getElementById('manual-pop-subtitle').textContent = tool.subtitle;
+      document.getElementById('manual-pop-desc').textContent = tool.desc;
+      document.getElementById('manual-pop-how').textContent = tool.how;
+
+      pop.classList.remove('hidden');
+      renderSplashToolsManual();
+    }
+
+    function closeSplashToolManual() {
+      activeSplashToolId = null;
+      const pop = document.getElementById('splash-manual-popover');
+      if (pop) pop.classList.add('hidden');
+      renderSplashToolsManual();
+    }
+
+
+    // Cores litúrgicas oficiais (Verde, Roxo, Branco, Vermelho, Rosa) + Azul Celeste + Cinza Claro + Bege
+    const LITURGICAL_COLORS = {
+      verde:    { name: 'Tempo Comum (Verde)',    hex: '#22C55E', badgeClass: 'bg-emerald-500/15 text-emerald-700 dark:text-emerald-300 border-emerald-500/30' },
+      roxo:     { name: 'Advento / Quaresma (Roxo)', hex: '#A855F7', badgeClass: 'bg-purple-500/15 text-purple-700 dark:text-purple-300 border-purple-500/30' },
+      branco:   { name: 'Solenidade / Festa (Branco)', hex: '#F5EFE0', badgeClass: 'bg-[#F5EFE0]/25 text-slate-800 dark:text-[#F5EFE0] border-slate-300/60' },
+      vermelho: { name: 'Pentecostes / Paixão (Vermelho)', hex: '#EF4444', badgeClass: 'bg-rose-500/15 text-rose-700 dark:text-rose-300 border-rose-500/30' },
+      rosa:     { name: 'Gaudete / Laetare (Rosa)', hex: '#EC4899', badgeClass: 'bg-pink-500/15 text-pink-700 dark:text-pink-300 border-pink-500/30' }
+    };
+
+
+    // Definição oficial dos momentos litúrgicos da Santa Missa
+    const LITURGICAL_MOMENTS = [
+      {
+        id: 'entrada',
+        name: 'Canto de Entrada (Abertura)',
+        part: 'Ritos Iniciais',
+        functionDesc: 'Abrir a celebração, promover a união da assembleia, introduzir o mistério do tempo litúrgico ou da festa e acompanhar a procissão do sacerdote e ministros.',
+        igmrTip: 'Deve ser um canto processional e festivo, que todos possam cantar juntos. Evite cantos excessivamente intimistas ou sem relação com o tempo litúrgico.'
+      },
+      {
+        id: 'penitencial',
+        name: 'Ato Penitencial (Kyrie)',
+        part: 'Ritos Iniciais',
+        functionDesc: 'Implorar a misericórdia de Deus e preparar o coração dos fiéis para ouvir a Palavra e celebrar dignamente a Eucaristia.',
+        igmrTip: 'Atenção: não se deve substituir o Ato Penitencial por um canto genérico de pedido de perdão que omita o texto litúrgico ("Senhor, tende piedade de nós" / Kyrie Eleison).'
+      },
+      {
+        id: 'gloria',
+        name: 'Hino de Louvor (Glória)',
+        part: 'Ritos Iniciais',
+        functionDesc: 'Antiquíssimo e venerável hino com o qual a Igreja, congregada no Espírito Santo, glorifica e suplica a Deus Pai e ao Cordeiro.',
+        igmrTip: 'Canta-se aos domingos (fora do Advento e Quaresma), nas solenidades e festas. O texto litúrgico oficial ("Glória a Deus nas alturas...") não pode ser substituído por outro canto.'
+      },
+      {
+        id: 'salmo',
+        name: 'Salmo Responsorial',
+        part: 'Liturgia da Palavra',
+        functionDesc: 'É parte integrante da Liturgia da Palavra e possui grande importância litúrgica e pastoral, pois favorece a meditação da Palavra de Deus.',
+        igmrTip: 'Deve corresponder a cada leitura e ser tomado do Lecionário. Nunca deve ser substituído por um canto qualquer não bíblico.'
+      },
+      {
+        id: 'aclamacao',
+        name: 'Aclamação ao Evangelho (Aleluia)',
+        part: 'Liturgia da Palavra',
+        functionDesc: 'A assembleia acolhe e saúda o Senhor que vai falar no Evangelho e professa sua fé por meio do canto.',
+        igmrTip: 'Canta-se "Aleluia" durante todo o ano, exceto na Quaresma (onde se usa "Glória e louvor a vós, Senhor" ou outra aclamação própria do Lecionário).'
+      },
+      {
+        id: 'ofertorio',
+        name: 'Apresentação das Oferendas (Ofertório)',
+        part: 'Liturgia Eucarística',
+        functionDesc: 'Acompanhar a procissão em que se levam ao altar o pão e o vinho que se tornarão o Corpo e o Sangue de Cristo, expressando também a oferta de nossa vida.',
+        igmrTip: 'Conclui-se quando os dons são depositados sobre o altar e o sacerdote convida à oração ("Orai, irmãos e irmãs...").'
+      },
+      {
+        id: 'santo',
+        name: 'Santo (Sanctus)',
+        part: 'Liturgia Eucarística',
+        functionDesc: 'Aclamação com a qual toda a assembleia se une aos coros celestes (anjos e santos) para cantar a santidade de Deus.',
+        igmrTip: 'Faz parte da Oração Eucarística. Deve manter fielmente o texto litúrgico ("Santo, Santo, Santo, Senhor Deus do universo...").'
+      },
+      {
+        id: 'amem',
+        name: 'Doxologia Final / Grande Amém',
+        part: 'Liturgia Eucarística',
+        functionDesc: 'Assentimento solene de todo o povo de Deus ao encerramento da Oração Eucarística ("Por Cristo, com Cristo e em Cristo...").',
+        igmrTip: 'Deve ser cantado com firmeza e alegria pela assembleia após o sacerdote proclamar a doxologia.'
+      },
+      {
+        id: 'cordeiro',
+        name: 'Cordeiro de Deus (Agnus Dei)',
+        part: 'Rito da Comunhão',
+        functionDesc: 'Acompanhar a fração do pão consagrado, suplicando a misericórdia e a paz de Cristo, Cordeiro que tira o pecado do mundo.',
+        igmrTip: 'Pode ser repetido quantas vezes forem necessárias enquanto dura a fração do pão, encerrando-se sempre com "dai-nos a paz".'
+      },
+      {
+        id: 'comunhao',
+        name: 'Canto de Comunhão',
+        part: 'Rito da Comunhão',
+        functionDesc: 'Expressar a união espiritual dos que comungam pela unidade das vozes, demonstrar a alegria do coração e tornar mais fraterna a procissão.',
+        igmrTip: 'Inicia-se no momento em que o sacerdote comunga e prolonga-se enquanto os fiéis recebem o Corpo de Cristo. Idealmente reflete o Evangelho do dia.'
+      },
+      {
+        id: 'poscomunhao',
+        name: 'Ação de Graças / Pós-Comunhão',
+        part: 'Rito da Comunhão',
+        functionDesc: 'Momento de interiorização, louvor silencioso ou canto suave de agradecimento pela presença real de Jesus na Eucaristia.',
+        igmrTip: 'Pode ser substituído pelo silêncio sagrado. Quando cantado, deve ser breve, orante e contemplativo.'
+      },
+      {
+        id: 'final',
+        name: 'Canto Final (Envio)',
+        part: 'Ritos Finais',
+        functionDesc: 'Acompanhar a saída dos ministros e despedir a assembleia com alegria missionária para testemunhar o Evangelho no mundo.',
+        igmrTip: 'Não é obrigatório pelo Missal Romano, mas é tradição pastoral muito querida. Em festas marianas, costuma-se entoar um canto à Nossa Senhora.'
+      }
+    ];
+
+    // Músicas pré-cadastradas de exemplo para uso imediato
+    const DEFAULT_SONGS = [
+      {
+        id: 'song_1',
+        title: 'Eis-me aqui, Senhor',
+        author: 'Valdeci Farias / D. Carlos Alberto Navarro',
+        moment: 'entrada',
+        key: 'G',
+        tempo: 'Moderado (82 BPM)',
+        link: '',
+        fileData: null,
+        fileName: '',
+        fileType: '',
+        lyrics: `G             D/F#        Em
+Eis-me aqui, Senhor! Eis-me aqui, Senhor!
+C             Am          D
+Pra fazer Tua vontade, pra viver no Teu amor
+G             D/F#        Em      C   D   G
+Pra fazer Tua vontade, pra viver no Teu amor: Eis-me aqui, Senhor!
+
+G                D/F#          Em
+1. O Senhor é o Pastor que me conduz,
+C               Am             D
+Por caminhos nunca vistos me enviou.
+G             D/F#           Em
+Sou chamado a ser fermento, sal e luz
+C                D           G
+E por isso respondi: aqui estou!
+
+G                D/F#          Em
+2. Ele pôs em minha boca uma canção,
+C               Am             D
+Me ungiu como profeta e trovador
+G             D/F#           Em
+Da história e da vida do meu povo,
+C                D           G
+E por isso respondi: aqui estou!`
+      },
+      {
+        id: 'song_2',
+        title: 'Senhor, que viestes salvar',
+        author: 'Pe. José Weber',
+        moment: 'penitencial',
+        key: 'Dm',
+        tempo: 'Lento (66 BPM)',
+        link: '',
+        fileData: null,
+        fileName: '',
+        fileType: '',
+        lyrics: `Dm                Gm          A7        Dm
+1. Senhor, que viestes salvar os corações arrependidos,
+F          C        Bb       A7       Dm
+Piedade, piedade, piedade de nós!
+F          C        Bb       A7       Dm
+Piedade, piedade, piedade de nós!
+
+Dm                Gm           A7         Dm
+2. Ó Cristo, que viestes chamar os pecadores humilhados,
+F          C        Bb       A7       Dm
+Piedade, piedade, piedade de nós!
+F          C        Bb       A7       Dm
+Piedade, piedade, piedade de nós!
+
+Dm                Gm           A7         Dm
+3. Senhor, que intercedeis por nós junto a Deus Pai que nos perdoa,
+F          C        Bb       A7       Dm
+Piedade, piedade, piedade de nós!
+F          C        Bb       A7       Dm
+Piedade, piedade, piedade de nós!`
+      },
+      {
+        id: 'song_3',
+        title: 'Glória a Deus nas Alturas',
+        author: 'Eliana Ribeiro',
+        moment: 'gloria',
+        key: 'D',
+        tempo: 'Alegre (110 BPM)',
+        link: '',
+        fileData: null,
+        fileName: '',
+        fileType: '',
+        lyrics: `D              A/C#         Bm        G
+Glória a Deus nas alturas e paz na terra aos homens por Ele amados!
+D              A/C#         Bm        G          A
+Glória a Deus nas alturas e paz na terra aos homens por Ele amados!
+
+D           A/C#         Bm          F#m
+Senhor Deus, Rei dos céus, Deus Pai todo-poderoso:
+G           D/F#         Em          A
+Nós Vos louvamos, nós Vos bendizemos,
+G           D/F#         Em          A
+Nós Vos adoramos, nós Vos glorificamos,
+G           A            D
+Nós Vos damos graças por Vossa imensa glória!
+
+D           A/C#         Bm          F#m
+Senhor Jesus Cristo, Filho Unigênito,
+G           D/F#         Em          A
+Senhor Deus, Cordeiro de Deus, Filho de Deus Pai.
+Bm          F#m          G           D
+Vós que tirais o pecado do mundo, tende piedade de nós!
+Bm          F#m          G           A
+Vós que tirais o pecado do mundo, acolhei a nossa súplica!
+G           D/F#         Em          A
+Vós que estais à direita do Pai, tende piedade de nós!
+
+D           A/C#         Bm          F#m
+Só Vós sois o Santo, só Vós o Senhor,
+G           D/F#         Em          A
+Só Vós o Altíssimo, Jesus Cristo,
+G           A            Bm    G     D     A     D
+Com o Espírito Santo, na glória de Deus Pai. Amém!`
+      },
+      {
+        id: 'song_4',
+        title: "Aleluia, a minh'alma abrirei",
+        author: 'Liturgia Tradicional',
+        moment: 'aclamacao',
+        key: 'E',
+        tempo: 'Alegre (98 BPM)',
+        link: '',
+        fileData: null,
+        fileName: '',
+        fileType: '',
+        lyrics: `E       B/D#    C#m     G#m
+Aleluia, aleluia, a minh'alma abrirei!
+A       E/G#    F#m     B7
+Aleluia, aleluia, Cristo é meu Rei!
+E       B/D#    C#m     G#m
+Aleluia, aleluia, a minh'alma abrirei!
+A       B7      E
+Aleluia, aleluia, Cristo é meu Rei!
+
+E               B/D#        C#m
+Fala, Senhor, que Teu servo escuta,
+A               F#m         B7
+Tens palavras de vida eterna!`
+      },
+      {
+        id: 'song_5',
+        title: 'Sabes, Senhor',
+        author: 'Pe. Zezinho',
+        moment: 'ofertorio',
+        key: 'C',
+        tempo: 'Moderado (76 BPM)',
+        link: '',
+        fileData: null,
+        fileName: '',
+        fileType: '',
+        lyrics: `C           G/B         Am
+Sabes, Senhor, o que temos é tão pouco pra dar,
+F           Dm          G7
+Mas este pouco nós queremos com os irmãos compartilhar.
+
+C               Em          Am
+1. Queremos nesta hora, diante dos irmãos,
+F               Dm          G7
+Comprometer a vida, buscando a união.
+
+C               Em          Am
+2. Sabemos que é difícil os bens compartilhar,
+F               Dm          G7
+Mas com a Tua graça, Senhor, queremos dar.
+
+C               Em          Am
+3. Olhando Teu exemplo, Senhor Jesus, aqui,
+F               Dm          G7
+Não queremos guardar nada, mas tudo dividir.`
+      },
+      {
+        id: 'song_6',
+        title: 'Santo, Santo, Santo (Senhor Deus do Universo)',
+        author: 'Comunidade Católica Shalom',
+        moment: 'santo',
+        key: 'A',
+        tempo: 'Solene (85 BPM)',
+        link: '',
+        fileData: null,
+        fileName: '',
+        fileType: '',
+        lyrics: `A           E/G#        F#m         D
+Santo, Santo, Santo, Senhor Deus do universo!
+A           E/G#        F#m         D      E
+O céu e a terra proclamam a Vossa glória!
+
+A           E/G#        F#m         D
+Hosana nas alturas! Hosana nas alturas!
+A           E/G#        D     E     A
+Hosana nas alturas! Hosana!
+
+F#m         C#m         D           A
+Bendito o que vem em nome do Senhor!
+F#m         C#m         D           E
+Bendito o que vem em nome do Senhor!
+
+A           E/G#        F#m         D
+Hosana nas alturas! Hosana nas alturas!
+A           E/G#        D     E     A
+Hosana nas alturas! Hosana!`
+      },
+      {
+        id: 'song_7',
+        title: 'Cordeiro de Deus',
+        author: 'Melodia Litúrgica',
+        moment: 'cordeiro',
+        key: 'G',
+        tempo: 'Lento (68 BPM)',
+        link: '',
+        fileData: null,
+        fileName: '',
+        fileType: '',
+        lyrics: `G           D/F#        Em          Bm
+Cordeiro de Deus, que tirais o pecado do mundo,
+C           Am          D7
+Tende piedade de nós!
+
+G           D/F#        Em          Bm
+Cordeiro de Deus, que tirais o pecado do mundo,
+C           Am          D7
+Tende piedade de nós!
+
+G           D/F#        Em          Bm
+Cordeiro de Deus, que tirais o pecado do mundo,
+C           D7          G
+Dai-nos a paz! Dai-nos a paz!`
+      },
+      {
+        id: 'song_8',
+        title: 'Alma de Cristo',
+        author: 'Santo Inácio de Loyola / Música: Irmãs de Maria',
+        moment: 'comunhao',
+        key: 'F',
+        tempo: 'Contemplativo (64 BPM)',
+        link: '',
+        fileData: null,
+        fileName: '',
+        fileType: '',
+        lyrics: `F           C/E         Dm          Am
+Alma de Cristo, santificai-me.
+Bb          F/A         Gm          C7
+Corpo de Cristo, salvai-me.
+F           C/E         Dm          Am
+Sangue de Cristo, inebriai-me.
+Bb          C7          F
+Água do lado de Cristo, lavai-me.
+
+Dm          Am          Bb          F
+Paixão de Cristo, confortai-me.
+Dm          Am          Bb          C7
+Ó bom Jesus, ouvi-me.
+Bb          C/Bb        Am          Dm
+Dentro de Vossas chagas, escondei-me.
+Gm          C7          F
+Não permitais que eu me separe de Vós.
+
+Dm          Am          Bb          F
+Do espírito maligno, defendei-me.
+Dm          Am          Bb          C7
+Na hora da minha morte, chamai-me
+Bb          C/Bb        Am          Dm
+E mandai-me ir para Vós,
+Gm          C7          F
+Para que com os Vossos Santos Vos louve
+Bb          C7          F
+Por todos os séculos dos séculos. Amém!`
+      }
+    ];
+
+    // Missa modelo inicial
+    const DEFAULT_MASSES = [
+      {
+        id: 'mass_default_1',
+        title: 'Missa Dominical – Tempo Comum',
+        date: new Date().toISOString().split('T')[0],
+        notes: 'Cor litúrgica: Verde • Celebração Comunitária',
+        items: [
+          { uid: 'item_1', momentId: 'entrada', songId: 'song_1' },
+          { uid: 'item_2', momentId: 'penitencial', songId: 'song_2' },
+          { uid: 'item_3', momentId: 'gloria', songId: 'song_3' },
+          { uid: 'item_4', momentId: 'aclamacao', songId: 'song_4' },
+          { uid: 'item_5', momentId: 'ofertorio', songId: 'song_5' },
+          { uid: 'item_6', momentId: 'santo', songId: 'song_6' },
+          { uid: 'item_7', momentId: 'cordeiro', songId: 'song_7' },
+          { uid: 'item_8', momentId: 'comunhao', songId: 'song_8' }
+        ]
+      }
+    ];
+
+    // Estado Global do Aplicativo
+    let appState = {
+      songs: [],
+      masses: [],
+      currentMassId: null,
+      theme: 'dark'
+    };
+
+    // Estado temporário do Modal de Música
+    let tempUploadedFile = {
+      fileData: null,
+      fileName: '',
+      fileType: ''
+    };
+
+    // Estado temporário do Seletor de Música para Missa
+    let activePickerMomentId = null;
+
+    // Estado do Modo Palco / Teleprompter
+    let stageState = {
+      playlist: [], // Array de { momentName, song }
+      currentIndex: 0,
+      fontSize: 18,
+      semitoneOffset: 0,
+      isScrolling: false,
+      scrollSpeed: 3, // 1 a 10
+      scrollIntervalId: null,
+      scrollRemainder: 0
+    };
+
+    // ==================== INICIALIZAÇÃO E PERSISTÊNCIA ====================
+
+    function loadState() {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if (raw) {
+          const parsed = JSON.parse(raw);
+          appState.songs = Array.isArray(parsed.songs) && parsed.songs.length > 0 ? parsed.songs : [...DEFAULT_SONGS];
+          appState.masses = Array.isArray(parsed.masses) && parsed.masses.length > 0 ? parsed.masses : JSON.parse(JSON.stringify(DEFAULT_MASSES));
+          appState.currentMassId = parsed.currentMassId || appState.masses[0].id;
+          appState.theme = parsed.theme || 'dark';
+        } else {
+          appState.songs = JSON.parse(JSON.stringify(DEFAULT_SONGS));
+          appState.masses = JSON.parse(JSON.stringify(DEFAULT_MASSES));
+          appState.currentMassId = appState.masses[0].id;
+          appState.theme = 'dark';
+          saveState();
+        }
+      } catch (err) {
+        console.error('Erro ao carregar localStorage:', err);
+        appState.songs = JSON.parse(JSON.stringify(DEFAULT_SONGS));
+        appState.masses = JSON.parse(JSON.stringify(DEFAULT_MASSES));
+        appState.currentMassId = appState.masses[0].id;
+      }
+
+      applyTheme(appState.theme);
+      renderSplashToolsManual();
+      populateMomentSelects();
+      refreshAllViews();
+    }
+
+    function saveState() {
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(appState));
+      } catch (err) {
+        console.error('Erro ao salvar no localStorage:', err);
+        showToast('Atenção: Limite de armazenamento local atingido! Remova arquivos PDF/Imagem muito grandes ou faça backup JSON.', 'error');
+      }
+    }
+
+    function applyTheme(theme) {
+      appState.theme = theme;
+      const htmlEl = document.documentElement;
+      if (theme === 'dark') {
+        htmlEl.classList.add('dark');
+      } else {
+        htmlEl.classList.remove('dark');
+      }
+    }
+
+    function toggleTheme() {
+      const next = appState.theme === 'dark' ? 'light' : 'dark';
+      applyTheme(next);
+      saveState();
+    }
+
+    // ==================== TELA INICIAL, FULLSCREEN E ORIENTAÇÃO ====================
+
+    async function lockOrientationSafe(orientationMode) {
+      try {
+        if (screen.orientation && screen.orientation.lock) {
+          await screen.orientation.lock(orientationMode);
+        }
+      } catch (err) {
+        console.info(`Trava de orientação (${orientationMode}) não suportada neste dispositivo:`, err.message);
+      }
+    }
+
+    async function requestFullscreenOnly(silent = true) {
+      try {
+        const docEl = document.documentElement;
+        if (!document.fullscreenElement) {
+          if (docEl.requestFullscreen) {
+            await docEl.requestFullscreen();
+          } else if (docEl.webkitRequestFullscreen) {
+            await docEl.webkitRequestFullscreen();
+          }
+        }
+      } catch (err) {
+        console.info('Fullscreen não disponível ou bloqueado pelo navegador:', err.message);
+      }
+
+      if (!silent) {
+        showToast('Modo tela cheia ativado.', 'info');
+      }
+    }
+
+    async function startAppExperience() {
+      const splash = document.getElementById('splash-screen');
+      const mainApp = document.getElementById('main-app');
+
+      await requestFullscreenOnly(true);
+      await lockOrientationSafe('portrait');
+
+      splash.classList.add('hidden');
+      mainApp.classList.remove('hidden');
+      switchTab('overview');
+    }
+
+    async function restorePortraitOrientation() {
+      await lockOrientationSafe('portrait');
+    }
+
+    async function toggleFullscreenLandscape() {
+      if (document.fullscreenElement) {
+        try {
+          await document.exitFullscreen();
+          showToast('Saiu do modo tela cheia.', 'info');
+        } catch (e) {
+          console.info(e);
+        }
+      } else {
+        await requestFullscreenOnly(false);
+      }
+    }
+
+    // ==================== NAVEGAÇÃO ENTRE OS 4 MÓDULOS ====================
+
+    function switchTab(tabId) {
+      document.querySelectorAll('.tab-content').forEach(sec => sec.classList.add('hidden'));
+      const activeSec = document.getElementById(`tab-${tabId}`);
+      if (activeSec) activeSec.classList.remove('hidden');
+
+      document.querySelectorAll('.nav-btn').forEach(btn => {
+        if (btn.dataset.tab === tabId) {
+          btn.classList.add('bg-[#38BDF8]', 'text-slate-950', 'shadow-sm');
+          btn.classList.remove('text-slate-600', 'dark:text-slate-300', 'hover:bg-white/60', 'dark:hover:bg-slate-700/60');
+        } else {
+          btn.classList.remove('bg-[#38BDF8]', 'text-slate-950', 'shadow-sm');
+          btn.classList.add('text-slate-600', 'dark:text-slate-300', 'hover:bg-white/60', 'dark:hover:bg-slate-700/60');
+        }
+      });
+
+      refreshAllViews();
+    }
+
+    function refreshAllViews() {
+      renderOverview();
+      renderRepertoire();
+      renderMassBuilder();
+      renderCategories();
+    }
+
+    function populateMomentSelects() {
+      const repFilter = document.getElementById('rep-filter-moment');
+      const songSelect = document.getElementById('song-moment');
+
+      repFilter.innerHTML = '<option value="">Todos os Momentos Litúrgicos</option>';
+      songSelect.innerHTML = '';
+
+      LITURGICAL_MOMENTS.forEach(m => {
+        repFilter.innerHTML += `<option value="${m.id}">${m.name}</option>`;
+        songSelect.innerHTML += `<option value="${m.id}">${m.name}</option>`;
+      });
+    }
+
+    function getMomentName(momentId) {
+      const found = LITURGICAL_MOMENTS.find(m => m.id === momentId);
+      return found ? found.name : 'Outro Momento';
+    }
+
+    function getCurrentMass() {
+      let mass = appState.masses.find(m => m.id === appState.currentMassId);
+      if (!mass && appState.masses.length > 0) {
+        mass = appState.masses[0];
+        appState.currentMassId = mass.id;
+      }
+      return mass;
+    }
+
+    // ==================== MÓDULO 1: VISÃO GERAL ====================
+
+    function renderOverview() {
+      const currentMass = getCurrentMass();
+      const validItems = currentMass ? currentMass.items.filter(it => appState.songs.some(s => s.id === it.songId)) : [];
+
+      document.getElementById('ov-current-mass-title').textContent = currentMass ? currentMass.title : 'Nenhuma missa selecionada';
+      document.getElementById('ov-current-mass-meta').textContent = currentMass
+        ? `${validItems.length} canto(s) • Cor: ${(LITURGICAL_COLORS[currentMass.liturgicalColor || 'verde'] || LITURGICAL_COLORS.verde).name.split(' ')[0]} • ${currentMass.notes || 'Roteiro pronto para tocar'}`
+        : 'Crie um roteiro no módulo Montar Missa';
+
+      // Estatísticas
+      document.getElementById('stat-total-songs').textContent = appState.songs.length;
+      document.getElementById('stat-total-masses').textContent = appState.masses.length;
+
+      const filesCount = appState.songs.filter(s => Boolean(s.fileData) || Boolean(s.link)).length;
+      document.getElementById('stat-total-files').textContent = filesCount;
+
+      const rawBytes = new Blob([localStorage.getItem(STORAGE_KEY) || '']).size;
+      const sizeStr = rawBytes > 1024 * 1024
+        ? `${(rawBytes / (1024 * 1024)).toFixed(2)} MB`
+        : `${Math.max(1, Math.round(rawBytes / 1024))} KB`;
+      document.getElementById('stat-storage-size').textContent = sizeStr;
+
+      // Gráfico/Lista de distribuição por momento
+      const chartContainer = document.getElementById('overview-moments-chart');
+      chartContainer.innerHTML = '';
+
+      const totalSongs = Math.max(1, appState.songs.length);
+      LITURGICAL_MOMENTS.forEach(m => {
+        const count = appState.songs.filter(s => s.moment === m.id).length;
+        const pct = Math.round((count / totalSongs) * 100);
+
+        chartContainer.innerHTML += `
+          <div onclick="filterRepertoireByMoment('${m.id}')" class="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/70 hover:bg-[#38BDF8]/10 border border-slate-200/70 dark:border-slate-700/70 transition cursor-pointer">
+            <div class="flex items-center justify-between text-xs font-semibold mb-1.5">
+              <span class="text-slate-700 dark:text-slate-200 truncate pr-2">${m.name}</span>
+              <span class="text-sky-700 dark:text-[#38BDF8] font-bold shrink-0">${count}</span>
+            </div>
+            <div class="w-full h-1.5 bg-slate-200 dark:bg-slate-700 rounded-full overflow-hidden">
+              <div class="h-full bg-[#38BDF8] rounded-full" style="width: ${Math.min(100, pct * 2.5)}%"></div>
+            </div>
+          </div>
+        `;
+      });
+    }
+
+    function filterRepertoireByMoment(momentId) {
+      switchTab('repertoire');
+      document.getElementById('rep-filter-moment').value = momentId;
+      renderRepertoire();
+    }
+
+    // ==================== BACKUP JSON (EXPORTAR / IMPORTAR / RESTAURAR) ====================
+
+    function exportBackupJSON() {
+      const dataStr = JSON.stringify(appState, null, 2);
+      const blob = new Blob([dataStr], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      const dateStamp = new Date().toISOString().split('T')[0];
+      a.href = url;
+      a.download = `ML_Musica_Liturgica_Backup_${dateStamp}.json`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      showToast('Backup JSON exportado com sucesso!', 'success');
+    }
+
+    function importBackupJSON(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        try {
+          const imported = JSON.parse(e.target.result);
+          if (!imported.songs || !Array.isArray(imported.songs)) {
+            throw new Error('Arquivo JSON inválido para o ML – Música Litúrgica.');
+          }
+          appState.songs = imported.songs;
+          appState.masses = Array.isArray(imported.masses) && imported.masses.length > 0
+            ? imported.masses
+            : JSON.parse(JSON.stringify(DEFAULT_MASSES));
+          appState.currentMassId = imported.currentMassId || appState.masses[0].id;
+          saveState();
+          refreshAllViews();
+          showToast(`Backup restaurado! ${appState.songs.length} músicas carregadas.`, 'success');
+        } catch (err) {
+          showToast('Erro ao importar JSON: ' + err.message, 'error');
+        } finally {
+          event.target.value = '';
+        }
+      };
+      reader.readAsText(file);
+    }
+
+    function confirmResetDemoData() {
+      openConfirmDialog(
+        'Restaurar dados iniciais',
+        'Isso substituirá suas músicas e missas atuais pelas 8 músicas litúrgicas de exemplo. Recomendamos exportar um backup JSON antes. Deseja continuar?',
+        () => {
+          appState.songs = JSON.parse(JSON.stringify(DEFAULT_SONGS));
+          appState.masses = JSON.parse(JSON.stringify(DEFAULT_MASSES));
+          appState.currentMassId = appState.masses[0].id;
+          saveState();
+          refreshAllViews();
+          showToast('Repertório inicial restaurado com sucesso!', 'success');
+        }
+      );
+    }
+
+    // ==================== MÓDULO 2: REPERTÓRIO ====================
+
+    function renderRepertoire() {
+      const grid = document.getElementById('repertoire-grid');
+      const query = (document.getElementById('rep-search').value || '').toLowerCase().trim();
+      const momentFilter = document.getElementById('rep-filter-moment').value;
+      const keyFilter = document.getElementById('rep-filter-key').value;
+
+      const filtered = appState.songs.filter(song => {
+        const matchQuery = !query ||
+          song.title.toLowerCase().includes(query) ||
+          (song.author && song.author.toLowerCase().includes(query)) ||
+          (song.lyrics && song.lyrics.toLowerCase().includes(query));
+        const matchMoment = !momentFilter || song.moment === momentFilter;
+        const matchKey = !keyFilter || (song.key && song.key.trim().toLowerCase() === keyFilter.toLowerCase());
+        return matchQuery && matchMoment && matchKey;
+      });
+
+      if (filtered.length === 0) {
+        grid.innerHTML = `
+          <div class="col-span-full bg-white dark:bg-slate-900 border border-dashed border-slate-300 dark:border-slate-700 rounded-2xl p-10 text-center">
+            <p class="text-slate-500 dark:text-slate-400 font-medium mb-3">Nenhuma música encontrada com os filtros atuais.</p>
+            <button onclick="openSongModal()" class="px-4 py-2 rounded-xl bg-[#38BDF8] text-slate-950 font-bold text-sm">Cadastrar Música</button>
+          </div>
+        `;
+        return;
+      }
+
+      grid.innerHTML = filtered.map(song => {
+        const hasPdf = song.fileType === 'application/pdf';
+        const hasImg = song.fileType && song.fileType.startsWith('image/');
+        const hasLyrics = Boolean(song.lyrics && song.lyrics.trim());
+
+        return `
+          <article class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-sky-400/60 rounded-2xl p-5 shadow-sm flex flex-col justify-between transition group">
+            <div>
+              <div class="flex items-start justify-between gap-2 mb-2">
+                <span class="px-2.5 py-1 rounded-lg bg-[#38BDF8]/15 text-amber-700 dark:text-[#38BDF8] text-[11px] font-bold uppercase tracking-wide">
+                  ${getMomentName(song.moment)}
+                </span>
+                ${song.key ? `<span class="px-2.5 py-1 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-[#38BDF8] font-mono text-xs font-extrabold">Tom: ${escapeHtml(song.key)}</span>` : ''}
+              </div>
+
+              <h3 class="text-lg font-extrabold text-slate-900 dark:text-white group-hover:text-sky-700 dark:group-hover:text-amber-400 transition leading-snug">
+                ${escapeHtml(song.title)}
+              </h3>
+              <p class="text-xs text-slate-500 dark:text-slate-400 mt-1">
+                ${song.author ? escapeHtml(song.author) : 'Autor desconhecido'} ${song.tempo ? `• ${escapeHtml(song.tempo)}` : ''}
+              </p>
+
+              <!-- Badges de formato disponível -->
+              <div class="flex flex-wrap items-center gap-1.5 mt-3">
+                ${hasLyrics ? `<span class="px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 text-[11px] font-medium">Cifra/Letra</span>` : ''}
+                ${hasPdf ? `<span class="px-2 py-0.5 rounded bg-rose-500/15 text-rose-600 dark:text-rose-400 text-[11px] font-semibold">PDF Offline</span>` : ''}
+                ${hasImg ? `<span class="px-2 py-0.5 rounded bg-sky-500/15 text-sky-600 dark:text-sky-400 text-[11px] font-semibold">Partitura Img</span>` : ''}
+                ${song.link ? `<a href="${escapeHtml(song.link)}" target="_blank" rel="noopener" class="px-2 py-0.5 rounded bg-emerald-500/15 text-emerald-700 dark:text-emerald-400 text-[11px] font-semibold hover:underline">Link ↗</a>` : ''}
+              </div>
+            </div>
+
+            <div class="mt-5 pt-3.5 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between gap-2">
+              <button onclick="openStageSingleSong('${song.id}')" class="flex-1 py-2 px-3 rounded-xl bg-[#38BDF8] hover:bg-sky-300 text-slate-950 font-bold text-xs flex items-center justify-center gap-1.5 transition cursor-pointer">
+                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+                Tocar no Palco
+              </button>
+
+              <button onclick="openSongModal('${song.id}')" class="p-2 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 transition cursor-pointer" title="Editar música">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg>
+              </button>
+
+              <button onclick="deleteSong('${song.id}')" class="p-2 rounded-xl bg-rose-500/10 hover:bg-rose-500/20 text-rose-600 dark:text-rose-400 transition cursor-pointer" title="Excluir música">
+                <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/></svg>
+              </button>
+            </div>
+          </article>
+        `;
+      }).join('');
+    }
+
+    // Modal de Cadastro / Edição de Música
+    function openSongModal(songId = null) {
+      const modal = document.getElementById('song-modal');
+      const titleEl = document.getElementById('song-modal-title');
+      const form = document.getElementById('song-form');
+      form.reset();
+
+      tempUploadedFile = { fileData: null, fileName: '', fileType: '' };
+      document.getElementById('song-file-status').innerHTML = '<span>Nenhum arquivo anexado (PDF ou Imagem até ~2.5MB).</span>';
+
+      if (songId) {
+        const song = appState.songs.find(s => s.id === songId);
+        if (!song) return;
+        titleEl.textContent = 'Editar Música';
+        document.getElementById('song-id').value = song.id;
+        document.getElementById('song-title').value = song.title;
+        document.getElementById('song-author').value = song.author || '';
+        document.getElementById('song-moment').value = song.moment;
+        document.getElementById('song-key').value = song.key || '';
+        document.getElementById('song-tempo').value = song.tempo || '';
+        document.getElementById('song-link').value = song.link || '';
+        document.getElementById('song-lyrics').value = song.lyrics || '';
+
+        if (song.fileData) {
+          tempUploadedFile = {
+            fileData: song.fileData,
+            fileName: song.fileName || 'arquivo_anexado',
+            fileType: song.fileType || ''
+          };
+          renderUploadedFileStatus();
+        }
+      } else {
+        titleEl.textContent = 'Cadastrar Nova Música';
+        document.getElementById('song-id').value = '';
+      }
+
+      modal.classList.remove('hidden');
+      modal.classList.add('flex');
+    }
+
+    function closeSongModal() {
+      const modal = document.getElementById('song-modal');
+      modal.classList.add('hidden');
+      modal.classList.remove('flex');
+    }
+
+    function handleSongFileUpload(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      // Aviso inteligente sobre limite do localStorage (~5MB total no navegador)
+      if (file.size > 3.2 * 1024 * 1024) {
+        showToast('Arquivo muito grande (>3.2MB). O armazenamento offline do navegador pode recusar salvar. Prefira PDFs compactados ou imagens leves.', 'error');
+      }
+
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        tempUploadedFile = {
+          fileData: e.target.result,
+          fileName: file.name,
+          fileType: file.type
+        };
+        renderUploadedFileStatus();
+      };
+      reader.readAsDataURL(file);
+    }
+
+    function renderUploadedFileStatus() {
+      const statusEl = document.getElementById('song-file-status');
+      if (tempUploadedFile.fileData) {
+        statusEl.innerHTML = `
+          <span class="text-emerald-600 dark:text-emerald-400 font-semibold truncate max-w-[200px]">✓ ${escapeHtml(tempUploadedFile.fileName)}</span>
+          <button type="button" onclick="removeTempUploadedFile()" class="text-rose-500 hover:underline font-semibold ml-2">Remover</button>
+        `;
+      } else {
+        statusEl.innerHTML = '<span>Nenhum arquivo anexado (PDF ou Imagem).</span>';
+      }
+    }
+
+    function removeTempUploadedFile() {
+      tempUploadedFile = { fileData: null, fileName: '', fileType: '' };
+      document.getElementById('song-file-input').value = '';
+      renderUploadedFileStatus();
+    }
+
+    function saveSongForm(event) {
+      event.preventDefault();
+      const id = document.getElementById('song-id').value;
+      const songData = {
+        id: id || 'song_' + Date.now(),
+        title: document.getElementById('song-title').value.trim(),
+        author: document.getElementById('song-author').value.trim(),
+        moment: document.getElementById('song-moment').value,
+        key: document.getElementById('song-key').value.trim(),
+        tempo: document.getElementById('song-tempo').value.trim(),
+        link: document.getElementById('song-link').value.trim(),
+        lyrics: document.getElementById('song-lyrics').value,
+        fileData: tempUploadedFile.fileData,
+        fileName: tempUploadedFile.fileName,
+        fileType: tempUploadedFile.fileType
+      };
+
+      if (id) {
+        const idx = appState.songs.findIndex(s => s.id === id);
+        if (idx !== -1) appState.songs[idx] = songData;
+        showToast('Música atualizada no repertório!', 'success');
+      } else {
+        appState.songs.unshift(songData);
+        showToast('Nova música cadastrada com sucesso!', 'success');
+      }
+
+      saveState();
+      closeSongModal();
+      refreshAllViews();
+    }
+
+    function deleteSong(songId) {
+      const song = appState.songs.find(s => s.id === songId);
+      if (!song) return;
+      openConfirmDialog(
+        'Excluir Música',
+        `Deseja remover "${song.title}" do repertório? Ela também será retirada das missas onde estiver incluída.`,
+        () => {
+          appState.songs = appState.songs.filter(s => s.id !== songId);
+          appState.masses.forEach(m => {
+            m.items = m.items.filter(it => it.songId !== songId);
+          });
+          saveState();
+          refreshAllViews();
+          showToast('Música excluída.', 'info');
+        }
+      );
+    }
+
+    // ==================== MÓDULO 3: MONTAR MISSA ====================
+
+    function renderMassBuilder() {
+      const selectEl = document.getElementById('saved-masses-select');
+      selectEl.innerHTML = appState.masses.map(m =>
+        `<option value="${m.id}" ${m.id === appState.currentMassId ? 'selected' : ''}>${escapeHtml(m.title)}</option>`
+      ).join('');
+
+      const mass = getCurrentMass();
+      if (!mass) return;
+
+      document.getElementById('mass-title-input').value = mass.title;
+      document.getElementById('mass-date-input').value = mass.date || '';
+      document.getElementById('mass-notes-input').value = mass.notes || '';
+      const colorSel = document.getElementById('mass-color-select');
+      if (colorSel) colorSel.value = mass.liturgicalColor || 'verde';
+
+      const validItems = mass.items.filter(it => appState.songs.some(s => s.id === it.songId));
+      document.getElementById('mass-song-counter').textContent = `${validItems.length} música(s) selecionada(s) no roteiro`;
+
+      const container = document.getElementById('mass-moments-container');
+      container.innerHTML = LITURGICAL_MOMENTS.map((moment, mIdx) => {
+        const momentItems = mass.items
+          .map((item, globalIdx) => ({ ...item, globalIdx }))
+          .filter(item => item.momentId === moment.id);
+
+        const songsHtml = momentItems.length === 0
+          ? `<p class="text-xs text-slate-400 italic py-2">Nenhum canto selecionado para este momento.</p>`
+          : momentItems.map((item, localIdx) => {
+              const song = appState.songs.find(s => s.id === item.songId);
+              if (!song) return '';
+              return `
+                <div class="flex flex-wrap items-center justify-between gap-2 p-3 rounded-xl bg-slate-50 dark:bg-slate-800/90 border border-slate-200 dark:border-slate-700">
+                  <div class="flex items-center gap-3 min-w-0">
+                    <span class="w-6 h-6 rounded-lg bg-[#38BDF8]/20 text-amber-700 dark:text-[#38BDF8] text-xs font-extrabold flex items-center justify-center shrink-0">
+                      ${localIdx + 1}
+                    </span>
+                    <div class="min-w-0">
+                      <p class="text-sm font-bold text-slate-900 dark:text-white truncate">${escapeHtml(song.title)}</p>
+                      <p class="text-xs text-slate-500 dark:text-slate-400 truncate">
+                        ${song.key ? `Tom: <strong class="text-sky-700 dark:text-[#38BDF8] font-mono">${escapeHtml(song.key)}</strong> • ` : ''}
+                        ${song.author ? escapeHtml(song.author) : 'Repertório'}
+                      </p>
+                    </div>
+                  </div>
+
+                  <div class="flex items-center gap-1 shrink-0">
+                    <button onclick="openStageAtMassItem('${item.uid}')" class="px-2.5 py-1.5 rounded-lg bg-[#38BDF8]/15 hover:bg-[#38BDF8] text-amber-700 dark:text-[#38BDF8] hover:text-slate-950 text-xs font-bold transition cursor-pointer" title="Abrir este canto no Modo Palco">
+                      ▶ Tocar
+                    </button>
+                    <button onclick="moveMassItem('${item.uid}', -1)" ${localIdx === 0 ? 'disabled' : ''} class="p-1.5 rounded-lg bg-slate-200/70 dark:bg-slate-700 disabled:opacity-30 text-slate-700 dark:text-slate-200 hover:bg-slate-300 transition" title="Subir ordem">
+                      ↑
+                    </button>
+                    <button onclick="moveMassItem('${item.uid}', 1)" ${localIdx === momentItems.length - 1 ? 'disabled' : ''} class="p-1.5 rounded-lg bg-slate-200/70 dark:bg-slate-700 disabled:opacity-30 text-slate-700 dark:text-slate-200 hover:bg-slate-300 transition" title="Descer ordem">
+                      ↓
+                    </button>
+                    <button onclick="removeMassItem('${item.uid}')" class="p-1.5 rounded-lg bg-rose-500/10 hover:bg-rose-500/20 text-rose-600 dark:text-rose-400 transition" title="Remover do roteiro">
+                      ✕
+                    </button>
+                  </div>
+                </div>
+              `;
+            }).join('');
+
+        return `
+          <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 sm:p-5 shadow-sm">
+            <div class="flex items-center justify-between gap-2 mb-3">
+              <div>
+                <span class="text-[11px] font-bold uppercase tracking-wider text-slate-400">${mIdx + 1}. ${moment.part}</span>
+                <h3 class="text-base font-extrabold text-slate-900 dark:text-white">${moment.name}</h3>
+              </div>
+              <button onclick="openPickerModal('${moment.id}')" class="px-3 py-2 rounded-xl bg-slate-100 hover:bg-[#38BDF8] text-slate-800 dark:bg-slate-800 dark:text-[#38BDF8] hover:text-slate-950 dark:hover:bg-[#38BDF8] dark:hover:text-slate-950 text-xs font-bold flex items-center gap-1.5 transition cursor-pointer shrink-0">
+                <span>+ Escolher Canto</span>
+              </button>
+            </div>
+            <div class="space-y-2">
+              ${songsHtml}
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    function updateMassMeta() {
+      const mass = getCurrentMass();
+      if (!mass) return;
+      mass.title = document.getElementById('mass-title-input').value || 'Missa sem título';
+      mass.date = document.getElementById('mass-date-input').value;
+      mass.notes = document.getElementById('mass-notes-input').value;
+      const colorSel = document.getElementById('mass-color-select');
+      if (colorSel) mass.liturgicalColor = colorSel.value;
+      saveState();
+
+      // Atualiza texto da opção no select sem perder foco
+      const opt = document.querySelector(`#saved-masses-select option[value="${mass.id}"]`);
+      if (opt) opt.textContent = mass.title;
+    }
+
+    function saveMassExplicitly() {
+      updateMassMeta();
+      saveState();
+      showToast('Roteiro da missa salvo localmente!', 'success');
+    }
+
+    function loadSelectedMass(massId) {
+      appState.currentMassId = massId;
+      saveState();
+      renderMassBuilder();
+    }
+
+    function createNewMassDraft() {
+      const newMass = {
+        id: 'mass_' + Date.now(),
+        title: `Nova Missa (${new Date().toLocaleDateString('pt-BR')})`,
+        date: new Date().toISOString().split('T')[0],
+        notes: '',
+        items: []
+      };
+      appState.masses.unshift(newMass);
+      appState.currentMassId = newMass.id;
+      saveState();
+      renderMassBuilder();
+      showToast('Novo roteiro de missa criado!', 'info');
+    }
+
+    function deleteCurrentMass() {
+      if (appState.masses.length <= 1) {
+        showToast('É necessário manter pelo menos um roteiro de missa salvo.', 'error');
+        return;
+      }
+      const mass = getCurrentMass();
+      openConfirmDialog(
+        'Excluir Roteiro de Missa',
+        `Deseja realmente excluir "${mass.title}"?`,
+        () => {
+          appState.masses = appState.masses.filter(m => m.id !== mass.id);
+          appState.currentMassId = appState.masses[0].id;
+          saveState();
+          refreshAllViews();
+          showToast('Roteiro excluído.', 'info');
+        }
+      );
+    }
+
+    // Modal Seletor de Música para Momento
+    function openPickerModal(momentId) {
+      activePickerMomentId = momentId;
+      document.getElementById('picker-moment-title').textContent = getMomentName(momentId);
+      document.getElementById('picker-search').value = '';
+      document.getElementById('picker-filter-suggested').checked = true;
+      renderPickerList();
+
+      const modal = document.getElementById('picker-modal');
+      modal.classList.remove('hidden');
+      modal.classList.add('flex');
+    }
+
+    function closePickerModal() {
+      const modal = document.getElementById('picker-modal');
+      modal.classList.add('hidden');
+      modal.classList.remove('flex');
+    }
+
+    function renderPickerList() {
+      const listEl = document.getElementById('picker-songs-list');
+      const query = (document.getElementById('picker-search').value || '').toLowerCase().trim();
+      const onlySuggested = document.getElementById('picker-filter-suggested').checked;
+
+      let candidates = appState.songs.filter(song => {
+        const matchMoment = !onlySuggested || song.moment === activePickerMomentId;
+        const matchQuery = !query ||
+          song.title.toLowerCase().includes(query) ||
+          (song.author && song.author.toLowerCase().includes(query));
+        return matchMoment && matchQuery;
+      });
+
+      if (candidates.length === 0) {
+        listEl.innerHTML = `
+          <div class="text-center py-8 text-sm text-slate-500">
+            <p class="mb-2">Nenhuma música encontrada neste filtro.</p>
+            ${onlySuggested ? `<button onclick="document.getElementById('picker-filter-suggested').checked=false; renderPickerList();" class="text-sky-700 dark:text-[#38BDF8] font-bold underline">Mostrar todas as músicas do repertório</button>` : ''}
+          </div>
+        `;
+        return;
+      }
+
+      listEl.innerHTML = candidates.map(song => `
+        <div onclick="addSongToCurrentMass('${song.id}')" class="p-3 rounded-xl bg-slate-50 dark:bg-slate-800/80 hover:bg-[#38BDF8]/15 border border-slate-200 dark:border-slate-700 flex items-center justify-between gap-3 cursor-pointer transition">
+          <div class="min-w-0">
+            <p class="text-sm font-bold text-slate-900 dark:text-white truncate">${escapeHtml(song.title)}</p>
+            <p class="text-xs text-slate-500 dark:text-slate-400 truncate">
+              ${getMomentName(song.moment)} ${song.author ? `• ${escapeHtml(song.author)}` : ''}
+            </p>
+          </div>
+          <div class="flex items-center gap-2 shrink-0">
+            ${song.key ? `<span class="px-2 py-1 rounded bg-slate-200 dark:bg-slate-700 font-mono text-xs font-bold">${escapeHtml(song.key)}</span>` : ''}
+            <span class="px-3 py-1.5 rounded-lg bg-[#38BDF8] text-slate-950 font-bold text-xs">+ Adicionar</span>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    function addSongToCurrentMass(songId) {
+      const mass = getCurrentMass();
+      if (!mass || !activePickerMomentId) return;
+
+      mass.items.push({
+        uid: 'item_' + Date.now() + '_' + Math.random().toString(36).slice(2, 6),
+        momentId: activePickerMomentId,
+        songId: songId
+      });
+
+      saveState();
+      closePickerModal();
+      renderMassBuilder();
+      showToast('Canto adicionado ao roteiro!', 'success');
+    }
+
+    function moveMassItem(uid, direction) {
+      const mass = getCurrentMass();
+      if (!mass) return;
+      const target = mass.items.find(it => it.uid === uid);
+      if (!target) return;
+
+      // Índices de todos os itens pertencentes ao mesmo momento
+      const sameMomentIndices = [];
+      mass.items.forEach((it, idx) => {
+        if (it.momentId === target.momentId) sameMomentIndices.push(idx);
+      });
+
+      const pos = sameMomentIndices.indexOf(mass.items.indexOf(target));
+      const swapPos = pos + direction;
+      if (swapPos < 0 || swapPos >= sameMomentIndices.length) return;
+
+      const idxA = sameMomentIndices[pos];
+      const idxB = sameMomentIndices[swapPos];
+      [mass.items[idxA], mass.items[idxB]] = [mass.items[idxB], mass.items[idxA]];
+
+      saveState();
+      renderMassBuilder();
+    }
+
+    function removeMassItem(uid) {
+      const mass = getCurrentMass();
+      if (!mass) return;
+      mass.items = mass.items.filter(it => it.uid !== uid);
+      saveState();
+      renderMassBuilder();
+    }
+
+    // ==================== IMPRESSÃO LIMPA A4 DO ROTEIRO ====================
+
+    function printCurrentMass() {
+      const mass = getCurrentMass();
+      if (!mass) return;
+
+      const printArea = document.getElementById('print-area');
+      const formattedDate = mass.date ? new Date(mass.date + 'T12:00:00').toLocaleDateString('pt-BR') : '';
+
+      let rowsHtml = '';
+      LITURGICAL_MOMENTS.forEach((moment, index) => {
+        const items = mass.items.filter(it => it.momentId === moment.id);
+        if (items.length === 0) return;
+
+        items.forEach((it, subIdx) => {
+          const song = appState.songs.find(s => s.id === it.songId);
+          if (!song) return;
+          rowsHtml += `
+            <tr style="border-bottom: 1px solid #d1d5db;">
+              <td style="padding: 10px 8px; font-weight: 700; width: 32%; vertical-align: top;">
+                ${index + 1}. ${escapeHtml(moment.name)} ${items.length > 1 ? `(${subIdx + 1})` : ''}
+              </td>
+              <td style="padding: 10px 8px; vertical-align: top;">
+                <div style="font-weight: 700; font-size: 14px;">${escapeHtml(song.title)}</div>
+                <div style="font-size: 11px; color: #4b5563;">${song.author ? escapeHtml(song.author) : ''}</div>
+              </td>
+              <td style="padding: 10px 8px; font-family: monospace; font-weight: 700; text-align: center; width: 12%; vertical-align: top;">
+                ${song.key ? escapeHtml(song.key) : '—'}
+              </td>
+            </tr>
+          `;
+        });
+      });
+
+      if (!rowsHtml) {
+        showToast('Adicione pelo menos um canto ao roteiro antes de imprimir.', 'error');
+        return;
+      }
+
+      printArea.innerHTML = `
+        <div style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto;">
+          <div style="border-bottom: 2px solid #111827; padding-bottom: 12px; margin-bottom: 16px; display: flex; justify-content: space-between; align-items: flex-end;">
+            <div>
+              <div style="font-size: 11px; text-transform: uppercase; letter-spacing: 1px; color: #6b7280;">ML – Música Litúrgica • Roteiro da Celebração</div>
+              <h1 style="font-size: 22px; margin: 4px 0 0 0; color: #111827;">${escapeHtml(mass.title)}</h1>
+              ${mass.notes ? `<p style="font-size: 12px; color: #374151; margin: 4px 0 0 0;">${escapeHtml(mass.notes)}</p>` : ''}
+            </div>
+            <div style="font-size: 13px; font-weight: bold;">${formattedDate}</div>
+          </div>
+
+          <table style="width: 100%; border-collapse: collapse; font-size: 13px;">
+            <thead>
+              <tr style="background: #f3f4f6; border-bottom: 2px solid #9ca3af; text-align: left;">
+                <th style="padding: 8px;">Momento Litúrgico</th>
+                <th style="padding: 8px;">Canto Selecionado</th>
+                <th style="padding: 8px; text-align: center;">Tom</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${rowsHtml}
+            </tbody>
+          </table>
+
+          <div style="margin-top: 24px; font-size: 11px; color: #6b7280; text-align: center;">
+            Gerado por ML – Música Litúrgica
+          </div>
+        </div>
+      `;
+
+      window.print();
+    }
+
+    // ==================== MÓDULO 4: CATEGORIAS LITÚRGICAS ====================
+
+    function renderCategories() {
+      const container = document.getElementById('categories-list');
+      const parts = ['Ritos Iniciais', 'Liturgia da Palavra', 'Liturgia Eucarística', 'Rito da Comunhão', 'Ritos Finais'];
+
+      container.innerHTML = parts.map(part => {
+        const momentsInPart = LITURGICAL_MOMENTS.filter(m => m.part === part);
+        return `
+          <div class="space-y-3">
+            <h3 class="text-lg font-extrabold text-sky-700 dark:text-[#38BDF8] border-b border-slate-200 dark:border-slate-800 pb-2">
+              ${part}
+            </h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              ${momentsInPart.map(m => {
+                const count = appState.songs.filter(s => s.moment === m.id).length;
+                return `
+                  <div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 shadow-sm flex flex-col justify-between">
+                    <div>
+                      <div class="flex items-center justify-between gap-2 mb-2">
+                        <h4 class="text-base font-extrabold text-slate-900 dark:text-white">${m.name}</h4>
+                        <span class="px-2.5 py-0.5 rounded-full bg-slate-100 dark:bg-slate-800 text-xs font-bold text-slate-600 dark:text-slate-300">
+                          ${count} canto(s)
+                        </span>
+                      </div>
+                      <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed mb-3">
+                        <strong class="text-slate-800 dark:text-slate-100">Função Litúrgica:</strong> ${m.functionDesc}
+                      </p>
+                      <div class="p-3 rounded-xl bg-[#38BDF8]/10 border border-sky-400/30 text-xs text-amber-900 dark:text-[#F5EFE0] leading-relaxed">
+                        <strong>Orientação Pastoral (IGMR):</strong> ${m.igmrTip}
+                      </div>
+                    </div>
+
+                    <div class="mt-4 pt-3 border-t border-slate-100 dark:border-slate-800 flex justify-end">
+                      <button onclick="filterRepertoireByMoment('${m.id}')" class="text-xs font-bold text-sky-700 dark:text-[#38BDF8] hover:underline flex items-center gap-1 cursor-pointer">
+                        Ver músicas desta categoria no Repertório →
+                      </button>
+                    </div>
+                  </div>
+                `;
+              }).join('')}
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    // ==================== 3. MODO PALCO & TELEPROMPTER (AUTO-SCROLL) ====================
+
+    function buildOrderedMassPlaylist() {
+      const mass = getCurrentMass();
+      if (!mass) return [];
+
+      const ordered = [];
+      // Segue rigorosamente a ordem oficial dos momentos litúrgicos
+      LITURGICAL_MOMENTS.forEach(moment => {
+        const items = mass.items.filter(it => it.momentId === moment.id);
+        items.forEach(it => {
+          const song = appState.songs.find(s => s.id === it.songId);
+          if (song) {
+            ordered.push({
+              uid: it.uid,
+              momentName: moment.name,
+              song: song
+            });
+          }
+        });
+      });
+      return ordered;
+    }
+
+    function openStageFromCurrentMass() {
+      const playlist = buildOrderedMassPlaylist();
+      if (playlist.length === 0) {
+        showToast('A missa atual ainda não possui músicas. Adicione cantos no módulo "Montar Missa".', 'error');
+        switchTab('builder');
+        return;
+      }
+      launchStageMode(playlist, 0);
+    }
+
+    function openStageAtMassItem(itemUid) {
+      const playlist = buildOrderedMassPlaylist();
+      const idx = playlist.findIndex(p => p.uid === itemUid);
+      launchStageMode(playlist, idx >= 0 ? idx : 0);
+    }
+
+    function openStageSingleSong(songId) {
+      const song = appState.songs.find(s => s.id === songId);
+      if (!song) return;
+      const playlist = [{
+        uid: 'single_' + song.id,
+        momentName: getMomentName(song.moment),
+        song: song
+      }];
+      launchStageMode(playlist, 0);
+    }
+
+    function setStageTopBarHidden(hidden) {
+      const topBar = document.getElementById('stage-top-bar');
+      if (!topBar) return;
+      if (hidden) {
+        topBar.classList.add('hidden');
+      } else {
+        topBar.classList.remove('hidden');
+      }
+    }
+
+    function setStageBottomBarHidden(hidden) {
+      const bottomBar = document.getElementById('stage-bottom-bar');
+      if (!bottomBar) return;
+      if (hidden) {
+        bottomBar.classList.add('hidden');
+      } else {
+        bottomBar.classList.remove('hidden');
+      }
+    }
+
+    function toggleStageBottomBar() {
+      const bottomBar = document.getElementById('stage-bottom-bar');
+      if (!bottomBar) return;
+      bottomBar.classList.toggle('hidden');
+    }
+
+    async function launchStageMode(playlist, startIndex = 0) {
+      stageState.playlist = playlist;
+      stageState.currentIndex = startIndex;
+      stageState.semitoneOffset = 0;
+      stopAutoScroll();
+      setStageTopBarHidden(false);
+      setStageBottomBarHidden(false);
+
+      const overlay = document.getElementById('stage-overlay');
+      overlay.classList.remove('hidden');
+      overlay.classList.add('flex');
+
+      await lockOrientationSafe('landscape');
+
+      renderStageTrack();
+      renderStageDrawer();
+    }
+
+    async function closeStageMode() {
+      stopAutoScroll();
+      setStageTopBarHidden(false);
+      setStageBottomBarHidden(false);
+      const overlay = document.getElementById('stage-overlay');
+      overlay.classList.add('hidden');
+      overlay.classList.remove('flex');
+
+      await restorePortraitOrientation();
+    }
+
+    function renderStageTrack() {
+      const track = stageState.playlist[stageState.currentIndex];
+      if (!track) return;
+
+      const song = track.song;
+      document.getElementById('stage-moment-badge').textContent = track.momentName;
+      document.getElementById('stage-track-counter').textContent = `${stageState.currentIndex + 1} / ${stageState.playlist.length}`;
+      document.getElementById('stage-song-title').textContent = song.title;
+
+      // Atualiza botões Anterior / Próximo
+      document.getElementById('stage-prev-btn').disabled = stageState.currentIndex === 0;
+      document.getElementById('stage-next-btn').disabled = stageState.currentIndex === stageState.playlist.length - 1;
+
+      const hasPdf = song.fileData && song.fileType === 'application/pdf';
+      const hasImage = song.fileData && song.fileType && song.fileType.startsWith('image/');
+      const hasLyrics = Boolean(song.lyrics && song.lyrics.trim());
+
+      // Controles de fonte e transposição visíveis apenas quando houver cifra/letra em texto
+      const transposeControls = document.getElementById('stage-transpose-controls');
+      const fontControls = document.getElementById('stage-font-controls');
+
+      if (hasLyrics) {
+        transposeControls.classList.remove('hidden');
+        transposeControls.classList.add('flex');
+        fontControls.classList.remove('hidden');
+        fontControls.classList.add('flex');
+
+        const baseKey = song.key || '—';
+        const transposedKey = song.key ? transposeChordToken(song.key, stageState.semitoneOffset) : '—';
+        document.getElementById('stage-key-display').textContent = `Tom: ${transposedKey}${stageState.semitoneOffset !== 0 ? ` (${stageState.semitoneOffset > 0 ? '+' : ''}${stageState.semitoneOffset})` : ''}`;
+      } else {
+        transposeControls.classList.add('hidden');
+        transposeControls.classList.remove('flex');
+        fontControls.classList.add('hidden');
+        fontControls.classList.remove('flex');
+      }
+
+      const contentEl = document.getElementById('stage-content-render');
+      let html = '';
+
+      // 1. Se houver PDF anexado
+      if (hasPdf) {
+        html += `
+          <div class="mb-6">
+            <div class="flex items-center justify-between bg-slate-900 border border-slate-800 px-4 py-2 rounded-t-xl text-xs text-slate-300">
+              <span>Partitura PDF: <strong>${escapeHtml(song.fileName)}</strong></span>
+              <a href="${song.fileData}" download="${escapeHtml(song.fileName || 'partitura.pdf')}" class="text-amber-400 hover:underline font-bold">Baixar PDF</a>
+            </div>
+            <iframe src="${song.fileData}" class="w-full h-[78vh] rounded-b-xl border border-slate-800 bg-white" title="Partitura PDF"></iframe>
+          </div>
+        `;
+      }
+
+      // 2. Se houver Imagem de Partitura anexada
+      if (hasImage) {
+        html += `
+          <div class="mb-6 flex flex-col items-center">
+            <img src="${song.fileData}" alt="${escapeHtml(song.title)}" class="max-w-full w-full h-auto rounded-xl shadow-2xl border border-slate-800 bg-white" />
+          </div>
+        `;
+      }
+
+      // 3. Se houver Cifra / Letra em texto (sem espaço lateral até a borda da tela; toque alterna barra inferior)
+      if (hasLyrics) {
+        const formattedLyrics = formatLyricsWithChords(song.lyrics, stageState.semitoneOffset);
+        html += `
+          <div id="stage-lyrics-box" onclick="toggleStageBottomBar()" class="w-full bg-slate-950 px-1 py-2 cursor-pointer">
+            <div class="mb-3 pb-2 border-b border-slate-800/80 flex flex-wrap items-center justify-between gap-2 text-xs text-slate-400">
+              <span>${song.author ? `Compositor: <strong class="text-slate-200">${escapeHtml(song.author)}</strong>` : ''}</span>
+              <span>${song.tempo ? `Andamento: <strong class="text-amber-400">${escapeHtml(song.tempo)}</strong>` : ''}</span>
+            </div>
+            <pre id="stage-lyrics-pre" style="font-size: ${stageState.fontSize}px; line-height: 1.65;" class="w-full font-mono whitespace-pre-wrap break-words text-slate-100">${formattedLyrics}</pre>
+          </div>
+        `;
+      }
+
+      // 4. Caso não tenha conteúdo local, mas tenha link externo
+      if (!hasPdf && !hasImage && !hasLyrics) {
+        html = `
+          <div class="text-center py-16 bg-slate-900 border border-slate-800 rounded-2xl p-6">
+            <p class="text-lg font-bold text-slate-200 mb-2">Esta música ainda não possui cifra ou partitura anexada.</p>
+            <p class="text-sm text-slate-400 mb-6">Edite a música no Repertório para colar a letra/cifra ou anexar um PDF/Imagem.</p>
+            ${song.link ? `<a href="${escapeHtml(song.link)}" target="_blank" rel="noopener" class="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-[#38BDF8] text-slate-950 font-bold text-sm">Abrir Link Externo ↗</a>` : ''}
+          </div>
+        `;
+      }
+
+      contentEl.innerHTML = html;
+      scrollStageToTop();
+      renderStageDrawer();
+    }
+
+    function prevStageTrack() {
+      if (stageState.currentIndex > 0) {
+        stageState.currentIndex--;
+        stageState.semitoneOffset = 0;
+        renderStageTrack();
+      }
+    }
+
+    function nextStageTrack() {
+      if (stageState.currentIndex < stageState.playlist.length - 1) {
+        stageState.currentIndex++;
+        stageState.semitoneOffset = 0;
+        renderStageTrack();
+      }
+    }
+
+    function changeStageFontSize(delta) {
+      stageState.fontSize = Math.min(34, Math.max(12, stageState.fontSize + delta));
+      const pre = document.getElementById('stage-lyrics-pre');
+      if (pre) pre.style.fontSize = `${stageState.fontSize}px`;
+    }
+
+    function transposeStageSong(step) {
+      stageState.semitoneOffset += step;
+      if (stageState.semitoneOffset > 11) stageState.semitoneOffset -= 12;
+      if (stageState.semitoneOffset < -11) stageState.semitoneOffset += 12;
+      renderStageTrack();
+    }
+
+    function toggleStageDrawer() {
+      const drawer = document.getElementById('stage-drawer');
+      if (drawer.classList.contains('hidden')) {
+        drawer.classList.remove('hidden');
+        drawer.classList.add('flex');
+      } else {
+        drawer.classList.add('hidden');
+        drawer.classList.remove('flex');
+      }
+    }
+
+    function renderStageDrawer() {
+      const listEl = document.getElementById('stage-playlist-items');
+      listEl.innerHTML = stageState.playlist.map((item, idx) => {
+        const active = idx === stageState.currentIndex;
+        return `
+          <button onclick="stageState.currentIndex=${idx}; stageState.semitoneOffset=0; renderStageTrack();" class="w-full text-left p-2.5 rounded-xl transition flex items-start gap-2.5 ${active ? 'bg-[#38BDF8] text-slate-950 font-bold shadow' : 'hover:bg-slate-800 text-slate-300'}">
+            <span class="text-xs font-mono mt-0.5 ${active ? 'text-slate-950 font-extrabold' : 'text-slate-500'}">${idx + 1}.</span>
+            <div class="min-w-0 flex-1">
+              <div class="text-[10px] uppercase tracking-wider ${active ? 'text-slate-900/80' : 'text-amber-400/80'} truncate">${escapeHtml(item.momentName)}</div>
+              <div class="text-xs sm:text-sm truncate">${escapeHtml(item.song.title)}</div>
+            </div>
+          </button>
+        `;
+      }).join('');
+    }
+
+    // ==================== MOTOR DE AUTO-SCROLL (TELEPROMPTER) ====================
+
+    function toggleAutoScroll() {
+      if (stageState.isScrolling) {
+        stopAutoScroll();
+      } else {
+        startAutoScroll();
+      }
+    }
+
+    function startAutoScroll() {
+      if (stageState.isScrolling) return;
+      stageState.isScrolling = true;
+      stageState.scrollRemainder = 0;
+      setStageTopBarHidden(true);
+      setStageBottomBarHidden(true);
+
+      const btn = document.getElementById('stage-scroll-toggle');
+      btn.classList.remove('bg-emerald-600', 'hover:bg-emerald-500');
+      btn.classList.add('bg-rose-600', 'hover:bg-rose-500');
+      document.getElementById('scroll-icon-play').classList.add('hidden');
+      document.getElementById('scroll-icon-pause').classList.remove('hidden');
+      document.getElementById('scroll-btn-label').textContent = 'Pausar';
+
+      const container = document.getElementById('stage-scroll-container');
+
+      // Loop suave a ~30fps com acumulador sub-pixel para permitir velocidades muito lentas e precisas
+      stageState.scrollIntervalId = setInterval(() => {
+        if (!stageState.isScrolling) return;
+        const pixelsPerTick = stageState.scrollSpeed * 0.38;
+        stageState.scrollRemainder += pixelsPerTick;
+
+        if (stageState.scrollRemainder >= 1) {
+          const step = Math.floor(stageState.scrollRemainder);
+          stageState.scrollRemainder -= step;
+          container.scrollTop += step;
+
+          // Pausa automaticamente ao chegar ao final da página
+          if (container.scrollTop + container.clientHeight >= container.scrollHeight - 2) {
+            stopAutoScroll();
+          }
+        }
+      }, 33);
+    }
+
+    function stopAutoScroll() {
+      stageState.isScrolling = false;
+      setStageTopBarHidden(false);
+      setStageBottomBarHidden(false);
+      if (stageState.scrollIntervalId) {
+        clearInterval(stageState.scrollIntervalId);
+        stageState.scrollIntervalId = null;
+      }
+
+      const btn = document.getElementById('stage-scroll-toggle');
+      if (btn) {
+        btn.classList.add('bg-emerald-600', 'hover:bg-emerald-500');
+        btn.classList.remove('bg-rose-600', 'hover:bg-rose-500');
+        document.getElementById('scroll-icon-play').classList.remove('hidden');
+        document.getElementById('scroll-icon-pause').classList.add('hidden');
+        document.getElementById('scroll-btn-label').textContent = 'Auto-Rolar';
+      }
+    }
+
+    function updateScrollSpeed(val) {
+      stageState.scrollSpeed = parseInt(val, 10) || 3;
+      document.getElementById('stage-speed-badge').textContent = `${stageState.scrollSpeed}x`;
+    }
+
+    function scrollStageToTop() {
+      const container = document.getElementById('stage-scroll-container');
+      if (container) container.scrollTop = 0;
+    }
+
+    // Atalhos de Teclado no Modo Palco (Seta Esquerda/Direita = Trocar Faixa, Espaço = Play/Pause Auto-Scroll)
+    document.addEventListener('keydown', (e) => {
+      const stageOverlay = document.getElementById('stage-overlay');
+      if (stageOverlay.classList.contains('hidden')) return;
+
+      if (e.key === 'ArrowRight') {
+        e.preventDefault();
+        nextStageTrack();
+      } else if (e.key === 'ArrowLeft') {
+        e.preventDefault();
+        prevStageTrack();
+      } else if (e.code === 'Space') {
+        e.preventDefault();
+        toggleAutoScroll();
+      } else if (e.key === 'Escape') {
+        closeStageMode();
+      }
+    });
+
+    // ==================== TRANSPOSIÇÃO E FORMATAÇÃO DE CIFRAS ====================
+
+    const CHROMATIC_SHARP = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+    const FLAT_TO_SHARP = { 'Db': 'C#', 'Eb': 'D#', 'Gb': 'F#', 'Ab': 'G#', 'Bb': 'A#' };
+
+    function transposeChordToken(token, semitones) {
+      if (!semitones) return token;
+      return token.replace(/\b([A-G](?:#|b)?)/g, (match, note) => {
+        const normalized = FLAT_TO_SHARP[note] || note;
+        const idx = CHROMATIC_SHARP.indexOf(normalized);
+        if (idx === -1) return match;
+        const nextIdx = (idx + semitones + 120) % 12;
+        return CHROMATIC_SHARP[nextIdx];
+      });
+    }
+
+    function isChordLine(line) {
+      const trimmed = line.trim();
+      if (!trimmed) return false;
+      const tokens = trimmed.split(/\s+/);
+      const chordRegex = /^[A-G](#|b)?(m|maj|min|dim|aug|sus|add)?[0-9]*(\/[A-G](#|b)?)?$/;
+      const validChords = tokens.filter(t => chordRegex.test(t.replace(/[()]/g, '')));
+      return validChords.length > 0 && (validChords.length / tokens.length) >= 0.55;
+    }
+
+    function formatLyricsWithChords(rawText, semitoneOffset = 0) {
+      const lines = rawText.split('\n');
+      return lines.map(line => {
+        if (isChordLine(line)) {
+          const transposed = semitoneOffset !== 0
+            ? line.replace(/\S+/g, tok => transposeChordToken(tok, semitoneOffset))
+            : line;
+          return `<span class="chord-line">${escapeHtml(transposed)}</span>`;
+        }
+        return escapeHtml(line);
+      }).join('\n');
+    }
+
+    // ==================== UTILITÁRIOS DE UI (TOAST, CONFIRM, ESCAPE) ====================
+
+    function escapeHtml(str) {
+      if (str === null || str === undefined) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+
+    function showToast(message, type = 'info') {
+      const container = document.getElementById('toast-container');
+      const toast = document.createElement('div');
+
+      const colors = {
+        success: 'bg-emerald-600 text-white border-emerald-400',
+        error: 'bg-rose-700 text-white border-rose-400',
+        info: 'bg-slate-800 text-[#F5EFE0] border-sky-400/40'
+      };
+
+      toast.className = `pointer-events-auto px-4 py-3 rounded-xl border shadow-xl text-xs sm:text-sm font-semibold transition-all duration-300 transform translate-y-0 ${colors[type] || colors.info}`;
+      toast.textContent = message;
+
+      container.appendChild(toast);
+      setTimeout(() => {
+        toast.classList.add('opacity-0', '-translate-y-2');
+        setTimeout(() => toast.remove(), 300);
+      }, 3600);
+    }
+
+    function openConfirmDialog(title, message, onConfirm) {
+      const modal = document.getElementById('confirm-modal');
+      document.getElementById('confirm-title').textContent = title;
+      document.getElementById('confirm-message').textContent = message;
+
+      const okBtn = document.getElementById('confirm-ok-btn');
+      const cancelBtn = document.getElementById('confirm-cancel-btn');
+
+      const cleanup = () => {
+        modal.classList.add('hidden');
+        modal.classList.remove('flex');
+      };
+
+      okBtn.onclick = () => {
+        cleanup();
+        onConfirm();
+      };
+      cancelBtn.onclick = cleanup;
+
+      modal.classList.remove('hidden');
+      modal.classList.add('flex');
+    }
+
+    // Inicializa ao carregar a janela
+    window.addEventListener('DOMContentLoaded', loadState);
+  </script>
+</body>
+</html>
